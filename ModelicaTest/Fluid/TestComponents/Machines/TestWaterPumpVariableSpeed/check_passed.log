@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 29 of 91
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpVariableSpeed:
+The model has the same number of unknowns and equations: 142
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpVariableSpeed successful.
+Save check log

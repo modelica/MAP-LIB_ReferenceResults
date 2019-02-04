@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 72 of 113
+Check of ModelicaTest.MultiBody.Parts.FlyingBodies:
+The model has the same number of unknowns and equations: 4755
+The model has the same number of unknowns and equations:
+  4643+4*(size(fixedFrame.x_label.lines, 1)+size(fixedFrame.y_label.lines, 1)+size  (fixedFrame.z_label.lines, 1)+size(fixedFrame1.x_label.lines, 1)+size(  fixedFrame1.y_label.lines, 1)+size(fixedFrame1.z_label.lines, 1)+size(  fixedFrame2.x_label.lines, 1)+size(fixedFrame2.y_label.lines, 1)+size(  fixedFrame2.z_label.lines, 1)+size(fixedFrame3.x_label.lines, 1)+size(  fixedFrame3.y_label.lines, 1)+size(fixedFrame3.z_label.lines, 1))
+Check of ModelicaTest.MultiBody.Parts.FlyingBodies successful.
+Save check log

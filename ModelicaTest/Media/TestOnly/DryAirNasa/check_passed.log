@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111253
+This is check 21 of 37
+Check of ModelicaTest.Media.TestOnly.DryAirNasa:
+The model has the same number of unknowns and equations: 13
+Check of ModelicaTest.Media.TestOnly.DryAirNasa successful.
+Save check log

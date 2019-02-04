@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_102510
+This is check 3 of 17
+Check of ModelicaTest.Blocks.Continuous_InitialState:
+The model has the same number of unknowns and equations: 110
+The model has the same number of unknowns and equations:
+  92+2*size(transferFunction.a, 1)+size(stateSpace.B, 2)+size(stateSpace.C, 1)+  size(stateSpace.A, 1)+8*integer(lowpassButterworth.n/2)+criticalDamping.n
+Check of ModelicaTest.Blocks.Continuous_InitialState successful.
+Save check log

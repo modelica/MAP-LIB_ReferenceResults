@@ -1,0 +1,40 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 80 of 113
+Translation of ModelicaTest.MultiBody.Sensors.AbsoluteSensor:
+The DAE has 6315 scalar unknowns and 6315 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 468
+  Variables: 2357
+  Constants: 1 (1 scalars)
+  Parameters: 399 (508 scalars)
+  Unknowns: 1957 (6315 scalars)
+  Differentiated variables: 67 scalars
+  Equations: 1502
+  Nontrivial: 1273
+Translated Model
+  Constants: 5111 scalars
+  Free parameters: 104 scalars
+  Parameter depending: 156 scalars
+  Continuous time states: 2 scalars
+  Time-varying variables: 238 scalars
+  Alias variables: 1215 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {3}
+  Sizes after manipulation of the linear systems: {0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  rev.phi
+  rev.w
+ 
+Finished
+Save translation log

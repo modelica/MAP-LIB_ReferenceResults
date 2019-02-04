@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 44 of 91
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveCoefficients:
+The model has the same number of unknowns and equations: 301
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveCoefficients successful.
+Save check log

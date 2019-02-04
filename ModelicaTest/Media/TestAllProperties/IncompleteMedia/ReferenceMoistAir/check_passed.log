@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111253
+This is check 16 of 37
+Check of ModelicaTest.Media.TestAllProperties.IncompleteMedia.ReferenceMoistAir:
+The model has the same number of unknowns and equations: 73
+Check of ModelicaTest.Media.TestAllProperties.IncompleteMedia.ReferenceMoistAir successful.
+Save check log

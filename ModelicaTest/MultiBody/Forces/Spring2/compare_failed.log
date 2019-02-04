@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (Amd64)
+Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\Forces\Spring2\Spring2.csv
+. Time:        2018-12-16T14:39:11.7235999+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: Spring2.body.v_0[2]=>1.55489901893247E-07
+. Failed values:
+Spring2.body.v_0[2]=>1.55489901893247E-07

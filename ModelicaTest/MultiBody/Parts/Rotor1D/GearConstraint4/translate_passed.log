@@ -1,0 +1,57 @@
+﻿ = true
+TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
+This is translation 58 of 82
+Translation of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint4:
+The DAE has 5397 scalar unknowns and 5397 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 310
+  Variables: 2770
+  Constants: 4 (4 scalars)
+  Parameters: 959 (1853 scalars)
+  Unknowns: 1807 (5397 scalars)
+  Differentiated variables: 175 scalars
+  Equations: 1520
+  Nontrivial: 1041
+Translated Model
+  Constants: 2775 scalars
+  Free parameters: 228 scalars
+  Parameter depending: 834 scalars
+  Continuous time states: 32 scalars
+  Time-varying variables: 1001 scalars
+  Alias variables: 2416 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {99, 2, 86, 2}
+  Sizes after manipulation of the linear systems: {11, 2, 8, 2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2, 2}
+    Sizes after manipulation of the linear systems: {2, 2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  freeMotion1.phi[]
+  freeMotion1.phi_d[]
+  freeMotion1.r_rel_a[]
+  freeMotion1.v_rel_a[]
+  freeMotion2.phi[]
+  freeMotion2.phi_d[]
+  freeMotion2.r_rel_a[]
+  freeMotion2.v_rel_a[]
+  gearConstraint.actuatedRevolute_b.phi
+  gearConstraint.actuatedRevolute_b.w
+  inertia2.phi
+  inertia2.w
+  revolute1.phi
+  revolute1.w
+  revolute2.phi
+  revolute2.w
+ 
+Finished
+Save translation log

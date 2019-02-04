@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_142842
+This is check 2 of 3
+Check of ModelicaTest.Fluid.TestUtilities.TestRegRoot2ZeroDerivative:
+The model has the same number of unknowns and equations: 13
+Check of ModelicaTest.Fluid.TestUtilities.TestRegRoot2ZeroDerivative successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 112 of 113
+Check of ModelicaTest.Rotational.TestFriction:
+The model has the same number of unknowns and equations: 151
+Check of ModelicaTest.Rotational.TestFriction successful.
+Save check log

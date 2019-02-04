@@ -1,0 +1,16 @@
+CSV Compare Version 2.0.1.0 (Amd64)
+Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\Parts\Rotor1D\GearConstraint3\GearConstraint3.csv
+. Time:        2018-12-16T14:41:28.0844798+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: GearConstraint3.revolute1.phi=>0.573360995773866
+. Failed values:
+GearConstraint3.revolute1.phi=>0.573360995773866
+GearConstraint3.gearConstraint.actuatedRevolute_b.phi=>0.474755397005388
+GearConstraint3.gearConstraint.actuatedRevolute_b.w=>0.365514180997277
+GearConstraint3.revolute2.w=>0.295375364646936
+GearConstraint3.revolute3.phi=>0.274214197793434
+GearConstraint3.revolute2.phi=>0.271002574744358
+GearConstraint3.revolute3.w=>0.00779575341076639
+GearConstraint3.revolute1.w=>0.00753658034541193

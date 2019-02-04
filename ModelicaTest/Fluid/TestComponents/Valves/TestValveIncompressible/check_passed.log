@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 47 of 91
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveIncompressible:
+The model has the same number of unknowns and equations: 226
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveIncompressible successful.
+Save check log

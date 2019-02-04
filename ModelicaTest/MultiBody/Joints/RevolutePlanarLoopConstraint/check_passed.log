@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 57 of 113
+Check of ModelicaTest.MultiBody.Joints.RevolutePlanarLoopConstraint:
+The model has the same number of unknowns and equations: 1771
+Check of ModelicaTest.MultiBody.Joints.RevolutePlanarLoopConstraint successful.
+Save check log

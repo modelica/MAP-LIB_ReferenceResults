@@ -1,0 +1,89 @@
+Log-file of program ./dymosim
+(generated: Sun Dec 16 10:56:29 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800028, h = -5.83824e+007)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800027, h = -500000)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800992, h = -8876.31)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 801024, h = -8876.27)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 801054, h = -8876.23)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800978, h = -3029.58)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800940, h = -106.248)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Integration terminated successfully at T = 4
+   CPU-time for integration      : 1.2 seconds
+   CPU-time for one GRID interval: 0.24 milliseconds
+   Number of result points       : 5003
+   Number of GRID   points       : 5001
+   Number of (successful) steps  : 84
+   Number of F-evaluations       : 164
+   Number of Jacobian-evaluations: 80
+   Number of (model) time events : 3
+   Number of (U) time events     : 0
+   Number of state    events     : 0
+   Number of step     events     : 0
+   Minimum integration stepsize  : 8e-007
+   Maximum integration stepsize  : 0.419
+   Maximum integration order     : 1
+Calling terminal section
+... "dsfinal.txt" creating (final states)

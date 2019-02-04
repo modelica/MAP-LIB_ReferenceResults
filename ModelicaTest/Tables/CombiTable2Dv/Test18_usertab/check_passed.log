@@ -1,0 +1,12 @@
+﻿ = true
+TestID: 2018-12-16_141956
+This is check 24 of 54
+Check of ModelicaTest.Tables.CombiTable2Dv.Test18_usertab:
+ 
+Checking function ModelicaTest.Tables.CombiTable2Dv.Test18_usertab.getUsertab:
+Check of ModelicaTest.Tables.CombiTable2Dv.Test18_usertab.getUsertab successful.
+ 
+Local classes checked, checking ModelicaTest.Tables.CombiTable2Dv.Test18_usertab:
+The model has the same number of unknowns and equations: 8
+Check of ModelicaTest.Tables.CombiTable2Dv.Test18_usertab successful.
+Save check log

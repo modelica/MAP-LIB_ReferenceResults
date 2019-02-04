@@ -1,0 +1,45 @@
+﻿ = true
+TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
+This is translation 22 of 91
+Translation of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefault:
+The DAE has 142 scalar unknowns and 142 scalar equations.
+Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
+They will be treated as if they had stateSelect = StateSelect.default:
+  pump.medium.h
+  pump.medium.p
+ 
+ 
+Statistics
+ 
+Original Model
+  Number of components: 27
+  Variables: 334
+  Constants: 62 (62 scalars)
+  Parameters: 107 (104 scalars)
+  Unknowns: 165 (142 scalars)
+  Equations: 145
+  Nontrivial: 113
+Translated Model
+  Constants: 134 scalars
+  Free parameters: 33 scalars
+  Parameter depending: 35 scalars
+  Time-varying variables: 34 scalars
+  Alias variables: 72 scalars
+  Number of mixed real/discrete systems of equations: 1
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: {12}
+  Sizes after manipulation of the nonlinear systems: {2}
+  Number of numerical Jacobians: 1
+  Initialization problem
+    Number of mixed real/discrete systems of equations: 1
+    Sizes of nonlinear systems of equations: {2, 2, 12}
+    Sizes after manipulation of the nonlinear systems: {1, 1, 2}
+    Number of numerical Jacobians: 1
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

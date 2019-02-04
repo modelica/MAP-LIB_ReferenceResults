@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 87 of 91
+Check of ModelicaTest.Fluid.TestUtilities.TestRegRootDerivative:
+The model has the same number of unknowns and equations: 5
+Check of ModelicaTest.Fluid.TestUtilities.TestRegRootDerivative successful.
+Save check log

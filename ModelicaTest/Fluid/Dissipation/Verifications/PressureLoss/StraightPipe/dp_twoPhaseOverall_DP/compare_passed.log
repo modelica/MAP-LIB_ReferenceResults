@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (Amd64)
+Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Fluid\Dissipation\Verifications\PressureLoss\StraightPipe\dp_twoPhaseOverall_DP\dp_twoPhaseOverall_DP.csv
+. Time:        2018-12-16T14:33:42.7726892+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

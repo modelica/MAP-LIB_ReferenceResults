@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 8 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.General.kc_approxForcedConvection_KC:
+The model has the same number of unknowns and equations: 75
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.General.kc_approxForcedConvection_KC successful.
+Save check log

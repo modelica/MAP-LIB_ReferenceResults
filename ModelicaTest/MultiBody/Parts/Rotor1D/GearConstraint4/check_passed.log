@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_114252
+This is check 58 of 82
+Check of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint4:
+The model has the same number of unknowns and equations: 5397
+Check of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint4 successful.
+Save check log

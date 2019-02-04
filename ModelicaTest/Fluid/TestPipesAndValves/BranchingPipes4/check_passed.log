@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 72 of 91
+Check of ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes4:
+The model has the same number of unknowns and equations: 536
+Check of ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes4 successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 16 of 91
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestControlledPump:
+The model has the same number of unknowns and equations: 289
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestControlledPump successful.
+Save check log

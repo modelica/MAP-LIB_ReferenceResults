@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 48 of 91
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveLinear:
+The model has the same number of unknowns and equations: 73
+Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveLinear successful.
+Save check log

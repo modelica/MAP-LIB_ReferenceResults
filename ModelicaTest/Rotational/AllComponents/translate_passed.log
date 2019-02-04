@@ -1,0 +1,69 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 110 of 113
+Translation of ModelicaTest.Rotational.AllComponents:
+The DAE has 547 scalar unknowns and 547 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 74
+  Variables: 800
+  Constants: 40 (40 scalars)
+  Parameters: 221 (236 scalars)
+  Unknowns: 539 (547 scalars)
+  Differentiated variables: 79 scalars
+  Equations: 481
+  Nontrivial: 386
+Translated Model
+  Constants: 151 scalars
+  Free parameters: 140 scalars
+  Parameter depending: 33 scalars
+  Continuous time states: 31 scalars
+  Time-varying variables: 222 scalars
+  Alias variables: 277 scalars
+  Number of mixed real/discrete systems of equations: 5
+  Sizes of linear systems of equations: {5, 3, 12, 4, 10}
+  Sizes after manipulation of the linear systems: {2, 0, 2, 0, 2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  accelerate.phi
+  accelerate.w
+  clutch.phi_rel
+  clutch.w_rel
+  damper.phi_rel
+  damper.w_rel
+  elastoBacklash.phi_rel
+  elastoBacklash.w_rel
+  elastoBacklash2.phi_rel
+  elastoBacklash2.w_rel
+  gear2_1.phi_rel
+  gear2_1.w_rel
+  inertia2.phi
+  inertia2.w
+  inertia3.phi
+  inertia3.w
+  inertia8.phi
+  inertia8.w
+  inertia13.phi
+  inertia13.w
+  inertia14.phi
+  inertia14.w
+  inertia15.phi
+  inertia17.phi
+  inertia17.w
+  position.phi
+  position.w
+  speed.phi
+  speed.w
+  springDamper.phi_rel
+  springDamper.w_rel
+ 
+Finished
+Save translation log

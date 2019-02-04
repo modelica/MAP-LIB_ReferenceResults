@@ -1,0 +1,15 @@
+﻿ = true
+TestID: 2018-12-16_114252
+This is check 78 of 82
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_laminar_KC:
+The model has the same number of unknowns and equations: 136
+The model could not be deduced to be symbolically well-posed.
+The model has
+  109+9*n
+scalar unknowns and
+  97+13*n
+scalar equations.
+However, exploiting the given bindings parameters gives the same number of unknowns and equations:
+  136
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_laminar_KC successful.
+Save check log

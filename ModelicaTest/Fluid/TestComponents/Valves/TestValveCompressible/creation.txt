@@ -1,0 +1,54 @@
+[ResultCreationLog]
+modelName="ModelicaTest.Fluid.TestComponents.Valves.TestValveCompressible"
+
+// Test info
+generationTool="Dymola Version 2019 (64-bit), 2018-04-11"
+generationDateAndTime="2018-12-16T09:54:57Z"
+usedMSLURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
+usedMSLRevision=04edf76b  
+usedMSLHasLocalModifications= 
+usedMSLLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica"
+usedMSLLocalBranch="Branch_v3.2.3-rc.2"
+testedPackageURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
+testedPackageRevision=04edf76b  
+testedPackageHasLocalModifications= 
+testedPackageLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/ModelicaTest"
+testedPackageLocalBranch="Branch_v3.2.3-rc.2"
+testPC="LTXLG16"
+testOS="Microsoft Windows 10 Pro (Version 10.0.17134 Build 17134, x64)"
+testUser="LeoGall"
+testDescription="Reg test MSL v3.2.3-rc.2"
+
+// Experiment settings (standardized annotation)
+StartTime=0
+StopTime=1.01 // from model
+Interval=0.000202 // (stopTime-startTime)/5000
+Tolerance=1e-06 // used default, because no tolerance annotation in model 
+
+// Experiment settings (tool specific)
+// The following lines can be used as mos-script in Dymola
+SetDymolaCompiler("vs",{"MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 10.0/Vc"});
+Evaluate := false;
+OutputCPUtime := false;
+translateModel("ModelicaTest.Fluid.TestComponents.Valves.TestValveCompressible");
+Advanced.StoreProtectedVariables := true;
+Advanced.EfficientMinorEvents := false;
+experimentSetupOutput(
+  textual=false,
+  doublePrecision=true,
+  states=true,
+  derivatives=true,
+  inputs=true,
+  outputs=true,
+  auxiliaries=true,
+  equidistant=true,
+  events=true,
+  debug=false);
+simulateModel(
+  problem="ModelicaTest.Fluid.TestComponents.Valves.TestValveCompressible",
+  startTime=0,
+  stopTime=1.01,
+  outputInterval=0.000202,
+  method="Dassl",
+  tolerance=1e-06,
+  resultFile="TestValveCompressible");

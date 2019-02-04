@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111253
+This is check 28 of 37
+Check of ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.SimpleNaturalGasFixedComposition:
+The model has the same number of unknowns and equations: 192
+Check of ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.SimpleNaturalGasFixedComposition successful.
+Save check log

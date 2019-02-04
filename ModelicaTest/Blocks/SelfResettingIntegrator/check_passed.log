@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_141956
+This is check 1 of 54
+Check of ModelicaTest.Blocks.SelfResettingIntegrator:
+The model has the same number of unknowns and equations: 8
+Check of ModelicaTest.Blocks.SelfResettingIntegrator successful.
+Save check log

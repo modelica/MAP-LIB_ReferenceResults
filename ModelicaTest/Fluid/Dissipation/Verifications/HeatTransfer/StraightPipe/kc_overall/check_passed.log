@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 25 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_overall:
+The model has the same number of unknowns and equations: 146
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_overall successful.
+Save check log

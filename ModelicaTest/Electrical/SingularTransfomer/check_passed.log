@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 1 of 91
+Check of ModelicaTest.Electrical.SingularTransfomer:
+The model has the same number of unknowns and equations: 51
+Check of ModelicaTest.Electrical.SingularTransfomer successful.
+Save check log

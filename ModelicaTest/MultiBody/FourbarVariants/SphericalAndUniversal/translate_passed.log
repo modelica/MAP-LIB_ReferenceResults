@@ -1,0 +1,41 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 3 of 113
+Translation of ModelicaTest.MultiBody.FourbarVariants.SphericalAndUniversal:
+The DAE has 2254 scalar unknowns and 2254 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 113
+  Variables: 1118
+  Constants: 4 (4 scalars)
+  Parameters: 304 (535 scalars)
+  Unknowns: 810 (2254 scalars)
+  Differentiated variables: 45 scalars
+  Equations: 713
+  Nontrivial: 468
+Translated Model
+  Constants: 1873 scalars
+  Free parameters: 57 scalars
+  Parameter depending: 258 scalars
+  Outputs: 4 scalars
+  Continuous time states: 2 scalars
+  Time-varying variables: 127 scalars
+  Alias variables: 478 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {4, 22}
+  Sizes after manipulation of the linear systems: {2, 6}
+  Sizes of nonlinear systems of equations: {3, 5}
+  Sizes after manipulation of the nonlinear systems: {1, 1}
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  j1.phi
+  j1.w
+ 
+Finished
+Save translation log

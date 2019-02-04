@@ -1,0 +1,73 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 59 of 113
+Translation of ModelicaTest.MultiBody.Joints.SphericalSpherical2:
+The DAE has 5662 scalar unknowns and 5662 scalar equations.
+The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 305
+  Variables: 2393
+  Parameters: 540 (908 scalars)
+  Unknowns: 1853 (5662 scalars)
+  Differentiated variables: 97 scalars
+  Equations: 1654
+  Nontrivial: 1202
+Translated Model
+  Constants: 3522 scalars
+  Free parameters: 118 scalars
+  Parameter depending: 399 scalars
+  Outputs: 9 scalars
+  Continuous time states: 32 scalars
+  Time-varying variables: 654 scalars
+  Alias variables: 1877 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {4, 25, 6, 4, 4, 38, 22, 28}
+  Sizes after manipulation of the linear systems: {4, 13, 3, 4, 4, 8, 7, 6}
+  Sizes of nonlinear systems of equations: {6, 13, 22, 41}
+  Sizes after manipulation of the nonlinear systems: {3, 4, 7, 8}
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {4, 4}
+    Sizes after manipulation of the linear systems: {4, 0}
+    Sizes of nonlinear systems of equations: {4, 1, 1, 4, 4, 4}
+    Sizes after manipulation of the nonlinear systems: {4, 0, 0, 4, 4, 4}
+    Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  body.w_a[]
+  bodyBox.body.w_a[]
+  bodyBox1.body.w_a[]
+ 
+Dynamically selected continuous time states
+There are 6 sets of dynamic state selection.
+From set 1 there are 3 states to be selected from:
+  body.Q[]
+ 
+From set 2 there are 5 states to be selected from:
+  bodyBox2.body.frame_a.r_0[]
+  bodyBox2.body.Q[]
+ 
+From set 3 there are 2 states to be selected from:
+  bodyBox.body.frame_a.r_0[]
+ 
+From set 4 there are 6 states to be selected from:
+  bodyBox.body.Q[]
+  bodyBox1.body.Q[]
+ 
+From set 5 there are 5 states to be selected from:
+  bodyBox2.body.w_a[]
+  bodyBox2.v_0[]
+  der(bodyBox2.body.Q[])
+  sphericalSpherical1.v_CM_0[]
+ 
+From set 6 there are 2 states to be selected from:
+  sphericalSpherical.v_CM_0[]
+ 
+Finished
+Save translation log

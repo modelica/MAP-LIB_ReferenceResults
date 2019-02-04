@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 15 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_overall:
+The model has the same number of unknowns and equations: 104
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_overall successful.
+Save check log

@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 5 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapTurbulent:
+The model has the same number of unknowns and equations: 44
+The model has the same number of unknowns and equations:
+  41+size(m_flow, 1)
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapTurbulent successful.
+Save check log

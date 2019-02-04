@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 107 of 113
+Check of ModelicaTest.Rotational.InitializationConversion.SpringDamper:
+The model has the same number of unknowns and equations: 119
+Check of ModelicaTest.Rotational.InitializationConversion.SpringDamper successful.
+Save check log

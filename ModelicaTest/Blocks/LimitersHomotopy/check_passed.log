@@ -1,0 +1,14 @@
+﻿ = true
+TestID: 2018-12-16_141956
+This is check 5 of 54
+Check of ModelicaTest.Blocks.LimitersHomotopy:
+ 
+Checking model ModelicaTest.Blocks.LimitersHomotopy.MustUseHomotopy:
+The model has the same number of unknowns and equations: 1
+The model has the same number of unknowns and equations.
+Check of ModelicaTest.Blocks.LimitersHomotopy.MustUseHomotopy successful.
+ 
+Local classes checked, checking ModelicaTest.Blocks.LimitersHomotopy:
+The model has the same number of unknowns and equations: 109
+Check of ModelicaTest.Blocks.LimitersHomotopy successful.
+Save check log

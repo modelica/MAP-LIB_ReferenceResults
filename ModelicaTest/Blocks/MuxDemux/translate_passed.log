@@ -1,0 +1,33 @@
+﻿ = true
+TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
+This is translation 6 of 54
+Translation of ModelicaTest.Blocks.MuxDemux:
+The DAE has 46 scalar unknowns and 46 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 8
+  Variables: 26
+  Parameters: 8 (8 scalars)
+  Unknowns: 18 (46 scalars)
+  Equations: 22
+  Nontrivial: 16
+Translated Model
+  Constants: 6 scalars
+  Free parameters: 2 scalars
+  Outputs: 5 scalars
+  Time-varying variables: 5 scalars
+  Alias variables: 41 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Finished
+Save translation log

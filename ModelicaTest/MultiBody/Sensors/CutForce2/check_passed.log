@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 86 of 113
+Check of ModelicaTest.MultiBody.Sensors.CutForce2:
+The model has the same number of unknowns and equations: 1436
+The model has the same number of unknowns and equations:
+  1408+4*(size(frame_b.x_label.lines, 1)+size(frame_b.y_label.lines, 1)+size(  frame_b.z_label.lines, 1))
+Check of ModelicaTest.MultiBody.Sensors.CutForce2 successful.
+Save check log

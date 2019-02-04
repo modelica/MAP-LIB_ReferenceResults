@@ -1,0 +1,33 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 69 of 113
+Translation of ModelicaTest.MultiBody.Parts.Bodies:
+The DAE has 1221 scalar unknowns and 1221 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 64
+  Variables: 765
+  Parameters: 363 (712 scalars)
+  Unknowns: 402 (1221 scalars)
+  Differentiated variables: 63 scalars
+  Equations: 333
+  Nontrivial: 212
+Translated Model
+  Constants: 1192 scalars
+  Free parameters: 145 scalars
+  Parameter depending: 368 scalars
+  Alias variables: 228 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Finished
+Save translation log

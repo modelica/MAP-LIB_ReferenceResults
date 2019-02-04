@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 1 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapLaminar:
+The model has the same number of unknowns and equations: 137
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapLaminar successful.
+Save check log

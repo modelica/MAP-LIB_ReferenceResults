@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 32 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_idealGas_DPMFLOW:
+The model has the same number of unknowns and equations: 64
+Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_idealGas_DPMFLOW successful.
+Save check log

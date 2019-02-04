@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111939
+This is check 101 of 113
+Check of ModelicaTest.Rotational.ForUsersGuide.ConnectionPossibilities:
+The model has the same number of unknowns and equations: 40
+Check of ModelicaTest.Rotational.ForUsersGuide.ConnectionPossibilities successful.
+Save check log

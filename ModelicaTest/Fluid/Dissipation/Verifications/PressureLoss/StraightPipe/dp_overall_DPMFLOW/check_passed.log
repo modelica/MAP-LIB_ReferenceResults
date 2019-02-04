@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 40 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.StraightPipe.dp_overall_DPMFLOW:
+The model has the same number of unknowns and equations: 96
+Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.StraightPipe.dp_overall_DPMFLOW successful.
+Save check log

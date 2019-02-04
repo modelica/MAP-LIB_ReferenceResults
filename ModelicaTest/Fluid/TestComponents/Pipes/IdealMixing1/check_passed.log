@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 34 of 91
+Check of ModelicaTest.Fluid.TestComponents.Pipes.IdealMixing1:
+The model has the same number of unknowns and equations: 334
+Check of ModelicaTest.Fluid.TestComponents.Pipes.IdealMixing1 successful.
+Save check log

@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_114252
+This is check 15 of 82
+Check of ModelicaTest.Tables.CombiTable1Ds.Test28:
+The model has the same number of unknowns and equations: 5
+The model has the same number of unknowns and equations:
+  4+size(t_new.columns, 1)
+Check of ModelicaTest.Tables.CombiTable1Ds.Test28 successful.
+Save check log

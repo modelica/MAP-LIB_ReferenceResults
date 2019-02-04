@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 33 of 91
+Check of ModelicaTest.Fluid.TestComponents.Pipes.StaticPipe:
+The model has the same number of unknowns and equations: 80
+Check of ModelicaTest.Fluid.TestComponents.Pipes.StaticPipe successful.
+Save check log

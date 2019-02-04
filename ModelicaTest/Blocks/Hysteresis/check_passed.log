@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_114252
+This is check 5 of 82
+Check of ModelicaTest.Blocks.Hysteresis:
+The model has the same number of unknowns and equations: 3
+Check of ModelicaTest.Blocks.Hysteresis successful.
+Save check log

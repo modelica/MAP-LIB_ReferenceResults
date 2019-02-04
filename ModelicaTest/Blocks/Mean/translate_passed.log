@@ -1,0 +1,43 @@
+﻿ = true
+TestID: 2018-12-16_102510_ModelicaTest_v3.2.3-rc.2_2019_Blocks
+This is translation 15 of 17
+Translation of ModelicaTest.Blocks.Mean:
+The DAE has 59 scalar unknowns and 59 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 21
+  Variables: 108
+  Parameters: 52 (52 scalars)
+  Unknowns: 56 (59 scalars)
+  Differentiated variables: 5 scalars
+  Equations: 59
+  Nontrivial: 52
+Translated Model
+  Constants: 15 scalars
+  Free parameters: 22 scalars
+  Parameter depending: 15 scalars
+  Outputs: 7 scalars
+  Continuous time states: 5 scalars
+  Time-varying variables: 21 scalars
+  Alias variables: 38 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  harmonic.mean1.x
+  harmonic.mean2.x
+  mean.x
+  rectifiedMean.mean.x
+  rootMeanSquare.mean.x
+ 
+Finished
+Save translation log

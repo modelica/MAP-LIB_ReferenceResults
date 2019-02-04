@@ -1,0 +1,182 @@
+Log-file of program ./dymosim
+(generated: Sun Dec 16 10:46:00 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.503586
+  Tag: simulation.nonlinear[1]
+
+  Common causes:
+   * The system of equations has no solution - the residual will be above zero.
+     - In some cases the event-logic can cause this.
+   * Starting values are too far from the solution.
+     - In rare cases this could occur at events.
+   * The equations are too discontinuous for the nonlinear solver - the residual will have knees.
+     - Likely caused by over-using noEvent.
+
+  To get more information consider the options:
+   * Simulation/Setup/Translation/Generate listing of translated Modelica code in dsmodel.mof
+   * Simulation/Setup/Translation/List non-linear iteration variables
+   * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
+
+  Jacobian inverse norm estimate: 1.1992e+009
+  Condition number estimate: 1.51004e+006
+  1-norm of the residual = 3.66789
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    junction.port_1.p = 372669
+    pipe3.flowModel.states[1].T = 278
+    pipe3.flowModel.states[1].p = 372667
+    pipe2.flowModel.states[1].p = 372667
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.146729, -1.68585, 8.83142E-007, -1.68488, -0.150438 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.503691747
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.4184e+011
+  Condition number estimate: 4.30448e+008
+  1-norm of the residual = 6.11336
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    junction.port_1.p = 372600
+    pipe3.flowModel.states[1].T = 278.015
+    pipe3.flowModel.states[1].p = 372597
+    pipe2.flowModel.states[1].p = 372597
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.13102, -2.9232, 1.29668E-007, -2.92389, -0.135252 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.503788
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.9562e+008
+  Condition number estimate: 1.25362e+006
+  1-norm of the residual = 0.39965
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    junction.port_1.p = 372538
+    pipe3.flowModel.states[1].T = 278.064
+    pipe3.flowModel.states[1].p = 372538
+    pipe2.flowModel.states[1].p = 372538
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.115873, -0.0987312, 9.85831E-006, -0.0994079, -0.0856283 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.5038999691845377
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 5.51107e+007
+  Condition number estimate: 67656
+  1-norm of the residual = 5.64761
+
+  Last value of the solution:
+    junction.port_1.p = 372465
+    pipe3.flowModel.states[1].T = 278.04
+    pipe3.flowModel.states[1].p = 372462
+    pipe2.flowModel.states[1].p = 372462
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.100896, -2.71844, 5.55106E-008, -2.71798, -0.110301 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.5039900000000001
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.54195e+008
+  Condition number estimate: 446105
+  1-norm of the residual = 3.76543
+
+  Last value of the solution:
+    junction.port_1.p = 372406
+    pipe3.flowModel.states[1].T = 278.062
+    pipe3.flowModel.states[1].p = 372405
+    pipe2.flowModel.states[1].p = 372405
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.0875091, -1.795, -4.51521E-006, -1.79485, -0.088062 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.5040861622947022
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 5.85902e+007
+  Condition number estimate: 71965.4
+  1-norm of the residual = 7.9493
+
+  Last value of the solution:
+    junction.port_1.p = 372344
+    pipe3.flowModel.states[1].T = 278.033
+    pipe3.flowModel.states[1].p = 372340
+    pipe2.flowModel.states[1].p = 372340
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.0750489, -3.87941, -3.1292E-005, -3.87785, -0.116951 }
+ 
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.5040543464013985
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.29412e+006
+  Condition number estimate: 5.83157e+011
+  1-norm of the residual = 6.32899
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    junction.port_1.p = 372365
+    pipe3.flowModel.states[1].T = 278.046
+    pipe3.flowModel.states[1].p = 372362
+    pipe2.flowModel.states[1].p = 372362
+    pipe2.flowModel.states[1].T = 293.15
+  Last value of the residual:
+    { -0.079039, -3.07341, -2.08126E-005, -3.07244, -0.104076 }
+ 
+Integration terminated successfully at T = 1.01
+   CPU-time for integration      : 1.63 seconds
+   CPU-time for one GRID interval: 0.326 milliseconds
+   Number of result points       : 5014
+   Number of GRID   points       : 5001
+   Number of (successful) steps  : 116
+   Number of F-evaluations       : 222
+   Number of H-evaluations       : 5130
+   Number of Jacobian-evaluations: 106
+   Number of (model) time events : 1
+   Number of (U) time events     : 0
+   Number of state    events     : 6
+   Number of step     events     : 0
+   Minimum integration stepsize  : 3.11e-008
+   Maximum integration stepsize  : 0.424
+   Maximum integration order     : 1
+Calling terminal section
+... "dsfinal.txt" creating (final states)

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 9 of 91
+Check of ModelicaTest.Fluid.TestComponents.Fittings.TestSimpleGenericOrifice:
+The model has the same number of unknowns and equations: 117
+Check of ModelicaTest.Fluid.TestComponents.Fittings.TestSimpleGenericOrifice successful.
+Save check log

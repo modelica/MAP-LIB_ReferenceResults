@@ -1,0 +1,76 @@
+Log-file of program ./dymosim
+(generated: Sun Dec 16 11:01:32 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+Error: The following error was detected at time: 0
+  IF97 medium function g2: the temperature (= -9217.13 K) is lower than 273.15 K!
+  Failed condition: T >= 273.15
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g2
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.rho_props_ph(
+pipe.mediums[1].p, 
+pipe.mediums[1].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[1].p, pipe.mediums[1].h, pipe.statesFM[2].phase, 0))
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 0
+  Error in region computation of IF97 steam tables(p = 1e+007, h = -1.87709e+006)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.rho_props_ph(
+pipe.mediums[1].p, 
+pipe.mediums[1].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[1].p, pipe.mediums[1].h, pipe.statesFM[2].phase, 0))
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 0
+  Error in region computation of IF97 steam tables(p = 1.04036e+007, h = 9.22394e+006)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.T_props_ph(
+pipe.mediums[5].p, 
+pipe.mediums[5].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[5].p, pipe.mediums[5].h, 0, 0))
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 0
+  Error in region computation of IF97 steam tables(p = 1.04036e+007, h = 9.22394e+006)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.T_props_ph(
+pipe.mediums[5].p, 
+pipe.mediums[5].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[5].p, pipe.mediums[5].h, 0, 0))
+Non-linear solver will attempt to handle this problem.
+
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+Integration terminated successfully at T = 4
+   CPU-time for integration      : 1.11 seconds
+   CPU-time for one GRID interval: 0.221 milliseconds
+   Number of result points       : 5005
+   Number of GRID   points       : 5001
+   Number of (successful) steps  : 138
+   Number of F-evaluations       : 726
+   Number of H-evaluations       : 5138
+   Number of Jacobian-evaluations: 88
+   Number of (model) time events : 4
+   Number of (U) time events     : 0
+   Number of state    events     : 0
+   Number of step     events     : 0
+   Minimum integration stepsize  : 8e-007
+   Maximum integration stepsize  : 0.419
+   Maximum integration order     : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)

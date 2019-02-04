@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 4 of 91
+Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionVolume:
+The model has the same number of unknowns and equations: 192
+Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionVolume successful.
+Save check log

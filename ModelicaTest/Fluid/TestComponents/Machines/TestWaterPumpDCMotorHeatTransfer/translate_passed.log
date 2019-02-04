@@ -1,0 +1,53 @@
+﻿ = true
+TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
+This is translation 21 of 91
+Translation of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDCMotorHeatTransfer:
+The DAE has 337 scalar unknowns and 337 scalar equations.
+Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
+They will be treated as if they had stateSelect = StateSelect.default:
+  pump.medium.h
+  pump.medium.p
+ 
+ 
+Statistics
+ 
+Original Model
+  Number of components: 61
+  Variables: 625
+  Constants: 67 (67 scalars)
+  Parameters: 198 (195 scalars)
+  Unknowns: 360 (337 scalars)
+  Differentiated variables: 13 scalars
+  Equations: 304
+  Nontrivial: 225
+Translated Model
+  Constants: 262 scalars
+  Free parameters: 45 scalars
+  Parameter depending: 92 scalars
+  Continuous time states: 4 scalars
+  Time-varying variables: 48 scalars
+  Alias variables: 152 scalars
+  Number of mixed real/discrete systems of equations: 1
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: {10}
+  Sizes after manipulation of the nonlinear systems: {2}
+  Number of numerical Jacobians: 1
+  Initialization problem
+    Number of mixed real/discrete systems of equations: 1
+    Sizes of nonlinear systems of equations: {2, 2, 10}
+    Sizes after manipulation of the nonlinear systems: {1, 1, 2}
+    Number of numerical Jacobians: 1
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  housing.T
+  motor.inertiaRotor.phi
+  motor.inertiaRotor.w
+  motor.la.i
+ 
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

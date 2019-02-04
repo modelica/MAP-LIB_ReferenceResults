@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (Amd64)
+Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\FourbarVariants\JointSSR\JointSSR.csv
+. Time:        2018-12-16T14:39:27.0564788+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

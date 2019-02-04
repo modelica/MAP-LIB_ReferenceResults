@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_114252
+This is check 57 of 82
+Check of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3:
+The model has the same number of unknowns and equations: 2860
+The model has the same number of unknowns and equations:
+  2832+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+Check of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3 successful.
+Save check log

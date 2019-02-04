@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_102510
+This is check 8 of 17
+Check of ModelicaTest.Blocks.UnitDeduction:
+The model has the same number of unknowns and equations: 132
+Check of ModelicaTest.Blocks.UnitDeduction successful.
+Save check log

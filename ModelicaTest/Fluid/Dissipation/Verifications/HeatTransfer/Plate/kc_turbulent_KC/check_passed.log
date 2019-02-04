@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 23 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Plate.kc_turbulent_KC:
+The model has the same number of unknowns and equations: 34
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Plate.kc_turbulent_KC successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 26 of 91
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpNPSH:
+The model has the same number of unknowns and equations: 146
+Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpNPSH successful.
+Save check log

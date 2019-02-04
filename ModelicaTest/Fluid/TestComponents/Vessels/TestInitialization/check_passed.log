@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_104542
+This is check 55 of 91
+Check of ModelicaTest.Fluid.TestComponents.Vessels.TestInitialization:
+The model has the same number of unknowns and equations: 179
+Check of ModelicaTest.Fluid.TestComponents.Vessels.TestInitialization successful.
+Save check log

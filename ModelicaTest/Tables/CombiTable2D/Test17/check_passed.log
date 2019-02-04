@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-16_102829
+This is check 54 of 129
+Check of ModelicaTest.Tables.CombiTable2D.Test17:
+The model has the same number of unknowns and equations: 12582
+The model has the same number of unknowns and equations:
+  36+3*(surface.nu*surface.nv+(if surface.multiColoredSurface then surface.nu   else 0)*(if surface.multiColoredSurface then surface.nv else 0))
+Check of ModelicaTest.Tables.CombiTable2D.Test17 successful.
+Save check log

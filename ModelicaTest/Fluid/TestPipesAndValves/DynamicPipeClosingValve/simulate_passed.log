@@ -1,0 +1,51 @@
+Log-file of program ./dymosim
+(generated: Sun Dec 16 14:18:49 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+Error: The following error was detected at time: 0
+  Error in region computation of IF97 steam tables(p = 200000, h = 4.05528e+007)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.rho_props_ph(
+pipe.mediums[1].p, 
+pipe.mediums[1].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[1].p, pipe.mediums[1].h, pipe.statesFM[2].phase, 0))
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 0
+  Error in region computation of IF97 steam tables(p = 200000, h = 4.05528e+007)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.rho_props_ph(
+pipe.mediums[1].p, 
+pipe.mediums[1].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe.mediums[1].p, pipe.mediums[1].h, pipe.statesFM[2].phase, 0))
+Non-linear solver will attempt to handle this problem.
+
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+Integration terminated successfully at T = 3
+   CPU-time for integration      : 0.306 seconds
+   CPU-time for one GRID interval: 0.0612 milliseconds
+   Number of result points       : 5004
+   Number of GRID   points       : 5001
+   Number of (successful) steps  : 124
+   Number of F-evaluations       : 579
+   Number of H-evaluations       : 5126
+   Number of Jacobian-evaluations: 150
+   Number of (model) time events : 2
+   Number of (U) time events     : 0
+   Number of state    events     : 0
+   Number of step     events     : 0
+   Minimum integration stepsize  : 4.85e-009
+   Maximum integration stepsize  : 0.419
+   Maximum integration order     : 1
+Calling terminal section
+... "dsfinal.txt" creating (final states)

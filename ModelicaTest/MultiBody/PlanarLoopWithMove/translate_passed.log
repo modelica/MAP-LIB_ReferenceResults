@@ -1,0 +1,35 @@
+﻿ = true
+TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
+This is translation 1 of 113
+Translation of ModelicaTest.MultiBody.PlanarLoopWithMove:
+The DAE has 2197 scalar unknowns and 2197 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 103
+  Variables: 1066
+  Constants: 3 (3 scalars)
+  Parameters: 259 (411 scalars)
+  Unknowns: 804 (2197 scalars)
+  Differentiated variables: 23 scalars
+  Equations: 731
+  Nontrivial: 477
+Translated Model
+  Constants: 1820 scalars
+  Free parameters: 70 scalars
+  Parameter depending: 141 scalars
+  Time-varying variables: 99 scalars
+  Alias variables: 481 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {20, 20, 2, 2}
+  Sizes after manipulation of the linear systems: {2, 2, 0, 2}
+  Sizes of nonlinear systems of equations: {20}
+  Sizes after manipulation of the nonlinear systems: {2}
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Finished
+Save translation log

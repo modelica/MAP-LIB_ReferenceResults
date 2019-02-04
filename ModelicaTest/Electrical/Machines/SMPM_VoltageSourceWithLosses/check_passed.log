@@ -1,0 +1,15 @@
+﻿ = true
+TestID: 2018-12-16_141956
+This is check 40 of 54
+Check of ModelicaTest.Electrical.Machines.SMPM_VoltageSourceWithLosses:
+The model has the same number of unknowns and equations: 745
+The model could not be deduced to be symbolically well-posed.
+The model has
+  739+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m
+scalar unknowns and
+  742+currentQuasiRMSSensor.ToSpacePhasor1.m
+scalar equations.
+However, exploiting the given bindings parameters gives the same number of unknowns and equations:
+  745
+Check of ModelicaTest.Electrical.Machines.SMPM_VoltageSourceWithLosses successful.
+Save check log

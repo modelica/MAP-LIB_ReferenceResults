@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_110608
+This is check 24 of 46
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_laminar:
+The model has the same number of unknowns and equations: 122
+Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.StraightPipe.kc_laminar successful.
+Save check log

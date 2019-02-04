@@ -1,0 +1,14 @@
+CSV Compare Version 2.0.1.0 (Amd64)
+Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Fluid\Dissipation\Verifications\HeatTransfer\HeatExchanger\kc_flatTube\kc_flatTube.csv
+. Time:        2018-12-16T14:31:20.8438339+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: kc_flatTube.input_Re.y=>0.0060591913940808
+. Failed values:
+kc_flatTube.Re=>0.0060591913940808
+kc_flatTube.input_Re.y=>0.0060591913940808
+kc_flatTube.m_flow[1]=>0.00605912348536457
+kc_flatTube.m_flow[2]=>0.00605907834709531
+kc_flatTube.Nu[2]=>0.00578495253569943
+kc_flatTube.Nu[1]=>0.00577835283340954

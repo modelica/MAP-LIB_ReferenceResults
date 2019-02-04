@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_102510
+This is check 5 of 17
+Check of ModelicaTest.Blocks.Limiters:
+The model has the same number of unknowns and equations: 18
+Check of ModelicaTest.Blocks.Limiters successful.
+Save check log

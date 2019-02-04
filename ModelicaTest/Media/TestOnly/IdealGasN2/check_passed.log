@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-16_111253
+This is check 19 of 37
+Check of ModelicaTest.Media.TestOnly.IdealGasN2:
+The model has the same number of unknowns and equations: 19
+Check of ModelicaTest.Media.TestOnly.IdealGasN2 successful.
+Save check log

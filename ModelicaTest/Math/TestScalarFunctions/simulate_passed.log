@@ -1,0 +1,27 @@
+Log-file of program ./dymosim
+(generated: Sun Dec 16 11:48:51 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... Test of Modelica.Math.<scalar functions>
+... Test of Modelica.Math.<scalar functions>
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+Integration terminated successfully at T = 0
+   CPU-time for integration      : 0.001 seconds
+   Number of result points       : 2
+   Number of GRID   points       : 1
+   Number of (successful) steps  : 0
+   Number of F-evaluations       : 0
+   Number of Jacobian-evaluations: 0
+   Number of (model) time events : 0
+   Number of (U) time events     : 0
+   Number of state    events     : 0
+   Number of step     events     : 0
+   Minimum integration stepsize  : 0
+   Maximum integration stepsize  : 0
+   Maximum integration order     : 0
+Calling terminal section
+... "dsfinal.txt" creating (final states)
