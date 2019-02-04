@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 177 of 422
+Check of Modelica.Electrical.Spice3.Examples.Nor:
+The model has the same number of unknowns and equations: 149
+Check of Modelica.Electrical.Spice3.Examples.Nor successful.
+Save check log

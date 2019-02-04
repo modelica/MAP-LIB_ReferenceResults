@@ -1,0 +1,46 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 37 of 422
+Translation of Modelica.Electrical.Analog.Examples.DifferenceAmplifier:
+The DAE has 203 scalar unknowns and 203 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 37
+  Variables: 322
+  Parameters: 119 (119 scalars)
+  Unknowns: 203 (203 scalars)
+  Differentiated variables: 13 scalars
+  Equations: 183
+  Nontrivial: 151
+Translated Model
+  Constants: 34 scalars
+  Free parameters: 85 scalars
+  Parameter depending: 30 scalars
+  Continuous time states: 9 scalars
+  Time-varying variables: 67 scalars
+  Alias variables: 106 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {16}
+  Sizes after manipulation of the linear systems: {5}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  C1.v
+  C2.v
+  C3.v
+  C4.v
+  C5.v
+  Transistor1.ct.v
+  Transistor1.Tr.C.v
+  Transistor2.ct.v
+  Transistor2.Tr.C.v
+ 
+Finished
+Save translation log

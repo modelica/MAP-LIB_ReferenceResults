@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 404 of 422
+Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.Leakage.CylinderLeakage:
+The model has the same number of unknowns and equations: 249
+Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.Leakage.CylinderLeakage successful.
+Save check log

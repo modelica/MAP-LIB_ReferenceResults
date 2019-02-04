@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 70 of 422
+Check of Modelica.Electrical.Digital.Examples.HalfAdder:
+The model has the same number of unknowns and equations: 42
+Check of Modelica.Electrical.Digital.Examples.HalfAdder successful.
+Save check log

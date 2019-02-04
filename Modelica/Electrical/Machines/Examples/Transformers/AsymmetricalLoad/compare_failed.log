@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Machines\Examples\Transformers\AsymmetricalLoad\AsymmetricalLoad.csv
+. Time:        2018-12-17T11:28:13.5382329+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AsymmetricalLoad.transformer.l2sigma.inductor[1].i=>4.24862054259329E-05
+. Failed values:
+AsymmetricalLoad.transformer.l2sigma.inductor[1].i=>4.24862054259329E-05

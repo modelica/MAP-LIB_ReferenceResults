@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 216 of 422
+Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_OpenCircuit:
+The model has the same number of unknowns and equations: 1994
+Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_OpenCircuit successful.
+Save check log

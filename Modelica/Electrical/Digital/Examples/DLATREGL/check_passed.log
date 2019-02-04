@@ -1,0 +1,15 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 81 of 422
+Check of Modelica.Electrical.Digital.Examples.DLATREGL:
+The model has the same number of unknowns and equations: 40
+The model could not be deduced to be symbolically well-posed.
+The model has
+  32+4*dLATREGL.dLATR.n
+scalar unknowns and
+  34+3*dLATREGL.dLATR.n
+scalar equations.
+However, exploiting the given bindings parameters gives the same number of unknowns and equations:
+  40
+Check of Modelica.Electrical.Digital.Examples.DLATREGL successful.
+Save check log

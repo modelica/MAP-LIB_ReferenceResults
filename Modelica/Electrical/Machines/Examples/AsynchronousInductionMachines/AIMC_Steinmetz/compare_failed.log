@@ -1,0 +1,13 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Machines\Examples\AsynchronousInductionMachines\AIMC_Steinmetz\AIMC_Steinmetz.csv
+. Time:        2018-12-17T11:27:39.2359122+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AIMC_Steinmetz.cRun.v=>3.74945952913875E-06
+. Failed values:
+AIMC_Steinmetz.cRun.v=>3.74945952913875E-06
+AIMC_Steinmetz.aimc.idq_rr[1]=>3.11039525954746E-06
+AIMC_Steinmetz.aimc.idq_sr[1]=>2.88971785568181E-06
+AIMC_Steinmetz.aimc.idq_rr[2]=>1.40628457566198E-06
+AIMC_Steinmetz.aimc.idq_sr[2]=>1.23286622266139E-06

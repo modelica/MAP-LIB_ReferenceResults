@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Loops\EngineV6_analytic\EngineV6_analytic.csv
+. Time:        2018-12-17T11:37:11.5472743+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: EngineV6_analytic.filter.x[1]=>7.5059069355843E-05
+. Failed values:
+EngineV6_analytic.filter.x[1]=>7.5059069355843E-05
+EngineV6_analytic.filter.x[2]=>2.63407884785846E-05

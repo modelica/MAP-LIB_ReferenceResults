@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 46 of 422
+Check of Modelica.Electrical.Analog.Examples.ShowVariableResistor:
+The model has the same number of unknowns and equations: 67
+Check of Modelica.Electrical.Analog.Examples.ShowVariableResistor successful.
+Save check log

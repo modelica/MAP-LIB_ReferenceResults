@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Machines\Examples\SynchronousInductionMachines\SMPM_Braking\SMPM_Braking.csv
+. Time:        2018-12-17T11:28:06.8770253+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: SMPM_Braking.smpm.idq_sr[1]=>9.09151773503084E-06
+. Failed values:
+SMPM_Braking.smpm.idq_sr[1]=>9.09151773503084E-06
+SMPM_Braking.smpm.idq_sr[2]=>3.67502856610535E-06

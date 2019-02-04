@@ -1,0 +1,12 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\MultiPhase\Examples\Rectifier\Rectifier.csv
+. Time:        2018-12-17T11:28:16.9321288+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: Rectifier.cDC2.v=>0.0945217513270595
+. Failed values:
+Rectifier.cDC2.v=>0.0945217513270595
+Rectifier.cDC1.v=>0.0945217513270593
+Rectifier.supplyL.inductor[3].i=>0.0391886883487403
+Rectifier.supplyL.inductor[2].i=>0.0368541635423963

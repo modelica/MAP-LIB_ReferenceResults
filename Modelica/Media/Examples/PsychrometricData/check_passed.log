@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 417 of 422
+Check of Modelica.Media.Examples.PsychrometricData:
+The model has the same number of unknowns and equations: 621
+The model has the same number of unknowns and equations:
+  589+2*n_h
+Check of Modelica.Media.Examples.PsychrometricData successful.
+Save check log

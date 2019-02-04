@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 181 of 422
+Check of Modelica.Electrical.Spice3.Examples.CascodeCircuit:
+The model has the same number of unknowns and equations: 68
+Check of Modelica.Electrical.Spice3.Examples.CascodeCircuit successful.
+Save check log

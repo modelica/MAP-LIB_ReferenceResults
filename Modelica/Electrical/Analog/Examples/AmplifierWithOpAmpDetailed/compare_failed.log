@@ -1,0 +1,11 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Analog\Examples\AmplifierWithOpAmpDetailed\AmplifierWithOpAmpDetailed.csv
+. Time:        2018-12-17T11:26:55.0660175+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AmplifierWithOpAmpDetailed.opAmp.q_fp1=>2.46701379449358E-07
+. Failed values:
+AmplifierWithOpAmpDetailed.opAmp.q_fp1=>2.46701379449358E-07
+AmplifierWithOpAmpDetailed.opAmp.x=>2.42842420844478E-07
+AmplifierWithOpAmpDetailed.opAmp.v_source=>2.42842420844466E-07

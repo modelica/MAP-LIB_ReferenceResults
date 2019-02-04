@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 278 of 422
+Check of Modelica.Mechanics.Translational.Examples.Damper:
+The model has the same number of unknowns and equations: 59
+Check of Modelica.Mechanics.Translational.Examples.Damper successful.
+Save check log

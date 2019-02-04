@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 397 of 422
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_DOL:
+The model has the same number of unknowns and equations: 1049
+The model has the same number of unknowns and equations:
+  1046+booleanReplicator.nout
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_DOL successful.
+Save check log

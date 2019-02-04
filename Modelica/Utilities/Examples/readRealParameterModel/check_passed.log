@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 364 of 422
+Check of Modelica.Utilities.Examples.readRealParameterModel:
+The model has the same number of unknowns and equations: 0
+Check of Modelica.Utilities.Examples.readRealParameterModel successful.
+Save check log

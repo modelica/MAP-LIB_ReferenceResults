@@ -1,0 +1,27 @@
+Log-file of program ./dymosim
+(generated: Sat Dec 15 23:27:28 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+Integration terminated successfully at T = 0.1
+   CPU-time for integration      : 0.101 seconds
+   CPU-time for one GRID interval: 0.101 milliseconds
+   Number of result points       : 1142
+   Number of GRID   points       : 1001
+   Number of (successful) steps  : 2826
+   Number of F-evaluations       : 5962
+   Number of H-evaluations       : 4306
+   Number of Jacobian-evaluations: 1269
+   Number of (model) time events : 15
+   Number of (U) time events     : 0
+   Number of state    events     : 70
+   Number of step     events     : 0
+   Minimum integration stepsize  : 1.55e-013
+   Maximum integration stepsize  : 0.00164
+   Maximum integration order     : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)

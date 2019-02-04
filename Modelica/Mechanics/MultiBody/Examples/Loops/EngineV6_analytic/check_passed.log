@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 245 of 422
+Check of Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6_analytic:
+The model has the same number of unknowns and equations: 9482
+The model has the same number of unknowns and equations:
+  9480+filter.n
+Check of Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6_analytic successful.
+Save check log

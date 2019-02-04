@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 37 of 422
+Check of Modelica.Electrical.Analog.Examples.DifferenceAmplifier:
+The model has the same number of unknowns and equations: 203
+Check of Modelica.Electrical.Analog.Examples.DifferenceAmplifier successful.
+Save check log

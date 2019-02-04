@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 362 of 422
+Check of Modelica.Math.FastFourierTransform.Examples.RealFFT1:
+The model has the same number of unknowns and equations: 245
+The model has the same number of unknowns and equations:
+  3+Modelica.Math.FastFourierTransform.realFFTsamplePoints(f_max, f_resolution, 5)  +2*max(1, min(1+integer(ceil(f_max/f_resolution)), 1+div(Modelica.Math.FastFourierTransform.realFFTsamplePoints  (f_max, f_resolution, 5), 2)))
+Check of Modelica.Math.FastFourierTransform.Examples.RealFFT1 successful.
+Save check log

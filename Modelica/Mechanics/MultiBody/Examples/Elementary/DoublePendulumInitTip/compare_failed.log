@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Elementary\DoublePendulumInitTip\DoublePendulumInitTip.csv
+. Time:        2018-12-17T11:36:47.3948481+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: DoublePendulumInitTip.revolute1.phi=>63.8413542788798
+. Failed values:
+DoublePendulumInitTip.revolute1.phi=>63.8413542788798
+DoublePendulumInitTip.revolute2.phi=>30.4868192401261

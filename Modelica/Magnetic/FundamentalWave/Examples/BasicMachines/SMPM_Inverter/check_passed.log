@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 204 of 422
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_Inverter:
+The model has the same number of unknowns and equations: 1412
+The model has the same number of unknowns and equations:
+  1409+currentRMSsensorE.ToSpacePhasor1.m
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_Inverter successful.
+Save check log

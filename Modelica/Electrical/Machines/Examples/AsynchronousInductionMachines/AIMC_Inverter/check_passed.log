@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 95 of 422
+Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Inverter:
+The model has the same number of unknowns and equations: 468
+The model has the same number of unknowns and equations:
+  465+currentQuasiRMSSensor.ToSpacePhasor1.m
+Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Inverter successful.
+Save check log

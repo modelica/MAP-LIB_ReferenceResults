@@ -1,0 +1,10 @@
+time
+advancedFeed_x.v
+advancedSolenoid.c_par1.v
+advancedSolenoid.c_par2.v
+advancedSolenoid.coil1.Phi
+advancedSolenoid.coil2.Phi
+advancedSolenoid.x
+simpleFeed_x.v
+simpleSolenoid.coil.Phi
+simpleSolenoid.x

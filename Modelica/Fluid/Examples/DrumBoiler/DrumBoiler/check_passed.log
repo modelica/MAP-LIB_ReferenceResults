@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 288 of 422
+Check of Modelica.Fluid.Examples.DrumBoiler.DrumBoiler:
+The model has the same number of unknowns and equations: 152
+Check of Modelica.Fluid.Examples.DrumBoiler.DrumBoiler successful.
+Save check log

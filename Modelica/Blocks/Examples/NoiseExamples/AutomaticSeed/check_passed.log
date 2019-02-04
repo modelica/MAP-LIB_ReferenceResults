@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 14 of 422
+Check of Modelica.Blocks.Examples.NoiseExamples.AutomaticSeed:
+The model has the same number of unknowns and equations: 45
+Check of Modelica.Blocks.Examples.NoiseExamples.AutomaticSeed successful.
+Save check log

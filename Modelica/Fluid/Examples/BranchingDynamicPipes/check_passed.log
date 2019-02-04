@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 301 of 422
+Check of Modelica.Fluid.Examples.BranchingDynamicPipes:
+The model has the same number of unknowns and equations: 2025
+Check of Modelica.Fluid.Examples.BranchingDynamicPipes successful.
+Save check log

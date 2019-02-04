@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 285 of 422
+Check of Modelica.Mechanics.Translational.Examples.HeatLosses:
+The model has the same number of unknowns and equations: 169
+Check of Modelica.Mechanics.Translational.Examples.HeatLosses successful.
+Save check log

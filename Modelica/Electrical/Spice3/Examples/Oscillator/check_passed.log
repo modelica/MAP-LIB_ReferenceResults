@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 179 of 422
+Check of Modelica.Electrical.Spice3.Examples.Oscillator:
+The model has the same number of unknowns and equations: 131
+Check of Modelica.Electrical.Spice3.Examples.Oscillator successful.
+Save check log

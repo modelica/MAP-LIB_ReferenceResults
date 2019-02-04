@@ -1,0 +1,55 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 205 of 422
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_Inverter_MultiPhase:
+The DAE has 1930 scalar unknowns and 1930 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 405
+  Variables: 2419
+  Constants: 8 (8 scalars)
+  Parameters: 625 (703 scalars)
+  Unknowns: 1786 (1930 scalars)
+  Differentiated variables: 44 scalars
+  Equations: 991
+  Nontrivial: 808
+Translated Model
+  Constants: 687 scalars
+  Free parameters: 39 scalars
+  Parameter depending: 340 scalars
+  Continuous time states: 14 scalars
+  Time-varying variables: 370 scalars
+  Alias variables: 1205 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {15, 2, 25, 15, 8, 4, 2}
+  Sizes after manipulation of the linear systems: {2, 0, 5, 2, 2, 0, 0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {12, 2, 2}
+    Sizes after manipulation of the linear systems: {3, 2, 2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  loadInertia3.phi
+  loadInertia3.w
+  loadInertiaM.phi
+  loadInertiaM.w
+  smpm3.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpm3.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smpm3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpm3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smpmM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpmM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smpmM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpmM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  vfController.x
+  vfController3.x
+ 
+Finished
+Save translation log

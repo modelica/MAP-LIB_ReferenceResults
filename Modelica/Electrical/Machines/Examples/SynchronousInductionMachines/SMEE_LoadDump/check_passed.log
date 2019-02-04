@@ -1,0 +1,15 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 106 of 422
+Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMEE_LoadDump:
+The model has the same number of unknowns and equations: 731
+The model could not be deduced to be symbolically well-posed.
+The model has
+  725+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m
+scalar unknowns and
+  728+currentQuasiRMSSensor.ToSpacePhasor1.m
+scalar equations.
+However, exploiting the given bindings parameters gives the same number of unknowns and equations:
+  731
+Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMEE_LoadDump successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 303 of 422
+Check of Modelica.Fluid.Examples.HeatExchanger.HeatExchangerSimulation:
+The model has the same number of unknowns and equations: 3731
+Check of Modelica.Fluid.Examples.HeatExchanger.HeatExchangerSimulation successful.
+Save check log

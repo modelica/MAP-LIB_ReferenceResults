@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 372 of 422
+Check of Modelica.Electrical.Analog.Examples.GenerationOfFMUs:
+The model has the same number of unknowns and equations: 306
+Check of Modelica.Electrical.Analog.Examples.GenerationOfFMUs successful.
+Save check log

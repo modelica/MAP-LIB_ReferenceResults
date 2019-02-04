@@ -1,0 +1,48 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 244 of 422
+Translation of Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6:
+The DAE has 12488 scalar unknowns and 12488 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 759
+  Variables: 7371
+  Constants: 19 (19 scalars)
+  Parameters: 3329 (7240 scalars)
+  Unknowns: 4023 (12488 scalars)
+  Differentiated variables: 583 scalars
+  Equations: 3171
+  Nontrivial: 2090
+Translated Model
+  Constants: 12122 scalars
+  Free parameters: 684 scalars
+  Parameter depending: 2055 scalars
+  Outputs: 3 scalars
+  Continuous time states: 4 scalars
+  Time-varying variables: 1394 scalars
+  Alias variables: 3492 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 327}
+  Sizes after manipulation of the linear systems: {2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 36}
+  Sizes of nonlinear systems of equations: {10, 10, 10, 10, 10, 10}
+  Sizes after manipulation of the nonlinear systems: {2, 2, 2, 2, 2, 2}
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 2, 2, 8, 327}
+    Sizes after manipulation of the linear systems: {2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 2, 2, 0, 28}
+    Sizes of nonlinear systems of equations: {10, 10, 10, 10, 10, 10}
+    Sizes after manipulation of the nonlinear systems: {2, 2, 2, 2, 2, 2}
+    Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  filter.x[]
+  load.phi
+  load.w
+ 
+Finished
+Save translation log

@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 341 of 422
+Check of Modelica.Media.Examples.Tests.MediaTestModels.Water.WaterIF97_ph:
+Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Water.WaterIF97_ph specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph instead.
+The model has the same number of unknowns and equations: 78
+Check of Modelica.Media.Examples.Tests.MediaTestModels.Water.WaterIF97_ph successful.
+Warning: WARNINGS have been issued.
+Save check log

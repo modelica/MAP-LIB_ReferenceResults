@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Systems\RobotR3\oneAxis\oneAxis.csv
+. Time:        2018-12-17T11:37:24.2533020+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

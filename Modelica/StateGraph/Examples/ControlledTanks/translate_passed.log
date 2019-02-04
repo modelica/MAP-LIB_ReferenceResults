@@ -1,0 +1,42 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 30 of 422
+Translation of Modelica.StateGraph.Examples.ControlledTanks:
+Warning: Top class Modelica.StateGraph.Examples.ControlledTanks specified an obsolete type: Obsolete package due to experimental design.
+The DAE has 304 scalar unknowns and 304 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 57
+  Variables: 439
+  Constants: 2 (2 scalars)
+  Parameters: 136 (173 scalars)
+  Unknowns: 301 (304 scalars)
+  Differentiated variables: 2 scalars
+  Equations: 288
+  Nontrivial: 227
+Translated Model
+  Constants: 111 scalars
+  Free parameters: 48 scalars
+  Parameter depending: 67 scalars
+  Continuous time states: 2 scalars
+  Time-varying variables: 96 scalars
+  Alias variables: 157 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  tank1.level
+  tank2.level
+ 
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 406 of 422
+Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD:
+The model has the same number of unknowns and equations: 3951
+The model has the same number of unknowns and equations:
+  3948+currentQuasiRMSSensor.ToSpacePhasor1.m
+Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD successful.
+Save check log

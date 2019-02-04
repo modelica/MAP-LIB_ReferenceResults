@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 190 of 422
+Check of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonQuasiStationary:
+The model has the same number of unknowns and equations: 527
+The model has the same number of unknowns and equations:
+  524+size(comparisonWithFEA.columns, 1)
+Check of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonQuasiStationary successful.
+Save check log

@@ -1,0 +1,42 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 332 of 422
+Translation of Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.Nitrogen:
+Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.Nitrogen specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.Nitrogen instead.
+The DAE has 60 scalar unknowns and 60 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 14
+  Variables: 146
+  Constants: 30 (72 scalars)
+  Parameters: 32 (32 scalars)
+  Unknowns: 84 (60 scalars)
+  Differentiated variables: 4 scalars
+  Equations: 68
+  Nontrivial: 50
+Translated Model
+  Constants: 92 scalars
+  Free parameters: 9 scalars
+  Parameter depending: 20 scalars
+  Continuous time states: 2 scalars
+  Time-varying variables: 16 scalars
+  Alias variables: 27 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {2}
+  Sizes after manipulation of the linear systems: {0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  volume.medium.p
+  volume.medium.T
+ 
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

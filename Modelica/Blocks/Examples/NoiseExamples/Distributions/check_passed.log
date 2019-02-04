@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 15 of 422
+Check of Modelica.Blocks.Examples.NoiseExamples.Distributions:
+The model has the same number of unknowns and equations: 17
+Check of Modelica.Blocks.Examples.NoiseExamples.Distributions successful.
+Save check log

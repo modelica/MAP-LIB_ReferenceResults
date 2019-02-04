@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 1 of 422
+Check of Modelica.Blocks.Examples.PID_Controller:
+The model has the same number of unknowns and equations: 89
+The model has the same number of unknowns and equations:
+  86+3*max([size(kinematicPTP.deltaq, 1); size(kinematicPTP.qd_max, 1); size(  kinematicPTP.qdd_max, 1)])
+Check of Modelica.Blocks.Examples.PID_Controller successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 291 of 422
+Check of Modelica.Fluid.Examples.Tanks.EmptyTanks:
+The model has the same number of unknowns and equations: 138
+Check of Modelica.Fluid.Examples.Tanks.EmptyTanks successful.
+Save check log

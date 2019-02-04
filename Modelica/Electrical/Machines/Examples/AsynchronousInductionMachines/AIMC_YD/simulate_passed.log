@@ -1,0 +1,35 @@
+Log-file of program ./dymosim
+(generated: Sat Dec 15 23:15:55 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+
+... Warning message from dymosim
+At time T = 1.139593e-001 in current integration interval
+T_interval = 1.139500e-001 ... 1.140000e-001
+a large amount of work has been expended
+(about 500 steps) in the integrator. Probably the communication
+interval is too large or the system is stiff.
+
+Integration terminated successfully at T = 2.5
+   CPU-time for integration      : 40.6 seconds
+   CPU-time for one GRID interval: 0.812 milliseconds
+   Number of result points       : 50004
+   Number of GRID   points       : 50001
+   Number of (successful) steps  : 302086
+   Number of F-evaluations       : 3381523
+   Number of H-evaluations       : 352618
+   Number of Jacobian-evaluations: 358663
+   Number of (model) time events : 2
+   Number of (U) time events     : 0
+   Number of state    events     : 0
+   Number of step     events     : 0
+   Minimum integration stepsize  : 7.43e-013
+   Maximum integration stepsize  : 0.00437
+   Maximum integration order     : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)

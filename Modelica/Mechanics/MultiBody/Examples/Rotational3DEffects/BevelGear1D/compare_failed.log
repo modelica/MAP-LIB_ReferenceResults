@@ -1,0 +1,16 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Rotational3DEffects\BevelGear1D\BevelGear1D.csv
+. Time:        2018-12-17T11:37:14.6948568+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: BevelGear1D.inertia2.w=>0.222164168629551
+. Failed values:
+BevelGear1D.inertia2.w=>0.222164168629551
+BevelGear1D.inertia2.phi=>0.199980413006513
+BevelGear1D.revolute2.phi=>0.181877188874482
+BevelGear1D.revolute3.phi=>0.16289114895827
+BevelGear1D.revolute2.w=>0.0623296032040273
+BevelGear1D.revolute1.phi=>0.0307630071480758
+BevelGear1D.revolute3.w=>0.00911732960958129
+BevelGear1D.revolute1.w=>0.00460627177030128

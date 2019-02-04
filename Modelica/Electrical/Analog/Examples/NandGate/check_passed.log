@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 42 of 422
+Check of Modelica.Electrical.Analog.Examples.NandGate:
+The model has the same number of unknowns and equations: 135
+Check of Modelica.Electrical.Analog.Examples.NandGate successful.
+Save check log

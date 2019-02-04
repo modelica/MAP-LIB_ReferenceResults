@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 237 of 422
+Check of Modelica.Mechanics.MultiBody.Examples.Elementary.RollingWheelSetPulling:
+The model has the same number of unknowns and equations: 2554
+The model has the same number of unknowns and equations:
+  2523+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))+max([size(combiTimeTable.columns, 1); size(  combiTimeTable.offset, 1)])
+Check of Modelica.Mechanics.MultiBody.Examples.Elementary.RollingWheelSetPulling successful.
+Save check log

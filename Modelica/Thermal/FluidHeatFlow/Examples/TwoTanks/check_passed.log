@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 420 of 422
+Check of Modelica.Thermal.FluidHeatFlow.Examples.TwoTanks:
+The model has the same number of unknowns and equations: 50
+Check of Modelica.Thermal.FluidHeatFlow.Examples.TwoTanks successful.
+Save check log

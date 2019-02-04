@@ -1,0 +1,53 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 204 of 422
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_Inverter:
+The DAE has 1412 scalar unknowns and 1412 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 264
+  Variables: 1840
+  Constants: 10 (10 scalars)
+  Parameters: 550 (628 scalars)
+  Unknowns: 1280 (1412 scalars)
+  Differentiated variables: 46 scalars
+  Equations: 789
+  Nontrivial: 628
+Translated Model
+  Constants: 606 scalars
+  Free parameters: 41 scalars
+  Parameter depending: 298 scalars
+  Continuous time states: 13 scalars
+  Time-varying variables: 267 scalars
+  Alias variables: 838 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {15, 8, 4, 2, 3, 14, 2}
+  Sizes after manipulation of the linear systems: {2, 2, 0, 0, 0, 4, 0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2, 2}
+    Sizes after manipulation of the linear systems: {2, 2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  loadInertiaE.phi
+  loadInertiaE.w
+  loadInertiaM.phi
+  loadInertiaM.w
+  smpmE.idq_dr[1]
+  smpmE.idq_rr[2]
+  smpmE.idq_sr[]
+  smpmM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpmM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smpmM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smpmM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  vfController.x
+ 
+Finished
+Save translation log

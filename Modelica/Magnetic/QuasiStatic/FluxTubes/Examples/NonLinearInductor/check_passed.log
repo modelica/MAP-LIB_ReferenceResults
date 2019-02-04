@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 401 of 422
+Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.NonLinearInductor:
+The model has the same number of unknowns and equations: 375
+Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.NonLinearInductor successful.
+Save check log

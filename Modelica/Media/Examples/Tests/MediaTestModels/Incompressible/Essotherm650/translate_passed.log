@@ -1,0 +1,44 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 336 of 422
+Translation of Modelica.Media.Examples.Tests.MediaTestModels.Incompressible.Essotherm650:
+Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Incompressible.Essotherm650 specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Incompressible.Essotherm650 instead.
+The DAE has 63 scalar unknowns and 63 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 11
+  Variables: 122
+  Parameters: 35 (35 scalars)
+  Unknowns: 87 (63 scalars)
+  Differentiated variables: 3 scalars
+  Equations: 74
+  Nontrivial: 56
+Translated Model
+  Constants: 20 scalars
+  Free parameters: 12 scalars
+  Parameter depending: 23 scalars
+  Continuous time states: 1 scalars
+  Time-varying variables: 16 scalars
+  Alias variables: 27 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: {8}
+  Sizes after manipulation of the nonlinear systems: {1}
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  volume.medium.T
+ 
+Warning: Some variables are iteration variables of the initialization problem:
+but they are not given any explicit start values. Zero will be used.
+Iteration variables:
+der(volume.medium.T)
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

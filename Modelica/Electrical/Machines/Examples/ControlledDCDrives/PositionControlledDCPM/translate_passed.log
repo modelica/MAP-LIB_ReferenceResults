@@ -1,0 +1,49 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 381 of 422
+Translation of Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM:
+The DAE has 473 scalar unknowns and 473 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 108
+  Variables: 781
+  Constants: 6 (6 scalars)
+  Parameters: 302 (302 scalars)
+  Unknowns: 473 (473 scalars)
+  Differentiated variables: 24 scalars
+  Equations: 425
+  Nontrivial: 345
+Translated Model
+  Constants: 225 scalars
+  Free parameters: 64 scalars
+  Parameter depending: 178 scalars
+  Continuous time states: 11 scalars
+  Time-varying variables: 66 scalars
+  Alias variables: 248 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {2}
+  Sizes after manipulation of the linear systems: {0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  armatureInverter.iDCFilter.y
+  armatureInverter.idealDcDc.deadTime.y
+  armatureInverter.idealDcDc.powerController.y
+  armatureInverter.iMotFilter.y
+  armatureInverter.vDCFilter.y
+  armatureInverter.vMotFilter.y
+  currentController.integrator.y
+  dcpm.la.i
+  loadInertia.phi
+  loadInertia.w
+  speedController.integrator.y
+ 
+Finished
+Save translation log

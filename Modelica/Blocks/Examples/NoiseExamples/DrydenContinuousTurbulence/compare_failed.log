@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Blocks\Examples\NoiseExamples\DrydenContinuousTurbulence\DrydenContinuousTurbulence.csv
+. Time:        2018-12-17T11:26:44.8014688+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: DrydenContinuousTurbulence.Hw.x_scaled[2]=>46.2011891193719
+. Failed values:
+DrydenContinuousTurbulence.Hw.x_scaled[2]=>46.2011891193719
+DrydenContinuousTurbulence.Hw.x_scaled[1]=>15.5605988471982

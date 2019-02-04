@@ -1,0 +1,12 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\SMEE_Generator_MultiPhase\SMEE_Generator_MultiPhase.csv
+. Time:        2018-12-17T11:36:07.3298686+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: SMEE_Generator_MultiPhase.smeeM.stator.strayReluctance.port_p.Phi.re=>0.0466058418873617
+. Failed values:
+SMEE_Generator_MultiPhase.smeeM.stator.strayReluctance.port_p.Phi.re=>0.0466058418873617
+SMEE_Generator_MultiPhase.smee3.stator.strayReluctance.port_p.Phi.re=>0.0466058418873331
+SMEE_Generator_MultiPhase.smeeM.stator.strayReluctance.port_p.Phi.im=>0.0466055758064522
+SMEE_Generator_MultiPhase.smee3.stator.strayReluctance.port_p.Phi.im=>0.0466055758064452

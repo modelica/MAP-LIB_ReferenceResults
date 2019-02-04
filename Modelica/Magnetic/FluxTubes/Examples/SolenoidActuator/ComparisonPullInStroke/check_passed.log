@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 191 of 422
+Check of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonPullInStroke:
+The model has the same number of unknowns and equations: 528
+The model has the same number of unknowns and equations:
+  525+max([size(comparisonWithFEA.columns, 1); size(comparisonWithFEA.offset, 1)])
+Check of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonPullInStroke successful.
+Save check log

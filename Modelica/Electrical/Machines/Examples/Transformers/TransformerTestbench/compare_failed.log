@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Machines\Examples\Transformers\TransformerTestbench\TransformerTestbench.csv
+. Time:        2018-12-17T11:28:15.2237365+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: TransformerTestbench.transformer.l2sigma.inductor[1].i=>4.23120927512627E-06
+. Failed values:
+TransformerTestbench.transformer.l2sigma.inductor[1].i=>4.23120927512627E-06
+TransformerTestbench.transformer.l2sigma.inductor[3].i=>2.28006763073946E-06

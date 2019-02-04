@@ -1,0 +1,208 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 293 of 422
+Translation of Modelica.Fluid.Examples.AST_BatchPlant.BatchPlant_StandardWater:
+Warning: Component type specifier StateGraphRoot specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1078
+ Component context: controller.stateGraphRoot
+  Component declared as StateGraphRoot stateGraphRoot in Modelica.StateGraph
+Warning: Component type specifier InitialStep specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 994
+ Component context: controller.InitialStep1
+  Component declared as InitialStep InitialStep1 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 996
+ Component context: controller.Transition1
+  Component declared as Transition Transition1 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 999
+ Component context: controller.Step1
+  Component declared as Step Step1 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1001
+ Component context: controller.Transition2
+  Component declared as Transition Transition2 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1003
+ Component context: controller.Step2
+  Component declared as Step Step2 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1005
+ Component context: controller.Transition3
+  Component declared as Transition Transition3 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1010
+ Component context: controller.Step3
+  Component declared as Step Step3 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1012
+ Component context: controller.Transition4
+  Component declared as Transition Transition4 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1014
+ Component context: controller.Step4
+  Component declared as Step Step4 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1016
+ Component context: controller.Transition5
+  Component declared as Transition Transition5 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1018
+ Component context: controller.Step5
+  Component declared as Step Step5 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1020
+ Component context: controller.Transition6
+  Component declared as Transition Transition6 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1023
+ Component context: controller.Step6
+  Component declared as Step Step6 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1025
+ Component context: controller.Transition7
+  Component declared as Transition Transition7 in Modelica.StateGraph
+Warning: Component type specifier Parallel specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1030
+ Component context: controller.Parallel1
+  Component declared as Parallel Parallel1 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1032
+ Component context: controller.Step7
+  Component declared as Step Step7 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1034
+ Component context: controller.Step8
+  Component declared as Step Step8 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1036
+ Component context: controller.Step9
+  Component declared as Step Step9 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1038
+ Component context: controller.Step10
+  Component declared as Step Step10 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1040
+ Component context: controller.Step11
+  Component declared as Step Step11 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1042
+ Component context: controller.Step12
+  Component declared as Step Step12 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1044
+ Component context: controller.Step13
+  Component declared as Step Step13 in Modelica.StateGraph
+Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1046
+ Component context: controller.Step14
+  Component declared as Step Step14 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1048
+ Component context: controller.Transition8
+  Component declared as Transition Transition8 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1050
+ Component context: controller.Transition9
+  Component declared as Transition Transition9 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1052
+ Component context: controller.Transition10
+  Component declared as Transition Transition10 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1054
+ Component context: controller.Transition11
+  Component declared as Transition Transition11 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1056
+ Component context: controller.Transition12
+  Component declared as Transition Transition12 in Modelica.StateGraph
+Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1058
+ Component context: controller.Transition13
+  Component declared as Transition Transition13 in Modelica.StateGraph
+Warning: Component type specifier TransitionWithSignal specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/AST_BatchPlant.mo, line 1071
+ Component context: controller.TransitionWithSignal1
+  Component declared as TransitionWithSignal TransitionWithSignal1 in Modelica.StateGraph
+Warning: Component type specifier CompositeStepStatePort_out specified an obsolete type: Obsolete package due to experimental design.
+  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2089
+ Component context: controller.InitialStep1.stateGraphRoot.subgraphStatePort
+  Component declared as CompositeStepStatePort_out subgraphStatePort in Modelica.StateGraph.Interfaces
+The DAE has 2226 scalar unknowns and 2226 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 270
+  Variables: 3630
+  Constants: 66 (66 scalars)
+  Parameters: 1136 (1144 scalars)
+  Unknowns: 2428 (2232 scalars)
+  Differentiated variables: 75 scalars
+  Equations: 1825
+  Nontrivial: 1444
+Translated Model
+  Constants: 1107 scalars
+  Free parameters: 265 scalars
+  Parameter depending: 282 scalars
+  Continuous time states: 34 scalars
+  Time-varying variables: 731 scalars
+  Alias variables: 1057 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2}
+  Sizes after manipulation of the linear systems: {2, 2, 2, 2, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0}
+  Sizes of nonlinear systems of equations: {3, 12, 18, 3, 4, 9, 9, 12, 6, 6}
+  Sizes after manipulation of the nonlinear systems: {1, 2, 2, 1, 2, 2, 2, 2, 1, 1}
+  Number of numerical Jacobians: 7
+  Initialization problem
+    Number of mixed real/discrete systems of equations: 1
+    Sizes of linear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
+    Sizes after manipulation of the linear systems: {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+    Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 12, 18,   9, 9, 12, 6, 6}
+    Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2,   2, 2, 2, 1, 1}
+    Number of numerical Jacobians: 7
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  B1.level
+  B1.medium.h
+  B2.level
+  B2.medium.h
+  B3.level
+  B3.medium.h
+  B4.level
+  B4.medium.h
+  B5.level
+  B5.medium.h
+  B6.level
+  B6.medium.h
+  B7.level
+  B7.medium.h
+  P1.medium.h
+  P1.medium.p
+  P2.medium.h
+  P2.medium.p
+  pipeB1B2.mediums[1].h
+  pipeB1B2.mediums[1].p
+  pipeB1B2.mediums[2].h
+  pipeB1B2.mediums[2].p
+  pipePump1B1.mediums[1].h
+  pipePump1B1.mediums[1].p
+  pipePump1B1.mediums[2].h
+  pipePump1B1.mediums[2].p
+  pipePump2B2.mediums[1].h
+  pipePump2B2.mediums[1].p
+  pipePump2B2.mediums[2].h
+  pipePump2B2.mediums[2].p
+  volume4.medium.h
+  volume4.medium.p
+  volume5.medium.h
+  volume5.medium.p
+ 
+Finished
+Warning: WARNINGS have been issued.
+Save translation log

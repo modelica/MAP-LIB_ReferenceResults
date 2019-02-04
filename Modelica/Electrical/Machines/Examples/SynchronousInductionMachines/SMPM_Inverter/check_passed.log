@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 101 of 422
+Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_Inverter:
+The model has the same number of unknowns and equations: 581
+The model has the same number of unknowns and equations:
+  578+currentQuasiRMSSensor.ToSpacePhasor1.m
+Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_Inverter successful.
+Save check log

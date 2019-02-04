@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 51 of 422
+Check of Modelica.Electrical.Analog.Examples.ControlledSwitchWithArc:
+The model has the same number of unknowns and equations: 80
+Check of Modelica.Electrical.Analog.Examples.ControlledSwitchWithArc successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 296 of 422
+Check of Modelica.Fluid.Examples.AST_BatchPlant.Test.TankWithEmptyingPipe1:
+The model has the same number of unknowns and equations: 145
+Check of Modelica.Fluid.Examples.AST_BatchPlant.Test.TankWithEmptyingPipe1 successful.
+Save check log

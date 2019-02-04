@@ -1,0 +1,57 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 20 of 422
+Translation of Modelica.Blocks.Examples.NoiseExamples.ActuatorWithNoise:
+The DAE has 814 scalar unknowns and 814 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 122
+  Variables: 1118
+  Constants: 17 (17 scalars)
+  Parameters: 382 (460 scalars)
+  Unknowns: 719 (814 scalars)
+  Differentiated variables: 38 scalars
+  Equations: 503
+  Nontrivial: 404
+Translated Model
+  Constants: 428 scalars
+  Free parameters: 91 scalars
+  Parameter depending: 159 scalars
+  Continuous time states: 11 scalars
+  Time-varying variables: 172 scalars
+  Alias variables: 441 scalars
+  Number of mixed real/discrete systems of equations: 1
+  Sizes of linear systems of equations: {17, 2, 11, 3}
+  Sizes after manipulation of the linear systems: {3, 2, 2, 0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2}
+    Sizes after manipulation of the linear systems: {2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  controller.position_PI.x
+  controller.positionToSpeed.x
+  controller.speed_PI.x
+  elastoGap.s_rel
+  elastoGap.v_rel
+  gearbox.phi_rel
+  gearbox.w_rel
+  rodMass.s
+  rodMass.v
+  slewRateLimiter.y
+ 
+Dynamically selected continuous time states
+There is one set of dynamic state selection.
+There is one state to be selected from:
+  controller.busdelay.y
+  motor.smpm.idq_sr[]
+ 
+Finished
+Save translation log

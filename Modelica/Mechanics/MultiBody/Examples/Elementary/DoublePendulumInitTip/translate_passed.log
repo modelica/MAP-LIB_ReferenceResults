@@ -1,0 +1,48 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 221 of 422
+Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.DoublePendulumInitTip:
+The DAE has 2081 scalar unknowns and 2081 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 101
+  Variables: 1026
+  Constants: 2 (2 scalars)
+  Parameters: 270 (452 scalars)
+  Unknowns: 754 (2081 scalars)
+  Differentiated variables: 40 scalars
+  Equations: 697
+  Nontrivial: 473
+Translated Model
+  Constants: 1743 scalars
+  Free parameters: 52 scalars
+  Parameter depending: 228 scalars
+  Continuous time states: 4 scalars
+  Time-varying variables: 87 scalars
+  Alias variables: 425 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {11}
+  Sizes after manipulation of the linear systems: {2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {4}
+    Sizes after manipulation of the linear systems: {2}
+    Sizes of nonlinear systems of equations: {12}
+    Sizes after manipulation of the nonlinear systems: {2}
+    Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  revolute1.phi
+  revolute1.w
+  revolute2.phi
+  revolute2.w
+ 
+Finished
+Save translation log

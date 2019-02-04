@@ -1,0 +1,497 @@
+Log-file of program ./dymosim
+(generated: Sat Dec 15 23:09:13 2018)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "result.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 58.00104891054895
+  Tag: simulation.nonlinear[1]
+
+  Common causes:
+   * The system of equations has no solution - the residual will be above zero.
+     - In some cases the event-logic can cause this.
+   * Starting values are too far from the solution.
+     - In rare cases this could occur at events.
+   * The equations are too discontinuous for the nonlinear solver - the residual will have knees.
+     - Likely caused by over-using noEvent.
+
+  To get more information consider the options:
+   * Simulation/Setup/Translation/Generate listing of translated Modelica code in dsmodel.mof
+   * Simulation/Setup/Translation/List non-linear iteration variables
+   * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
+
+  Jacobian inverse norm estimate: 7.09633e+013
+  Condition number estimate: 8.51237e+013
+  1-norm of the residual = 0.813697
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    T2.vt_t = 0.0253784
+    T2.vbc = -7.31701
+    T2.ibe = -0.00193641
+    T1.vt_t = 0.0182362
+    T1.ibe = -0.030392
+    T1.vbc = -3.23089
+  Last value of the residual:
+    { -0.0860692, -0.0328752, -0.627051, -0.0587334, -0.00193641,
+      -0.00703165 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 65.98300000000016
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3991.99
+  Condition number estimate: 668269
+  1-norm of the residual = 5.06073
+
+  Last value of the solution:
+    T2.vt_t = 0.023853
+    T2.vbc = 0.636236
+    T2.ibe = 0.0157208
+    T1.vt_t = 0.0250269
+    T1.ibe = 0.0806054
+    T1.vbc = 0.691064
+  Last value of the residual:
+    { 2.26977, 0.063205, -0.263262, 2.20726, 0.00560151,
+      -0.25163 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 67.04796000000033
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1171.3
+  Condition number estimate: 1799.74
+  1-norm of the residual = 0.1317
+
+  Last value of the solution:
+    T2.vt_t = 0.025734
+    T2.vbc = 0.654521
+    T2.ibe = 0.00886923
+    T1.vt_t = 0.0258136
+    T1.ibe = 0.144378
+    T1.vbc = 0.666364
+  Last value of the residual:
+    { -0.00440623, 0.126916, -0.00016285, -0.000204635, 7.45568E-006,
+      2.44756E-006 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 67.62140000000042
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1080.21
+  Condition number estimate: 1665.64
+  1-norm of the residual = 0.117297
+
+  Last value of the solution:
+    T2.vt_t = 0.0257504
+    T2.vbc = 0.661693
+    T2.ibe = 0.0164334
+    T1.vt_t = 0.0258285
+    T1.ibe = 0.137333
+    T1.vbc = 0.667156
+  Last value of the residual:
+    { -0.00686103, 0.109832, -0.000214375, -0.00032246, 5.75827E-005,
+      8.79826E-006 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 69.83324000000076
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1309.67
+  Condition number estimate: 2051.1
+  1-norm of the residual = 0.0811616
+
+  Last value of the solution:
+    T2.vt_t = 0.0257923
+    T2.vbc = 0.681459
+    T2.ibe = 0.0193492
+    T1.vt_t = 0.025818
+    T1.ibe = 0.137716
+    T1.vbc = 0.666922
+  Last value of the residual:
+    { -0.0665263, 0.00540307, -0.00301669, -0.00471821, -0.00148885,
+      -8.4624E-006 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 76.3106800000002
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2695.38
+  Condition number estimate: 4187.69
+  1-norm of the residual = 0.119619
+
+  Last value of the solution:
+    T2.vt_t = 0.0259573
+    T2.vbc = 0.665064
+    T2.ibe = 0.13472
+    T1.vt_t = 0.0258927
+    T1.ibe = 0.0205785
+    T1.vbc = 0.670429
+  Last value of the residual:
+    { -0.000290224, 3.21041E-005, 7.02112E-006, -0.00652904, 0.112518,
+      -0.000242392 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 78.11292000000049
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 408.922
+  Condition number estimate: 623.069
+  1-norm of the residual = 0.0816514
+
+  Last value of the solution:
+    T2.vt_t = 0.0259856
+    T2.vbc = 0.663086
+    T2.ibe = 0.140858
+    T1.vt_t = 0.025911
+    T1.ibe = 0.0118585
+    T1.vbc = 0.646376
+  Last value of the residual:
+    { -0.00200825, -0.000152041, -1.76223E-005, -0.039806, 0.0377876,
+      -0.00187988 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 107.8752951155082
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 5.20518e+013
+  Condition number estimate: 5.68162e+013
+  1-norm of the residual = 0.966386
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    T2.vt_t = 0.0262863
+    T2.vbc = -7.71318
+    T2.ibe = -0.00606241
+    T1.vt_t = 0.017983
+    T1.ibe = -0.0384102
+    T1.vbc = -3.80431
+  Last value of the residual:
+    { -0.167146, -0.0394359, -0.706939, -0.0434008, -0.00606241,
+      0.00340149 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 115.982999882125
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 432.346
+  Condition number estimate: 766.1
+  1-norm of the residual = 0.839442
+
+  Last value of the solution:
+    T2.vt_t = 0.0268594
+    T2.vbc = 0.514333
+    T2.ibe = 0.0243857
+    T1.vt_t = 0.0270641
+    T1.ibe = 0.123729
+    T1.vbc = 0.64379
+  Last value of the residual:
+    { 0.0364296, -0.799342, 0.00158764, 0.00190521, 0.000159056,
+      1.93138E-005 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 126.3106798411651
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 498.697
+  Condition number estimate: 782.994
+  1-norm of the residual = 0.155793
+
+  Last value of the solution:
+    T2.vt_t = 0.0269876
+    T2.vbc = 0.641116
+    T2.ibe = 0.149825
+    T1.vt_t = 0.0269951
+    T1.ibe = 0.00635522
+    T1.vbc = 0.650721
+  Last value of the residual:
+    { -0.00444785, -1.18874E-005, 2.10085E-005, -0.10583, -0.0400997,
+      -0.00538214 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 126.8021997797251
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 541.459
+  Condition number estimate: 842.875
+  1-norm of the residual = 0.0792735
+
+  Last value of the solution:
+    T2.vt_t = 0.0270413
+    T2.vbc = 0.641508
+    T2.ibe = 0.142355
+    T1.vt_t = 0.0270052
+    T1.ibe = 0.0125431
+    T1.vbc = 0.644556
+  Last value of the residual:
+    { -0.00321372, -6.72788E-005, 2.49745E-005, -0.0713613, -0.00112741,
+      -0.0034789 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 127.9490796363651
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1177.37
+  Condition number estimate: 1798.79
+  1-norm of the residual = 0.0958231
+
+  Last value of the solution:
+    T2.vt_t = 0.0271016
+    T2.vbc = 0.640963
+    T2.ibe = 0.139474
+    T1.vt_t = 0.0270229
+    T1.ibe = 0.0134339
+    T1.vbc = 0.626601
+  Last value of the residual:
+    { -0.00153981, 0.000139678, 3.09631E-005, -0.0349556, 0.0577819,
+      -0.00137517 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 157.8359726672372
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 4.60475e+013
+  Condition number estimate: 5.13672e+013
+  1-norm of the residual = 0.986176
+  The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
+
+  Last value of the solution:
+    T2.vt_t = 0.0275336
+    T2.vbc = -8.00535
+    T2.ibe = -0.00359855
+    T1.vt_t = 0.0180421
+    T1.ibe = -0.0448952
+    T1.vbc = -3.76229
+  Last value of the residual:
+    { -0.0338199, -0.0461838, -0.771935, -0.13037, -0.00359855,
+      -0.000268513 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 166.9660397592444
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1325.95
+  Condition number estimate: 2033.66
+  1-norm of the residual = 0.105657
+
+  Last value of the solution:
+    T2.vt_t = 0.0279638
+    T2.vbc = 0.607772
+    T2.ibe = 0.00704246
+    T1.vt_t = 0.0280133
+    T1.ibe = 0.146225
+    T1.vbc = 0.621196
+  Last value of the residual:
+    { -0.0662851, 0.033191, -0.00334621, -0.00278319, 2.61414E-005,
+      2.48669E-005 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 168.375063583116
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 50.8902
+  Condition number estimate: 79.3161
+  1-norm of the residual = 0.141397
+
+  Last value of the solution:
+    T2.vt_t = 0.027995
+    T2.vbc = 0.626603
+    T2.ibe = 0.0125835
+    T1.vt_t = 0.0280422
+    T1.ibe = 0.142588
+    T1.vbc = 0.621535
+  Last value of the residual:
+    { -0.0451846, 0.0919652, -0.00223381, -0.00197972, -1.51638E-005,
+      1.86411E-005 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 168.8174315278199
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 351.604
+  Condition number estimate: 542.575
+  1-norm of the residual = 0.084915
+
+  Last value of the solution:
+    T2.vt_t = 0.028016
+    T2.vbc = 0.627985
+    T2.ibe = 0.0290931
+    T1.vt_t = 0.0280749
+    T1.ibe = 0.126096
+    T1.vbc = 0.623661
+  Last value of the residual:
+    { -0.0347276, 0.0443139, -0.00104684, -0.00356282, -0.00121558,
+      -4.81283E-005 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 169.8496233987956
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 4169.1
+  Condition number estimate: 6556.07
+  1-norm of the residual = 0.140509
+
+  Last value of the solution:
+    T2.vt_t = 0.0280242
+    T2.vbc = 0.638451
+    T2.ibe = 0.0133234
+    T1.vt_t = 0.0280747
+    T1.ibe = 0.144049
+    T1.vbc = 0.621119
+  Last value of the residual:
+    { -0.00430431, 0.135429, -5.97455E-005, 0.000432683, 0.000257859,
+      2.58587E-005 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 176.3106798411646
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2119.63
+  Condition number estimate: 3295.63
+  1-norm of the residual = 0.0818475
+
+  Last value of the solution:
+    T2.vt_t = 0.0281744
+    T2.vbc = 0.619675
+    T2.ibe = 0.136761
+    T1.vt_t = 0.0281315
+    T1.ibe = 0.0185841
+    T1.vbc = 0.626073
+  Last value of the residual:
+    { -0.00303822, -0.000238059, 2.68002E-005, -0.0614781, 0.0140997,
+      -0.00296662 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 178.7682795339639
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 815.665
+  Condition number estimate: 1097.08
+  1-norm of the residual = 0.118044
+
+  Last value of the solution:
+    T2.vt_t = 0.028265
+    T2.vbc = 0.616664
+    T2.ibe = 0.144849
+    T1.vt_t = 0.0281607
+    T1.ibe = 0.00688402
+    T1.vbc = 0.580657
+  Last value of the residual:
+    { -0.000335055, 4.84018E-005, 5.26727E-005, -0.0125165, 0.104528,
+      -0.000563554 }
+ 
+Solver will attempt to handle this problem.
+
+Integration terminated successfully at T = 200
+   CPU-time for integration      : 0.807 seconds
+   CPU-time for one GRID interval: 0.161 milliseconds
+   Number of result points       : 5041
+   Number of GRID   points       : 5001
+   Number of (successful) steps  : 743
+   Number of F-evaluations       : 1729
+   Number of H-evaluations       : 5765
+   Number of Jacobian-evaluations: 534
+   Number of (model) time events : 21
+   Number of (U) time events     : 0
+   Number of state    events     : 5
+   Number of step     events     : 0
+   Minimum integration stepsize  : 4e-005
+   Maximum integration stepsize  : 19
+   Maximum integration order     : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)

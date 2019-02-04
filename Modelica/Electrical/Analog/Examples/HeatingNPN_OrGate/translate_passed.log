@@ -1,0 +1,38 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 39 of 422
+Translation of Modelica.Electrical.Analog.Examples.HeatingNPN_OrGate:
+The DAE has 152 scalar unknowns and 152 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 26
+  Variables: 271
+  Parameters: 119 (119 scalars)
+  Unknowns: 152 (152 scalars)
+  Differentiated variables: 1 scalars
+  Equations: 140
+  Nontrivial: 115
+Translated Model
+  Constants: 56 scalars
+  Free parameters: 70 scalars
+  Parameter depending: 32 scalars
+  Continuous time states: 1 scalars
+  Time-varying variables: 51 scalars
+  Alias variables: 62 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: {37}
+  Sizes after manipulation of the nonlinear systems: {6}
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  HeatCapacitor1.T
+ 
+Finished
+Save translation log

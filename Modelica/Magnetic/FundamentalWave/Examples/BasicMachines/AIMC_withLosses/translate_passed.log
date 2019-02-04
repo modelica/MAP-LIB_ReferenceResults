@@ -1,0 +1,60 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 392 of 422
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_withLosses:
+The DAE has 877 scalar unknowns and 877 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 193
+  Variables: 1181
+  Constants: 6 (6 scalars)
+  Parameters: 350 (533 scalars)
+  Unknowns: 825 (877 scalars)
+  Differentiated variables: 28 scalars
+  Equations: 478
+  Nontrivial: 392
+Translated Model
+  Constants: 293 scalars
+  Free parameters: 101 scalars
+  Parameter depending: 255 scalars
+  Outputs: 13 scalars
+  Continuous time states: 8 scalars
+  Time-varying variables: 201 scalars
+  Alias variables: 566 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {18, 17, 7, 12, 14}
+  Sizes after manipulation of the linear systems: {10, 3, 0, 3, 2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {31}
+    Sizes after manipulation of the linear systems: {7}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  aimc.stator.zeroInductor.i0
+  loadInertia.w
+  PI.x
+  powerSensor.flange_a.phi
+ 
+Dynamically selected continuous time states
+There is one set of dynamic state selection.
+There are 4 states to be selected from:
+  aimc.airGap.V_mrr.im
+  aimc.airGap.V_mrr.re
+  aimc.airGap.V_msr.im
+  aimc.airGap.V_msr.re
+  aimc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  aimc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  aimc.stator.core.Phi.im
+  aimc.stator.core.Phi.re
+  aimc.stator.strayReluctance.port_p.Phi.im
+  aimc.stator.strayReluctance.port_p.Phi.re
+ 
+Finished
+Save translation log

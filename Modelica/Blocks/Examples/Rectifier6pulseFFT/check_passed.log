@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 368 of 422
+Check of Modelica.Blocks.Examples.Rectifier6pulseFFT:
+The model has the same number of unknowns and equations: 5386
+The model has the same number of unknowns and equations:
+  584+Modelica.Math.FastFourierTransform.realFFTsamplePoints(realFFT.f_max,   realFFT.f_res, 5)+2*max(1, min(1+integer(ceil(realFFT.f_max/realFFT.f_res)),   div(Modelica.Math.FastFourierTransform.realFFTsamplePoints(realFFT.f_max,   realFFT.f_res, 5), 2)))
+Check of Modelica.Blocks.Examples.Rectifier6pulseFFT successful.
+Save check log

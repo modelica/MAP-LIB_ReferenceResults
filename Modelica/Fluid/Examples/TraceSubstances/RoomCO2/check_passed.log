@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 304 of 422
+Check of Modelica.Fluid.Examples.TraceSubstances.RoomCO2:
+The model has the same number of unknowns and equations: 228
+Check of Modelica.Fluid.Examples.TraceSubstances.RoomCO2 successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 266 of 422
+Check of Modelica.Mechanics.Rotational.Examples.LossyGearDemo2:
+The model has the same number of unknowns and equations: 98
+Check of Modelica.Mechanics.Rotational.Examples.LossyGearDemo2 successful.
+Save check log

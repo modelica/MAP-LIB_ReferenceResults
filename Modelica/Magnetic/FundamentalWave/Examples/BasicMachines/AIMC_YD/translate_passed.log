@@ -1,0 +1,48 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 387 of 422
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_YD:
+The DAE has 945 scalar unknowns and 945 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 200
+  Variables: 1277
+  Constants: 17 (17 scalars)
+  Parameters: 372 (430 scalars)
+  Unknowns: 888 (945 scalars)
+  Differentiated variables: 21 scalars
+  Equations: 506
+  Nontrivial: 423
+Translated Model
+  Constants: 353 scalars
+  Free parameters: 46 scalars
+  Parameter depending: 194 scalars
+  Continuous time states: 7 scalars
+  Time-varying variables: 206 scalars
+  Alias variables: 593 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {14, 12, 8, 28, 5, 2}
+  Sizes after manipulation of the linear systems: {2, 3, 2, 9, 0, 0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2}
+    Sizes after manipulation of the linear systems: {2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  aimc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  aimc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  aimc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  aimc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  aimc.stator.zeroInductor.i0
+  loadInertia.phi
+  loadInertia.w
+ 
+Finished
+Save translation log

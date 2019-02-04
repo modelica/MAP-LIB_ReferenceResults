@@ -1,0 +1,56 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 150 of 422
+Translation of Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2mPulse.ThyristorBridge2mPulse_DC_Drive:
+The DAE has 733 scalar unknowns and 733 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 136
+  Variables: 1145
+  Constants: 17 (17 scalars)
+  Parameters: 452 (514 scalars)
+  Unknowns: 676 (733 scalars)
+  Differentiated variables: 27 scalars
+  Equations: 484
+  Nontrivial: 405
+Translated Model
+  Constants: 403 scalars
+  Free parameters: 73 scalars
+  Parameter depending: 208 scalars
+  Outputs: 2 scalars
+  Continuous time states: 17 scalars
+  Time-varying variables: 155 scalars
+  Alias variables: 425 scalars
+  Number of mixed real/discrete systems of equations: 1
+  Sizes of linear systems of equations: {19, 6, 3}
+  Sizes after manipulation of the linear systems: {6, 0, 0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  dcpm.inertiaRotor.phi
+  dcpm.inertiaRotor.w
+  inductor.i
+  lMains.inductor[2].i
+  lMains.inductor[3].i
+  meanCurrent.x
+  meanVoltage.x
+  pulse2.twomPulse.filter[1].firstOrder.y
+  pulse2.twomPulse.filter[1].transferFunction[1].x_scaled[]
+  pulse2.twomPulse.filter[1].transferFunction[2].x_scaled[]
+  pulse2.twomPulse.filter[2].firstOrder.y
+  pulse2.twomPulse.filter[2].transferFunction[1].x_scaled[]
+  pulse2.twomPulse.filter[2].transferFunction[2].x_scaled[]
+  pulse2.twomPulse.filter[3].firstOrder.y
+  pulse2.twomPulse.filter[3].transferFunction[1].x_scaled[]
+  pulse2.twomPulse.filter[3].transferFunction[2].x_scaled[]
+  rootMeanSquareVoltage.mean.x
+ 
+Finished
+Save translation log

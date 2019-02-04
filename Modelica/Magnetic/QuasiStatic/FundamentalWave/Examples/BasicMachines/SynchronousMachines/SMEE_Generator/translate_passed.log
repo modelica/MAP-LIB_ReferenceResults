@@ -1,0 +1,55 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 218 of 422
+Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMEE_Generator:
+The DAE has 3112 scalar unknowns and 3112 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 1241
+  Variables: 3683
+  Constants: 12 (12 scalars)
+  Parameters: 725 (778 scalars)
+  Unknowns: 2946 (3112 scalars)
+  Differentiated variables: 42 scalars
+  Equations: 1293
+  Nontrivial: 1045
+Translated Model
+  Constants: 1498 scalars
+  Free parameters: 93 scalars
+  Parameter depending: 297 scalars
+  Outputs: 2 scalars
+  Continuous time states: 6 scalars
+  Time-varying variables: 440 scalars
+  Alias variables: 1574 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {13, 8, 33, 5, 10}
+  Sizes after manipulation of the linear systems: {5, 2, 6, 2, 2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2}
+    Sizes after manipulation of the linear systems: {2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  constantSpeed.phi
+  constantSpeedQS.phi
+  smee.stator.zeroInductor.i0
+  smeeQS.short.port_p.reference.gamma
+ 
+Dynamically selected continuous time states
+There is one set of dynamic state selection.
+There are 2 states to be selected from:
+  smee.excitation.electroMagneticConverter.Phi.re
+  smee.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smee.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smee.stator.strayReluctance.port_p.Phi.im
+  smee.stator.strayReluctance.port_p.Phi.re
+ 
+Finished
+Save translation log

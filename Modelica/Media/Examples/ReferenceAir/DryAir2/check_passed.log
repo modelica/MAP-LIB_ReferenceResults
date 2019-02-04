@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 316 of 422
+Check of Modelica.Media.Examples.ReferenceAir.DryAir2:
+The model has the same number of unknowns and equations: 96
+Check of Modelica.Media.Examples.ReferenceAir.DryAir2 successful.
+Save check log

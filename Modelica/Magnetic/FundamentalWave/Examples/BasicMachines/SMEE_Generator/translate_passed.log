@@ -1,0 +1,57 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 206 of 422
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator:
+The DAE has 1494 scalar unknowns and 1494 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 286
+  Variables: 1984
+  Constants: 10 (10 scalars)
+  Parameters: 595 (669 scalars)
+  Unknowns: 1379 (1494 scalars)
+  Differentiated variables: 45 scalars
+  Equations: 875
+  Nontrivial: 697
+Translated Model
+  Constants: 676 scalars
+  Free parameters: 67 scalars
+  Parameter depending: 276 scalars
+  Continuous time states: 10 scalars
+  Time-varying variables: 292 scalars
+  Alias variables: 862 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {21, 8, 4, 15, 3, 15}
+  Sizes after manipulation of the linear systems: {7, 2, 2, 2, 0, 4}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {2, 2}
+    Sizes after manipulation of the linear systems: {2, 2}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  constantSpeedE.phi
+  constantSpeedM.phi
+  smeeE.idq_dr[1]
+  smeeE.idq_rr[2]
+  smeeE.idq_sr[]
+ 
+Dynamically selected continuous time states
+There is one set of dynamic state selection.
+There are 4 states to be selected from:
+  smeeM.excitation.electroMagneticConverter.Phi.re
+  smeeM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smeeM.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smeeM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
+  smeeM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+  smeeM.stator.strayReluctance.port_p.Phi.im
+  smeeM.stator.strayReluctance.port_p.Phi.re
+ 
+Finished
+Save translation log

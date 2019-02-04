@@ -1,0 +1,3 @@
+time
+heatingResistor.i
+heatingResistor.LossPower

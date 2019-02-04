@@ -1,0 +1,15 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 375 of 422
+Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_InverterDrive:
+The model has the same number of unknowns and equations: 1064
+The model could not be deduced to be symbolically well-posed.
+The model has
+  1055+gridCurrent.ToSpacePhasor1.m+machineCurrent.ToSpacePhasor1.m+  toSpacePhasor.m
+scalar unknowns and
+  1058+gridCurrent.ToSpacePhasor1.m+machineCurrent.ToSpacePhasor1.m
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  1064
+Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_InverterDrive successful.
+Save check log

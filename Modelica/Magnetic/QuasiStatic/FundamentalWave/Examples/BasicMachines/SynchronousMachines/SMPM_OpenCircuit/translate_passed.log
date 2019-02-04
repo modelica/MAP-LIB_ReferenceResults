@@ -1,0 +1,43 @@
+﻿ = true
+TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
+This is translation 216 of 422
+Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_OpenCircuit:
+The DAE has 1994 scalar unknowns and 1994 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 778
+  Variables: 2380
+  Constants: 9 (9 scalars)
+  Parameters: 505 (534 scalars)
+  Unknowns: 1866 (1994 scalars)
+  Differentiated variables: 41 scalars
+  Equations: 876
+  Nontrivial: 716
+Translated Model
+  Constants: 980 scalars
+  Free parameters: 48 scalars
+  Parameter depending: 550 scalars
+  Outputs: 2 scalars
+  Continuous time states: 1 scalars
+  Time-varying variables: 49 scalars
+  Alias variables: 910 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {2, 2}
+  Sizes after manipulation of the linear systems: {2, 2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {36}
+    Sizes after manipulation of the linear systems: {10}
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  constantSpeed.phi
+ 
+Finished
+Save translation log

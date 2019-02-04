@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 353 of 422
+Check of Modelica.Thermal.FluidHeatFlow.Examples.PumpDropOut:
+The model has the same number of unknowns and equations: 85
+Check of Modelica.Thermal.FluidHeatFlow.Examples.PumpDropOut successful.
+Save check log

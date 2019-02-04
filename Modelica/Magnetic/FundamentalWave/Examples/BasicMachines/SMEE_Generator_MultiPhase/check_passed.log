@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 207 of 422
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator_MultiPhase:
+The model has the same number of unknowns and equations: 2289
+The model has the same number of unknowns and equations:
+  2286+currentRMSsensor3.ToSpacePhasor1.m
+Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator_MultiPhase successful.
+Save check log

@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 108 of 422
+Check of Modelica.Electrical.Machines.Examples.DCMachines.DCPM_Start:
+The model has the same number of unknowns and equations: 200
+Check of Modelica.Electrical.Machines.Examples.DCMachines.DCPM_Start successful.
+Save check log

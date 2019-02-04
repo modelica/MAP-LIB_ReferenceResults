@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 165 of 422
+Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesResonance:
+The model has the same number of unknowns and equations: 144
+Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesResonance successful.
+Save check log

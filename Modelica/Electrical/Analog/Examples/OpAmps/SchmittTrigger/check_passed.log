@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 64 of 422
+Check of Modelica.Electrical.Analog.Examples.OpAmps.SchmittTrigger:
+The model has the same number of unknowns and equations: 49
+Check of Modelica.Electrical.Analog.Examples.OpAmps.SchmittTrigger successful.
+Save check log

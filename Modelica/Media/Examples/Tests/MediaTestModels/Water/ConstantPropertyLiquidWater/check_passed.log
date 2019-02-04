@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 337 of 422
+Check of Modelica.Media.Examples.Tests.MediaTestModels.Water.ConstantPropertyLiquidWater:
+Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Water.ConstantPropertyLiquidWater specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.ConstantPropertyLiquidWater instead.
+The model has the same number of unknowns and equations: 60
+Check of Modelica.Media.Examples.Tests.MediaTestModels.Water.ConstantPropertyLiquidWater successful.
+Warning: WARNINGS have been issued.
+Save check log

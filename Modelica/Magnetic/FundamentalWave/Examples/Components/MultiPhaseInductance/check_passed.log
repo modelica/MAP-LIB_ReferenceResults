@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 199 of 422
+Check of Modelica.Magnetic.FundamentalWave.Examples.Components.MultiPhaseInductance:
+The model has the same number of unknowns and equations: 344
+Check of Modelica.Magnetic.FundamentalWave.Examples.Components.MultiPhaseInductance successful.
+Save check log

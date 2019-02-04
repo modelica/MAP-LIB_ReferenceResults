@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 374 of 422
+Check of Modelica.Electrical.Analog.Examples.InvertingAmp:
+The model has the same number of unknowns and equations: 60
+Check of Modelica.Electrical.Analog.Examples.InvertingAmp successful.
+Save check log

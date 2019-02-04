@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 384 of 422
+Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode:
+The model has the same number of unknowns and equations: 171
+Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode successful.
+Save check log

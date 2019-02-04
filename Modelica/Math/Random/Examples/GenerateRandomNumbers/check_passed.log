@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 361 of 422
+Check of Modelica.Math.Random.Examples.GenerateRandomNumbers:
+The model has the same number of unknowns and equations: 44
+Check of Modelica.Math.Random.Examples.GenerateRandomNumbers successful.
+Save check log

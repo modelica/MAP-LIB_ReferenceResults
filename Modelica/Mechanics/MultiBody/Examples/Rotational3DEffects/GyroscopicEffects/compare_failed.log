@@ -1,0 +1,15 @@
+CSV Compare Version 2.0.0.1 (Amd64)
+Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Rotational3DEffects\GyroscopicEffects\GyroscopicEffects.csv
+. Time:        2018-12-17T11:37:16.6845373+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: GyroscopicEffects.bodyCylinder2.body.w_a[2]=>0.000722187939917964
+. Failed values:
+GyroscopicEffects.bodyCylinder2.body.w_a[2]=>0.000722187939917964
+GyroscopicEffects.bodyCylinder3.body.w_a[3]=>0.000574205798593491
+GyroscopicEffects.bodyCylinder3.body.w_a[2]=>0.000203204739749936
+GyroscopicEffects.revolute.w=>0.000122758090046831
+GyroscopicEffects.rotor1D.w=>0.000122752422947148
+GyroscopicEffects.bodyCylinder2.body.w_a[3]=>0.000110143555760531
+GyroscopicEffects.bodyCylinder3.body.w_a[1]=>5.16026218183038E-05

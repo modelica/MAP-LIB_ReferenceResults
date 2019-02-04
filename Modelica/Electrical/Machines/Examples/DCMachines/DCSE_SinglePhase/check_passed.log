@@ -1,0 +1,7 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 111 of 422
+Check of Modelica.Electrical.Machines.Examples.DCMachines.DCSE_SinglePhase:
+The model has the same number of unknowns and equations: 250
+Check of Modelica.Electrical.Machines.Examples.DCMachines.DCSE_SinglePhase successful.
+Save check log

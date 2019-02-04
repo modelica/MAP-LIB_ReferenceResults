@@ -1,0 +1,9 @@
+﻿ = true
+TestID: 2018-12-15_230315
+This is check 421 of 422
+Check of Modelica.Thermal.FluidHeatFlow.Examples.TestCylinder:
+The model has the same number of unknowns and equations: 61
+The model has the same number of unknowns and equations:
+  60+max([size(combiTimeTable.columns, 1); size(combiTimeTable.offset, 1)])
+Check of Modelica.Thermal.FluidHeatFlow.Examples.TestCylinder successful.
+Save check log
