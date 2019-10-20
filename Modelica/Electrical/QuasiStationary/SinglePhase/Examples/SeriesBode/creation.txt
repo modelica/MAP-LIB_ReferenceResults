@@ -2,23 +2,23 @@
 modelName="Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode"
 
 // Test info
-generationTool="Dymola Version 2019 (64-bit), 2018-04-11"
-generationDateAndTime="2018-12-15T23:33:02Z"
+generationTool="Dymola Version 2019 FD01 (64-bit), 2018-10-10"
+generationDateAndTime="2019-03-16T14:52:25Z"
 usedMSLURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
-usedMSLRevision=04edf76b  
-usedMSLHasLocalModifications= 
-usedMSLLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica"
-usedMSLLocalBranch="Branch_v3.2.3-rc.2"
-testPC="LTXLG16"
-testOS="Microsoft Windows 10 Pro (Version 10.0.17134 Build 17134, x64)"
-testUser="LeoGall"
-testDescription="Reg test MSL v3.2.3-rc.2"
+usedMSLRevision=2da48301b8c3071158aa5ada8693767e6717ca47
+usedMSLHasLocalModifications=
+usedMSLLocalPath="/opt/dymola-2019FD01-x86_64/Modelica/Library/Modelica 3.2.3"
+usedMSLLocalBranch="Branch_v3.2.3"
+testPC="Yogix"
+testOS="Linux Mint 19.1 64bit Kernel 4.18.0-15-generic"
+testUser="christiankral"
+testDescription="Reg test MSL v3.2.3"
 
 // Experiment settings (standardized annotation)
 StartTime=0
 StopTime=1 // from model
 Interval=0.0005 // used annotation from model, multiplied by 0.5
-Tolerance=1e-06 // used default, because no tolerance annotation in model 
+Tolerance=1e-06 // used default, because no tolerance annotation in model
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
