@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 80 of 91
-Translation of ModelicaTest.Fluid.TestPipesAndValves.LumpedPipeInitialization:
-The DAE has 247 scalar unknowns and 247 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 36
   Variables: 550
@@ -22,6 +17,7 @@ Translated Model
   Continuous time states: 2 scalars
   Time-varying variables: 57 scalars
   Alias variables: 105 scalars
+  Assumed default initial conditions: 1
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {2}
   Sizes after manipulation of the linear systems: {0}
@@ -34,13 +30,15 @@ Translated Model
     Sizes of nonlinear systems of equations: {27}
     Sizes after manipulation of the nonlinear systems: {3}
     Number of numerical Jacobians: 1
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   pipe.volume.medium.h
   pipe.volume.medium.p
- 
+
 Finished
-Save translation log
+Error: WARNINGS have been issued.
+Error: ERRORS have been issued.
+

@@ -1,40 +1,35 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 42 of 82
-Translation of ModelicaTest.Electrical.QuasiStatic.MultiPhase.Ideal:
-The DAE has 3927 scalar unknowns and 3927 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 1982
-  Variables: 4387
+  Number of components: 1973
+  Variables: 4334
   Constants: 49 (49 scalars)
   Parameters: 583 (635 scalars)
-  Unknowns: 3755 (3927 scalars)
+  Unknowns: 3702 (3858 scalars)
   Differentiated variables: 37 scalars
-  Equations: 1221
-  Nontrivial: 1048
+  Equations: 1181
+  Nontrivial: 1011
 Translated Model
-  Constants: 1337 scalars
+  Constants: 1292 scalars
   Free parameters: 116 scalars
   Parameter depending: 130 scalars
   Outputs: 6 scalars
   Continuous time states: 1 scalars
-  Time-varying variables: 657 scalars
-  Alias variables: 2371 scalars
+  Time-varying variables: 645 scalars
+  Alias variables: 2359 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {48, 48, 48}
   Sizes after manipulation of the linear systems: {18, 18, 18}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   short.plug_p.reference.gamma
- 
+
 Finished
-Save translation log
+

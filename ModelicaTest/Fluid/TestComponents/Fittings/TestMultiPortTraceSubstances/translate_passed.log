@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 6 of 91
-Translation of ModelicaTest.Fluid.TestComponents.Fittings.TestMultiPortTraceSubstances:
-The DAE has 752 scalar unknowns and 752 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 71
   Variables: 1092
@@ -18,10 +13,10 @@ Original Model
 Translated Model
   Constants: 643 scalars
   Free parameters: 99 scalars
-  Parameter depending: 192 scalars
+  Parameter depending: 199 scalars
   Continuous time states: 12 scalars
-  Time-varying variables: 234 scalars
-  Alias variables: 269 scalars
+  Time-varying variables: 240 scalars
+  Alias variables: 256 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {8, 8, 8}
   Sizes after manipulation of the linear systems: {2, 2, 2}
@@ -34,7 +29,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1}
     Number of numerical Jacobians: 6
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -51,6 +46,6 @@ Statically selected continuous time states
   volume3.medium.p
   volume3.medium.T
   volume3.medium.Xi[]
- 
+
 Finished
-Save translation log
+

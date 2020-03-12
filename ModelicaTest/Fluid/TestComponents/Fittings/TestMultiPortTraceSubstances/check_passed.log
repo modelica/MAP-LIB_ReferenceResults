@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 6 of 91
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestMultiPortTraceSubstances:
 The model has the same number of unknowns and equations: 752
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestMultiPortTraceSubstances successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Fittings.TestMultiPortTraceSubstances">ModelicaTest.Fluid.TestComponents.Fittings.TestMultiPortTraceSubstances</a> successful.
+

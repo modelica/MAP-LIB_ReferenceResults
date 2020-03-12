@@ -1,11 +1,8 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 106 of 113
-Translation of ModelicaTest.Rotational.InitializationConversion.Inertia:
+Translation of <a href="Modelica://ModelicaTest.Rotational.InitializationConversion.Inertia">ModelicaTest.Rotational.InitializationConversion.Inertia</a>:
 The DAE has 118 scalar unknowns and 118 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 20
   Variables: 154
@@ -26,7 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -55,6 +52,6 @@ Statically selected continuous time states
   inertia9.w
   inertia9a.phi
   inertia9a.w
- 
+
 Finished
-Save translation log
+

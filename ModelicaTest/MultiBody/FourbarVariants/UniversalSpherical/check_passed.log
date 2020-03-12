@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 5 of 113
-Check of ModelicaTest.MultiBody.FourbarVariants.UniversalSpherical:
-The model has the same number of unknowns and equations: 3142
+The model has the same number of unknowns and equations: 2242
 The model has the same number of unknowns and equations:
-  3086+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1)+size(fixedFrame4.x_label.lines, 1)+size(  fixedFrame4.y_label.lines, 1)+size(fixedFrame4.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.FourbarVariants.UniversalSpherical successful.
-Save check log
+  2186+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1)+size(fixedFrame4.x_label.lines, 1)+size(  fixedFrame4.y_label.lines, 1)+size(fixedFrame4.z_label.lines, 1))
+Check of <a href="Modelica://ModelicaTest.MultiBody.FourbarVariants.UniversalSpherical">ModelicaTest.MultiBody.FourbarVariants.UniversalSpherical</a> successful.
+

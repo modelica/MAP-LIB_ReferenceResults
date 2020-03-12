@@ -1,24 +1,27 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\Joints\UniversalSpherical\UniversalSpherical.csv
-. Time:        2018-12-16T14:40:30.3048276+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\MultiBody\Joints\UniversalSpherical\UniversalSpherical.csv
+. Time:        2020-03-12T06:56:24.7738051+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      failed
-. Biggest error: UniversalSpherical.bodyBox1.body.w_a[2]=>8.83888627948379E-05
+. Biggest error: UniversalSpherical.universal.w_b=>4494.9676899483
 . Failed values:
-UniversalSpherical.bodyBox1.body.w_a[2]=>8.83888627948379E-05
-UniversalSpherical.universal.w_a=>2.60007752576209E-05
-UniversalSpherical.bodyBox1.body.Q[2]=>2.09346872355467E-05
-UniversalSpherical.bodyBox1.body.Q[1]=>2.00612327459977E-05
-UniversalSpherical.bodyBox.body.w_a[2]=>5.01602054758202E-10
-UniversalSpherical.bodyBox2.body.w_a[2]=>3.56134111004566E-10
-UniversalSpherical.bodyBox.v_0[3]=>1.38239572265084E-10
-UniversalSpherical.bodyBox2.v_0[3]=>9.89814242819461E-11
-UniversalSpherical.bodyBox.body.w_a[1]=>5.65095856757451E-11
-UniversalSpherical.bodyBox.body.Q[2]=>4.34748427208541E-11
-UniversalSpherical.bodyBox.body.Q[1]=>2.05478041496509E-11
-UniversalSpherical.bodyBox2.body.w_a[1]=>1.62793107528178E-11
-UniversalSpherical.universalSpherical.rRod_0[3]=>1.16417681369318E-11
-UniversalSpherical.bodyBox2.body.Q[1]=>1.13304492027934E-11
-UniversalSpherical.bodyBox2.body.frame_a.r_0[3]=>4.75849359653092E-12
-UniversalSpherical.bodyBox2.body.Q[2]=>4.55936473215986E-12
+UniversalSpherical.universal.w_b=>4494.9676899483
+UniversalSpherical.universal.phi_b=>1.18889218128037
+UniversalSpherical.universal.w_a=>0.681492826391282
+UniversalSpherical.universal.phi_a=>0.634212029783317
+UniversalSpherical.bodyBox1.body.w_a[2]=>0.00282862658955026
+UniversalSpherical.bodyBox1.body.Q[2]=>0.000380409082057587
+UniversalSpherical.bodyBox1.body.Q[1]=>0.000360427076479826
+UniversalSpherical.bodyBox2.body.w_a[2]=>1.76900571419918E-08
+UniversalSpherical.bodyBox2.v_0[3]=>4.96179854986966E-09
+UniversalSpherical.bodyBox2.body.Q[2]=>1.56987362902639E-09
+UniversalSpherical.bodyBox2.body.Q[1]=>8.60656926122914E-10
+UniversalSpherical.bodyBox2.body.frame_a.r_0[3]=>6.28060983259529E-10
+UniversalSpherical.bodyBox.body.w_a[2]=>3.83075449586699E-10
+UniversalSpherical.bodyBox2.body.w_a[1]=>3.42942360955548E-10
+UniversalSpherical.bodyBox.v_0[3]=>7.36217023473229E-11
+UniversalSpherical.bodyBox.body.w_a[1]=>4.5748587213788E-11
+UniversalSpherical.bodyBox.body.Q[2]=>3.08016155116989E-11
+UniversalSpherical.bodyBox.body.Q[1]=>1.12576371867834E-11
+UniversalSpherical.universalSpherical.rRod_0[3]=>8.4156339755332E-12

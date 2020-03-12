@@ -1,9 +1,16 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Media\TestAllProperties\MoistAir\MoistAir.csv
-. Time:        2018-12-16T14:38:21.3022344+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Media\TestAllProperties\MoistAir\MoistAir.csv
+. Time:        2020-03-12T06:55:11.3606696+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      failed
-. Biggest error: MoistAir.MM=>116.266028887015
+. Biggest error: MoistAir.h_is=>0.125605507611688
 . Failed values:
-MoistAir.MM=>116.266028887015
+MoistAir.h_is=>0.125605507611688
+MoistAir.dddX[1]=>0.100193296051453
+MoistAir.dddX[2]=>0.100193296051453
+MoistAir.g=>0.000151072430347403
+MoistAir.s=>0.000142513409905139
+MoistAir.s_is=>0.000142513409905126
+MoistAir.f=>0.000136678911424129
+MoistAir.err_h_is=>1.81698031529363E-10

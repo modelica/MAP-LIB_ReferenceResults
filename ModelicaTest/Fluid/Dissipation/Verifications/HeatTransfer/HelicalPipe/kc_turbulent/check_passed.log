@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 17 of 46
-Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_turbulent:
 The model has the same number of unknowns and equations: 104
-Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_turbulent successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_turbulent">ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HelicalPipe.kc_turbulent</a> successful.
+

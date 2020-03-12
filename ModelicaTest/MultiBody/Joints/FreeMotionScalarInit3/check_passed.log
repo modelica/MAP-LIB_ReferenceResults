@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 45 of 113
-Check of ModelicaTest.MultiBody.Joints.FreeMotionScalarInit3:
-The model has the same number of unknowns and equations: 2613
+The model has the same number of unknowns and equations: 1843
 The model could not be deduced to be symbolically well-posed.
 The model has
-  2557+4*(size(frame_a.x_label.lines, 1)+size(frame_a.y_label.lines, 1)+size(  frame_a.z_label.lines, 1)+size(frame_a1.x_label.lines, 1)+size(  frame_a1.y_label.lines, 1)+size(frame_a1.z_label.lines, 1))
+  1787+4*(size(frame_a.x_label.lines, 1)+size(frame_a.y_label.lines, 1)+size(  frame_a.z_label.lines, 1)+size(frame_a1.x_label.lines, 1)+size(  frame_a1.y_label.lines, 1)+size(frame_a1.z_label.lines, 1))
 scalar unknowns and
-  2538+(if  not Connections.isRoot(body.frame_a.R) then 13 else 22)+(if   spring.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring.lineForce.fixedRotationAtFrame_b   then 12 else 3)+4*size(frame_a.x_label.lines, 1)+4*size(frame_a.y_label.lines,   1)+4*size(frame_a.z_label.lines, 1)+4*size(frame_a1.x_label.lines, 1)+4*size(  frame_a1.y_label.lines, 1)+4*size(frame_a1.z_label.lines, 1)
+  1768+(if  not Connections.isRoot(body.frame_a.R) then 13 else 22)+(if   spring.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring.lineForce.fixedRotationAtFrame_b   then 12 else 3)+4*size(frame_a.x_label.lines, 1)+4*size(frame_a.y_label.lines,   1)+4*size(frame_a.z_label.lines, 1)+4*size(frame_a1.x_label.lines, 1)+4*size(  frame_a1.y_label.lines, 1)+4*size(frame_a1.z_label.lines, 1)
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
-  2613
-Check of ModelicaTest.MultiBody.Joints.FreeMotionScalarInit3 successful.
-Save check log
+  1843
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.FreeMotionScalarInit3">ModelicaTest.MultiBody.Joints.FreeMotionScalarInit3</a> successful.
+

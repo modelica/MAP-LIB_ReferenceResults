@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_141956
-This is check 3 of 54
-Check of ModelicaTest.Blocks.LimResetIntegrator:
 The model has the same number of unknowns and equations: 15
-Check of ModelicaTest.Blocks.LimResetIntegrator successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Blocks.LimResetIntegrator">ModelicaTest.Blocks.LimResetIntegrator</a> successful.
+

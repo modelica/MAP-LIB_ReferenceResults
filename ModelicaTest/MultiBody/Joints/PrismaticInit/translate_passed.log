@@ -1,27 +1,21 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 61 of 113
-Translation of ModelicaTest.MultiBody.Joints.PrismaticInit:
-The DAE has 524 scalar unknowns and 524 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 28
-  Variables: 319
-  Constants: 1 (1 scalars)
-  Parameters: 123 (180 scalars)
-  Unknowns: 195 (524 scalars)
+  Variables: 281
+  Parameters: 119 (174 scalars)
+  Unknowns: 162 (449 scalars)
   Differentiated variables: 11 scalars
-  Equations: 169
-  Nontrivial: 108
+  Equations: 136
+  Nontrivial: 78
 Translated Model
-  Constants: 494 scalars
+  Constants: 434 scalars
   Free parameters: 41 scalars
-  Parameter depending: 51 scalars
+  Parameter depending: 45 scalars
   Continuous time states: 2 scalars
-  Time-varying variables: 42 scalars
-  Alias variables: 77 scalars
+  Time-varying variables: 37 scalars
+  Alias variables: 66 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {7}
   Sizes after manipulation of the linear systems: {0}
@@ -31,13 +25,13 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {5}
     Sizes after manipulation of the linear systems: {0}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   prismatic.s
   prismatic.v
- 
+
 Finished
-Save translation log
+

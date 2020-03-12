@@ -1,33 +1,28 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 85 of 113
-Translation of ModelicaTest.MultiBody.Sensors.CutForce:
-The DAE has 3774 scalar unknowns and 3774 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 179
-  Variables: 1729
-  Parameters: 396 (734 scalars)
-  Unknowns: 1333 (3774 scalars)
+  Number of components: 171
+  Variables: 1165
+  Parameters: 345 (675 scalars)
+  Unknowns: 820 (2595 scalars)
   Differentiated variables: 36 scalars
-  Equations: 1183
-  Nontrivial: 772
+  Equations: 674
+  Nontrivial: 330
 Translated Model
-  Constants: 2316 scalars
+  Constants: 1729 scalars
   Free parameters: 130 scalars
-  Parameter depending: 856 scalars
-  Alias variables: 1206 scalars
+  Parameter depending: 541 scalars
+  Alias variables: 870 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Finished
-Save translation log
+

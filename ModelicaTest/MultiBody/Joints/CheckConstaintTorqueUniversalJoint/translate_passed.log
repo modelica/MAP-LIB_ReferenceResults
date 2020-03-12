@@ -1,34 +1,28 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 82 of 82
-Translation of ModelicaTest.MultiBody.Joints.CheckConstaintTorqueUniversalJoint:
-The DAE has 1916 scalar unknowns and 1916 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 90
-  Variables: 893
-  Constants: 2 (2 scalars)
-  Parameters: 189 (288 scalars)
-  Unknowns: 702 (1916 scalars)
+  Number of components: 86
+  Variables: 600
+  Parameters: 163 (260 scalars)
+  Unknowns: 437 (1307 scalars)
   Differentiated variables: 25 scalars
-  Equations: 640
-  Nontrivial: 423
+  Equations: 377
+  Nontrivial: 195
 Translated Model
-  Constants: 1424 scalars
+  Constants: 1063 scalars
   Free parameters: 31 scalars
-  Parameter depending: 158 scalars
+  Parameter depending: 109 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 131 scalars
-  Alias variables: 462 scalars
+  Time-varying variables: 66 scalars
+  Alias variables: 298 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {11}
   Sizes after manipulation of the linear systems: {2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +31,6 @@ Statically selected continuous time states
   universal.phi_b
   universal.w_a
   universal.w_b
- 
+
 Finished
-Save translation log
+

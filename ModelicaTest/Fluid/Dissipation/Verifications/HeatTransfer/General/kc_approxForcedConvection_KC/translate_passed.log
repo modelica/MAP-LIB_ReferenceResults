@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 8 of 46
-Translation of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.General.kc_approxForcedConvection_KC:
-The DAE has 75 scalar unknowns and 75 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 14
   Variables: 82
@@ -25,9 +20,9 @@ Translated Model
   Sizes of nonlinear systems of equations: {1, 1, 1, 1, 1, 1}
   Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1}
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Finished
-Save translation log
+

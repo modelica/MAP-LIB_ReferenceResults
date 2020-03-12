@@ -1,16 +1,11 @@
-﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 1 of 46
-Translation of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapLaminar:
-The DAE has 137 scalar unknowns and 137 scalar equations.
 Warning: The initial conditions are not fully specified.
 Dymola has selected default initial conditions.
 Warning: Assuming fixed start value for the continuous states:
     dimlesslength(start = 0.01)
- 
- 
+
+
 Statistics
- 
+
 Original Model
   Number of components: 25
   Variables: 128
@@ -33,13 +28,14 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   dimlesslength
- 
+
 Finished
-Warning: WARNINGS have been issued.
-Save translation log
+Error: WARNINGS have been issued.
+Error: ERRORS have been issued.
+

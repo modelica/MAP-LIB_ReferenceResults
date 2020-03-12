@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 50 of 113
-Check of ModelicaTest.MultiBody.Joints.JointUPS:
-The model has the same number of unknowns and equations: 972
-Check of ModelicaTest.MultiBody.Joints.JointUPS successful.
-Save check log
+The model has the same number of unknowns and equations: 574
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.JointUPS">ModelicaTest.MultiBody.Joints.JointUPS</a> successful.
+

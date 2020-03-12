@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 54 of 54
-Translation of ModelicaTest.Magnetic.QuasiStatic.FluxTubes.NoPhysicalTestLeakage:
-The DAE has 252 scalar unknowns and 252 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 119
   Variables: 273
@@ -31,13 +26,13 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {5, 5, 9, 9}
     Sizes after manipulation of the linear systems: {0, 0, 0, 0}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   constantSource1.port_p.reference.gamma
   quarterHollowSphere.port_p.reference.gamma
- 
+
 Finished
-Save translation log
+

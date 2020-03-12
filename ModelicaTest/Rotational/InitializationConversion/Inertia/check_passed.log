@@ -1,7 +1,4 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 106 of 113
-Check of ModelicaTest.Rotational.InitializationConversion.Inertia:
+Check of <a href="Modelica://ModelicaTest.Rotational.InitializationConversion.Inertia">ModelicaTest.Rotational.InitializationConversion.Inertia</a>:
 The model has the same number of unknowns and equations: 118
-Check of ModelicaTest.Rotational.InitializationConversion.Inertia successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Rotational.InitializationConversion.Inertia">ModelicaTest.Rotational.InitializationConversion.Inertia</a> successful.
+

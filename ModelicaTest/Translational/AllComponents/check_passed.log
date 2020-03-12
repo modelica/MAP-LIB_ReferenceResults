@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 113 of 113
-Check of ModelicaTest.Translational.AllComponents:
 The model has the same number of unknowns and equations: 144
-Check of ModelicaTest.Translational.AllComponents successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Translational.AllComponents">ModelicaTest.Translational.AllComponents</a> successful.
+

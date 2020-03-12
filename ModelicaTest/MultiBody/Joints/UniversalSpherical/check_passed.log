@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 60 of 113
-Check of ModelicaTest.MultiBody.Joints.UniversalSpherical:
-The model has the same number of unknowns and equations: 5701
+The model has the same number of unknowns and equations: 4470
 The model has the same number of unknowns and equations:
-  5673+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Joints.UniversalSpherical successful.
-Save check log
+  4442+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.UniversalSpherical">ModelicaTest.MultiBody.Joints.UniversalSpherical</a> successful.
+

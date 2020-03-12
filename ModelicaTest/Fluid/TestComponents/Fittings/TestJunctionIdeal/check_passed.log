@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 2 of 91
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionIdeal:
 The model has the same number of unknowns and equations: 173
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionIdeal successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionIdeal">ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionIdeal</a> successful.
+

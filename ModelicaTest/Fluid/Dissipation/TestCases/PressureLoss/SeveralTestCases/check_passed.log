@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 46 of 46
-Check of ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.SeveralTestCases:
 The model has the same number of unknowns and equations: 338
-Check of ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.SeveralTestCases successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.SeveralTestCases">ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.SeveralTestCases</a> successful.
+

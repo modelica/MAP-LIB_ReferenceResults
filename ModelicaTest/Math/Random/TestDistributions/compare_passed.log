@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Math\Random\TestDistributions\TestDistributions.csv
-. Time:        2018-12-16T14:37:19.6034568+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Math\Random\TestDistributions\TestDistributions.csv
+. Time:        2020-03-12T06:54:37.5788772+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

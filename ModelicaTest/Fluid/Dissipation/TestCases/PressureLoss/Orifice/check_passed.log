@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 45 of 46
-Check of ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.Orifice:
 The model has the same number of unknowns and equations: 112
-Check of ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.Orifice successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.Orifice">ModelicaTest.Fluid.Dissipation.TestCases.PressureLoss.Orifice</a> successful.
+

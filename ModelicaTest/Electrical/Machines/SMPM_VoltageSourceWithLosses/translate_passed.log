@@ -1,24 +1,19 @@
-﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 40 of 54
-Translation of ModelicaTest.Electrical.Machines.SMPM_VoltageSourceWithLosses:
-The DAE has 745 scalar unknowns and 745 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 114
-  Variables: 976
+  Variables: 977
   Constants: 11 (11 scalars)
-  Parameters: 327 (410 scalars)
+  Parameters: 328 (411 scalars)
   Unknowns: 638 (745 scalars)
   Differentiated variables: 25 scalars
-  Equations: 421
-  Nontrivial: 326
+  Equations: 418
+  Nontrivial: 323
 Translated Model
-  Constants: 381 scalars
-  Free parameters: 34 scalars
-  Parameter depending: 156 scalars
+  Constants: 379 scalars
+  Free parameters: 35 scalars
+  Parameter depending: 158 scalars
   Continuous time states: 6 scalars
   Time-varying variables: 135 scalars
   Alias variables: 460 scalars
@@ -31,16 +26,16 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {3, 2}
     Sizes after manipulation of the linear systems: {2, 2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
+  dqCurrentController.PI_d.x
+  dqCurrentController.PI_q.x
   inertiaLoad.phi
   inertiaLoad.w
   smpm.idq_sr[]
-  voltageController.PI_d.x
-  voltageController.PI_q.x
- 
+
 Finished
-Save translation log
+

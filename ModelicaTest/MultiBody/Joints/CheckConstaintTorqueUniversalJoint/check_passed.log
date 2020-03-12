@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 82 of 82
-Check of ModelicaTest.MultiBody.Joints.CheckConstaintTorqueUniversalJoint:
-The model has the same number of unknowns and equations: 1916
+The model has the same number of unknowns and equations: 1307
 The model has the same number of unknowns and equations:
-  1888+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Joints.CheckConstaintTorqueUniversalJoint successful.
-Save check log
+  1279+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.CheckConstaintTorqueUniversalJoint">ModelicaTest.MultiBody.Joints.CheckConstaintTorqueUniversalJoint</a> successful.
+

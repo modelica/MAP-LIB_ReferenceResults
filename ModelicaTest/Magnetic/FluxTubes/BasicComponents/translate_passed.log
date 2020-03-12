@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 69 of 82
-Translation of ModelicaTest.FluxTubes.BasicComponents:
-The DAE has 118 scalar unknowns and 118 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 20
   Variables: 158
@@ -32,20 +27,20 @@ Translated Model
     Sizes of nonlinear systems of equations: {1}
     Sizes after manipulation of the nonlinear systems: {0}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   converter1.i
   eddyCurrent.Phi
- 
+
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There is one state to be selected from:
   converter.i
   converter.Phi
   leakageWithCoefficient.port_p.Phi
- 
+
 Finished
-Save translation log
+

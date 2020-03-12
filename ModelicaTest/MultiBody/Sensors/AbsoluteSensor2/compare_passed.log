@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\Sensors\AbsoluteSensor2\AbsoluteSensor2.csv
-. Time:        2018-12-16T14:42:01.9565622+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\MultiBody\Sensors\AbsoluteSensor2\AbsoluteSensor2.csv
+. Time:        2020-03-12T06:57:15.5799111+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

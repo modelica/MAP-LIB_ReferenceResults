@@ -1,78 +1,44 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 62 of 91
-Translation of ModelicaTest.Fluid.TestExamplesVariants.HeatingSystem_SteadyState:
-The DAE has 670 scalar unknowns and 670 scalar equations.
-Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
-They will be treated as if they had stateSelect = StateSelect.default:
-  heater.mediums[1].h
-  heater.mediums[1].p
-  pipe.mediums[1].h
-  pipe.mediums[1].p
-  pipe.mediums[2].h
-  pipe.mediums[2].p
-  pump.medium.h
-  pump.medium.p
-  radiator.mediums[1].h
-  radiator.mediums[1].p
-  tank.level
-  tank.medium.h
- 
-Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
-They will be treated as if they had stateSelect = StateSelect.default:
-  heater.mediums[1].h
-  heater.mediums[1].p
-  pipe.mediums[1].h
-  pipe.mediums[1].p
-  pipe.mediums[2].h
-  pipe.mediums[2].p
-  pump.medium.h
-  radiator.mediums[1].h
-  radiator.mediums[1].p
-  tank.level
-  tank.medium.h
- 
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 79
-  Variables: 1054
-  Constants: 64 (64 scalars)
+  Number of components: 71
+  Variables: 866
+  Constants: 8 (8 scalars)
   Parameters: 364 (366 scalars)
-  Unknowns: 626 (676 scalars)
-  Differentiated variables: 2 scalars
-  Equations: 432
+  Unknowns: 494 (544 scalars)
+  Differentiated variables: 1 scalars
+  Equations: 414
   Nontrivial: 331
 Translated Model
-  Constants: 359 scalars
-  Free parameters: 71 scalars
-  Parameter depending: 110 scalars
+  Constants: 298 scalars
+  Free parameters: 75 scalars
+  Parameter depending: 105 scalars
   Outputs: 4 scalars
   Continuous time states: 1 scalars
-  Time-varying variables: 181 scalars
-  Alias variables: 385 scalars
+  Time-varying variables: 157 scalars
+  Alias variables: 283 scalars
   Number of mixed real/discrete systems of equations: 1
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
-  Sizes of nonlinear systems of equations: {92, 1}
+  Sizes of nonlinear systems of equations: {89, 1}
   Sizes after manipulation of the nonlinear systems: {14, 1}
-  Number of numerical Jacobians: 2
+  Number of numerical Jacobians: 1
   Initialization problem
     Number of mixed real/discrete systems of equations: 1
     Sizes of linear systems of equations: {2, 2, 2, 2, 2, 2}
     Sizes after manipulation of the linear systems: {0, 0, 0, 0, 0, 0}
-    Sizes of nonlinear systems of equations: {87, 1}
+    Sizes of nonlinear systems of equations: {84, 1}
     Sizes after manipulation of the nonlinear systems: {13, 1}
-    Number of numerical Jacobians: 2
- 
+    Number of numerical Jacobians: 1
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   tank.m
- 
+
 Finished
-Warning: WARNINGS have been issued.
-Save translation log
+Error: WARNINGS have been issued.
+Error: ERRORS have been issued.
+

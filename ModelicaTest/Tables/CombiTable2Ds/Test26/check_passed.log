@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 22 of 82
-Check of ModelicaTest.Tables.CombiTable2D.Test26:
-The model has the same number of unknowns and equations: 7
-Check of ModelicaTest.Tables.CombiTable2D.Test26 successful.
-Save check log
+The model has the same number of unknowns and equations: 9
+Check of <a href="Modelica://ModelicaTest.Tables.CombiTable2Ds.Test26">ModelicaTest.Tables.CombiTable2Ds.Test26</a> successful.
+

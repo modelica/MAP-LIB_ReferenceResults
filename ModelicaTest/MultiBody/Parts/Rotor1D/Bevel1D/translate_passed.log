@@ -1,34 +1,28 @@
-﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 52 of 54
-Translation of ModelicaTest.MultiBody.Parts.Rotor1D.Bevel1D:
-The DAE has 2387 scalar unknowns and 2387 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 119
-  Variables: 1162
-  Constants: 2 (2 scalars)
-  Parameters: 308 (524 scalars)
-  Unknowns: 852 (2387 scalars)
+  Number of components: 115
+  Variables: 856
+  Parameters: 280 (492 scalars)
+  Unknowns: 576 (1753 scalars)
   Differentiated variables: 40 scalars
-  Equations: 742
-  Nontrivial: 505
+  Equations: 468
+  Nontrivial: 267
 Translated Model
-  Constants: 1948 scalars
+  Constants: 1571 scalars
   Free parameters: 68 scalars
-  Parameter depending: 252 scalars
+  Parameter depending: 189 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 140 scalars
-  Alias variables: 505 scalars
+  Time-varying variables: 84 scalars
+  Alias variables: 333 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {9, 4}
   Sizes after manipulation of the linear systems: {0, 0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +31,6 @@ Statically selected continuous time states
   gearConstraint.actuatedRevolute_b.w
   inertia2.phi
   inertia2.w
- 
+
 Finished
-Save translation log
+

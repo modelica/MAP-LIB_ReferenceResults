@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 11 of 46
-Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HeatExchanger.kc_roundTube:
 The model has the same number of unknowns and equations: 90
 The model could not be deduced to be symbolically well-posed.
 The model has
@@ -11,5 +7,5 @@ scalar unknowns and
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
   90
-Check of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HeatExchanger.kc_roundTube successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HeatExchanger.kc_roundTube">ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.HeatExchanger.kc_roundTube</a> successful.
+

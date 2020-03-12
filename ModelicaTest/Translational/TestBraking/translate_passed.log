@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 60 of 82
-Translation of ModelicaTest.Translational.TestBraking:
-The DAE has 73 scalar unknowns and 73 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 12
   Variables: 110
@@ -26,7 +21,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -42,6 +37,6 @@ Statically selected continuous time states
   mass4.v
   mass5.s
   mass5.v
- 
+
 Finished
-Save translation log
+

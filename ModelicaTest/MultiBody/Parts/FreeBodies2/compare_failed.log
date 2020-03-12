@@ -1,9 +1,0 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\MultiBody\Parts\FreeBodies2\FreeBodies2.csv
-. Time:        2018-12-16T14:41:14.4473974+01:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      failed
-. Biggest error: FreeBodies2.pointMass.v_0[2]=>0.00962644524209091
-. Failed values:
-FreeBodies2.pointMass.v_0[2]=>0.00962644524209091

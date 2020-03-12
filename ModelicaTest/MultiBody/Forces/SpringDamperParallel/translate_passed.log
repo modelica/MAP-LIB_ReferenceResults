@@ -1,27 +1,21 @@
-﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 49 of 54
-Translation of ModelicaTest.MultiBody.Forces.SpringDamperParallel:
-The DAE has 3591 scalar unknowns and 3591 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 175
-  Variables: 1695
-  Constants: 9 (9 scalars)
-  Parameters: 300 (376 scalars)
-  Unknowns: 1386 (3591 scalars)
+  Variables: 1230
+  Parameters: 262 (338 scalars)
+  Unknowns: 968 (2641 scalars)
   Differentiated variables: 57 scalars
-  Equations: 1275
-  Nontrivial: 825
+  Equations: 857
+  Nontrivial: 439
 Translated Model
-  Constants: 2372 scalars
+  Constants: 1814 scalars
   Free parameters: 51 scalars
-  Parameter depending: 167 scalars
+  Parameter depending: 103 scalars
   Continuous time states: 18 scalars
-  Time-varying variables: 393 scalars
-  Alias variables: 993 scalars
+  Time-varying variables: 313 scalars
+  Alias variables: 698 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3, 3, 3, 3, 3, 3, 3}
   Sizes after manipulation of the linear systems: {3, 3, 3, 3, 3, 3, 3}
@@ -31,7 +25,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {15, 15}
     Sizes after manipulation of the linear systems: {3, 3}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -50,6 +44,6 @@ Statically selected continuous time states
   universal1.phi_b
   universal1.w_a
   universal1.w_b
- 
+
 Finished
-Save translation log
+

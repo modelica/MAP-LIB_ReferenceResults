@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 19 of 113
-Check of ModelicaTest.MultiBody.Forces.FrameForcesAndTorques2:
-The model has the same number of unknowns and equations: 3238
+The model has the same number of unknowns and equations: 2145
 The model has the same number of unknowns and equations:
-  3210+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Forces.FrameForcesAndTorques2 successful.
-Save check log
+  2117+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+Check of <a href="Modelica://ModelicaTest.MultiBody.Forces.FrameForcesAndTorques2">ModelicaTest.MultiBody.Forces.FrameForcesAndTorques2</a> successful.
+

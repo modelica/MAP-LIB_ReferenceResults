@@ -1,14 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_102829
-This is check 19 of 129
-Check of ModelicaTest.Tables.CombiTable1D.Test25_usertab:
- 
-Checking function ModelicaTest.Tables.CombiTable1D.Test25_usertab.getUsertab:
-Check of ModelicaTest.Tables.CombiTable1D.Test25_usertab.getUsertab successful.
- 
-Local classes checked, checking ModelicaTest.Tables.CombiTable1D.Test25_usertab:
-The model has the same number of unknowns and equations: 6
+The model has the same number of unknowns and equations: 5
 The model has the same number of unknowns and equations:
-  4+2*size(t_new.columns, 1)
-Check of ModelicaTest.Tables.CombiTable1D.Test25_usertab successful.
-Save check log
+  3+2*size(t_new.columns, 1)
+Check of <a href="Modelica://ModelicaTest.Tables.CombiTable1Dv.Test25_usertab">ModelicaTest.Tables.CombiTable1Dv.Test25_usertab</a> successful.
+

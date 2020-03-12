@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_102510
-This is check 15 of 17
-Check of ModelicaTest.Blocks.Mean:
-The model has the same number of unknowns and equations: 59
-Check of ModelicaTest.Blocks.Mean successful.
-Save check log
+The model has the same number of unknowns and equations: 64
+Check of <a href="Modelica://ModelicaTest.Blocks.Mean">ModelicaTest.Blocks.Mean</a> successful.
+

@@ -1,35 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 11:30:26 2018)
+(generated: Thu Mar 12 00:30:19 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "UniversalSpherical.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
-
-... Warning message from dymosim
-At time T = 1.198841e-007 in current integration interval
-T_interval = 0.000000e+000 ... 4.000000e-004
-a large amount of work has been expended
-(about 500 steps) in the integrator. Probably the communication
-interval is too large or the system is stiff.
-
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 2
-   CPU-time for integration      : 195 seconds
-   CPU-time for one GRID interval: 39 milliseconds
-   Number of result points       : 5020
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 72302
-   Number of F-evaluations       : 2802644
-   Number of H-evaluations       : 77448
-   Number of Jacobian-evaluations: 124056
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 14
-   Minimum integration stepsize  : 3.77e-009
-   Maximum integration stepsize  : 0.0124
-   Maximum integration order     : 5
+   CPU-time for integration                : 1.01 seconds
+   CPU-time for one grid interval          : 0.202 milliseconds
+   CPU-time for initialization             : 0.002 seconds
+   Number of result points                 : 5019
+   Number of grid points                   : 5001
+   Number of accepted steps                : 783
+   Number of f-evaluations (dynamics)      : 1401
+   Number of crossing function evaluations : 5787
+   Number of Jacobian-evaluations          : 224
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 13
+   Minimum integration stepsize            : 8.94e-09
+   Maximum integration stepsize            : 0.0124
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

@@ -1,0 +1,14 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\MultiBody\InitializationConversion\Joints\Joints.csv
+. Time:        2020-03-12T06:55:58.8961016+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: Joints.bodyBox8.body.frame_a.r_0[1]=>0.0208791609670952
+. Failed values:
+Joints.bodyBox8.body.frame_a.r_0[1]=>0.0208791609670952
+Joints.bodyBox8.body.frame_a.r_0[2]=>0.00132322750645324
+Joints.planar.w=>0.000570142405136198
+Joints.freeMotion.v_rel_a[2]=>6.37929259013788E-05
+Joints.prismatic.v=>5.85817835964394E-06
+Joints.freeMotion.v_rel_a[1]=>5.4458689939255E-08

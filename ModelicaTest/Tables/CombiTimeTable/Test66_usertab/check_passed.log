@@ -1,14 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_102829
-This is check 124 of 129
-Check of ModelicaTest.Tables.CombiTimeTable.Test66_usertab:
- 
-Checking function ModelicaTest.Tables.CombiTimeTable.Test66_usertab.getUsertab:
-Check of ModelicaTest.Tables.CombiTimeTable.Test66_usertab.getUsertab successful.
- 
-Local classes checked, checking ModelicaTest.Tables.CombiTimeTable.Test66_usertab:
-The model has the same number of unknowns and equations: 7
+The model has the same number of unknowns and equations: 6
 The model has the same number of unknowns and equations:
-  6+max([size(t_new.columns, 1); size(t_new.offset, 1)])
-Check of ModelicaTest.Tables.CombiTimeTable.Test66_usertab successful.
-Save check log
+  5+max([size(t_new.columns, 1); size(t_new.offset, 1)])
+Check of <a href="Modelica://ModelicaTest.Tables.CombiTimeTable.Test66_usertab">ModelicaTest.Tables.CombiTimeTable.Test66_usertab</a> successful.
+

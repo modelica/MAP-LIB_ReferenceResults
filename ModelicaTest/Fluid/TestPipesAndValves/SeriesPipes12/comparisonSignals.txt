@@ -9,7 +9,3 @@ pipe3.mediums[1].h
 pipe3.mediums[1].p
 valve.filter.x[1]
 valve.filter.x[2]
-valveOpening1.a
-valveOpening1.b
-valveOpening1.last
-valveOpening1.nextEvent

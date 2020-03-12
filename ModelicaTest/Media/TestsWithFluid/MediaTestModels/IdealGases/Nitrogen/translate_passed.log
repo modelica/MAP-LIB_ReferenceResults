@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_111253_ModelicaTest_v3.2.3-rc.2_2019_Media
-This is translation 26 of 37
-Translation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.Nitrogen:
-The DAE has 130 scalar unknowns and 130 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 22
   Variables: 272
@@ -33,14 +28,14 @@ Translated Model
     Sizes after manipulation of the linear systems: {0}
     Sizes of nonlinear systems of equations: {1, 6}
     Sizes after manipulation of the nonlinear systems: {1, 1}
-    Number of numerical Jacobians: 0
- 
+    Number of numerical Jacobians: 1
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   volume.medium.p
   volume.medium.T
- 
+
 Finished
-Save translation log
+

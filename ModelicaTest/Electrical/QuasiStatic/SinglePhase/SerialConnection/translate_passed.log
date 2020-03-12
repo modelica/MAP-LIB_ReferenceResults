@@ -1,27 +1,22 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 39 of 82
-Translation of ModelicaTest.Electrical.QuasiStatic.SinglePhase.SerialConnection:
-The DAE has 316 scalar unknowns and 316 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 118
-  Variables: 375
+  Number of components: 117
+  Variables: 365
   Parameters: 59 (59 scalars)
-  Unknowns: 316 (316 scalars)
+  Unknowns: 306 (306 scalars)
   Differentiated variables: 11 scalars
-  Equations: 240
-  Nontrivial: 207
+  Equations: 231
+  Nontrivial: 199
 Translated Model
-  Constants: 33 scalars
+  Constants: 27 scalars
   Free parameters: 37 scalars
   Parameter depending: 103 scalars
   Outputs: 2 scalars
   Continuous time states: 1 scalars
-  Time-varying variables: 46 scalars
-  Alias variables: 156 scalars
+  Time-varying variables: 44 scalars
+  Alias variables: 154 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -31,12 +26,12 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2, 2}
     Sizes after manipulation of the linear systems: {2, 2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   currentSource.pin_p.reference.gamma
- 
+
 Finished
-Save translation log
+

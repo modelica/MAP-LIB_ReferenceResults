@@ -1,26 +1,21 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 66 of 113
-Translation of ModelicaTest.MultiBody.Parts.BodyShape:
-The DAE has 2051 scalar unknowns and 2051 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 85
-  Variables: 971
-  Parameters: 227 (331 scalars)
-  Unknowns: 744 (2051 scalars)
+  Number of components: 83
+  Variables: 697
+  Parameters: 202 (304 scalars)
+  Unknowns: 495 (1480 scalars)
   Differentiated variables: 28 scalars
-  Equations: 661
-  Nontrivial: 439
+  Equations: 413
+  Nontrivial: 216
 Translated Model
-  Constants: 1488 scalars
-  Free parameters: 57 scalars
-  Parameter depending: 152 scalars
+  Constants: 1158 scalars
+  Free parameters: 56 scalars
+  Parameter depending: 102 scalars
   Continuous time states: 12 scalars
-  Time-varying variables: 151 scalars
-  Alias variables: 534 scalars
+  Time-varying variables: 111 scalars
+  Alias variables: 357 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {4, 3, 3}
   Sizes after manipulation of the linear systems: {4, 3, 3}
@@ -31,7 +26,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {4}
     Sizes after manipulation of the nonlinear systems: {4}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -39,11 +34,11 @@ Statically selected continuous time states
   freeMotion.r_rel_a[]
   freeMotion.v_rel_a[]
   freeMotion.w_rel_b[]
- 
+
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There are 3 states to be selected from:
   freeMotion.Q[]
- 
+
 Finished
-Save translation log
+

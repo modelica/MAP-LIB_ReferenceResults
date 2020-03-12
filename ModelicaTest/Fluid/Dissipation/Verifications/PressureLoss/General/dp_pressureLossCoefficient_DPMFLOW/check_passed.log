@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 35 of 46
-Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_pressureLossCoefficient_DPMFLOW:
 The model has the same number of unknowns and equations: 41
-Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_pressureLossCoefficient_DPMFLOW successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_pressureLossCoefficient_DPMFLOW">ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_pressureLossCoefficient_DPMFLOW</a> successful.
+

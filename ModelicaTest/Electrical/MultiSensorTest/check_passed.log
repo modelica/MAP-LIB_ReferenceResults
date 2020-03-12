@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_141956
-This is check 41 of 54
-Check of ModelicaTest.Electrical.MulitSensorTest:
-The model has the same number of unknowns and equations: 1296
-Check of ModelicaTest.Electrical.MulitSensorTest successful.
-Save check log
+The model has the same number of unknowns and equations: 1308
+Check of <a href="Modelica://ModelicaTest.Electrical.MultiSensorTest">ModelicaTest.Electrical.MultiSensorTest</a> successful.
+

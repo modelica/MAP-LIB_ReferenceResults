@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 64 of 91
-Translation of ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_MomentumSteadyState:
-The DAE has 2025 scalar unknowns and 2025 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 150
   Variables: 1494
@@ -18,23 +13,23 @@ Original Model
 Translated Model
   Constants: 663 scalars
   Free parameters: 48 scalars
-  Parameter depending: 203 scalars
+  Parameter depending: 207 scalars
   Continuous time states: 60 scalars
   Time-varying variables: 850 scalars
-  Alias variables: 874 scalars
+  Alias variables: 870 scalars
   Number of mixed real/discrete systems of equations: 0
-  Sizes of linear systems of equations: {2, 8, 8, 8, 2, 8, 2, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 2, 8, 2, 8, 8, 8, 8, 8}
-  Sizes after manipulation of the linear systems: {0, 2, 2, 2, 0, 2, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 2, 0, 2, 2, 2, 2, 2}
-  Sizes of nonlinear systems of equations: {23, 23}
+  Sizes of linear systems of equations: {2, 8, 8, 8, 8, 2, 8, 2, 8, 8, 8, 8, 8, 8, 8, 2, 8, 2, 8, 8, 8, 8, 8, 8, 8}
+  Sizes after manipulation of the linear systems: {0, 2, 2, 2, 2, 0, 2, 0, 2, 2, 2, 2, 2, 2, 2, 0, 2, 0, 2, 2, 2, 2, 2, 2, 2}
+  Sizes of nonlinear systems of equations: {25, 25}
   Sizes after manipulation of the nonlinear systems: {3, 4}
   Number of numerical Jacobians: 2
   Initialization problem
     Sizes of linear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2}
     Sizes after manipulation of the linear systems: {0, 0, 0, 0, 0, 0, 0, 0}
-    Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 518}
+    Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 522}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1, 70}
     Number of numerical Jacobians: 9
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -99,6 +94,31 @@ Statically selected continuous time states
   pipe4.mediums[5].p
   pipe4.mediums[5].T
   pipe4.mediums[5].Xi[]
- 
+
+Conflicting start values
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.02, the start value of pipe1.flowModel.m_flows[1] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[2] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[3] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[4] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[5] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[6] given as 0.02.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.02, the start value of pipe4.flowModel.m_flows[6] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[5] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[4] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[3] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[2] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[1] given as 0.02.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.01, the start value of pipe3.flowModel.m_flows[6] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[5] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[4] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[3] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[2] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[1] given as 0.01.
 Finished
-Save translation log
+

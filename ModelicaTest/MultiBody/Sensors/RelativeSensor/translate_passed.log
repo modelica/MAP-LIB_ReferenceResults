@@ -1,34 +1,28 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 82 of 113
-Translation of ModelicaTest.MultiBody.Sensors.RelativeSensor:
-The DAE has 6715 scalar unknowns and 6715 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 443
-  Variables: 2573
-  Constants: 2 (2 scalars)
-  Parameters: 473 (681 scalars)
-  Unknowns: 2098 (6715 scalars)
+  Number of components: 433
+  Variables: 2104
+  Parameters: 431 (635 scalars)
+  Unknowns: 1673 (5730 scalars)
   Differentiated variables: 72 scalars
-  Equations: 1649
-  Nontrivial: 1337
+  Equations: 1229
+  Nontrivial: 970
 Translated Model
-  Constants: 4969 scalars
+  Constants: 4360 scalars
   Free parameters: 129 scalars
-  Parameter depending: 272 scalars
+  Parameter depending: 201 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 304 scalars
-  Alias variables: 1724 scalars
+  Time-varying variables: 212 scalars
+  Alias variables: 1463 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3, 3}
   Sizes after manipulation of the linear systems: {0, 0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +31,6 @@ Statically selected continuous time states
   revolute.w
   revolute1.phi
   revolute1.w
- 
+
 Finished
-Save translation log
+

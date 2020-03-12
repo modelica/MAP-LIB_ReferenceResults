@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 63 of 82
-Check of ModelicaTest.Utilities.TestWriteFile:
 The model has the same number of unknowns and equations: 1
-Check of ModelicaTest.Utilities.TestWriteFile successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Utilities.TestWriteFile">ModelicaTest.Utilities.TestWriteFile</a> successful.
+

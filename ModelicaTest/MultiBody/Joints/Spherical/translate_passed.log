@@ -1,26 +1,21 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 41 of 113
-Translation of ModelicaTest.MultiBody.Joints.Spherical:
-The DAE has 2157 scalar unknowns and 2157 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 82
-  Variables: 940
-  Parameters: 157 (225 scalars)
-  Unknowns: 783 (2157 scalars)
+  Variables: 615
+  Parameters: 129 (195 scalars)
+  Unknowns: 486 (1482 scalars)
   Differentiated variables: 13 scalars
-  Equations: 730
-  Nontrivial: 475
+  Equations: 433
+  Nontrivial: 205
 Translated Model
-  Constants: 1422 scalars
+  Constants: 1070 scalars
   Free parameters: 41 scalars
-  Parameter depending: 197 scalars
+  Parameter depending: 89 scalars
   Continuous time states: 6 scalars
-  Time-varying variables: 124 scalars
-  Alias variables: 598 scalars
+  Time-varying variables: 82 scalars
+  Alias variables: 395 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {4, 6}
   Sizes after manipulation of the linear systems: {4, 3}
@@ -31,17 +26,17 @@ Translated Model
     Sizes of nonlinear systems of equations: {13}
     Sizes after manipulation of the nonlinear systems: {4}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   body.w_a[]
- 
+
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There are 3 states to be selected from:
   body.Q[]
- 
+
 Finished
-Save translation log
+

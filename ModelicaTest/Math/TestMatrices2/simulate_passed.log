@@ -1,81 +1,82 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 11:49:22 2018)
+(generated: Thu Mar 12 00:16:09 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-continuous Lyapunov: r = 3.22739e-014
-continuous Lyapunov: r = 3.12617e-015
-continuous Sylvester: r = 1.72984e-014
-continuous Sylvester: r = 1.69948e-014
-continuous Riccati r = 2.32688e-014
-continuous Riccati r = 1.81983e-015
-discrete Lyapunov r = 8.97279e-016
-discrete Lyapunov r = 4.41152e-017
-discrete Lyapunov r = 9.18757e-016
-discrete Lyapunov r = 4.49561e-017
-discrete Sylvester r = 4.2076e-016
-discrete Sylvester r = 5.41465e-016
-discrete Sylvester r = 3.92187e-016
-discrete Sylvester r = 5.05109e-016
-discrete Riccati r = 7.61886e-015
-discrete Riccati r = 4.42418e-016
+continuous Lyapunov: r = 3.22739e-14
+continuous Lyapunov: r = 3.12617e-15
+continuous Sylvester: r = 1.72984e-14
+continuous Sylvester: r = 1.69948e-14
+continuous Riccati r = 2.32688e-14
+continuous Riccati r = 1.81983e-15
+discrete Lyapunov r = 8.97279e-16
+discrete Lyapunov r = 4.41152e-17
+discrete Lyapunov r = 9.18757e-16
+discrete Lyapunov r = 4.49561e-17
+discrete Sylvester r = 4.2076e-16
+discrete Sylvester r = 5.41465e-16
+discrete Sylvester r = 3.92187e-16
+discrete Sylvester r = 5.05109e-16
+discrete Riccati r = 7.61886e-15
+discrete Riccati r = 4.42418e-16
 trace r = 0
-condition number r = 8.88178e-016
+condition number r = 8.88178e-16
 condition number r = 0
 condition number r = 0
 condition number r = 0
 condition number r = 0
-Frobenius norm r = 1.77636e-015
-Hessenberg, r = 2.23838e-015
-RealSchur r = 1.08684e-016
-SingularValues, r = 6.96989e-015
+Frobenius norm r = 1.77636e-15
+Hessenberg, r = 2.23838e-15
+RealSchur r = 1.08684e-16
+Optimized toUpperHessenberg: r = 0
+SingularValues, r = 6.96989e-15
 SingularValues with zero dimensions
-Vectors.norm rf = 4.49478e-016
-continuous Lyapunov: r = 3.22739e-014
-continuous Lyapunov: r = 3.12617e-015
-continuous Sylvester: r = 1.72984e-014
-continuous Sylvester: r = 1.69948e-014
-continuous Riccati r = 2.32688e-014
-continuous Riccati r = 1.81983e-015
-discrete Lyapunov r = 8.97279e-016
-discrete Lyapunov r = 4.41152e-017
-discrete Lyapunov r = 9.18757e-016
-discrete Lyapunov r = 4.49561e-017
-discrete Sylvester r = 4.2076e-016
-discrete Sylvester r = 5.41465e-016
-discrete Sylvester r = 3.92187e-016
-discrete Sylvester r = 5.05109e-016
-discrete Riccati r = 7.61886e-015
-discrete Riccati r = 4.42418e-016
+continuous Lyapunov: r = 3.22739e-14
+continuous Lyapunov: r = 3.12617e-15
+continuous Sylvester: r = 1.72984e-14
+continuous Sylvester: r = 1.69948e-14
+continuous Riccati r = 2.32688e-14
+continuous Riccati r = 1.81983e-15
+discrete Lyapunov r = 8.97279e-16
+discrete Lyapunov r = 4.41152e-17
+discrete Lyapunov r = 9.18757e-16
+discrete Lyapunov r = 4.49561e-17
+discrete Sylvester r = 4.2076e-16
+discrete Sylvester r = 5.41465e-16
+discrete Sylvester r = 3.92187e-16
+discrete Sylvester r = 5.05109e-16
+discrete Riccati r = 7.61886e-15
+discrete Riccati r = 4.42418e-16
 trace r = 0
-condition number r = 8.88178e-016
+condition number r = 8.88178e-16
 condition number r = 0
 condition number r = 0
 condition number r = 0
 condition number r = 0
-Frobenius norm r = 1.77636e-015
-Hessenberg, r = 2.23838e-015
-RealSchur r = 1.08684e-016
-SingularValues, r = 6.96989e-015
+Frobenius norm r = 1.77636e-15
+Hessenberg, r = 2.23838e-15
+RealSchur r = 1.08684e-16
+Optimized toUpperHessenberg: r = 0
+SingularValues, r = 6.96989e-15
 SingularValues with zero dimensions
-Vectors.norm rf = 4.49478e-016
-... "result.mat" creating (simulation result file)
+... "TestMatrices2.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 0
-   CPU-time for integration      : 0.001 seconds
-   Number of result points       : 2
-   Number of GRID   points       : 1
-   Number of (successful) steps  : 0
-   Number of F-evaluations       : 0
-   Number of Jacobian-evaluations: 0
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 0
-   Maximum integration stepsize  : 0
-   Maximum integration order     : 0
+   CPU-time for integration                : 0.002 seconds
+   CPU-time for initialization             : 0.023 seconds
+   Number of result points                 : 2
+   Number of grid points                   : 1
+   Number of accepted steps                : 0
+   Number of f-evaluations (dynamics)      : 0
+   Number of Jacobian-evaluations          : 0
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 0
+   Maximum integration stepsize            : 0
+   Maximum integration order               : 0
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

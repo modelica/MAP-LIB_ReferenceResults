@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 65 of 91
-Translation of ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_StandardWater:
-The DAE has 1897 scalar unknowns and 1897 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 170
   Variables: 1604
@@ -35,7 +30,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 357}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1, 52}
     Number of numerical Jacobians: 1
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -84,6 +79,31 @@ Statically selected continuous time states
   pipe4.mediums[4].p
   pipe4.mediums[5].h
   pipe4.mediums[5].p
- 
+
+Conflicting start values
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.02, the start value of pipe1.flowModel.m_flows[1] given as 0.02.
+0.02, the start value of pipe1.flowModel.m_flows[2] given as 0.02.
+0.02, the start value of pipe1.flowModel.m_flows[3] given as 0.02.
+0.02, the start value of pipe1.flowModel.m_flows[4] given as 0.02.
+0.02, the start value of pipe1.flowModel.m_flows[5] given as 0.02.
+-0.02, the negative start value of pipe1.flowModel.m_flows[6] given as 0.02.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.01, the start value of pipe3.flowModel.m_flows[6] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[2] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[3] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[4] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[5] given as 0.01.
+-0.01, the negative start value of pipe3.flowModel.m_flows[1] given as 0.01.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.02, the start value of pipe4.flowModel.m_flows[6] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[1] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[2] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[3] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[4] given as 0.02.
+-0.02, the negative start value of pipe4.flowModel.m_flows[5] given as 0.02.
 Finished
-Save translation log
+

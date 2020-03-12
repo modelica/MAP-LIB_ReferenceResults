@@ -1,29 +1,22 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 60 of 113
-Translation of ModelicaTest.MultiBody.Joints.UniversalSpherical:
-The DAE has 5701 scalar unknowns and 5701 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 314
-  Variables: 2397
-  Constants: 2 (2 scalars)
-  Parameters: 525 (855 scalars)
-  Unknowns: 1870 (5701 scalars)
+  Number of components: 304
+  Variables: 1809
+  Parameters: 470 (794 scalars)
+  Unknowns: 1339 (4470 scalars)
   Differentiated variables: 88 scalars
-  Equations: 1679
-  Nontrivial: 1228
+  Equations: 1153
+  Nontrivial: 761
 Translated Model
-  Constants: 3643 scalars
+  Constants: 2891 scalars
   Free parameters: 94 scalars
-  Parameter depending: 346 scalars
+  Parameter depending: 273 scalars
   Outputs: 9 scalars
   Continuous time states: 30 scalars
-  Time-varying variables: 541 scalars
-  Alias variables: 1934 scalars
+  Time-varying variables: 411 scalars
+  Alias variables: 1595 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {22, 3, 29, 4, 4, 13, 11}
   Sizes after manipulation of the linear systems: {10, 3, 8, 4, 4, 7, 5}
@@ -36,7 +29,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {4, 1, 1, 4, 4}
     Sizes after manipulation of the nonlinear systems: {4, 0, 0, 4, 4}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -47,27 +40,27 @@ Statically selected continuous time states
   universal.phi_b
   universal.w_a
   universal.w_b
- 
+
 Dynamically selected continuous time states
 There are 5 sets of dynamic state selection.
 From set 1 there are 5 states to be selected from:
   bodyBox2.body.frame_a.r_0[]
   bodyBox2.body.Q[]
- 
+
 From set 2 there are 2 states to be selected from:
   universalSpherical.rRod_0[]
- 
+
 From set 3 there are 5 states to be selected from:
   bodyBox2.body.w_a[]
   bodyBox2.v_0[]
   der(bodyBox2.body.Q[])
- 
+
 From set 4 there are 6 states to be selected from:
   bodyBox.body.Q[]
   bodyBox1.body.Q[]
- 
+
 From set 5 there are 2 states to be selected from:
   bodyBox.v_0[]
- 
+
 Finished
-Save translation log
+

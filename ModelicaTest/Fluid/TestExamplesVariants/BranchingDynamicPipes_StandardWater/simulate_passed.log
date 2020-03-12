@@ -1,183 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 11:00:06 2018)
+(generated: Wed Mar 11 23:41:55 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe1.p_a_start+pipe1.p_b_start), 
-pipe1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe1.p_a_start+pipe1.p_b_start), pipe1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe1.p_a_start+pipe1.p_b_start), 
-pipe1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe1.p_a_start+pipe1.p_b_start), pipe1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe1.p_a_start+pipe1.p_b_start), 
-pipe1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe1.p_a_start+pipe1.p_b_start), pipe1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe2.p_a_start+pipe2.p_b_start), 
-pipe2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe2.p_a_start+pipe2.p_b_start), pipe2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe2.p_a_start+pipe2.p_b_start), 
-pipe2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe2.p_a_start+pipe2.p_b_start), pipe2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe2.p_a_start+pipe2.p_b_start), 
-pipe2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe2.p_a_start+pipe2.p_b_start), pipe2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe3.p_a_start+pipe3.p_b_start), 
-pipe3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe3.p_a_start+pipe3.p_b_start), pipe3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe3.p_a_start+pipe3.p_b_start), 
-pipe3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe3.p_a_start+pipe3.p_b_start), pipe3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe3.p_a_start+pipe3.p_b_start), 
-pipe3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe3.p_a_start+pipe3.p_b_start), pipe3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe4.p_a_start+pipe4.p_b_start), 
-pipe4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe4.p_a_start+pipe4.p_b_start), pipe4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe4.p_a_start+pipe4.p_b_start), 
-pipe4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe4.p_a_start+pipe4.p_b_start), pipe4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipe4.p_a_start+pipe4.p_b_start), 
-pipe4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipe4.p_a_start+pipe4.p_b_start), pipe4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-... "result.mat" creating (simulation result file)
+... "BranchingDynamicPipes_StandardWater.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 10
-   CPU-time for integration      : 25.9 seconds
-   CPU-time for one GRID interval: 2.59 milliseconds
-   Number of result points       : 10003
-   Number of GRID   points       : 10001
-   Number of (successful) steps  : 8636
-   Number of F-evaluations       : 17968
-   Number of H-evaluations       : 18636
-   Number of Jacobian-evaluations: 61
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.38e-007
-   Maximum integration stepsize  : 0.951
-   Maximum integration order     : 5
+   CPU-time for integration                : 16.2 seconds
+   CPU-time for one grid interval          : 1.62 milliseconds
+   CPU-time for initialization             : 0.127 seconds
+   Number of result points                 : 10003
+   Number of grid points                   : 10001
+   Number of accepted steps                : 8327
+   Number of f-evaluations (dynamics)      : 16683
+   Number of crossing function evaluations : 18327
+   Number of Jacobian-evaluations          : 69
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.38e-07
+   Maximum integration stepsize            : 0.951
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

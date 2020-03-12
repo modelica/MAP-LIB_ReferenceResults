@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 54 of 113
-Check of ModelicaTest.MultiBody.Joints.JointRRP:
-The model has the same number of unknowns and equations: 1755
-Check of ModelicaTest.MultiBody.Joints.JointRRP successful.
-Save check log
+The model has the same number of unknowns and equations: 1175
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.JointRRP">ModelicaTest.MultiBody.Joints.JointRRP</a> successful.
+

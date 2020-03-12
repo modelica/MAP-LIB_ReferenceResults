@@ -1,42 +1,45 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 16 of 91
-Translation of ModelicaTest.Fluid.TestComponents.Machines.TestControlledPump:
-The DAE has 289 scalar unknowns and 289 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 51
   Variables: 624
   Constants: 68 (68 scalars)
   Parameters: 221 (215 scalars)
   Unknowns: 335 (289 scalars)
-  Differentiated variables: 4 scalars
   Equations: 297
   Nontrivial: 235
 Translated Model
-  Constants: 209 scalars
-  Free parameters: 71 scalars
+  Constants: 207 scalars
+  Free parameters: 73 scalars
   Parameter depending: 71 scalars
   Time-varying variables: 74 scalars
   Alias variables: 147 scalars
   Number of mixed real/discrete systems of equations: 2
-  Sizes of linear systems of equations: {9, 8}
-  Sizes after manipulation of the linear systems: {2, 0}
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
   Sizes of nonlinear systems of equations: {10, 8, 1, 1}
   Sizes after manipulation of the nonlinear systems: {2, 1, 1, 1}
   Number of numerical Jacobians: 2
   Initialization problem
     Number of mixed real/discrete systems of equations: 2
-    Sizes of linear systems of equations: {9, 8}
-    Sizes after manipulation of the linear systems: {2, 0}
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 10, 8, 1, 1}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 2, 1, 1, 1}
     Number of numerical Jacobians: 2
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
+Conflicting start values
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0, the start value of pump.port_a.m_flow given as pump.m_flow_start.
+1, the start value of valve.m_flow given as valve.m_flow_start.
+0, the negative start value of pump.port_b.m_flow given as  -pump.m_flow_start.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+1, the start value of valve1.m_flow given as valve1.m_flow_start.
+0, the negative start value of pump1.port_b.m_flow given as  -pump1.m_flow_start.
+0, the start value of pump1.port_a.m_flow given as pump1.m_flow_start.
 Finished
-Save translation log
+

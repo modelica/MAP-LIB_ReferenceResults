@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 24 of 91
-Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefaultCV:
 The model has the same number of unknowns and equations: 146
-Check of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefaultCV successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefaultCV">ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefaultCV</a> successful.
+

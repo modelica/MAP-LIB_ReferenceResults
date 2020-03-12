@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:44:15 2018)
+(generated: Wed Mar 11 21:41:18 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "Test61.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 2.5
-   CPU-time for integration      : 0.335 seconds
-   CPU-time for one GRID interval: 0.067 milliseconds
-   Number of result points       : 5014
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 246
-   Number of F-evaluations       : 471
-   Number of H-evaluations       : 5246
-   Number of Jacobian-evaluations: 225
-   Number of (model) time events : 12
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 5e-007
-   Maximum integration stepsize  : 0.131
-   Maximum integration order     : 1
+   CPU-time for integration                : 0.075 seconds
+   CPU-time for one grid interval          : 0.015 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 5014
+   Number of grid points                   : 5001
+   Number of accepted steps                : 246
+   Number of f-evaluations (dynamics)      : 246
+   Number of crossing function evaluations : 5246
+   Number of Jacobian-evaluations          : 225
+   Number of model time events             : 12
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 5e-07
+   Maximum integration stepsize            : 0.131
+   Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

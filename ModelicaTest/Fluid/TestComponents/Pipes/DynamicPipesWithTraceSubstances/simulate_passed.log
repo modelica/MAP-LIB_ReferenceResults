@@ -1,15 +1,35 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:52:07 2018)
+(generated: Wed Mar 11 22:53:33 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "DynamicPipesWithTraceSubstances.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+Error: The following error was detected at time: 5.286404872763407E-10
+  regFun3(): Derivatives at data points do not allow co-monotone interpolation, as both are non-zero, of opposite sign and have an absolute value larger than machine eps (y0d = -0.585506, y1d = 0.000111208). Please correct arguments.
+  Failed condition: abs(y0d) < 1E-15 or abs(y1d) < 1E-15
+
+The stack of functions is:
+Modelica.Fluid.Utilities.regFun3
+massFlowRate_dp_staticHead_Unique25
+massFlowRate_dp_staticHead_Unique25(pipe8.flowModel.dps_fg[6], pipe8.flowModel.rhos[6], pipe8.flowModel.rhos[7], pipe8.flowModel.mus[6], pipe8.flowModel.mus[7], 0.1, pipe8.dimensions[5], 0.0, pipe8.crossAreas[5], pipe8.roughnesses[5], 0.16666666666666666*pipe8.flowModel.dp_small, 4000.0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 5.286404872763407E-10
+  regFun3(): Derivatives at data points do not allow co-monotone interpolation, as both are non-zero, of opposite sign and have an absolute value larger than machine eps (y0d = -0.585506, y1d = 0.000111208). Please correct arguments.
+  Failed condition: abs(y0d) < 1E-15 or abs(y1d) < 1E-15
+
+The stack of functions is:
+Modelica.Fluid.Utilities.regFun3
+massFlowRate_dp_staticHead_Unique25
+massFlowRate_dp_staticHead_Unique25(pipe8.flowModel.dps_fg[6], pipe8.flowModel.rhos[6], pipe8.flowModel.rhos[7], pipe8.flowModel.mus[6], pipe8.flowModel.mus[7], 0.1, pipe8.dimensions[5], 0.0, pipe8.crossAreas[5], pipe8.roughnesses[5], 0.16666666666666666*pipe8.flowModel.dp_small, 4000.0)
+Non-linear solver will attempt to handle this problem.
+
 
 ERROR: Failed to solve nonlinear system using Newton solver.
-  Time: 5.000189166417337
+  Time: 5.000189166417342
   Tag: simulation.nonlinear[1]
 
   Common causes:
@@ -25,9 +45,9 @@ ERROR: Failed to solve nonlinear system using Newton solver.
    * Simulation/Setup/Translation/List non-linear iteration variables
    * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
 
-  Jacobian inverse norm estimate: 2.90056e+011
-  Condition number estimate: 3.57571e+010
-  1-norm of the residual = 29.9991
+  Jacobian inverse norm estimate: 571337
+  Condition number estimate: 9.97765e+09
+  1-norm of the residual = 30.055
   The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
 
   Last value of the solution:
@@ -35,19 +55,19 @@ ERROR: Failed to solve nonlinear system using Newton solver.
     pipe8.state_b.T = 349.024
     pipe8.state_b.p = 133026
   Last value of the residual:
-    { -0.000692941, -29.9844, 0.0139736 }
+    { -0.000692941, -29.9844, 0.0699016 }
  
 Solver will attempt to handle this problem.
 
 
 ERROR: Failed to solve nonlinear system using Newton solver.
-  Time: 5.000187673785002
+  Time: 5.000187673785009
   Tag: simulation.nonlinear[1]
 
   For debugging help refer to the first error message of this type.
 
-  Jacobian inverse norm estimate: 1.13046e+006
-  Condition number estimate: 1.28987e+006
+  Jacobian inverse norm estimate: 1.13457e+06
+  Condition number estimate: 1.57618e+14
   1-norm of the residual = 24.0596
   The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
 
@@ -56,25 +76,26 @@ ERROR: Failed to solve nonlinear system using Newton solver.
     pipe8.state_b.T = 349.009
     pipe8.state_b.p = 132992
   Last value of the residual:
-    { -0.000395967, -24.0581, -0.00111122 }
+    { -0.000395967, -24.0581, -0.00111121 }
  
 Solver will attempt to handle this problem.
 
 Integration terminated successfully at T = 20
-   CPU-time for integration      : 2.02 seconds
-   CPU-time for one GRID interval: 0.404 milliseconds
-   Number of result points       : 5003
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 644
-   Number of F-evaluations       : 3890
-   Number of H-evaluations       : 5644
-   Number of Jacobian-evaluations: 162
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 5.29e-010
-   Maximum integration stepsize  : 6.09
-   Maximum integration order     : 5
+   CPU-time for integration                : 1.52 seconds
+   CPU-time for one grid interval          : 0.305 milliseconds
+   CPU-time for initialization             : 0.004 seconds
+   Number of result points                 : 5003
+   Number of grid points                   : 5001
+   Number of accepted steps                : 644
+   Number of f-evaluations (dynamics)      : 1460
+   Number of crossing function evaluations : 5644
+   Number of Jacobian-evaluations          : 162
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 5.29e-10
+   Maximum integration stepsize            : 6.09
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

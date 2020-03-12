@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 70 of 91
-Translation of ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes2:
-The DAE has 467 scalar unknowns and 467 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 61
   Variables: 877
@@ -32,7 +27,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 11}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 2}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -43,6 +38,15 @@ Statically selected continuous time states
   pipe2.mediums[1].p
   pipe3.mediums[1].h
   pipe3.mediums[1].p
- 
+
+Conflicting start values
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.0, the start value of pipe2.m_flows[2] given as 0.0.
+1, the start value of valveIncompressible.m_flow given as valveIncompressible.m_flow_start.
+A set of alias variables having conflicting start values of the same precedence
+This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
+0.0, the start value of pipe3.m_flows[2] given as 0.0.
+1, the start value of valveIncompressible1.m_flow given as valveIncompressible1.m_flow_start.
 Finished
-Save translation log
+

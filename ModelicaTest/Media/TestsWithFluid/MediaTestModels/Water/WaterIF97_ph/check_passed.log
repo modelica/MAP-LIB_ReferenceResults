@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111253
-This is check 35 of 37
-Check of ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph:
 The model has the same number of unknowns and equations: 160
-Check of ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph">ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph</a> successful.
+

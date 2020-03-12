@@ -1,91 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:58:11 2018)
+(generated: Wed Mar 11 23:37:53 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "HeatingSystem_FixedInitial.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
-Error: The following error was detected at time: 1.231271400756279E-008
-  Error in region computation of IF97 steam tables(p = 130000, h = -83189.3)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.medium.p, pump.medium.h, 0, 0)
-First evaluation failed for non-linear solver.
-
-Error: The following error was detected at time: 1.231271400756279E-008
-  Error in region computation of IF97 steam tables(p = 130000, h = -83189.3)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.medium.p, pump.medium.h, 0, 0)
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 1.231271400756279E-008
-  Error in region computation of IF97 steam tables(p = 130000, h = -83189.3)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.medium.p, pump.medium.h, 0, 0)
-Non-linear solver will attempt to handle this problem.
-
-
-ERROR: Failed to solve nonlinear system using Newton solver.
-  Time: 1.231271400756279E-008
-  Tag: simulation.nonlinear[1]
-
-  Common causes:
-   * The system of equations has no solution - the residual will be above zero.
-     - In some cases the event-logic can cause this.
-   * Starting values are too far from the solution.
-     - In rare cases this could occur at events.
-   * The equations are too discontinuous for the nonlinear solver - the residual will have knees.
-     - Likely caused by over-using noEvent.
-
-  To get more information consider the options:
-   * Simulation/Setup/Translation/Generate listing of translated Modelica code in dsmodel.mof
-   * Simulation/Setup/Translation/List non-linear iteration variables
-   * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
-
-  Jacobian inverse norm estimate: 1.11112e+006
-  Condition number estimate: 1.77156
-  Failed to evaluate any residual. Try to give better start-values.
-  The residual is large, using better start values can be a solution.
-
-  Last value of the solution:
-    tank.ports[2].p = 111114
-    pump.medium.h = -83189.3
-Error: The following error was detected at time: 1.231271400756279E-008
-  Error in region computation of IF97 steam tables(p = 130000, h = -83189.3)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.medium.p, pump.medium.h, 0, 0)
-First evaluation failed for non-linear solver.
-
-Solver will attempt to handle this problem.
-
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 6000
-   CPU-time for integration      : 4.3 seconds
-   CPU-time for one GRID interval: 0.86 milliseconds
-   Number of result points       : 5004
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 342
-   Number of F-evaluations       : 1367
-   Number of H-evaluations       : 5343
-   Number of Jacobian-evaluations: 68
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 2.05e-009
-   Maximum integration stepsize  : 285
-   Maximum integration order     : 5
+   CPU-time for integration                : 1.3 seconds
+   CPU-time for one grid interval          : 0.261 milliseconds
+   CPU-time for initialization             : 0.01 seconds
+   Number of result points                 : 5004
+   Number of grid points                   : 5001
+   Number of accepted steps                : 298
+   Number of f-evaluations (dynamics)      : 599
+   Number of crossing function evaluations : 5299
+   Number of Jacobian-evaluations          : 71
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 4.44e-09
+   Maximum integration stepsize            : 352
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

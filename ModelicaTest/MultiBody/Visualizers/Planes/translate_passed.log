@@ -1,0 +1,27 @@
+
+Statistics
+
+Original Model
+  Number of components: 88
+  Variables: 616
+  Parameters: 131 (183 scalars)
+  Unknowns: 485 (1485 scalars)
+  Equations: 433
+  Nontrivial: 204
+Translated Model
+  Constants: 1411 scalars
+  Free parameters: 29 scalars
+  Parameter depending: 70 scalars
+  Alias variables: 158 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Finished
+

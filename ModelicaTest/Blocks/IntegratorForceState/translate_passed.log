@@ -1,11 +1,8 @@
-﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 4 of 54
-Translation of ModelicaTest.Blocks.IntegratorForceState:
+Translation of <a href="Modelica://ModelicaTest.Blocks.IntegratorForceState">ModelicaTest.Blocks.IntegratorForceState</a>:
 The DAE has 7 scalar unknowns and 7 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 4
   Variables: 15
@@ -26,12 +23,12 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   gain.y
- 
+
 Finished
-Save translation log
+

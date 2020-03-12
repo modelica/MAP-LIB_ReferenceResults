@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 35 of 113
-Check of ModelicaTest.MultiBody.Joints.Revolute:
-The model has the same number of unknowns and equations: 2296
+The model has the same number of unknowns and equations: 1530
 The model has the same number of unknowns and equations:
-  2240+4*(size(frame_a.x_label.lines, 1)+size(frame_a.y_label.lines, 1)+size(  frame_a.z_label.lines, 1)+size(frame_a1.x_label.lines, 1)+size(  frame_a1.y_label.lines, 1)+size(frame_a1.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Joints.Revolute successful.
-Save check log
+  1474+4*(size(frame_a.x_label.lines, 1)+size(frame_a.y_label.lines, 1)+size(  frame_a.z_label.lines, 1)+size(frame_a1.x_label.lines, 1)+size(  frame_a1.y_label.lines, 1)+size(frame_a1.z_label.lines, 1))
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.Revolute">ModelicaTest.MultiBody.Joints.Revolute</a> successful.
+
