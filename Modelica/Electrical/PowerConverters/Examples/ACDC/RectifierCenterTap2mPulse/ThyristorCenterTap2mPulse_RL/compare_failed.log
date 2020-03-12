@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\PowerConverters\Examples\ACDC\RectifierCenterTap2mPulse\ThyristorCenterTap2mPulse_RL\ThyristorCenterTap2mPulse_RL.csv
+. Time:        2020-03-11T23:28:06.6997596+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: ThyristorCenterTap2mPulse_RL.rectifier.thyristor_p.idealThyristor[3].off=>3.32334337329547E-05
+. Failed values:
+ThyristorCenterTap2mPulse_RL.rectifier.thyristor_p.idealThyristor[3].off=>3.32334337329547E-05

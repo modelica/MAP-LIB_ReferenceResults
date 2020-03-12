@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 180 of 422
-Check of Modelica.Electrical.Spice3.Examples.CoupledInductors:
 The model has the same number of unknowns and equations: 103
-Check of Modelica.Electrical.Spice3.Examples.CoupledInductors successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Spice3.Examples.CoupledInductors">Modelica.Electrical.Spice3.Examples.CoupledInductors</a> successful.
+

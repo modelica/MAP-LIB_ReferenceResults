@@ -1,19 +1,14 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 199 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.Components.MultiPhaseInductance:
-The DAE has 344 scalar unknowns and 344 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 73
   Variables: 481
   Parameters: 161 (203 scalars)
   Unknowns: 320 (344 scalars)
   Differentiated variables: 8 scalars
-  Equations: 190
-  Nontrivial: 159
+  Equations: 188
+  Nontrivial: 157
 Translated Model
   Constants: 121 scalars
   Free parameters: 28 scalars
@@ -27,7 +22,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +32,6 @@ Statically selected continuous time states
   inductor_e.inductor[1].i
   inductor_e.inductor[2].i
   inductor_e.inductor[3].i
- 
+
 Finished
-Save translation log
+

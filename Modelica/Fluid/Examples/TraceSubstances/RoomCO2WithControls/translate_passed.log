@@ -1,27 +1,23 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 305 of 422
-Translation of Modelica.Fluid.Examples.TraceSubstances.RoomCO2WithControls:
-The DAE has 829 scalar unknowns and 829 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 93
-  Variables: 1007
+  Variables: 1005
   Constants: 148 (347 scalars)
-  Parameters: 313 (356 scalars)
+  Parameters: 311 (344 scalars)
   Unknowns: 546 (838 scalars)
   Differentiated variables: 36 scalars
   Equations: 463
   Nontrivial: 391
 Translated Model
-  Constants: 675 scalars
-  Free parameters: 99 scalars
-  Parameter depending: 118 scalars
+  Constants: 673 scalars
+  Free parameters: 89 scalars
+  Parameter depending: 122 scalars
   Continuous time states: 21 scalars
-  Time-varying variables: 307 scalars
-  Alias variables: 342 scalars
+  Time-varying variables: 308 scalars
+  Alias variables: 337 scalars
+  Assumed default initial conditions: 1
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {8, 8, 8, 8, 8}
   Sizes after manipulation of the linear systems: {2, 2, 2, 2, 2}
@@ -34,7 +30,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 7}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1}
     Number of numerical Jacobians: 7
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -58,6 +54,8 @@ Statically selected continuous time states
   volume.medium.p
   volume.medium.T
   volume.medium.Xi[]
- 
+
 Finished
-Save translation log
+Error: WARNINGS have been issued.
+Error: ERRORS have been issued.
+

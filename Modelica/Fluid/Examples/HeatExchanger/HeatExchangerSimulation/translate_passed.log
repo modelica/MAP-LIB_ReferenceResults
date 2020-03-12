@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 303 of 422
-Translation of Modelica.Fluid.Examples.HeatExchanger.HeatExchangerSimulation:
-The DAE has 3731 scalar unknowns and 3731 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 277
   Variables: 2315
@@ -34,7 +29,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {724}
     Sizes after manipulation of the nonlinear systems: {160}
     Number of numerical Jacobians: 1
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -120,6 +115,6 @@ Statically selected continuous time states
   HEX.pipe_2.mediums[20].p
   HEX.pipe_2.mediums[20].T
   HEX.wall.T[]
- 
+
 Finished
-Save translation log
+

@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 394 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_CurrentSource:
 The model has the same number of unknowns and equations: 826
 The model could not be deduced to be symbolically well-posed.
 The model has
-  814+2*currentController.m+voltageQuasiRMSSensor.ToSpacePhasor1.m+  currentQuasiRMSSensor.ToSpacePhasor1.m
+  814+2*dqToThreePhase.m+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar unknowns and
-  817+2*currentController.m+currentQuasiRMSSensor.ToSpacePhasor1.m
+  817+2*dqToThreePhase.m+currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar equations.
 However, exploiting the given bindings parameters gives the same number of unknowns and equations:
-  820+2*currentController.m
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_CurrentSource successful.
-Save check log
+  820+2*dqToThreePhase.m
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_CurrentSource">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_CurrentSource</a> successful.
+

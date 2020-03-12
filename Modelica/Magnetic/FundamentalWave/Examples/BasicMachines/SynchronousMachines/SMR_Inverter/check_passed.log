@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 208 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMR_Inverter:
-The model has the same number of unknowns and equations: 1346
+The model has the same number of unknowns and equations: 1347
 The model has the same number of unknowns and equations:
-  1343+currentRMSsensorE.ToSpacePhasor1.m
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMR_Inverter successful.
-Save check log
+  1344+currentRMSsensorE.ToSpacePhasor1.m
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_Inverter">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_Inverter</a> successful.
+

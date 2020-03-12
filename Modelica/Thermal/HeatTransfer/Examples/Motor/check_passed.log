@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 359 of 422
-Check of Modelica.Thermal.HeatTransfer.Examples.Motor:
 The model has the same number of unknowns and equations: 41
 The model has the same number of unknowns and equations:
   39+max([size(lossTable.columns, 1); size(lossTable.offset, 1)])
-Check of Modelica.Thermal.HeatTransfer.Examples.Motor successful.
-Save check log
+Check of <a href="Modelica://Modelica.Thermal.HeatTransfer.Examples.Motor">Modelica.Thermal.HeatTransfer.Examples.Motor</a> successful.
+

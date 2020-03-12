@@ -1,18 +1,16 @@
 [ResultCreationLog]
-modelName="Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode"
+modelName="Modelica.Electrical.QuasiStatic.SinglePhase.Examples.SeriesBode"
 
 // Test info
-generationTool="Dymola Version 2019 FD01 (64-bit), 2018-10-10"
-generationDateAndTime="2019-03-16T14:52:25Z"
-usedMSLURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
-usedMSLRevision=2da48301b8c3071158aa5ada8693767e6717ca47
-usedMSLHasLocalModifications=
-usedMSLLocalPath="/opt/dymola-2019FD01-x86_64/Modelica/Library/Modelica 3.2.3"
-usedMSLLocalBranch="Branch_v3.2.3"
-testPC="Yogix"
-testOS="Linux Mint 19.1 64bit Kernel 4.18.0-15-generic"
-testUser="christiankral"
-testDescription="Reg test MSL v3.2.3"
+generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
+generationDateAndTime="2020-03-11T18:41:35Z"
+gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
+gitRevision=e3217bfbc
+gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M Modelica/Resources/Documentation/Version-4.0.0/DifferencesTo323.html, M ModelicaServices/package.mo"
+testPC="LAPTOP-RUH9UABA"
+testOS="Microsoft Windows [Version 10.0.18362.657]"
+testUser="tbeu"
+testDescription="Reg test MSL v4.0.0-beta.2"
 
 // Experiment settings (standardized annotation)
 StartTime=0
@@ -22,12 +20,13 @@ Tolerance=1e-06 // used default, because no tolerance annotation in model
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
-SetDymolaCompiler("vs",{"MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 12.0/Vc"});
+SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
 Evaluate := false;
 OutputCPUtime := false;
-translateModel("Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode");
+translateModel("Modelica.Electrical.QuasiStatic.SinglePhase.Examples.SeriesBode");
 Advanced.StoreProtectedVariables := true;
 Advanced.EfficientMinorEvents := false;
+Advanced.PlaceDymolaSourceFirst := 2;
 experimentSetupOutput(
   textual=false,
   doublePrecision=true,
@@ -40,7 +39,7 @@ experimentSetupOutput(
   events=true,
   debug=false);
 simulateModel(
-  problem="Modelica.Electrical.QuasiStationary.SinglePhase.Examples.SeriesBode",
+  problem="Modelica.Electrical.QuasiStatic.SinglePhase.Examples.SeriesBode",
   startTime=0,
   stopTime=1,
   outputInterval=0.0005,

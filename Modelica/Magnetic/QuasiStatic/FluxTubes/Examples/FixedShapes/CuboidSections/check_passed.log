@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 403 of 422
-Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.FixedShapes.CuboidSections:
 The model has the same number of unknowns and equations: 188
-Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.FixedShapes.CuboidSections successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.FixedShapes.CuboidSections">Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.FixedShapes.CuboidSections</a> successful.
+

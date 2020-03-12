@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 418 of 422
-Check of Modelica.Thermal.FluidHeatFlow.Examples.WaterPump:
 The model has the same number of unknowns and equations: 127
-Check of Modelica.Thermal.FluidHeatFlow.Examples.WaterPump successful.
-Save check log
+Check of <a href="Modelica://Modelica.Thermal.FluidHeatFlow.Examples.WaterPump">Modelica.Thermal.FluidHeatFlow.Examples.WaterPump</a> successful.
+

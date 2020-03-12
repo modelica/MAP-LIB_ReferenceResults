@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Digital\Examples\NRXFER\NRXFER.csv
-. Time:        2018-12-17T11:27:26.9896547+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\Digital\Examples\NRXFER\NRXFER.csv
+. Time:        2020-03-11T23:23:31.6898490+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

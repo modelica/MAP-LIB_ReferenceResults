@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 103 of 422
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_VoltageSource:
-The model has the same number of unknowns and equations: 745
+The model has the same number of unknowns and equations: 775
 The model could not be deduced to be symbolically well-posed.
 The model has
-  739+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m
+  769+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar unknowns and
-  742+currentQuasiRMSSensor.ToSpacePhasor1.m
+  772+currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar equations.
 However, exploiting the given bindings parameters gives the same number of unknowns and equations:
-  745
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_VoltageSource successful.
-Save check log
+  775
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_VoltageSource">Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_VoltageSource</a> successful.
+

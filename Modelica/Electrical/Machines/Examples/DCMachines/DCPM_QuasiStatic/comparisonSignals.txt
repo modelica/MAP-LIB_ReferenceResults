@@ -1,5 +1,8 @@
 time
-dcpm1.la.i
+dcpm1.ia
+dcpm1.tauElectrical
+dcpm2.ia
+dcpm2.tauElectrical
 loadInertia1.phi
 loadInertia1.w
 loadInertia2.phi

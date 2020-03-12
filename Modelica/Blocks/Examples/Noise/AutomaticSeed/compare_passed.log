@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Blocks\Examples\NoiseExamples\AutomaticSeed\AutomaticSeed.csv
-. Time:        2018-12-17T11:26:41.4314579+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Blocks\Examples\Noise\AutomaticSeed\AutomaticSeed.csv
+. Time:        2020-03-11T23:22:45.4797676+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

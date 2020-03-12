@@ -1,40 +1,35 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 169 of 422
-Translation of Modelica.Electrical.QuasiStationary.Machines.Examples.TransformerTestbench:
-The DAE has 5161 scalar unknowns and 5161 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 2625
-  Variables: 5638
+  Number of components: 2589
+  Variables: 5426
   Constants: 6 (6 scalars)
   Parameters: 679 (725 scalars)
-  Unknowns: 4953 (5161 scalars)
+  Unknowns: 4741 (4885 scalars)
   Differentiated variables: 40 scalars
-  Equations: 1460
-  Nontrivial: 1237
+  Equations: 1303
+  Nontrivial: 1092
 Translated Model
-  Constants: 1917 scalars
+  Constants: 1737 scalars
   Free parameters: 122 scalars
-  Parameter depending: 176 scalars
+  Parameter depending: 160 scalars
   Outputs: 4 scalars
   Continuous time states: 1 scalars
-  Time-varying variables: 679 scalars
-  Alias variables: 2998 scalars
+  Time-varying variables: 637 scalars
+  Alias variables: 2960 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {67}
-  Sizes after manipulation of the linear systems: {14}
+  Sizes after manipulation of the linear systems: {13}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   voltageSensorS.plug_p.reference.gamma
- 
+
 Finished
-Save translation log
+

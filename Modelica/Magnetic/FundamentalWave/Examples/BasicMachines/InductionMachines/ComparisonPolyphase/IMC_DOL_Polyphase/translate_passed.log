@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 201 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_DOL_MultiPhase:
-The DAE has 2135 scalar unknowns and 2135 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 425
   Variables: 2705
@@ -13,8 +8,8 @@ Original Model
   Parameters: 708 (840 scalars)
   Unknowns: 1974 (2135 scalars)
   Differentiated variables: 50 scalars
-  Equations: 1071
-  Nontrivial: 879
+  Equations: 1065
+  Nontrivial: 873
 Translated Model
   Constants: 734 scalars
   Free parameters: 55 scalars
@@ -31,7 +26,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {18, 2, 2, 2, 2}
     Sizes after manipulation of the linear systems: {5, 0, 0, 2, 2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -48,6 +43,6 @@ Statically selected continuous time states
   loadInertia3.w
   loadInertiaM.phi
   loadInertiaM.w
- 
+
 Finished
-Save translation log
+

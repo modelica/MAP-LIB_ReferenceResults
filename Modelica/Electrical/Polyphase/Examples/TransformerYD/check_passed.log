@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 122 of 422
-Check of Modelica.Electrical.MultiPhase.Examples.TransformerYD:
 The model has the same number of unknowns and equations: 285
-Check of Modelica.Electrical.MultiPhase.Examples.TransformerYD successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Polyphase.Examples.TransformerYD">Modelica.Electrical.Polyphase.Examples.TransformerYD</a> successful.
+

@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 93 of 422
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Transformer:
 The model has the same number of unknowns and equations: 934
 The model has the same number of unknowns and equations:
   931+currentQuasiRMSSensor.ToSpacePhasor1.m
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Transformer successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.InductionMachines.IMC_Transformer">Modelica.Electrical.Machines.Examples.InductionMachines.IMC_Transformer</a> successful.
+

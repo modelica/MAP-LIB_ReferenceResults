@@ -1,9 +1,0 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 333 of 422
-Check of Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.SimpleNaturalGas:
-Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.SimpleNaturalGas specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.SimpleNaturalGas instead.
-The model has the same number of unknowns and equations: 177
-Check of Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.SimpleNaturalGas successful.
-Warning: WARNINGS have been issued.
-Save check log

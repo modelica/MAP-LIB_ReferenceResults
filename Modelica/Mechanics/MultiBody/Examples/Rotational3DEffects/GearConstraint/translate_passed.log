@@ -1,34 +1,28 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 253 of 422
-Translation of Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.GearConstraint:
-The DAE has 2396 scalar unknowns and 2396 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 120
-  Variables: 1169
-  Constants: 2 (2 scalars)
-  Parameters: 306 (516 scalars)
-  Unknowns: 861 (2396 scalars)
+  Number of components: 116
+  Variables: 863
+  Parameters: 278 (484 scalars)
+  Unknowns: 585 (1762 scalars)
   Differentiated variables: 49 scalars
-  Equations: 751
-  Nontrivial: 511
+  Equations: 477
+  Nontrivial: 273
 Translated Model
-  Constants: 1938 scalars
+  Constants: 1561 scalars
   Free parameters: 68 scalars
-  Parameter depending: 252 scalars
+  Parameter depending: 189 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 154 scalars
-  Alias variables: 502 scalars
+  Time-varying variables: 98 scalars
+  Alias variables: 330 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {9, 4}
   Sizes after manipulation of the linear systems: {0, 0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +31,6 @@ Statically selected continuous time states
   gearConstraint.actuatedRevolute_b.w
   inertia2.phi
   inertia2.w
- 
+
 Finished
-Save translation log
+

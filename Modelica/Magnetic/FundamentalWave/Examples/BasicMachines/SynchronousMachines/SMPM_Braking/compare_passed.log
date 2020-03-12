@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\SynchronousMachines\SMPM_Braking\SMPM_Braking.csv
+. Time:        2020-03-11T23:41:34.1736974+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

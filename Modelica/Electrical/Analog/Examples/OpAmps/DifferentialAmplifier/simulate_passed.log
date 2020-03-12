@@ -1,0 +1,818 @@
+Log-file of program ./dymosim
+(generated: Wed Mar 11 18:03:13 2020)
+
+dymosim started
+... "dsin.txt" loading (dymosim input file)
+... "DifferentialAmplifier.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.004
+  Tag: simulation.nonlinear[1]
+
+  Common causes:
+   * The system of equations has no solution - the residual will be above zero.
+     - In some cases the event-logic can cause this.
+   * Starting values are too far from the solution.
+     - In rare cases this could occur at events.
+   * The equations are too discontinuous for the nonlinear solver - the residual will have knees.
+     - Likely caused by over-using noEvent.
+
+  To get more information consider the options:
+   * Simulation/Setup/Translation/Generate listing of translated Modelica code in dsmodel.mof
+   * Simulation/Setup/Translation/List non-linear iteration variables
+   * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
+
+  Jacobian inverse norm estimate: 2.21365
+  Condition number estimate: 11714
+  1-norm of the residual = 9.74986
+
+  Last value of the solution:
+    resistor1.p.i = 0.00214312
+    resistorGround.p.i = -0.0003053
+    resistor2.p.i = 0.00039504
+  Last value of the residual:
+    { -7.22399, 2.52542, 0.000451424 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.006350000000000001
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.76935
+  Condition number estimate: 11.9594
+  1-norm of the residual = 23.0736
+
+  Last value of the solution:
+    resistor1.p.i = -0.00101601
+    resistorGround.p.i = -0.00132612
+    resistor2.p.i = 0.00136876
+  Last value of the residual:
+    { -12.3375, 5.63063, -5.10544 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.00675
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.39275
+  Condition number estimate: 2463.85
+  1-norm of the residual = 16.6015
+
+  Last value of the solution:
+    resistor1.p.i = -0.0014735
+    resistorGround.p.i = -0.00140106
+    resistor2.p.i = 0.00148207
+  Last value of the residual:
+    { -11.0437, 2.77511, -2.78267 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0108
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78323
+  Condition number estimate: 11.9766
+  1-norm of the residual = 13.1873
+
+  Last value of the solution:
+    resistor1.p.i = -0.00434066
+    resistorGround.p.i = -0.00118785
+    resistor2.p.i = 0.00110217
+  Last value of the residual:
+    { 6.75457, -3.24146, 3.1913 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0137
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1.58577
+  Condition number estimate: 232.85
+  1-norm of the residual = 12.8093
+
+  Last value of the solution:
+    resistor1.p.i = -0.0024916
+    resistorGround.p.i = 0.0001519
+    resistor2.p.i = -0.000245543
+  Last value of the residual:
+    { 7.17358, -2.4515, 3.18417 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0141
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 7.49759
+  Condition number estimate: 5.3584
+  1-norm of the residual = 32.3131
+
+  Last value of the solution:
+    resistor1.p.i = -0.00202703
+    resistorGround.p.i = 0.000352832
+    resistor2.p.i = -0.000437438
+  Last value of the residual:
+    { 5.733, -1.55975, -25.0204 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.01875
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 0.708485
+  Condition number estimate: 190.277
+  1-norm of the residual = 9.11023
+
+  Last value of the solution:
+    resistor1.p.i = 0.00367855
+    resistorGround.p.i = 0.00165522
+    resistor2.p.i = -0.00154752
+  Last value of the residual:
+    { -5.56163, 1.98297, -1.56562 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.02185
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1.45805
+  Condition number estimate: 7484.16
+  1-norm of the residual = 9.48996
+
+  Last value of the solution:
+    resistor1.p.i = 0.0040597
+    resistorGround.p.i = 0.000773508
+    resistor2.p.i = -0.000668248
+  Last value of the residual:
+    { -5.80716, 1.9031, -1.7797 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0272
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77525
+  Condition number estimate: 11.9641
+  1-norm of the residual = 11.4123
+
+  Last value of the solution:
+    resistor1.p.i = -0.00214334
+    resistorGround.p.i = -0.00156183
+    resistor2.p.i = 0.0014623
+  Last value of the residual:
+    { 6.36531, -2.24052, 2.80648 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0409
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78319
+  Condition number estimate: 11.9773
+  1-norm of the residual = 9.58175
+
+  Last value of the solution:
+    resistor1.p.i = 0.00437031
+    resistorGround.p.i = 0.00117004
+    resistor2.p.i = -0.00106179
+  Last value of the residual:
+    { -5.40644, 1.80862, -2.36669 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0419
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77953
+  Condition number estimate: 11.9775
+  1-norm of the residual = 24.2184
+
+  Last value of the solution:
+    resistor1.p.i = 0.00404155
+    resistorGround.p.i = 0.000746462
+    resistor2.p.i = -0.000682073
+  Last value of the residual:
+    { 2.77957, -1.38966, 20.0492 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.05090873561883082
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 0.395856
+  Condition number estimate: 12.1567
+  1-norm of the residual = 9.69406
+
+  Last value of the solution:
+    resistor1.p.i = -0.00436898
+    resistorGround.p.i = -0.00117093
+    resistor2.p.i = 0.0010577
+  Last value of the residual:
+    { 6.0174, -1.48402, 2.19264 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.06192441860457898
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 43.9342
+  Condition number estimate: 117306
+  1-norm of the residual = 10.3557
+
+  Last value of the solution:
+    resistor1.p.i = 0.0040215
+    resistorGround.p.i = 0.000739519
+    resistor2.p.i = -0.000632545
+  Last value of the residual:
+    { -6.05303, 2.04702, -2.25562 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.06605
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.96161
+  Condition number estimate: 12.1242
+  1-norm of the residual = 13.1855
+
+  Last value of the solution:
+    resistor1.p.i = -0.000665853
+    resistorGround.p.i = -0.00125837
+    resistor2.p.i = 0.00116632
+  Last value of the residual:
+    { 7.38953, -2.47741, 3.31851 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.06915
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 7.39554
+  Condition number estimate: 1037.24
+  1-norm of the residual = 9.63392
+
+  Last value of the solution:
+    resistor1.p.i = -0.00394742
+    resistorGround.p.i = -0.00161692
+    resistor2.p.i = 0.00150805
+  Last value of the residual:
+    { 5.52148, -1.90334, 2.2091 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0751
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1.02929
+  Condition number estimate: 4.03299
+  1-norm of the residual = 18.8472
+
+  Last value of the solution:
+    resistor1.p.i = -0.00066625
+    resistorGround.p.i = 0.000862722
+    resistor2.p.i = -0.000804086
+  Last value of the residual:
+    { -9.71075, 4.61811, -4.5183 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.08120000000000001
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78232
+  Condition number estimate: 11.9776
+  1-norm of the residual = 9.753
+
+  Last value of the solution:
+    resistor1.p.i = 0.00431281
+    resistorGround.p.i = 0.00105352
+    resistor2.p.i = -0.000946671
+  Last value of the residual:
+    { -5.43769, 1.90051, -2.4148 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.08467457153320948
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2.22555
+  Condition number estimate: 9021.72
+  1-norm of the residual = 11.2265
+
+  Last value of the solution:
+    resistor1.p.i = 0.00130007
+    resistorGround.p.i = -0.000632825
+    resistor2.p.i = 0.00072269
+  Last value of the residual:
+    { -8.40402, 2.69402, 0.128423 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.08555
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1.15556
+  Condition number estimate: 1.58814
+  1-norm of the residual = 17.1917
+
+  Last value of the solution:
+    resistor1.p.i = 4.68272E-05
+    resistorGround.p.i = -0.00105484
+    resistor2.p.i = 0.000988076
+  Last value of the residual:
+    { 8.8685, -4.21652, 4.10666 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.0881
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 1.24509
+  Condition number estimate: 6988.13
+  1-norm of the residual = 9.12426
+
+  Last value of the solution:
+    resistor1.p.i = -0.00311957
+    resistorGround.p.i = -0.0016628
+    resistor2.p.i = 0.00155892
+  Last value of the residual:
+    { 5.72778, -1.98993, 1.40655 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.09230000000000001
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77736
+  Condition number estimate: 11.9774
+  1-norm of the residual = 10.7641
+
+  Last value of the solution:
+    resistor1.p.i = -0.00378624
+    resistorGround.p.i = -0.000559067
+    resistor2.p.i = 0.000456955
+  Last value of the residual:
+    { 5.97526, -2.11248, 2.67636 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.09323698324279241
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77132
+  Condition number estimate: 11.9755
+  1-norm of the residual = 12.028
+
+  Last value of the solution:
+    resistor1.p.i = -0.00298607
+    resistorGround.p.i = -8.59335E-05
+    resistor2.p.i = -1.07097E-05
+  Last value of the residual:
+    { 6.69229, -2.37272, 2.96296 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1172664102699409
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77568
+  Condition number estimate: 11.9645
+  1-norm of the residual = 11.3226
+
+  Last value of the solution:
+    resistor1.p.i = 0.00222329
+    resistorGround.p.i = 0.00157521
+    resistor2.p.i = -0.00147248
+  Last value of the residual:
+    { -6.59514, 2.18161, -2.54584 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1222
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77793
+  Condition number estimate: 11.9775
+  1-norm of the residual = 10.6493
+
+  Last value of the solution:
+    resistor1.p.i = 0.0038551
+    resistorGround.p.i = 0.000608825
+    resistor2.p.i = -0.000503505
+  Last value of the residual:
+    { -6.18136, 2.10665, -2.36127 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1255
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.74735
+  Condition number estimate: 3.2478
+  1-norm of the residual = 30.4296
+
+  Last value of the solution:
+    resistor1.p.i = 0.000195249
+    resistorGround.p.i = -0.000993769
+    resistor2.p.i = 0.00108007
+  Last value of the residual:
+    { -9.50441, 2.92882, 17.9964 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1302
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2.2354
+  Condition number estimate: 84.2243
+  1-norm of the residual = 9.39303
+
+  Last value of the solution:
+    resistor1.p.i = -0.00435521
+    resistorGround.p.i = -0.0013999
+    resistor2.p.i = 0.0012901
+  Last value of the residual:
+    { 5.37293, -1.74072, 2.27938 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1304
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.26754
+  Condition number estimate: 2378.1
+  1-norm of the residual = 8.45432
+
+  Last value of the solution:
+    resistor1.p.i = -0.00438074
+    resistorGround.p.i = -0.00134281
+    resistor2.p.i = 0.00123136
+  Last value of the residual:
+    { 5.54746, -1.49631, -1.41055 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.13295
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.7733
+  Condition number estimate: 11.9764
+  1-norm of the residual = 11.6084
+
+  Last value of the solution:
+    resistor1.p.i = -0.00326182
+    resistorGround.p.i = -0.00023548
+    resistor2.p.i = 0.000134616
+  Last value of the residual:
+    { 6.69477, -2.09228, 2.82135 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1337
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2.25163
+  Condition number estimate: 8559.36
+  1-norm of the residual = 10.2322
+
+  Last value of the solution:
+    resistor1.p.i = -0.00249483
+    resistorGround.p.i = 0.000151332
+    resistor2.p.i = -0.00024822
+  Last value of the residual:
+    { 7.44191, -2.66502, -0.125257 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1368
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77209
+  Condition number estimate: 11.9604
+  1-norm of the residual = 18.1671
+
+  Last value of the solution:
+    resistor1.p.i = 0.00153961
+    resistorGround.p.i = 0.00141895
+    resistor2.p.i = -0.00149283
+  Last value of the residual:
+    { 10.5558, -3.23804, 4.37321 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1553
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.76455
+  Condition number estimate: 11.9574
+  1-norm of the residual = 16.0325
+
+  Last value of the solution:
+    resistor1.p.i = -0.000458147
+    resistorGround.p.i = 0.000916161
+    resistor2.p.i = -0.000995456
+  Last value of the residual:
+    { 8.96194, -2.96474, 4.1058 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1598
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78426
+  Condition number estimate: 11.9738
+  1-norm of the residual = 24.1284
+
+  Last value of the solution:
+    resistor1.p.i = 0.00416878
+    resistorGround.p.i = 0.00145359
+    resistor2.p.i = -0.00151139
+  Last value of the residual:
+    { 14.9086, -5.47168, 3.74812 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.16225
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 2.2254
+  Condition number estimate: 10488.1
+  1-norm of the residual = 8.38922
+
+  Last value of the solution:
+    resistor1.p.i = 0.00382211
+    resistorGround.p.i = 0.000585497
+    resistor2.p.i = -0.000479327
+  Last value of the residual:
+    { -6.32266, 2.05917, 0.007397 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1630684173473668
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.77248
+  Condition number estimate: 11.9761
+  1-norm of the residual = 11.7782
+
+  Last value of the solution:
+    resistor1.p.i = 0.0031508
+    resistorGround.p.i = 0.000172576
+    resistor2.p.i = -7.50474E-05
+  Last value of the residual:
+    { -6.53104, 2.31265, -2.93446 }
+ 
+Solver will attempt to handle this problem.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1703
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 0.199449
+  Condition number estimate: 1181.97
+  1-norm of the residual = 15.9812
+
+  Last value of the solution:
+    resistor1.p.i = -0.00425763
+    resistorGround.p.i = -0.00130804
+    resistor2.p.i = 0.001374
+  Last value of the residual:
+    { -12.2158, 3.35783, -0.407607 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1796
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.7541
+  Condition number estimate: 3.2494
+  1-norm of the residual = 7.20241
+
+  Last value of the solution:
+    resistor1.p.i = 0.00417728
+    resistorGround.p.i = 0.00154295
+    resistor2.p.i = -0.00143481
+  Last value of the residual:
+    { -5.21961, 1.86843, -0.114372 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.17975
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 3.75411
+  Condition number estimate: 3.24944
+  1-norm of the residual = 29.4839
+
+  Last value of the solution:
+    resistor1.p.i = 0.0042357
+    resistorGround.p.i = 0.0015121
+    resistor2.p.i = -0.00140357
+  Last value of the residual:
+    { -5.2281, 1.81234, 22.4435 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.1904
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78418
+  Condition number estimate: 11.9763
+  1-norm of the residual = 30.284
+
+  Last value of the solution:
+    resistor1.p.i = -0.00438425
+    resistorGround.p.i = -0.00133347
+    resistor2.p.i = 0.00132376
+  Last value of the residual:
+    { -14.3129, 6.90193, -9.06917 }
+ 
+Skipping output point due to failure to evaluate model.
+
+
+ERROR: Failed to solve nonlinear system using Newton solver.
+  Time: 0.19975
+  Tag: simulation.nonlinear[1]
+
+  For debugging help refer to the first error message of this type.
+
+  Jacobian inverse norm estimate: 9.78438
+  Condition number estimate: 11.9749
+  1-norm of the residual = 9.37814
+
+  Last value of the solution:
+    resistor1.p.i = 0.00423581
+    resistorGround.p.i = 0.001512
+    resistor2.p.i = -0.00140343
+  Last value of the residual:
+    { -5.23474, 1.83636, -2.30704 }
+ 
+Skipping output point due to failure to evaluate model.
+
+Integration terminated successfully at T = 0.2
+   CPU-time for integration                : 0.96 seconds
+   CPU-time for one grid interval          : 0.24 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 3978
+   Number of grid points                   : 4001
+   Number of accepted steps                : 1303
+   Number of f-evaluations (dynamics)      : 2548
+   Number of Jacobian-evaluations          : 233
+   Number of model time events             : 10
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.57e-09
+   Maximum integration stepsize            : 0.000408
+   Maximum integration order               : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)

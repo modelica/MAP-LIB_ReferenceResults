@@ -1,0 +1,46 @@
+
+Statistics
+
+Original Model
+  Number of components: 97
+  Variables: 696
+  Constants: 5 (5 scalars)
+  Parameters: 274 (274 scalars)
+  Unknowns: 417 (417 scalars)
+  Differentiated variables: 24 scalars
+  Equations: 377
+  Nontrivial: 304
+Translated Model
+  Constants: 212 scalars
+  Free parameters: 58 scalars
+  Parameter depending: 146 scalars
+  Continuous time states: 13 scalars
+  Time-varying variables: 57 scalars
+  Alias variables: 223 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: {2}
+  Sizes after manipulation of the linear systems: {0}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  armatureInverter.iDCFilter.y
+  armatureInverter.idealDcDc.deadTime.y
+  armatureInverter.idealDcDc.powerController.y
+  armatureInverter.iMotFilter.y
+  armatureInverter.vDCFilter.y
+  armatureInverter.vMotFilter.y
+  currentController.integrator.y
+  dcpm.la.i
+  loadInertia.phi
+  loadInertia.w
+  preFilter.y
+  slewRateLimiter.y
+  speedController.integrator.y
+
+Finished
+

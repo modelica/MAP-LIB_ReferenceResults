@@ -1,34 +1,29 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 136 of 422
-Translation of Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierCenterTap2Pulse.ThyristorCenterTap2Pulse_RL:
-The DAE has 145 scalar unknowns and 145 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 38
-  Variables: 245
+  Number of components: 40
+  Variables: 254
   Constants: 4 (4 scalars)
-  Parameters: 97 (97 scalars)
-  Unknowns: 144 (145 scalars)
+  Parameters: 99 (99 scalars)
+  Unknowns: 151 (152 scalars)
   Differentiated variables: 4 scalars
-  Equations: 146
-  Nontrivial: 125
+  Equations: 154
+  Nontrivial: 130
 Translated Model
-  Constants: 45 scalars
-  Free parameters: 28 scalars
-  Parameter depending: 45 scalars
+  Constants: 43 scalars
+  Free parameters: 29 scalars
+  Parameter depending: 48 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 38 scalars
-  Alias variables: 90 scalars
+  Time-varying variables: 40 scalars
+  Alias variables: 95 scalars
   Number of mixed real/discrete systems of equations: 1
   Sizes of linear systems of equations: {6}
   Sizes after manipulation of the linear systems: {2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +32,6 @@ Statically selected continuous time states
   meanCurrent.x
   meanVoltage.x
   rootMeanSquareVoltage.mean.x
- 
+
 Finished
-Save translation log
+

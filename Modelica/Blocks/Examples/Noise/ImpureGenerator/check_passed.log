@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 19 of 422
-Check of Modelica.Blocks.Examples.NoiseExamples.ImpureGenerator:
 The model has the same number of unknowns and equations: 2
-Check of Modelica.Blocks.Examples.NoiseExamples.ImpureGenerator successful.
-Save check log
+Check of <a href="Modelica://Modelica.Blocks.Examples.Noise.ImpureGenerator">Modelica.Blocks.Examples.Noise.ImpureGenerator</a> successful.
+

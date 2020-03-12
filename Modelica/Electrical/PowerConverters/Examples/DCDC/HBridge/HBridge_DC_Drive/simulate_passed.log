@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:32:38 2018)
+(generated: Wed Mar 11 18:38:08 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "HBridge_DC_Drive.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 24
-   CPU-time for integration      : 71.7 seconds
-   CPU-time for one GRID interval: 0.299 milliseconds
-   Number of result points       : 343355
-   Number of GRID   points       : 240001
-   Number of (successful) steps  : 1605625
-   Number of F-evaluations       : 4654673
-   Number of H-evaluations       : 2154732
-   Number of Jacobian-evaluations: 1316861
-   Number of (model) time events : 24000
-   Number of (U) time events     : 0
-   Number of state    events     : 41111
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.12e-012
-   Maximum integration stepsize  : 0.000295
-   Maximum integration order     : 3
+   CPU-time for integration                : 24.4 seconds
+   CPU-time for one grid interval          : 0.102 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 343355
+   Number of grid points                   : 240001
+   Number of accepted steps                : 1605625
+   Number of f-evaluations (dynamics)      : 2020951
+   Number of crossing function evaluations : 2154732
+   Number of Jacobian-evaluations          : 1316861
+   Number of model time events             : 24000
+   Number of input time events             : 0
+   Number of state events                  : 41111
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.12e-12
+   Maximum integration stepsize            : 0.000295
+   Maximum integration order               : 3
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

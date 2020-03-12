@@ -1,0 +1,44 @@
+
+Statistics
+
+Original Model
+  Number of components: 61
+  Variables: 400
+  Constants: 7 (204 scalars)
+  Parameters: 196 (299 scalars)
+  Unknowns: 197 (203 scalars)
+  Differentiated variables: 11 scalars
+  Equations: 205
+  Nontrivial: 185
+Translated Model
+  Constants: 380 scalars
+  Free parameters: 54 scalars
+  Parameter depending: 79 scalars
+  Continuous time states: 11 scalars
+  Time-varying variables: 67 scalars
+  Alias variables: 126 scalars
+  Number of mixed real/discrete systems of equations: 1
+  Sizes of linear systems of equations: {5}
+  Sizes after manipulation of the linear systems: {2}
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states
+Statically selected continuous time states
+  adaptor.filter[1].firstOrder.y
+  adaptor.filter[1].transferFunction[1].x_scaled[]
+  adaptor.filter[1].transferFunction[2].x_scaled[]
+  iH01.mean1.x
+  iH01.mean2.x
+  iRMS.mean.x
+  loadInductor.i
+  meanPower.x
+  vH01.mean1.x
+  vH01.mean2.x
+  vRMS.mean.x
+
+Finished
+

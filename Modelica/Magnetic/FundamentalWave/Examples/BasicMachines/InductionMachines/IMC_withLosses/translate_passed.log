@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 392 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_withLosses:
-The DAE has 877 scalar unknowns and 877 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 193
   Variables: 1181
@@ -13,8 +8,8 @@ Original Model
   Parameters: 350 (533 scalars)
   Unknowns: 825 (877 scalars)
   Differentiated variables: 28 scalars
-  Equations: 478
-  Nontrivial: 392
+  Equations: 477
+  Nontrivial: 391
 Translated Model
   Constants: 293 scalars
   Free parameters: 101 scalars
@@ -32,7 +27,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {31}
     Sizes after manipulation of the linear systems: {7}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -41,7 +36,7 @@ Statically selected continuous time states
   loadInertia.w
   PI.x
   powerSensor.flange_a.phi
- 
+
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There are 4 states to be selected from:
@@ -53,8 +48,8 @@ There are 4 states to be selected from:
   aimc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   aimc.stator.core.Phi.im
   aimc.stator.core.Phi.re
-  aimc.stator.strayReluctance.port_p.Phi.im
-  aimc.stator.strayReluctance.port_p.Phi.re
- 
+  aimc.stator.port_p.V_m.im
+  aimc.stator.port_p.V_m.re
+
 Finished
-Save translation log
+

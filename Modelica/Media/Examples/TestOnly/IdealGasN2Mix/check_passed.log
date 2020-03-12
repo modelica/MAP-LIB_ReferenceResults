@@ -1,9 +1,0 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 327 of 422
-Check of Modelica.Media.Examples.TestOnly.IdealGasN2Mix:
-Warning: Top class Modelica.Media.Examples.TestOnly.IdealGasN2Mix specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestOnly.IdealGasN2Mix instead.
-The model has the same number of unknowns and equations: 21
-Check of Modelica.Media.Examples.TestOnly.IdealGasN2Mix successful.
-Warning: WARNINGS have been issued.
-Save check log

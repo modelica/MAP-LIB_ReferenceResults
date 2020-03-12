@@ -1,34 +1,29 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 126 of 422
-Translation of Modelica.Electrical.PowerConverters.Examples.ACDC.Rectifier1Pulse.Thyristor1Pulse_R_Characteristic:
-The DAE has 97 scalar unknowns and 97 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 28
-  Variables: 165
+  Number of components: 30
+  Variables: 174
   Constants: 2 (2 scalars)
-  Parameters: 67 (67 scalars)
-  Unknowns: 96 (97 scalars)
+  Parameters: 69 (69 scalars)
+  Unknowns: 103 (104 scalars)
   Differentiated variables: 3 scalars
-  Equations: 97
-  Nontrivial: 85
+  Equations: 105
+  Nontrivial: 90
 Translated Model
-  Constants: 34 scalars
-  Free parameters: 25 scalars
-  Parameter depending: 26 scalars
+  Constants: 32 scalars
+  Free parameters: 26 scalars
+  Parameter depending: 29 scalars
   Continuous time states: 3 scalars
-  Time-varying variables: 24 scalars
-  Alias variables: 57 scalars
+  Time-varying variables: 26 scalars
+  Alias variables: 62 scalars
   Number of mixed real/discrete systems of equations: 1
   Sizes of linear systems of equations: {4}
   Sizes after manipulation of the linear systems: {0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -36,6 +31,6 @@ Statically selected continuous time states
   meanCurrent.x
   meanVoltage.x
   rootMeanSquareVoltage.mean.x
- 
+
 Finished
-Save translation log
+

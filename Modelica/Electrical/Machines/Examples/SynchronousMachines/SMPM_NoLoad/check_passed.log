@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 377 of 422
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_NoLoad:
 The model has the same number of unknowns and equations: 401
 The model has the same number of unknowns and equations:
   398+toSpacePhasor.m
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_NoLoad successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad">Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad</a> successful.
+

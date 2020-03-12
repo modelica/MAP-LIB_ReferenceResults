@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 262 of 422
-Check of Modelica.Mechanics.Rotational.Examples.FirstGrounded:
 The model has the same number of unknowns and equations: 50
-Check of Modelica.Mechanics.Rotational.Examples.FirstGrounded successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.Rotational.Examples.FirstGrounded">Modelica.Mechanics.Rotational.Examples.FirstGrounded</a> successful.
+

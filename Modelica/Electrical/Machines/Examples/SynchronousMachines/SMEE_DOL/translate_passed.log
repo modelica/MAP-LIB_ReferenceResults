@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 378 of 422
-Translation of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMEE_DOL:
-The DAE has 701 scalar unknowns and 701 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 89
   Variables: 964
@@ -13,8 +8,8 @@ Original Model
   Parameters: 334 (396 scalars)
   Unknowns: 616 (701 scalars)
   Differentiated variables: 25 scalars
-  Equations: 404
-  Nontrivial: 315
+  Equations: 402
+  Nontrivial: 313
 Translated Model
   Constants: 313 scalars
   Free parameters: 62 scalars
@@ -31,7 +26,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -42,6 +37,6 @@ Statically selected continuous time states
   smee.inertiaRotor.phi
   smee.inertiaRotor.w
   smee.lesigma.i
- 
+
 Finished
-Save translation log
+

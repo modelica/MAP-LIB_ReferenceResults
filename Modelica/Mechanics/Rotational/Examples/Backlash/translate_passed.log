@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 269 of 422
-Translation of Modelica.Mechanics.Rotational.Examples.Backlash:
-The DAE has 62 scalar unknowns and 62 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 10
   Variables: 97
@@ -28,7 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -39,6 +34,6 @@ Statically selected continuous time states
   elastoBacklash2.w_rel
   springDamper.phi_rel
   springDamper.w_rel
- 
+
 Finished
-Save translation log
+

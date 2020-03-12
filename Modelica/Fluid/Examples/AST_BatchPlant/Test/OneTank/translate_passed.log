@@ -1,17 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 294 of 422
-Translation of Modelica.Fluid.Examples.AST_BatchPlant.Test.OneTank:
-The DAE has 126 scalar unknowns and 126 scalar equations.
-Warning: The initial conditions are not fully specified.
-Dymola has selected default initial conditions.
-Warning: Assuming fixed start value for the continuous states:
-    tank.level(start = tank.level_start)
-    tank.medium.T(start = tank.T_start)
- 
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 19
   Variables: 267
@@ -40,14 +29,15 @@ Translated Model
     Sizes of nonlinear systems of equations: {4}
     Sizes after manipulation of the nonlinear systems: {1}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   tank.level
   tank.medium.T
- 
+
 Finished
-Warning: WARNINGS have been issued.
-Save translation log
+Error: WARNINGS have been issued.
+Error: ERRORS have been issued.
+

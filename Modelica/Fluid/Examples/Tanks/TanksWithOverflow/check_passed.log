@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 290 of 422
-Check of Modelica.Fluid.Examples.Tanks.TanksWithOverflow:
 The model has the same number of unknowns and equations: 271
-Check of Modelica.Fluid.Examples.Tanks.TanksWithOverflow successful.
-Save check log
+Check of <a href="Modelica://Modelica.Fluid.Examples.Tanks.TanksWithOverflow">Modelica.Fluid.Examples.Tanks.TanksWithOverflow</a> successful.
+

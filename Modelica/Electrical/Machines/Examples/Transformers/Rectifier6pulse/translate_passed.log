@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 118 of 422
-Translation of Modelica.Electrical.Machines.Examples.Transformers.Rectifier6pulse:
-The DAE has 579 scalar unknowns and 579 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 59
   Variables: 776
@@ -13,8 +8,8 @@ Original Model
   Parameters: 232 (278 scalars)
   Unknowns: 527 (579 scalars)
   Differentiated variables: 8 scalars
-  Equations: 294
-  Nontrivial: 244
+  Equations: 292
+  Nontrivial: 242
 Translated Model
   Constants: 144 scalars
   Free parameters: 48 scalars
@@ -28,7 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +32,6 @@ Statically selected continuous time states
   cDC2.v
   transformer1.l2sigma.inductor[1].i
   transformer1.l2sigma.inductor[3].i
- 
+
 Finished
-Save translation log
+

@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 203 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase:
-The DAE has 2681 scalar unknowns and 2681 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 476
   Variables: 3431
@@ -13,8 +8,8 @@ Original Model
   Parameters: 914 (1088 scalars)
   Unknowns: 2478 (2681 scalars)
   Differentiated variables: 52 scalars
-  Equations: 1303
-  Nontrivial: 1097
+  Equations: 1295
+  Nontrivial: 1089
 Translated Model
   Constants: 1094 scalars
   Free parameters: 86 scalars
@@ -31,7 +26,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {5, 5, 31, 18, 2, 2}
     Sizes after manipulation of the linear systems: {2, 2, 8, 5, 2, 2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -50,6 +45,6 @@ Statically selected continuous time states
   loadInertia3.w
   loadInertiaM.phi
   loadInertiaM.w
- 
+
 Finished
-Save translation log
+

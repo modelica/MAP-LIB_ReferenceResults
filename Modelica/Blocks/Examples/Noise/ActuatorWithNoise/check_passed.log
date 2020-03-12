@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 20 of 422
-Check of Modelica.Blocks.Examples.NoiseExamples.ActuatorWithNoise:
 The model has the same number of unknowns and equations: 814
 The model could not be deduced to be symbolically well-posed.
 The model has
-  802+2*motor.currentController.m+motor.voltageQuasiRMSSensor.ToSpacePhasor1.m+  motor.currentQuasiRMSSensor.ToSpacePhasor1.m
+  802+2*motor.dqToThreePhase.m+motor.voltageQuasiRMSSensor.ToSpacePhasor1.m+  motor.currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar unknowns and
-  805+2*motor.currentController.m+motor.currentQuasiRMSSensor.ToSpacePhasor1.m
+  805+2*motor.dqToThreePhase.m+motor.currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar equations.
 However, exploiting the given bindings parameters gives the same number of unknowns and equations:
-  808+2*motor.currentController.m
-Check of Modelica.Blocks.Examples.NoiseExamples.ActuatorWithNoise successful.
-Save check log
+  808+2*motor.dqToThreePhase.m
+Check of <a href="Modelica://Modelica.Blocks.Examples.Noise.ActuatorWithNoise">Modelica.Blocks.Examples.Noise.ActuatorWithNoise</a> successful.
+

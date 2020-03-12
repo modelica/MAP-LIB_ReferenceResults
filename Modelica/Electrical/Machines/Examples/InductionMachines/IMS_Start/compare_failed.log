@@ -1,9 +1,0 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Electrical\Machines\Examples\AsynchronousInductionMachines\AIMS_Start\AIMS_Start.csv
-. Time:        2018-12-17T11:27:45.9379938+01:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      failed
-. Biggest error: AIMS_Start.aims.i_0_r=>2.91402602065929E-12
-. Failed values:
-AIMS_Start.aims.i_0_r=>2.91402602065929E-12

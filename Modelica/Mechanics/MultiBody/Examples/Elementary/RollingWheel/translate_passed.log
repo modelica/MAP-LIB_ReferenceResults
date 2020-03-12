@@ -1,33 +1,28 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 235 of 422
-Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.RollingWheel:
-The DAE has 1375 scalar unknowns and 1375 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 52
-  Variables: 633
-  Parameters: 126 (171 scalars)
-  Unknowns: 507 (1375 scalars)
+  Variables: 425
+  Parameters: 108 (151 scalars)
+  Unknowns: 317 (947 scalars)
   Differentiated variables: 23 scalars
-  Equations: 471
-  Nontrivial: 324
+  Equations: 284
+  Nontrivial: 156
 Translated Model
-  Constants: 1051 scalars
-  Free parameters: 32 scalars
-  Parameter depending: 111 scalars
+  Constants: 773 scalars
+  Free parameters: 31 scalars
+  Parameter depending: 55 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 67 scalars
-  Alias variables: 285 scalars
+  Time-varying variables: 64 scalars
+  Alias variables: 175 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {2, 3, 2, 3, 25, 2, 2}
   Sizes after manipulation of the linear systems: {2, 3, 2, 3, 9, 2, 2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -36,6 +31,6 @@ Statically selected continuous time states
   wheel1.der_angles[]
   wheel1.x
   wheel1.y
- 
+
 Finished
-Save translation log
+

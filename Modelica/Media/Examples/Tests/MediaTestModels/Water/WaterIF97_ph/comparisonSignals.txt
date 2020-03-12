@@ -1,3 +1,0 @@
-time
-volume.medium.h
-volume.medium.p

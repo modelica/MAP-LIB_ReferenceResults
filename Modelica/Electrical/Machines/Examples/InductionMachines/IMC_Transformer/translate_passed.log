@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 93 of 422
-Translation of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Transformer:
-The DAE has 934 scalar unknowns and 934 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 104
   Variables: 1260
@@ -13,8 +8,8 @@ Original Model
   Parameters: 409 (485 scalars)
   Unknowns: 829 (934 scalars)
   Differentiated variables: 30 scalars
-  Equations: 492
-  Nontrivial: 399
+  Equations: 490
+  Nontrivial: 397
 Translated Model
   Constants: 322 scalars
   Free parameters: 57 scalars
@@ -31,7 +26,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -43,6 +38,6 @@ Statically selected continuous time states
   loadInertia.w
   transformer.l2sigma.inductor[2].i
   transformer.l2sigma.inductor[3].i
- 
+
 Finished
-Save translation log
+

@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 311 of 422
-Check of Modelica.Media.Examples.WaterIF97:
 The model has the same number of unknowns and equations: 34
-Check of Modelica.Media.Examples.WaterIF97 successful.
-Save check log
+Check of <a href="Modelica://Modelica.Media.Examples.WaterIF97">Modelica.Media.Examples.WaterIF97</a> successful.
+

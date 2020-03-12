@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 94 of 422
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMS_Start:
 The model has the same number of unknowns and equations: 798
 The model has the same number of unknowns and equations:
   795+currentQuasiRMSSensor.ToSpacePhasor1.m
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMS_Start successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.InductionMachines.IMS_Start">Modelica.Electrical.Machines.Examples.InductionMachines.IMS_Start</a> successful.
+

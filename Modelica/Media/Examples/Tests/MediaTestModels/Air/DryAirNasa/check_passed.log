@@ -1,9 +1,0 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 329 of 422
-Check of Modelica.Media.Examples.Tests.MediaTestModels.Air.DryAirNasa:
-Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Air.DryAirNasa specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Air.DryAirNasa instead.
-The model has the same number of unknowns and equations: 60
-Check of Modelica.Media.Examples.Tests.MediaTestModels.Air.DryAirNasa successful.
-Warning: WARNINGS have been issued.
-Save check log

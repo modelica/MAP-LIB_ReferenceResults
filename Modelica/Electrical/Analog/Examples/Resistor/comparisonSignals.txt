@@ -1,3 +1,3 @@
 time
-heatingResistor.i
-heatingResistor.LossPower
+resistor.i
+resistor.LossPower

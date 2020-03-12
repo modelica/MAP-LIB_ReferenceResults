@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 00:34:21 2018)
+(generated: Wed Mar 11 18:56:12 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "IMC_Inverter.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 1.5
-   CPU-time for integration      : 1.51 seconds
-   CPU-time for one GRID interval: 0.0502 milliseconds
-   Number of result points       : 30003
-   Number of GRID   points       : 30001
-   Number of (successful) steps  : 3807
-   Number of F-evaluations       : 7913
-   Number of H-evaluations       : 33807
-   Number of Jacobian-evaluations: 52
-   Number of (model) time events : 2
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 9.4e-010
-   Maximum integration stepsize  : 0.00264
-   Maximum integration order     : 5
+   CPU-time for integration                : 0.694 seconds
+   CPU-time for one grid interval          : 0.0231 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 30003
+   Number of grid points                   : 30001
+   Number of accepted steps                : 3807
+   Number of f-evaluations (dynamics)      : 7601
+   Number of crossing function evaluations : 33807
+   Number of Jacobian-evaluations          : 52
+   Number of model time events             : 2
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 9.4e-10
+   Maximum integration stepsize            : 0.00264
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

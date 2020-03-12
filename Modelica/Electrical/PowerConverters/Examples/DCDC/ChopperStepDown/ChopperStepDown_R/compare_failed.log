@@ -1,0 +1,16 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\PowerConverters\Examples\DCDC\ChopperStepDown\ChopperStepDown_R\ChopperStepDown_R.csv
+. Time:        2020-03-11T23:29:06.9658027+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: ChopperStepDown_R.meanVoltage.y=>0.159444145561822
+. Failed values:
+ChopperStepDown_R.meanVoltage.y=>0.159444145561822
+ChopperStepDown_R.meanVoltage.x=>0.0779844340571661
+ChopperStepDown_R.chopperStepDown.vDC1=>0.0663305694905049
+ChopperStepDown_R.meanCurrent.y=>0.0390114942168418
+ChopperStepDown_R.chopperStepDown.iDC2=>0.0167249913833638
+ChopperStepDown_R.meanCurrent.x=>0.00868080462089484
+ChopperStepDown_R.chopperStepDown.iDC1=>0.000810311652651474
+ChopperStepDown_R.chopperStepDown.vDC2=>7.70269805076465E-05

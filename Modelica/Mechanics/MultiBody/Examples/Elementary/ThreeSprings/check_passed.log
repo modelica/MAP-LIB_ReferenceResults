@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 234 of 422
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.ThreeSprings:
-The model has the same number of unknowns and equations: 2066
+The model has the same number of unknowns and equations: 1516
 The model could not be deduced to be symbolically well-posed.
 The model has
-  2038+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+  1488+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
 scalar unknowns and
-  1989+(if  not Connections.isRoot(body1.frame_a.R) then 13 else 22)+(if   spring1.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring1.lineForce.fixedRotationAtFrame_b   then 12 else 3)+(if spring2.lineForce.fixedRotationAtFrame_a then 12 else 3)+  (if spring2.lineForce.fixedRotationAtFrame_b then 12 else 3)+(if   spring3.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring3.lineForce.fixedRotationAtFrame_b   then 12 else 3)+4*size(world.x_label.lines, 1)+4*size(world.y_label.lines, 1)  +4*size(world.z_label.lines, 1)
+  1439+(if  not Connections.isRoot(body1.frame_a.R) then 13 else 22)+(if   spring1.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring1.lineForce.fixedRotationAtFrame_b   then 12 else 3)+(if spring2.lineForce.fixedRotationAtFrame_a then 12 else 3)+  (if spring2.lineForce.fixedRotationAtFrame_b then 12 else 3)+(if   spring3.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if spring3.lineForce.fixedRotationAtFrame_b   then 12 else 3)+4*size(world.x_label.lines, 1)+4*size(world.y_label.lines, 1)  +4*size(world.z_label.lines, 1)
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
-  2066
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.ThreeSprings successful.
-Save check log
+  1516
+Check of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Elementary.ThreeSprings">Modelica.Mechanics.MultiBody.Examples.Elementary.ThreeSprings</a> successful.
+

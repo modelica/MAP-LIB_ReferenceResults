@@ -1,3 +1,0 @@
-time
-medium.T
-medium.p

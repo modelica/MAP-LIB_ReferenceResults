@@ -1,7 +1,4 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 268 of 422
-Check of Modelica.Mechanics.Rotational.Examples.ElasticBearing:
+Check of <a href="Modelica://Modelica.Mechanics.Rotational.Examples.ElasticBearing">Modelica.Mechanics.Rotational.Examples.ElasticBearing</a>:
 The model has the same number of unknowns and equations: 63
-Check of Modelica.Mechanics.Rotational.Examples.ElasticBearing successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.Rotational.Examples.ElasticBearing">Modelica.Mechanics.Rotational.Examples.ElasticBearing</a> successful.
+

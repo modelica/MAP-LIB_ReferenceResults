@@ -1,19 +1,14 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 197 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.Components.EddyCurrentLosses:
-The DAE has 689 scalar unknowns and 689 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 148
   Variables: 873
   Parameters: 224 (280 scalars)
   Unknowns: 649 (689 scalars)
   Differentiated variables: 12 scalars
-  Equations: 358
-  Nontrivial: 293
+  Equations: 356
+  Nontrivial: 291
 Translated Model
   Constants: 251 scalars
   Free parameters: 44 scalars
@@ -28,7 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +32,6 @@ Statically selected continuous time states
   converter_e.singlePhaseElectroMagneticConverter[2].Phi.im
   loss_m.Phi.im
   loss_m.Phi.re
- 
+
 Finished
-Save translation log
+

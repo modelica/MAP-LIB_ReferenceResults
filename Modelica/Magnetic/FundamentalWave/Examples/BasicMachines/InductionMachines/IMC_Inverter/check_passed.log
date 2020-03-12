@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 389 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_Inverter:
 The model has the same number of unknowns and equations: 822
 The model has the same number of unknowns and equations:
   819+currentQuasiRMSSensor.ToSpacePhasor1.m
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_Inverter successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Inverter">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Inverter</a> successful.
+

@@ -1,27 +1,22 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 103 of 422
-Translation of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMPM_VoltageSource:
-The DAE has 745 scalar unknowns and 745 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 114
-  Variables: 976
+  Number of components: 119
+  Variables: 1007
   Constants: 11 (11 scalars)
-  Parameters: 327 (410 scalars)
-  Unknowns: 638 (745 scalars)
-  Differentiated variables: 25 scalars
-  Equations: 421
-  Nontrivial: 326
+  Parameters: 339 (422 scalars)
+  Unknowns: 657 (775 scalars)
+  Differentiated variables: 27 scalars
+  Equations: 440
+  Nontrivial: 347
 Translated Model
-  Constants: 417 scalars
-  Free parameters: 34 scalars
-  Parameter depending: 156 scalars
-  Continuous time states: 6 scalars
-  Time-varying variables: 120 scalars
-  Alias variables: 439 scalars
+  Constants: 423 scalars
+  Free parameters: 39 scalars
+  Parameter depending: 159 scalars
+  Continuous time states: 7 scalars
+  Time-varying variables: 134 scalars
+  Alias variables: 453 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3, 10, 2}
   Sizes after manipulation of the linear systems: {2, 2, 0}
@@ -31,16 +26,17 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
+  dqCurrentController.phi
+  dqCurrentController.PI_d.x
+  dqCurrentController.PI_q.x
   inertiaLoad.phi
   inertiaLoad.w
   smpm.idq_sr[]
-  voltageController.PI_d.x
-  voltageController.PI_q.x
- 
+
 Finished
-Save translation log
+

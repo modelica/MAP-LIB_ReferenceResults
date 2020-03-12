@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 94 of 422
-Translation of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMS_Start:
-The DAE has 798 scalar unknowns and 798 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 93
   Variables: 1117
@@ -13,8 +8,8 @@ Original Model
   Parameters: 389 (472 scalars)
   Unknowns: 709 (798 scalars)
   Differentiated variables: 26 scalars
-  Equations: 432
-  Nontrivial: 352
+  Equations: 430
+  Nontrivial: 350
 Translated Model
   Constants: 348 scalars
   Free parameters: 54 scalars
@@ -31,7 +26,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -42,6 +37,6 @@ Statically selected continuous time states
   aims.idq_sr[]
   loadInertia.phi
   loadInertia.w
- 
+
 Finished
-Save translation log
+

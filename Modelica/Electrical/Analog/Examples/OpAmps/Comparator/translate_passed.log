@@ -1,11 +1,6 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 62 of 422
-Translation of Modelica.Electrical.Analog.Examples.OpAmps.Comparator:
-The DAE has 61 scalar unknowns and 61 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 11
   Variables: 105
@@ -14,10 +9,10 @@ Original Model
   Equations: 51
   Nontrivial: 38
 Translated Model
-  Constants: 25 scalars
+  Constants: 26 scalars
   Free parameters: 10 scalars
   Parameter depending: 34 scalars
-  Time-varying variables: 6 scalars
+  Time-varying variables: 5 scalars
   Alias variables: 30 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
@@ -28,9 +23,9 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {0}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Finished
-Save translation log
+

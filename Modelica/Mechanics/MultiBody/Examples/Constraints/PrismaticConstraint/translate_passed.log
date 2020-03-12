@@ -1,27 +1,21 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 255 of 422
-Translation of Modelica.Mechanics.MultiBody.Examples.Constraints.PrismaticConstraint:
-The DAE has 3309 scalar unknowns and 3309 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
-  Number of components: 164
-  Variables: 1558
-  Constants: 2 (2 scalars)
-  Parameters: 384 (584 scalars)
-  Unknowns: 1172 (3309 scalars)
+  Number of components: 160
+  Variables: 1165
+  Parameters: 348 (544 scalars)
+  Unknowns: 817 (2492 scalars)
   Differentiated variables: 47 scalars
-  Equations: 1069
-  Nontrivial: 729
+  Equations: 716
+  Nontrivial: 413
 Translated Model
-  Constants: 2170 scalars
+  Constants: 1697 scalars
   Free parameters: 78 scalars
-  Parameter depending: 436 scalars
+  Parameter depending: 374 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 219 scalars
-  Alias variables: 992 scalars
+  Time-varying variables: 138 scalars
+  Alias variables: 749 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3, 3, 9, 8, 3, 3}
   Sizes after manipulation of the linear systems: {3, 3, 3, 2, 3, 3}
@@ -34,7 +28,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {22}
     Sizes after manipulation of the nonlinear systems: {4}
     Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -43,14 +37,14 @@ Statically selected continuous time states
   jointPrismatic_x.v
   jointPrismatic_y.s
   jointPrismatic_y.v
- 
+
 Dynamically selected continuous time states
 There are 2 sets of dynamic state selection.
 From set 1 there are 2 states to be selected from:
   constraint.frame_b.r_0[]
- 
+
 From set 2 there are 2 states to be selected from:
   bodyOfConstraint.v_0[]
- 
+
 Finished
-Save translation log
+

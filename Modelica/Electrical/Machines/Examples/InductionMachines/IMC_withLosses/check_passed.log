@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 98 of 422
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_withLosses:
 The model has the same number of unknowns and equations: 524
 The model has the same number of unknowns and equations:
   517+currentQuasiRMSSensor.ToSpacePhasor1.m+size(combiTable1Ds.columns, 1)
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_withLosses successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.InductionMachines.IMC_withLosses">Modelica.Electrical.Machines.Examples.InductionMachines.IMC_withLosses</a> successful.
+

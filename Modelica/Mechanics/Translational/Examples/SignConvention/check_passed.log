@@ -1,7 +1,4 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 274 of 422
-Check of Modelica.Mechanics.Translational.Examples.SignConvention:
+Check of <a href="Modelica://Modelica.Mechanics.Translational.Examples.SignConvention">Modelica.Mechanics.Translational.Examples.SignConvention</a>:
 The model has the same number of unknowns and equations: 41
-Check of Modelica.Mechanics.Translational.Examples.SignConvention successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.Translational.Examples.SignConvention">Modelica.Mechanics.Translational.Examples.SignConvention</a> successful.
+

@@ -2,32 +2,31 @@
 modelName="Modelica.Mechanics.MultiBody.Examples.Loops.Engine1a"
 
 // Test info
-generationTool="Dymola Version 2019 (64-bit), 2018-04-11"
-generationDateAndTime="2018-12-15T22:58:38Z"
-usedMSLURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
-usedMSLRevision=04edf76b  
-usedMSLHasLocalModifications= 
-usedMSLLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica"
-usedMSLLocalBranch="Branch_v3.2.3-rc.2"
-testPC="LTXLG16"
-testOS="Microsoft Windows 10 Pro (Version 10.0.17134 Build 17134, x64)"
-testUser="LeoGall"
-testDescription="Reg test MSL v3.2.3-rc.2"
+generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
+generationDateAndTime="2020-03-11T19:18:21Z"
+gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
+gitRevision=e3217bfbc
+gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M Modelica/Resources/Documentation/Version-4.0.0/DifferencesTo323.html, M ModelicaServices/package.mo"
+testPC="LAPTOP-RUH9UABA"
+testOS="Microsoft Windows [Version 10.0.18362.657]"
+testUser="tbeu"
+testDescription="Reg test MSL v4.0.0-beta.2"
 
 // Experiment settings (standardized annotation)
 StartTime=0
 StopTime=5 // from model
 Interval=0.001 // (stopTime-startTime)/5000
-Tolerance=1e-06 // used default, because no tolerance annotation in model 
+Tolerance=1e-06 // used default, because no tolerance annotation in model
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
-SetDymolaCompiler("vs",{"MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 12.0/Vc"});
+SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
 Evaluate := false;
 OutputCPUtime := false;
 translateModel("Modelica.Mechanics.MultiBody.Examples.Loops.Engine1a");
 Advanced.StoreProtectedVariables := true;
 Advanced.EfficientMinorEvents := false;
+Advanced.PlaceDymolaSourceFirst := 2;
 experimentSetupOutput(
   textual=false,
   doublePrecision=true,

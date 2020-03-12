@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 282 of 422
-Check of Modelica.Mechanics.Translational.Examples.PreLoad:
 The model has the same number of unknowns and equations: 116
-Check of Modelica.Mechanics.Translational.Examples.PreLoad successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.Translational.Examples.PreLoad">Modelica.Mechanics.Translational.Examples.PreLoad</a> successful.
+

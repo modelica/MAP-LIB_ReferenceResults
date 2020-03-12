@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Media\Examples\ReferenceAir\Inverse_sh_TX\Inverse_sh_TX.csv
-. Time:        2018-12-17T11:37:56.5230246+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Media\Examples\ReferenceAir\Inverse_sh_TX\Inverse_sh_TX.csv
+. Time:        2020-03-11T23:45:30.5089942+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

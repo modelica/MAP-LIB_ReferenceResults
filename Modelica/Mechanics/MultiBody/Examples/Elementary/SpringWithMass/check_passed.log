@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 233 of 422
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass:
-The model has the same number of unknowns and equations: 1393
+The model has the same number of unknowns and equations: 968
 The model could not be deduced to be symbolically well-posed.
 The model has
-  1365+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
+  940+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
 scalar unknowns and
-  1337+(if spring.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if   spring.lineForce.fixedRotationAtFrame_b then 12 else 3)+(if  not   Connections.isRoot(body.frame_a.R) then 13 else 22)+4*size(world.x_label.lines,   1)+4*size(world.y_label.lines, 1)+4*size(world.z_label.lines, 1)
+  912+(if spring.lineForce.fixedRotationAtFrame_a then 12 else 3)+(if   spring.lineForce.fixedRotationAtFrame_b then 12 else 3)+(if  not   Connections.isRoot(body.frame_a.R) then 13 else 22)+4*size(world.x_label.lines,   1)+4*size(world.y_label.lines, 1)+4*size(world.z_label.lines, 1)
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
-  1393
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass successful.
-Save check log
+  968
+Check of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass">Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass</a> successful.
+

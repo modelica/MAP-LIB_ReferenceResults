@@ -1,24 +1,19 @@
-﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 395 of 422
-Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_VoltageSource:
-The DAE has 911 scalar unknowns and 911 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 198
-  Variables: 1191
+  Variables: 1192
   Constants: 10 (10 scalars)
-  Parameters: 355 (428 scalars)
+  Parameters: 356 (429 scalars)
   Unknowns: 826 (911 scalars)
   Differentiated variables: 21 scalars
-  Equations: 503
-  Nontrivial: 403
+  Equations: 500
+  Nontrivial: 400
 Translated Model
-  Constants: 453 scalars
-  Free parameters: 33 scalars
-  Parameter depending: 162 scalars
+  Constants: 451 scalars
+  Free parameters: 34 scalars
+  Parameter depending: 164 scalars
   Continuous time states: 6 scalars
   Time-varying variables: 161 scalars
   Alias variables: 540 scalars
@@ -31,17 +26,17 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
+  currentController.PI_d.x
+  currentController.PI_q.x
   inertiaLoad.phi
   inertiaLoad.w
   smpm.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
   smpm.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
-  voltageController.PI_d.x
-  voltageController.PI_q.x
- 
+
 Finished
-Save translation log
+

@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:25:53 2018)
+(generated: Wed Mar 11 18:30:40 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "ThyristorBridge2Pulse_DC_Drive.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 15
-   CPU-time for integration      : 14.4 seconds
-   CPU-time for one GRID interval: 0.0958 milliseconds
-   Number of result points       : 162488
-   Number of GRID   points       : 150001
-   Number of (successful) steps  : 299506
-   Number of F-evaluations       : 847813
-   Number of H-evaluations       : 486179
-   Number of Jacobian-evaluations: 101570
-   Number of (model) time events : 1500
-   Number of (U) time events     : 0
-   Number of state    events     : 6135
-   Number of step     events     : 0
-   Minimum integration stepsize  : 4.79e-012
-   Maximum integration stepsize  : 0.000282
-   Maximum integration order     : 5
+   CPU-time for integration                : 5.1 seconds
+   CPU-time for one grid interval          : 0.034 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 162492
+   Number of grid points                   : 150001
+   Number of accepted steps                : 299493
+   Number of f-evaluations (dynamics)      : 543072
+   Number of crossing function evaluations : 479202
+   Number of Jacobian-evaluations          : 101586
+   Number of model time events             : 1500
+   Number of input time events             : 0
+   Number of state events                  : 6137
+   Number of step events                   : 0
+   Minimum integration stepsize            : 4.79e-12
+   Maximum integration stepsize            : 0.000282
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
