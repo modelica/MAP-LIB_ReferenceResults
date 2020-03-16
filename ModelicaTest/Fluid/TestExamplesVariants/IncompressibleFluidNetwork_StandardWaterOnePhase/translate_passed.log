@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 63 of 91
 Translation of ModelicaTest.Fluid.TestExamplesVariants.IncompressibleFluidNetwork_StandardWaterOnePhase:
 The DAE has 1894 scalar unknowns and 1894 scalar equations.
 Redundant consistent initial conditions.
@@ -39,7 +37,6 @@ initial equations:
   der(pipe5.mediums[2].p) = 0.0;
   der(pipe11.mediums[1].p) = 0.0;
  
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -131,6 +128,3 @@ der(pipe10.mediums[1].T)
 der(pipe10.mediums[2].T)
 der(pipe11.mediums[1].T)
 der(pipe11.mediums[2].T)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

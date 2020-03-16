@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 56 of 113
 Translation of ModelicaTest.MultiBody.Joints.Revolute2:
 The DAE has 3037 scalar unknowns and 3037 scalar equations.
  
@@ -41,5 +39,3 @@ Statically selected continuous time states
   revolute3.phi
   revolute3.w
  
-Finished
-Save translation log

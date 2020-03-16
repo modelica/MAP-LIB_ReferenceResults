@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111253_ModelicaTest_v3.2.3-rc.2_2019_Media
-This is translation 36 of 37
 Translation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.LinearFluid.LinearColdWater:
 The DAE has 130 scalar unknowns and 130 scalar equations.
  
@@ -39,5 +37,3 @@ Statically selected continuous time states
   volume.medium.p
   volume.medium.T
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 7 of 113
 Translation of ModelicaTest.MultiBody.FourbarVariants.JointSSR:
 The DAE has 3564 scalar unknowns and 3564 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   j2.s
   j2.v
  
-Finished
-Save translation log

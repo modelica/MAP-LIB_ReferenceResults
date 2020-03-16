@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 41 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Sensors.TestTemperature2:
 The DAE has 441 scalar unknowns and 441 scalar equations.
  
@@ -45,6 +43,3 @@ der(volume1_1.medium.h)
 der(volume1_2.medium.h)
 der(volume2_1.medium.h)
 der(volume2_2.medium.h)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

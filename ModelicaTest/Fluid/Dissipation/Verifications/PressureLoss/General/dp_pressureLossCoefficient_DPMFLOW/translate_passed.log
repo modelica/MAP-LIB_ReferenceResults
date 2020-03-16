@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 35 of 46
 Translation of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.General.dp_pressureLossCoefficient_DPMFLOW:
 The DAE has 41 scalar unknowns and 41 scalar equations.
  
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

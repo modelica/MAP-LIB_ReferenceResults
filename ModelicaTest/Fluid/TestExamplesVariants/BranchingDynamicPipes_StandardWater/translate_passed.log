@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 65 of 91
 Translation of ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_StandardWater:
 The DAE has 1897 scalar unknowns and 1897 scalar equations.
  
@@ -85,5 +83,3 @@ Statically selected continuous time states
   pipe4.mediums[5].h
   pipe4.mediums[5].p
  
-Finished
-Save translation log

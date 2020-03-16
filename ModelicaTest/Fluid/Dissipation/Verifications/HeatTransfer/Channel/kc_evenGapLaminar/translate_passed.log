@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 1 of 46
 Translation of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Channel.kc_evenGapLaminar:
 The DAE has 137 scalar unknowns and 137 scalar equations.
 Warning: The initial conditions are not fully specified.
@@ -40,6 +38,3 @@ Selected continuous time states
 Statically selected continuous time states
   dimlesslength
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

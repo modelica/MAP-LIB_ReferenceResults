@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 56 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Vessels.TestMixingVolumes:
 The DAE has 206 scalar unknowns and 206 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   mixingVolume1.medium.T
   mixingVolume2.medium.T
  
-Finished
-Save translation log

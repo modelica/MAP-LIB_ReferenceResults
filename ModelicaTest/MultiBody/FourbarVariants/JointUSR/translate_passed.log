@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 6 of 113
 Translation of ModelicaTest.MultiBody.FourbarVariants.JointUSR:
 The DAE has 3832 scalar unknowns and 3832 scalar equations.
  
@@ -21,8 +19,8 @@ Translated Model
   Parameter depending: 343 scalars
   Outputs: 4 scalars
   Continuous time states: 2 scalars
-  Time-varying variables: 315 scalars
-  Alias variables: 956 scalars
+  Time-varying variables: 316 scalars
+  Alias variables: 955 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {42}
   Sizes after manipulation of the linear systems: {0}
@@ -37,5 +35,3 @@ Statically selected continuous time states
   j2.s
   j2.v
  
-Finished
-Save translation log

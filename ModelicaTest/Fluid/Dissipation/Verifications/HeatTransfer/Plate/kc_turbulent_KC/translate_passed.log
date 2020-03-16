@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 23 of 46
 Translation of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Plate.kc_turbulent_KC:
 The DAE has 34 scalar unknowns and 34 scalar equations.
  
@@ -29,5 +27,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

@@ -1,6 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 71 of 82
+﻿Failed to expand readTrajectory("FixedShape.mat", {"Time", "signalSource.V_m", "signalSource.Phi",   "cuboid.G_m", "cuboid.A ", "hollowCylinderAxialFlux.G_m", "hollowCylinderAxialFlux.A",   "hollowCylinderRadialFlux.G_m", "hollowCylinderRadialFlux.A",   "genericFluxTube.G_m", "genericFluxTube.A"}, 2002).
+ = true
 Translation of ModelicaTest.FluxTubes.Shapes.Force:
 The DAE has 96 scalar unknowns and 96 scalar equations.
  
@@ -36,5 +35,3 @@ Statically selected continuous time states
   position.s
   position.v
  
-Finished
-Save translation log

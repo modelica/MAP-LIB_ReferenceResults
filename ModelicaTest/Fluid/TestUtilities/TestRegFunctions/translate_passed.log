@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 85 of 91
 Translation of ModelicaTest.Fluid.TestUtilities.TestRegFunctions:
 The DAE has 10 scalar unknowns and 10 scalar equations.
  
@@ -26,5 +24,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

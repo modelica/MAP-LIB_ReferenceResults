@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 76 of 82
 Translation of ModelicaTest.Fluid.TestPipesAndValves.DynamicPipeClosingValve:
 The DAE has 196 scalar unknowns and 196 scalar equations.
  
@@ -43,5 +41,3 @@ Statically selected continuous time states
   pipe.mediums[1].h
   pipe.mediums[1].p
  
-Finished
-Save translation log

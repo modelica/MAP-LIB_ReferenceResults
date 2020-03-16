@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 57 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Vessels.TestMixingVolumesPressureStates:
 The DAE has 256 scalar unknowns and 256 scalar equations.
  
@@ -46,6 +44,3 @@ Warning: Some variables are iteration variables of the initialization problem:
 but they are not given any explicit start values. Zero will be used.
 Iteration variables:
 der(mixingVolume2.medium.h)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

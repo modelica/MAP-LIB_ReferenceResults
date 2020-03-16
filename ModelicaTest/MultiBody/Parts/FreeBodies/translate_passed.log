@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 67 of 113
 Translation of ModelicaTest.MultiBody.Parts.FreeBodies:
 The DAE has 3324 scalar unknowns and 3324 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -66,5 +63,3 @@ From set 3 there are 3 states to be selected from:
 From set 4 there are 3 states to be selected from:
   body.Q[]
  
-Finished
-Save translation log

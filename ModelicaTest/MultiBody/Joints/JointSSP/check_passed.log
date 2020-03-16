@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 55 of 113
-Check of ModelicaTest.MultiBody.Joints.JointSSP:
 The model has the same number of unknowns and equations: 1147
-Check of ModelicaTest.MultiBody.Joints.JointSSP successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.JointSSP">ModelicaTest.MultiBody.Joints.JointSSP</a> successful.
+

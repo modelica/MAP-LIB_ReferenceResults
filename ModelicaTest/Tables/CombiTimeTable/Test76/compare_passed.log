@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Tables\CombiTimeTable\Test76\Test76.csv
-. Time:        2018-12-16T16:09:40.9489744+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Tables\CombiTimeTable\Test76\Test76.csv
+. Time:        2020-03-16T19:58:10.7589536+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

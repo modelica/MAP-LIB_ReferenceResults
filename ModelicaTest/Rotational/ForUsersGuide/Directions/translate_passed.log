@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 103 of 113
 Translation of ModelicaTest.Rotational.ForUsersGuide.Directions:
 The DAE has 96 scalar unknowns and 96 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   J5.phi
   J5.w
  
-Finished
-Save translation log

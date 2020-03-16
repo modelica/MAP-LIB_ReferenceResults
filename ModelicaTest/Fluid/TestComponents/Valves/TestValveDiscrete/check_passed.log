@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 46 of 91
-Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveDiscrete:
 The model has the same number of unknowns and equations: 73
-Check of ModelicaTest.Fluid.TestComponents.Valves.TestValveDiscrete successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Valves.TestValveDiscrete">ModelicaTest.Fluid.TestComponents.Valves.TestValveDiscrete</a> successful.
+

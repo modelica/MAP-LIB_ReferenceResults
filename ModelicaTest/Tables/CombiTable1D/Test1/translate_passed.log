@@ -1,6 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_102829_ModelicaTest_v3.2.3-rc.2_2019_Tables
-This is translation 1 of 129
+﻿Failed to expand readTrajectory("Test23.mat", {"Time", "\"tableR[1, 1]\"", "\"tableR[1, 2]\"",   "\"tableR[1, 3]\"", "\"tableR[1, 4]\"", "\"tableR[2, 1]\"", "\"tableR[2, 2]\"",   "\"tableR[2, 3]\"", "\"tableR[2, 4]\"", "\"tableR[3, 1]\"", "\"tableR[3, 2]\"",   "\"tableR[3, 3]\"", "\"tableR[3, 4]\"", "\"tableR[4, 1]\"", "\"tableR[4, 2]\"",   "\"tableR[4, 3]\"", "\"tableR[4, 4]\"", "\"tableL[1, 1]\"", "\"tableL[1, 2]\"",   "\"tableL[1, 3]\"", "\"tableL[1, 4]\"", "\"tableL[2, 1]\"", "\"tableL[2, 2]\"",   "\"tableL[2, 3]\"", "\"tableL[2, 4]\"", "\"tableL[3, 1]\"", "\"tableL[3, 2]\"",   "\"tableL[3, 3]\"", "\"tableL[3, 4]\"", "\"tableL[4, 1]\"", "\"tableL[4, 2]\"",   "\"tableL[4, 3]\"", "\"tableL[4, 4]\"", "combiTable2D_1R.y[1]", "der_1R.y",   "combiTable2D_2R.y[1]", "der_2R.y", "cosine_R.y", "sine_R.y", "combiTable2D_1L.y[1]",   "der_1L.y", "combiTable2D_2L.y[1]", "der_2L.y", "cosine_L.y", "sine_L.y"}, 5003).
+ = true
 Translation of ModelicaTest.Tables.CombiTable1D.Test1:
 The DAE has 5 scalar unknowns and 5 scalar equations.
  
@@ -30,5 +29,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

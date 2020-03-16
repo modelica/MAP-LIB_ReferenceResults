@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 40 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Sensors.TestTemperature1:
 The DAE has 321 scalar unknowns and 321 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   volume2.medium.h
   volume2.medium.p
  
-Finished
-Save translation log

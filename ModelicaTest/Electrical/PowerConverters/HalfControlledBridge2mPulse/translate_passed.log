@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 37 of 82
 Translation of ModelicaTest.Electrical.PowerConverters.HalfControlledBridge2mPulse:
 The DAE has 455 scalar unknowns and 455 scalar equations.
  
@@ -16,9 +14,9 @@ Original Model
   Equations: 279
   Nontrivial: 245
 Translated Model
-  Constants: 168 scalars
+  Constants: 167 scalars
   Free parameters: 57 scalars
-  Parameter depending: 118 scalars
+  Parameter depending: 119 scalars
   Continuous time states: 3 scalars
   Time-varying variables: 111 scalars
   Alias variables: 278 scalars
@@ -37,5 +35,3 @@ Statically selected continuous time states
   meanVoltage.x
   rootMeanSquareVoltage.mean.x
  
-Finished
-Save translation log

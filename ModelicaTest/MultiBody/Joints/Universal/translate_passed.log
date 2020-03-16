@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 39 of 113
 Translation of ModelicaTest.MultiBody.Joints.Universal:
 The DAE has 2516 scalar unknowns and 2516 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   universal.w_a
   universal.w_b
  
-Finished
-Save translation log

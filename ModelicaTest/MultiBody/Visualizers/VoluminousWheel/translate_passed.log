@@ -1,6 +1,7 @@
-﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 95 of 113
+﻿Error in indexing of empty matrix.
+Failed to expanded subscripted expression: varNames[1]
+Failed to evaluate boolean if-condition
+ = true
 Translation of ModelicaTest.MultiBody.Visualizers.VoluminousWheel:
 The DAE has 3472 scalar unknowns and 3472 scalar equations.
  
@@ -28,5 +29,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 5 of 54
 Translation of ModelicaTest.Blocks.LimitersHomotopy:
 The DAE has 109 scalar unknowns and 109 scalar equations.
  
@@ -48,5 +46,3 @@ Statically selected continuous time states
   firstOrder5.y
   firstOrder6.y
  
-Finished
-Save translation log

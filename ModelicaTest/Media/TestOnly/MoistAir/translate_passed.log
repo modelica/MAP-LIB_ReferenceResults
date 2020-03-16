@@ -1,0 +1,26 @@
+﻿ = true
+Translation of ModelicaTest.Media.TestOnly.MoistAir:
+The DAE has 10 scalar unknowns and 10 scalar equations.
+ 
+Statistics
+ 
+Original Model
+  Number of components: 2
+  Variables: 8
+  Unknowns: 8 (10 scalars)
+  Equations: 6
+  Nontrivial: 5
+Translated Model
+  Constants: 6 scalars
+  Time-varying variables: 3 scalars
+  Alias variables: 1 scalars
+  Number of mixed real/discrete systems of equations: 0
+  Sizes of linear systems of equations: { }
+  Sizes after manipulation of the linear systems: { }
+  Sizes of nonlinear systems of equations: { }
+  Sizes after manipulation of the nonlinear systems: { }
+  Number of numerical Jacobians: 0
+ 
+Settings
+Advanced.StoreProtectedVariables = true
+Selected continuous time states

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 43 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Sources.TestSources:
 The DAE has 480 scalar unknowns and 480 scalar equations.
  
@@ -17,9 +15,9 @@ Original Model
 Translated Model
   Constants: 562 scalars
   Free parameters: 93 scalars
-  Parameter depending: 270 scalars
+  Parameter depending: 272 scalars
   Time-varying variables: 75 scalars
-  Alias variables: 199 scalars
+  Alias variables: 197 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -36,5 +34,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

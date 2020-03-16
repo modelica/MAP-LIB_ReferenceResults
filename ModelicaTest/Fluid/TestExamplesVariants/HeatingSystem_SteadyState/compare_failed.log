@@ -1,0 +1,26 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Fluid\TestExamplesVariants\HeatingSystem_SteadyState\HeatingSystem_SteadyState.csv
+. Time:        2020-03-16T19:53:42.5214669+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: HeatingSystem_SteadyState.tank.ports_H_flow[2]=>34.4698665629293
+. Failed values:
+HeatingSystem_SteadyState.tank.ports_H_flow[2]=>34.4698665629293
+HeatingSystem_SteadyState.tank.ports_H_flow[1]=>34.1077260833025
+HeatingSystem_SteadyState.m_flow=>22.1245218949458
+HeatingSystem_SteadyState.tank.ports[1].m_flow=>22.1245218949458
+HeatingSystem_SteadyState.tank.ports[2].m_flow=>21.3628280510894
+HeatingSystem_SteadyState.pump.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.valve.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.sensor_m_flow.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.heater.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.radiator.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.pipe.port_b.m_flow=>21.3628280510894
+HeatingSystem_SteadyState.tank.ports_E_flow[2]=>12.4568225835547
+HeatingSystem_SteadyState.tank.ports_E_flow[1]=>12.264065649002
+HeatingSystem_SteadyState.tank.ports[1].h_outflow=>7.04547665576272
+HeatingSystem_SteadyState.tank.ports[2].h_outflow=>7.04547665576272
+HeatingSystem_SteadyState.pump.port_b.h_outflow=>7.04280789214828
+HeatingSystem_SteadyState.sensor_m_flow.port_b.h_outflow=>7.04280789214828
+HeatingSystem_SteadyState.radiator.port_b.h_outflow=>6.07985169630214

@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:59:29 2018)
+(generated: Mon Mar 16 14:42:13 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -13,13 +13,13 @@ saturationPressure_Unique3
 saturationPressure_Unique3(pipe2.mediums[2].T)
 Non-linear solver will attempt to handle this problem.
 
-... "result.mat" creating (simulation result file)
+... "BranchingDynamicPipes_MomentumSteadyState.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 
 ERROR: Failed to solve nonlinear system using Newton solver.
-  Time: 2.223821504988119
+  Time: 2.22382150499045
   Tag: simulation.nonlinear[1]
 
   Common causes:
@@ -35,9 +35,8 @@ ERROR: Failed to solve nonlinear system using Newton solver.
    * Simulation/Setup/Translation/List non-linear iteration variables
    * The options under the group Simulation/Setup/Debug/Nonlinear solver diagnostics
 
-  Jacobian inverse norm estimate: 1.66943e+008
-  Condition number estimate: 1.50399e+008
-  1-norm of the residual = 0.602133
+  The Jacobian is estimated to be singular.
+  1-norm of the residual = 0.600355
   The estimates indicate that the Jacobian is close to singular, suggesting that there is no solution.
 
   Last value of the solution:
@@ -45,25 +44,26 @@ ERROR: Failed to solve nonlinear system using Newton solver.
     pipe3.port_a.h_outflow_inStream = 51944.1
     pipe2.port_a.m_flow = 0.00389396
   Last value of the residual:
-    { -0.000187085, 0.601946, 2.71311E-015 }
+    { -0.000187085, 0.600168, 0 }
  
 Solver will attempt to handle this problem.
 
 Integration terminated successfully at T = 10
-   CPU-time for integration      : 20.9 seconds
-   CPU-time for one GRID interval: 4.17 milliseconds
-   Number of result points       : 5011
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 628
-   Number of F-evaluations       : 4389
-   Number of H-evaluations       : 5660
-   Number of Jacobian-evaluations: 243
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 4
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.66e-007
-   Maximum integration stepsize  : 0.951
-   Maximum integration order     : 5
+   CPU-time for integration                : 9.3 seconds
+   CPU-time for one grid interval          : 1.86 milliseconds
+   CPU-time for initialization             : 0.066 seconds
+   Number of result points                 : 5011
+   Number of grid points                   : 5001
+   Number of accepted steps                : 632
+   Number of f-evaluations (dynamics)      : 1489
+   Number of crossing function evaluations : 5666
+   Number of Jacobian-evaluations          : 244
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 4
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.66e-07
+   Maximum integration stepsize            : 0.951
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

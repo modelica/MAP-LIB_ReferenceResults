@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 30 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesAndFittings:
 The DAE has 5664 scalar unknowns and 5664 scalar equations.
 Sparse solver handling possible: false.
@@ -168,5 +166,3 @@ Statically selected continuous time states
   pipe12.mediums[5].h
   pipe12.mediums[5].p
  
-Finished
-Save translation log

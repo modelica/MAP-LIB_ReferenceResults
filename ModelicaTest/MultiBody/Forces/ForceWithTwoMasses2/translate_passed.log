@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 15 of 113
 Translation of ModelicaTest.MultiBody.Forces.ForceWithTwoMasses2:
 The DAE has 3097 scalar unknowns and 3097 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   revolute2.phi
   revolute2.w
  
-Finished
-Save translation log

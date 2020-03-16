@@ -2,37 +2,32 @@
 modelName="ModelicaTest.MultiBody.Parts.PointMass"
 
 // Test info
-generationTool="Dymola Version 2019 (64-bit), 2018-04-11"
-generationDateAndTime="2018-12-16T10:35:20Z"
-usedMSLURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
-usedMSLRevision=04edf76b  
-usedMSLHasLocalModifications= 
-usedMSLLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica"
-usedMSLLocalBranch="Branch_v3.2.3-rc.2"
-testedPackageURL="https://github.com/modelica/ModelicaStandardLibrary.git   "
-testedPackageRevision=04edf76b  
-testedPackageHasLocalModifications= 
-testedPackageLocalPath="C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/ModelicaTest"
-testedPackageLocalBranch="Branch_v3.2.3-rc.2"
-testPC="LTXLG16"
-testOS="Microsoft Windows 10 Pro (Version 10.0.17134 Build 17134, x64)"
-testUser="LeoGall"
-testDescription="Reg test MSL v3.2.3-rc.2"
+generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
+generationDateAndTime="2020-03-16T15:54:31Z"
+gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
+gitRevision=bec0189aa
+gitStatus=
+testPC="LAPTOP-RUH9UABA"
+testOS="Microsoft Windows [Version 10.0.18362.720]"
+testUser="tbeu"
+testDescription="Reg test MSL v3.2.3+build.4"
 
 // Experiment settings (standardized annotation)
 StartTime=0
 StopTime=1.1 // from model
 Interval=0.00022 // (stopTime-startTime)/5000
-Tolerance=1e-06 // used default, because no tolerance annotation in model 
+Tolerance=1e-06 // used default, because no tolerance annotation in model
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
-SetDymolaCompiler("vs",{"MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 10.0/Vc"});
+Advanced.PedanticModelica := false;
+SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
 Evaluate := false;
 OutputCPUtime := false;
 translateModel("ModelicaTest.MultiBody.Parts.PointMass");
 Advanced.StoreProtectedVariables := true;
 Advanced.EfficientMinorEvents := false;
+Advanced.PlaceDymolaSourceFirst := 2;
 experimentSetupOutput(
   textual=false,
   doublePrecision=true,

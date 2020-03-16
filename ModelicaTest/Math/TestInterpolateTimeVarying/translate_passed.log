@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 43 of 54
 Translation of ModelicaTest.Math.TestInterpolateTimeVarying:
 The DAE has 16 scalar unknowns and 16 scalar equations.
  
@@ -32,5 +30,3 @@ Selected continuous time states
 Statically selected continuous time states
   xIntegrated
  
-Finished
-Save translation log

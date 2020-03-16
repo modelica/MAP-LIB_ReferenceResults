@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_110608
-This is check 31 of 46
-Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Channel.dp_internalFlowOverall_DPMFLOW:
 The model has the same number of unknowns and equations: 240
-Check of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Channel.dp_internalFlowOverall_DPMFLOW successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Channel.dp_internalFlowOverall_DPMFLOW">ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Channel.dp_internalFlowOverall_DPMFLOW</a> successful.
+

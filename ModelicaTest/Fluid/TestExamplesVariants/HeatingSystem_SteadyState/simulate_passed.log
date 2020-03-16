@@ -1,51 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:58:28 2018)
+(generated: Mon Mar 16 14:41:25 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-Error: The following error was detected at time: 0
-  Error in region computation of IF97 steam tables(p = 130000, h = -523982)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.rho_props_ph(
-pump.p_b_nominal, 
-pump.medium.h, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.p_b_nominal, pump.medium.h, pump.medium.state.phase, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  Error in region computation of IF97 steam tables(p = 130000, h = -60593.5)
-  Failed condition: false
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.rho_props_ph(
-pump.p_b_nominal, 
-pump.medium.h, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pump.p_b_nominal, pump.medium.h, pump.medium.state.phase, 0))
-Non-linear solver will attempt to handle this problem.
-
-... "result.mat" creating (simulation result file)
+... "HeatingSystem_SteadyState.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 6000
-   CPU-time for integration      : 23.2 seconds
-   CPU-time for one GRID interval: 4.65 milliseconds
-   Number of result points       : 5004
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 45
-   Number of F-evaluations       : 87
-   Number of H-evaluations       : 5046
-   Number of Jacobian-evaluations: 42
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 0.0004
-   Maximum integration stepsize  : 1.68e+003
-   Maximum integration order     : 1
+   CPU-time for integration                : 0.912 seconds
+   CPU-time for one grid interval          : 0.182 milliseconds
+   CPU-time for initialization             : 0.017 seconds
+   Number of result points                 : 5004
+   Number of grid points                   : 5001
+   Number of accepted steps                : 45
+   Number of f-evaluations (dynamics)      : 45
+   Number of crossing function evaluations : 5046
+   Number of Jacobian-evaluations          : 42
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 0.0004
+   Maximum integration stepsize            : 1.68e+03
+   Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 5 of 82
 Translation of ModelicaTest.Blocks.Hysteresis:
 The DAE has 3 scalar unknowns and 3 scalar equations.
  
@@ -27,5 +25,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

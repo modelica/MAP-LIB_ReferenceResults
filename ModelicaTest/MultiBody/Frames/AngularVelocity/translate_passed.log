@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 9 of 113
 Translation of ModelicaTest.MultiBody.Frames.AngularVelocity:
 The DAE has 2140 scalar unknowns and 2140 scalar equations.
  
@@ -45,5 +43,3 @@ There is one set of dynamic state selection.
 There are 3 states to be selected from:
   body.body.Q[]
  
-Finished
-Save translation log

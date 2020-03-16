@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 5 of 113
 Translation of ModelicaTest.MultiBody.FourbarVariants.UniversalSpherical:
 The DAE has 3142 scalar unknowns and 3142 scalar equations.
  
@@ -21,8 +19,8 @@ Translated Model
   Parameter depending: 309 scalars
   Outputs: 4 scalars
   Continuous time states: 2 scalars
-  Time-varying variables: 216 scalars
-  Alias variables: 835 scalars
+  Time-varying variables: 217 scalars
+  Alias variables: 834 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {21}
   Sizes after manipulation of the linear systems: {3}
@@ -37,5 +35,3 @@ Statically selected continuous time states
   j1.phi
   j1.w
  
-Finished
-Save translation log

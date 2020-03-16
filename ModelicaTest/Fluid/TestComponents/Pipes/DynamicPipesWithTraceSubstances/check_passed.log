@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 31 of 91
-Check of ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesWithTraceSubstances:
 The model has the same number of unknowns and equations: 3585
 The model could not be deduced to be symbolically well-posed.
 The model has
@@ -9,7 +5,7 @@ The model has
 scalar unknowns and
   3425+(if pipe2.massDynamics == Modelica.Fluid.Types.Dynamics.SteadyState then 10   else 20)+(if pipe3.massDynamics == Modelica.Fluid.Types.Dynamics.SteadyState   then 10 else 20)+(if pipe1.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)+(if pipe4.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)+(if pipe5.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)+(if pipe6.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)+(if pipe7.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)+(if pipe8.massDynamics == Modelica.Fluid.Types.Dynamics.  SteadyState then 10 else 20)
 scalar equations.
-However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+However, exploiting the given bindings parameters gives the same number of unknowns and equations:
   3585
-Check of ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesWithTraceSubstances successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesWithTraceSubstances">ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesWithTraceSubstances</a> successful.
+

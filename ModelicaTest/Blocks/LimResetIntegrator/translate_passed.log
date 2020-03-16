@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 3 of 54
 Translation of ModelicaTest.Blocks.LimResetIntegrator:
 The DAE has 15 scalar unknowns and 15 scalar equations.
  
@@ -34,5 +32,3 @@ Selected continuous time states
 Statically selected continuous time states
   integrator.y
  
-Finished
-Save translation log

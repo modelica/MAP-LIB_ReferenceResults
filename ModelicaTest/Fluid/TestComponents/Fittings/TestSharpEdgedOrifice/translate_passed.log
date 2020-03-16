@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 8 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice:
 The DAE has 110 scalar unknowns and 110 scalar equations.
  
@@ -34,5 +32,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

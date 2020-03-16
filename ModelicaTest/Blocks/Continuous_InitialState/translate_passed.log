@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_102510_ModelicaTest_v3.2.3-rc.2_2019_Blocks
-This is translation 3 of 17
 Translation of ModelicaTest.Blocks.Continuous_InitialState:
 The DAE has 110 scalar unknowns and 110 scalar equations.
  
@@ -50,5 +48,3 @@ Statically selected continuous time states
   stateSpace.x[]
   transferFunction.x_scaled[]
  
-Finished
-Save translation log

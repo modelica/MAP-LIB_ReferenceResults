@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 81 of 113
 Translation of ModelicaTest.MultiBody.Sensors.AbsoluteSensor2:
 The DAE has 2367 scalar unknowns and 2367 scalar equations.
  
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

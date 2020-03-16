@@ -1,7 +1,4 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 105 of 113
-Check of ModelicaTest.Rotational.ForUsersGuide.Directions3:
+Check of <a href="Modelica://ModelicaTest.Rotational.ForUsersGuide.Directions3">ModelicaTest.Rotational.ForUsersGuide.Directions3</a>:
 The model has the same number of unknowns and equations: 28
-Check of ModelicaTest.Rotational.ForUsersGuide.Directions3 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Rotational.ForUsersGuide.Directions3">ModelicaTest.Rotational.ForUsersGuide.Directions3</a> successful.
+

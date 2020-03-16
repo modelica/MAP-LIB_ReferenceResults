@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 73 of 82
 Translation of ModelicaTest.FluxTubes.Shapes.HysteresisAndMagnets:
 The DAE has 389 scalar unknowns and 389 scalar equations.
  
@@ -53,5 +51,3 @@ Statically selected continuous time states
   PM.B
   PM.MagRel
  
-Finished
-Save translation log

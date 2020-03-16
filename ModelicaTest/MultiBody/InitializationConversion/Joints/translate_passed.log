@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 98 of 113
 Translation of ModelicaTest.MultiBody.InitializationConversion.Joints:
 The DAE has 4900 scalar unknowns and 4900 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -74,5 +71,3 @@ There are 6 states to be selected from:
   bodyBox8.body.Q[]
   freeMotion.Q[]
  
-Finished
-Save translation log

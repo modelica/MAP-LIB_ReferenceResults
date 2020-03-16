@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 3 of 91
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionTraceSubstances:
 The model has the same number of unknowns and equations: 498
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionTraceSubstances successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionTraceSubstances">ModelicaTest.Fluid.TestComponents.Fittings.TestJunctionTraceSubstances</a> successful.
+

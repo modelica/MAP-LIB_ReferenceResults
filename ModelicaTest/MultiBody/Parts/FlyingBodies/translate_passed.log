@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 72 of 113
 Translation of ModelicaTest.MultiBody.Parts.FlyingBodies:
 The DAE has 4755 scalar unknowns and 4755 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -20,8 +17,8 @@ Translated Model
   Free parameters: 76 scalars
   Parameter depending: 543 scalars
   Continuous time states: 48 scalars
-  Time-varying variables: 517 scalars
-  Alias variables: 2148 scalars
+  Time-varying variables: 529 scalars
+  Alias variables: 2136 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3}
   Sizes after manipulation of the linear systems: {4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3}
@@ -64,5 +61,3 @@ From set 3 there are 3 states to be selected from:
 From set 4 there are 3 states to be selected from:
   body1.Q[]
  
-Finished
-Save translation log

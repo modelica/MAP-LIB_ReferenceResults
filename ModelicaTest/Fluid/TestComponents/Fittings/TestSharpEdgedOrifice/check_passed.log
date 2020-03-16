@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 8 of 91
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice:
 The model has the same number of unknowns and equations: 110
-Check of ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice">ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice</a> successful.
+

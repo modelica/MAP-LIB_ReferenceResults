@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 3 of 113
 Translation of ModelicaTest.MultiBody.FourbarVariants.SphericalAndUniversal:
 The DAE has 2254 scalar unknowns and 2254 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   j1.phi
   j1.w
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 1 of 113
 Translation of ModelicaTest.MultiBody.PlanarLoopWithMove:
 The DAE has 2197 scalar unknowns and 2197 scalar equations.
  
@@ -31,5 +29,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

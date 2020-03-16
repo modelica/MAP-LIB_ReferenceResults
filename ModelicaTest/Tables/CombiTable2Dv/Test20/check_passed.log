@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_141956
-This is check 26 of 54
-Check of ModelicaTest.Tables.CombiTable2Dv.Test20:
 The model has the same number of unknowns and equations: 25
 The model has the same number of unknowns and equations:
   24+size(combiTable1D.columns, 1)
-Check of ModelicaTest.Tables.CombiTable2Dv.Test20 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Tables.CombiTable2Dv.Test20">ModelicaTest.Tables.CombiTable2Dv.Test20</a> successful.
+

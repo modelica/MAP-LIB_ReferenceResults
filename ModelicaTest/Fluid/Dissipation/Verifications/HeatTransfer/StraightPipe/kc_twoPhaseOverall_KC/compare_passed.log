@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Fluid\Dissipation\Verifications\HeatTransfer\StraightPipe\kc_twoPhaseOverall_KC\kc_twoPhaseOverall_KC.csv
+. Time:        2020-03-16T19:51:17.4940921+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 86 of 113
 Translation of ModelicaTest.MultiBody.Sensors.CutForce2:
 The DAE has 1436 scalar unknowns and 1436 scalar equations.
  
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

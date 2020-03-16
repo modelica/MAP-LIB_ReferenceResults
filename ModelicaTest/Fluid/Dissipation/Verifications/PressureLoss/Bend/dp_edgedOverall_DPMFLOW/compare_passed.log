@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Fluid\Dissipation\Verifications\PressureLoss\Bend\dp_edgedOverall_DPMFLOW\dp_edgedOverall_DPMFLOW.csv
-. Time:        2018-12-16T14:32:58.2269843+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Fluid\Dissipation\Verifications\PressureLoss\Bend\dp_edgedOverall_DPMFLOW\dp_edgedOverall_DPMFLOW.csv
+. Time:        2020-03-16T19:51:26.6042154+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

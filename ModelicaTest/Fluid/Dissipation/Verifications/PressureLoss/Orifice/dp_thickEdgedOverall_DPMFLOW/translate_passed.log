@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_110608_ModelicaTest_v3.2.3-rc.2_2019_Fluid.Dissipation
-This is translation 38 of 46
 Translation of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Orifice.dp_thickEdgedOverall_DPMFLOW:
 The DAE has 149 scalar unknowns and 149 scalar equations.
  
@@ -35,5 +33,3 @@ Selected continuous time states
 Statically selected continuous time states
   L
  
-Finished
-Save translation log

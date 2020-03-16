@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 83 of 91
 Translation of ModelicaTest.Fluid.TestPipesAndValves.SeriesPipes13:
 The DAE has 512 scalar unknowns and 512 scalar equations.
  
@@ -50,5 +48,3 @@ Statically selected continuous time states
   pipe3.mediums[1].p
   valve.filter.x[]
  
-Finished
-Save translation log

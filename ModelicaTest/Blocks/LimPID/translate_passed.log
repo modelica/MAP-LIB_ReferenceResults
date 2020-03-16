@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 7 of 54
 Translation of ModelicaTest.Blocks.LimPID:
 The DAE has 156 scalar unknowns and 156 scalar equations.
  
@@ -53,6 +51,3 @@ PID1.limiter.u
 PID2.limiter.u
 PID3.limiter.u
 PID4.limiter.u
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

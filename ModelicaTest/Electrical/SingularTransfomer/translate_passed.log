@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 1 of 91
 Translation of ModelicaTest.Electrical.SingularTransfomer:
 The DAE has 51 scalar unknowns and 51 scalar equations.
  
@@ -40,5 +38,3 @@ There is one state to be selected from:
   basicTransformer.i1
   basicTransformer.i2
  
-Finished
-Save translation log

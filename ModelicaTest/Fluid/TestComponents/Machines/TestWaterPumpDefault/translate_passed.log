@@ -1,13 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 22 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDefault:
 The DAE has 142 scalar unknowns and 142 scalar equations.
-Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
-They will be treated as if they had stateSelect = StateSelect.default:
-  pump.medium.h
-  pump.medium.p
- 
  
 Statistics
  
@@ -40,6 +33,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

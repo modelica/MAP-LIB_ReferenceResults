@@ -1,9 +1,0 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Media\TestAllProperties\IncompleteMedia\ReferenceMoistAir\ReferenceMoistAir.csv
-. Time:        2018-12-16T14:38:00.1053999+01:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      failed
-. Biggest error: ReferenceMoistAir.MM=>116.041383560361
-. Failed values:
-ReferenceMoistAir.MM=>116.041383560361

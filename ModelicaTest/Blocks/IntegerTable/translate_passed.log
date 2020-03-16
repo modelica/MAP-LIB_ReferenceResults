@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_102510_ModelicaTest_v3.2.3-rc.2_2019_Blocks
-This is translation 10 of 17
 Translation of ModelicaTest.Blocks.IntegerTable:
 The DAE has 28 scalar unknowns and 28 scalar equations.
  
@@ -29,5 +27,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

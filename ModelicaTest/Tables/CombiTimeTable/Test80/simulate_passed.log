@@ -1,29 +1,30 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 11:47:34 2018)
+(generated: Mon Mar 16 14:21:35 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... loading "s.tab1" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Tables/test_v6.mat"
-... loading "s.s.tab1" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Tables/test_v6.mat"
-... "result.mat" creating (simulation result file)
+... loading "s.tab1" from "C:/Projekte/MSL323/Modelica/Resources/Data/Tables/test_v6.mat"
+... loading "s.s.tab1" from "C:/Projekte/MSL323/Modelica/Resources/Data/Tables/test_v6.mat"
+... "Test80.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 4
-   CPU-time for integration      : 0.151 seconds
-   CPU-time for one GRID interval: 0.0302 milliseconds
-   Number of result points       : 5005
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 84
-   Number of F-evaluations       : 164
-   Number of H-evaluations       : 5084
-   Number of Jacobian-evaluations: 80
-   Number of (model) time events : 4
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 8e-007
-   Maximum integration stepsize  : 0.419
-   Maximum integration order     : 1
+   CPU-time for integration                : 0.066 seconds
+   CPU-time for one grid interval          : 0.0132 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 5005
+   Number of grid points                   : 5001
+   Number of accepted steps                : 84
+   Number of f-evaluations (dynamics)      : 84
+   Number of crossing function evaluations : 5084
+   Number of Jacobian-evaluations          : 80
+   Number of model time events             : 4
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 8e-07
+   Maximum integration stepsize            : 0.419
+   Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

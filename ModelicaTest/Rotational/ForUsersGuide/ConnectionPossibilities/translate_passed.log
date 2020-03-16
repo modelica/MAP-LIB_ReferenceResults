@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 101 of 113
 Translation of ModelicaTest.Rotational.ForUsersGuide.ConnectionPossibilities:
 The DAE has 40 scalar unknowns and 40 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   inertia4.phi
   inertia4.w
  
-Finished
-Save translation log

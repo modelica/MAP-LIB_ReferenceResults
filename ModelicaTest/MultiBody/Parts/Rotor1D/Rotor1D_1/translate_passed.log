@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 74 of 113
 Translation of ModelicaTest.MultiBody.Parts.Rotor1D.Rotor1D_1:
 The DAE has 2976 scalar unknowns and 2976 scalar equations.
  
@@ -54,5 +52,3 @@ From set 1 there are 3 states to be selected from:
 From set 2 there are 3 states to be selected from:
   bodyCylinder2.body.Q[]
  
-Finished
-Save translation log

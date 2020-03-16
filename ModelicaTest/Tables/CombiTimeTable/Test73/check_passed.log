@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 28 of 82
-Check of ModelicaTest.Tables.CombiTimeTable.Test73:
 The model has the same number of unknowns and equations: 12
 The model has the same number of unknowns and equations:
   10+max([size(t_new.columns, 1); size(t_new.offset, 1)])+max([size(  t_new_2.columns, 1); size(t_new_2.offset, 1)])
-Check of ModelicaTest.Tables.CombiTimeTable.Test73 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Tables.CombiTimeTable.Test73">ModelicaTest.Tables.CombiTimeTable.Test73</a> successful.
+

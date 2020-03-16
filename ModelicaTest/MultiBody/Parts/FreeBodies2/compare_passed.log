@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\MultiBody\Parts\FreeBodies2\FreeBodies2.csv
+. Time:        2020-03-16T19:56:19.2068934+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

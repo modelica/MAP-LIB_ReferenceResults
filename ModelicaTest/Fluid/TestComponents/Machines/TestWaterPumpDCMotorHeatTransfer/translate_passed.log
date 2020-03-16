@@ -1,13 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 21 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpDCMotorHeatTransfer:
 The DAE has 337 scalar unknowns and 337 scalar equations.
-Warning: We cannot differentiate equations for the following variables having stateSelect = StateSelect.prefer.
-They will be treated as if they had stateSelect = StateSelect.default:
-  pump.medium.h
-  pump.medium.p
- 
  
 Statistics
  
@@ -48,6 +41,3 @@ Statically selected continuous time states
   motor.inertiaRotor.w
   motor.la.i
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_102510_ModelicaTest_v3.2.3-rc.2_2019_Blocks
-This is translation 15 of 17
 Translation of ModelicaTest.Blocks.Mean:
 The DAE has 59 scalar unknowns and 59 scalar equations.
  
@@ -39,5 +37,3 @@ Statically selected continuous time states
   rectifiedMean.mean.x
   rootMeanSquare.mean.x
  
-Finished
-Save translation log

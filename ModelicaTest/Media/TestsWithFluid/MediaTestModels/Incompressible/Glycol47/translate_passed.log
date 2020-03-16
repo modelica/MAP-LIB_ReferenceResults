@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111253_ModelicaTest_v3.2.3-rc.2_2019_Media
-This is translation 29 of 37
 Translation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.Incompressible.Glycol47:
 The DAE has 133 scalar unknowns and 133 scalar equations.
  
@@ -41,5 +39,3 @@ Selected continuous time states
 Statically selected continuous time states
   volume.medium.T
  
-Finished
-Save translation log

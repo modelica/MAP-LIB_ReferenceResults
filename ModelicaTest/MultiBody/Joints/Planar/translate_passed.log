@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 40 of 113
 Translation of ModelicaTest.MultiBody.Joints.Planar:
 The DAE has 2739 scalar unknowns and 2739 scalar equations.
  
@@ -20,8 +18,8 @@ Translated Model
   Free parameters: 40 scalars
   Parameter depending: 194 scalars
   Continuous time states: 6 scalars
-  Time-varying variables: 73 scalars
-  Alias variables: 656 scalars
+  Time-varying variables: 75 scalars
+  Alias variables: 654 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {2, 2}
   Sizes after manipulation of the linear systems: {2, 2}
@@ -40,5 +38,3 @@ Statically selected continuous time states
   planar.v_y
   planar.w
  
-Finished
-Save translation log

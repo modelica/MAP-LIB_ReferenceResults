@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 52 of 54
 Translation of ModelicaTest.MultiBody.Parts.Rotor1D.Bevel1D:
 The DAE has 2387 scalar unknowns and 2387 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   inertia2.phi
   inertia2.w
  
-Finished
-Save translation log

@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 108 of 113
-Check of ModelicaTest.Rotational.TestSpeed:
 The model has the same number of unknowns and equations: 60
-Check of ModelicaTest.Rotational.TestSpeed successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Rotational.TestSpeed">ModelicaTest.Rotational.TestSpeed</a> successful.
+

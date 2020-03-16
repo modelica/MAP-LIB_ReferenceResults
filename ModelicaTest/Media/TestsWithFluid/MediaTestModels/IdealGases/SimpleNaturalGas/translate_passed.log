@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111253_ModelicaTest_v3.2.3-rc.2_2019_Media
-This is translation 27 of 37
 Translation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.SimpleNaturalGas:
 The DAE has 276 scalar unknowns and 276 scalar equations.
  
@@ -43,5 +41,3 @@ Statically selected continuous time states
   volume.medium.T
   volume.medium.X[]
  
-Finished
-Save translation log

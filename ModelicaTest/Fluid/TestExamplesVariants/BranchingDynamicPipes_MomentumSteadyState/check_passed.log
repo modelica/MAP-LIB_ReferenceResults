@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 64 of 91
-Check of ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_MomentumSteadyState:
 The model has the same number of unknowns and equations: 2025
-Check of ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_MomentumSteadyState successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_MomentumSteadyState">ModelicaTest.Fluid.TestExamplesVariants.BranchingDynamicPipes_MomentumSteadyState</a> successful.
+

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 70 of 113
 Translation of ModelicaTest.MultiBody.Parts.PointMass:
 The DAE has 1399 scalar unknowns and 1399 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   rev.phi
   rev.w
  
-Finished
-Save translation log

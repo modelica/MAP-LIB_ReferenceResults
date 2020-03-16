@@ -1,0 +1,12 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Fluid\TestComponents\Valves\TestValvesCompressibleReverse\TestValvesCompressibleReverse.csv
+. Time:        2020-03-16T19:53:19.4243859+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: TestValvesCompressibleReverse.V3.port_b.m_flow=>0.0018129824983
+. Failed values:
+TestValvesCompressibleReverse.SourceP2.ports[1].m_flow=>0.0018129824983
+TestValvesCompressibleReverse.V3.port_b.m_flow=>0.0018129824983
+TestValvesCompressibleReverse.V2.port_b.p=>7.78866358402515E-06
+TestValvesCompressibleReverse.V3.port_b.p=>7.78866358402515E-06

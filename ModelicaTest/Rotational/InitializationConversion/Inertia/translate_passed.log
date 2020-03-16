@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 106 of 113
 Translation of ModelicaTest.Rotational.InitializationConversion.Inertia:
 The DAE has 118 scalar unknowns and 118 scalar equations.
  
@@ -56,5 +54,3 @@ Statically selected continuous time states
   inertia9a.phi
   inertia9a.w
  
-Finished
-Save translation log

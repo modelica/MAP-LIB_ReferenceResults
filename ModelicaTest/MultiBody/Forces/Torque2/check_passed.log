@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_142842
-This is check 3 of 3
-Check of ModelicaTest.MultiBody.Forces.Torque2:
 The model has the same number of unknowns and equations: 5782
 The model has the same number of unknowns and equations:
   5754+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Forces.Torque2 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.MultiBody.Forces.Torque2">ModelicaTest.MultiBody.Forces.Torque2</a> successful.
+

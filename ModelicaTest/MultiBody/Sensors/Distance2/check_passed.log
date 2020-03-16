@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 84 of 113
-Check of ModelicaTest.MultiBody.Sensors.Distance2:
 The model has the same number of unknowns and equations: 1917
 The model has the same number of unknowns and equations:
   1889+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Sensors.Distance2 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.MultiBody.Sensors.Distance2">ModelicaTest.MultiBody.Sensors.Distance2</a> successful.
+

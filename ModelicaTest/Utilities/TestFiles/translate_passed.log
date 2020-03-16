@@ -1,11 +1,9 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 66 of 82
 Translation of ModelicaTest.Utilities.TestFiles:
 The DAE has 1 scalar unknowns and 1 scalar equations.
 ... Test of Modelica.Utilities.Files
  
-Directory "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/ModelicaTest/Resources/Data":
+Directory "C:/Projekte/MSL323/ModelicaTest/Resources/Data":
   Subdirectories:
     Tables
  
@@ -16,7 +14,7 @@ this is line 2
 this is line 3
 ... Test of Modelica.Utilities.Files
  
-Directory "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/ModelicaTest/Resources/Data":
+Directory "C:/Projekte/MSL323/ModelicaTest/Resources/Data":
   Subdirectories:
     Tables
  
@@ -48,5 +46,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

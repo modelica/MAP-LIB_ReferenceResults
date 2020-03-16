@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Electrical\Machines\SMPM_VoltageSourceWithLosses\SMPM_VoltageSourceWithLosses.csv
+. Time:        2020-03-16T19:49:40.3511509+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

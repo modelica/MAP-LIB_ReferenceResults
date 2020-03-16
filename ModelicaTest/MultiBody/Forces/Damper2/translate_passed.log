@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_141956_ModelicaTest_v3.2.3-rc.2_2019_NewModels323
-This is translation 48 of 54
 Translation of ModelicaTest.MultiBody.Forces.Damper2:
 The DAE has 3790 scalar unknowns and 3790 scalar equations.
  
@@ -41,5 +39,3 @@ Statically selected continuous time states
   prismatic2.s
   prismatic2.v
  
-Finished
-Save translation log

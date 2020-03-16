@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 49 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Valves.TestValveVaporizing:
 The DAE has 84 scalar unknowns and 84 scalar equations.
  
@@ -30,5 +28,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 51 of 91
 Translation of ModelicaTest.Fluid.TestComponents.Valves.TestDelayedValve:
 The DAE has 291 scalar unknowns and 291 scalar equations.
  
@@ -48,5 +46,3 @@ Statically selected continuous time states
   tank3.medium.T
   valveDelayed.filter.x[]
  
-Finished
-Save translation log

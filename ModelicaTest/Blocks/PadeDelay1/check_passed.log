@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 2 of 82
-Check of ModelicaTest.Blocks.PadeDelay1:
 The model has the same number of unknowns and equations: 104
 The model has the same number of unknowns and equations:
   84+padeDelayOld1.m+padeDelayOld2.m
-Check of ModelicaTest.Blocks.PadeDelay1 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Blocks.PadeDelay1">ModelicaTest.Blocks.PadeDelay1</a> successful.
+

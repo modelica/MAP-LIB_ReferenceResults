@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 10:35:12 2018)
+(generated: Mon Mar 16 14:00:44 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... loading "akima2D" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Tables/test.txt"
-... "result.mat" creating (simulation result file)
+... loading "akima2D" from "C:/Projekte/MSL323/Modelica/Resources/Data/Tables/test.txt"
+... "Test14.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 60
-   CPU-time for integration      : 0.221 seconds
-   CPU-time for one GRID interval: 0.0442 milliseconds
-   Number of result points       : 5002
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 23
-   Number of F-evaluations       : 45
-   Number of Jacobian-evaluations: 22
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.2e-005
-   Maximum integration stepsize  : 25.2
-   Maximum integration order     : 1
+   CPU-time for integration                : 0.062 seconds
+   CPU-time for one grid interval          : 0.0124 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 5002
+   Number of grid points                   : 5001
+   Number of accepted steps                : 23
+   Number of f-evaluations (dynamics)      : 23
+   Number of Jacobian-evaluations          : 22
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.2e-05
+   Maximum integration stepsize            : 25.2
+   Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

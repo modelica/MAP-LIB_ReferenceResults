@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_104542
-This is check 82 of 91
-Check of ModelicaTest.Fluid.TestPipesAndValves.SeriesPipes12:
 The model has the same number of unknowns and equations: 512
 The model could not be deduced to be symbolically well-posed.
 The model has
@@ -11,5 +7,5 @@ scalar unknowns and
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
   512
-Check of ModelicaTest.Fluid.TestPipesAndValves.SeriesPipes12 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Fluid.TestPipesAndValves.SeriesPipes12">ModelicaTest.Fluid.TestPipesAndValves.SeriesPipes12</a> successful.
+

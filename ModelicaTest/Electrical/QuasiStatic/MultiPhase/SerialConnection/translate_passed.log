@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 41 of 82
 Translation of ModelicaTest.Electrical.QuasiStatic.MultiPhase.SerialConnection:
 The DAE has 3365 scalar unknowns and 3365 scalar equations.
  
@@ -39,5 +37,3 @@ Selected continuous time states
 Statically selected continuous time states
   variableResistor.plug_p.reference.gamma
  
-Finished
-Save translation log

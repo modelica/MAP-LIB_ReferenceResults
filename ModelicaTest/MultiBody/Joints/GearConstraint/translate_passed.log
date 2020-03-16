@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 64 of 113
 Translation of ModelicaTest.MultiBody.Joints.GearConstraint:
 The DAE has 4312 scalar unknowns and 4312 scalar equations.
  
@@ -41,5 +39,3 @@ Statically selected continuous time states
   inertia2.phi
   inertia2.w
  
-Finished
-Save translation log

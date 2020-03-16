@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 107 of 113
 Translation of ModelicaTest.Rotational.InitializationConversion.SpringDamper:
 The DAE has 119 scalar unknowns and 119 scalar equations.
  
@@ -46,5 +44,3 @@ Statically selected continuous time states
   springDamper3.phi_rel
   springDamper3.w_rel
  
-Finished
-Save translation log

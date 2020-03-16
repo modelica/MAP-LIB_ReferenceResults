@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-16_114252
-This is check 49 of 82
-Check of ModelicaTest.Math.TestMatrices3:
 The model has the same number of unknowns and equations: 1
-Check of ModelicaTest.Math.TestMatrices3 successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Math.TestMatrices3">ModelicaTest.Math.TestMatrices3</a> successful.
+

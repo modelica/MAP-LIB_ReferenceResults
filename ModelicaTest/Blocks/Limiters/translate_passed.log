@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_102510_ModelicaTest_v3.2.3-rc.2_2019_Blocks
-This is translation 5 of 17
 Translation of ModelicaTest.Blocks.Limiters:
 The DAE has 18 scalar unknowns and 18 scalar equations.
  
@@ -34,5 +32,3 @@ Selected continuous time states
 Statically selected continuous time states
   slewRateLimiter.y
  
-Finished
-Save translation log

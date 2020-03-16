@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 38 of 113
 Translation of ModelicaTest.MultiBody.Joints.Cylindrical:
 The DAE has 2409 scalar unknowns and 2409 scalar equations.
  
@@ -20,8 +18,8 @@ Translated Model
   Free parameters: 37 scalars
   Parameter depending: 186 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 78 scalars
-  Alias variables: 581 scalars
+  Time-varying variables: 79 scalars
+  Alias variables: 580 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3}
   Sizes after manipulation of the linear systems: {0}
@@ -38,5 +36,3 @@ Statically selected continuous time states
   cylindrical.v
   cylindrical.w
  
-Finished
-Save translation log

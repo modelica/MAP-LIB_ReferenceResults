@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 61 of 113
 Translation of ModelicaTest.MultiBody.Joints.PrismaticInit:
 The DAE has 524 scalar unknowns and 524 scalar equations.
  
@@ -39,5 +37,3 @@ Statically selected continuous time states
   prismatic.s
   prismatic.v
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 2 of 82
 Translation of ModelicaTest.Blocks.PadeDelay1:
 The DAE has 104 scalar unknowns and 104 scalar equations.
 Warning: The initial conditions are not fully specified.
@@ -78,6 +76,3 @@ Statically selected continuous time states
   padeDelayOld1.x[]
   padeDelayOld2.x[]
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 47 of 113
 Translation of ModelicaTest.MultiBody.Joints.FreeMotionScalarInit5:
 The DAE has 2487 scalar unknowns and 2487 scalar equations.
  
@@ -19,8 +17,8 @@ Translated Model
   Free parameters: 50 scalars
   Parameter depending: 182 scalars
   Continuous time states: 12 scalars
-  Time-varying variables: 134 scalars
-  Alias variables: 783 scalars
+  Time-varying variables: 137 scalars
+  Alias variables: 780 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {3, 3, 2}
   Sizes after manipulation of the linear systems: {3, 3, 2}
@@ -45,5 +43,3 @@ Statically selected continuous time states
   freeMotionScalarInit2.angle_d_2
   freeMotionScalarInit2.angle_d_3
  
-Finished
-Save translation log

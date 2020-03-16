@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (Amd64)
-Comparison result file for C:\Work\2018-12-16_142916_ModelicaTest_v3.2.3-rc.2_2019\ModelicaTest\Fluid\Dissipation\Verifications\PressureLoss\General\dp_nominalPressureLossLawDensity_DPMFLOW\dp_nominalPressureLossLawDensity_DPMFLOW.csv
-. Time:        2018-12-16T14:33:15.1802194+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\Fluid\Dissipation\Verifications\PressureLoss\General\dp_nominalPressureLossLawDensity_DPMFLOW\dp_nominalPressureLossLawDensity_DPMFLOW.csv
+. Time:        2020-03-16T19:51:38.3388595+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

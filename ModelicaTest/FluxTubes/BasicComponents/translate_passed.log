@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 69 of 82
 Translation of ModelicaTest.FluxTubes.BasicComponents:
 The DAE has 118 scalar unknowns and 118 scalar equations.
  
@@ -47,5 +45,3 @@ There is one state to be selected from:
   converter.Phi
   leakageWithCoefficient.port_p.Phi
  
-Finished
-Save translation log

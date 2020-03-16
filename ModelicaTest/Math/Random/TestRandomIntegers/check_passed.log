@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_141956
-This is check 44 of 54
-Check of ModelicaTest.Math.Random.TestRandomIntegers:
 The model has the same number of unknowns and equations: 8
 The model has the same number of unknowns and equations:
   5+n
-Check of ModelicaTest.Math.Random.TestRandomIntegers successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.Math.Random.TestRandomIntegers">ModelicaTest.Math.Random.TestRandomIntegers</a> successful.
+

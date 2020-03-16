@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 109 of 113
 Translation of ModelicaTest.Rotational.TestMove:
 The DAE has 1404 scalar unknowns and 1404 scalar equations.
  
@@ -30,5 +28,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

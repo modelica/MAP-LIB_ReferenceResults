@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 65 of 113
 Translation of ModelicaTest.MultiBody.Parts.FixedTranslation:
 The DAE has 2245 scalar unknowns and 2245 scalar equations.
  
@@ -16,8 +14,8 @@ Original Model
 Translated Model
   Constants: 1649 scalars
   Free parameters: 26 scalars
-  Parameter depending: 207 scalars
-  Alias variables: 526 scalars
+  Parameter depending: 213 scalars
+  Alias variables: 520 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

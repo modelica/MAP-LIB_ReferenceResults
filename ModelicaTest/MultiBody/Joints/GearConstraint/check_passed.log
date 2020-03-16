@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-16_111939
-This is check 64 of 113
-Check of ModelicaTest.MultiBody.Joints.GearConstraint:
 The model has the same number of unknowns and equations: 4312
 The model has the same number of unknowns and equations:
   4228+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1)+size(fixedFrame2.x_label.lines, 1)+size(  fixedFrame2.y_label.lines, 1)+size(fixedFrame2.z_label.lines, 1)+size(  fixedFrame1.x_label.lines, 1)+size(fixedFrame1.y_label.lines, 1)+size(  fixedFrame1.z_label.lines, 1))
-Check of ModelicaTest.MultiBody.Joints.GearConstraint successful.
-Save check log
+Check of <a href="Modelica://ModelicaTest.MultiBody.Joints.GearConstraint">ModelicaTest.MultiBody.Joints.GearConstraint</a> successful.
+

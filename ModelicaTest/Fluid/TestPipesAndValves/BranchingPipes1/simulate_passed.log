@@ -1,11 +1,11 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 11:01:45 2018)
+(generated: Mon Mar 16 15:10:50 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -4.57677e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -4.57677e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -105,25 +105,26 @@ pipe2.state_a.h,
 Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(pipe1.port_b.p, pipe2.state_a.h, 0, 0))
 Non-linear solver will attempt to handle this problem.
 
-... "result.mat" creating (simulation result file)
+... "BranchingPipes1.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 5
-   CPU-time for integration      : 5.67 seconds
-   CPU-time for one GRID interval: 0.567 milliseconds
-   Number of result points       : 10004
-   Number of GRID   points       : 10001
-   Number of (successful) steps  : 426
-   Number of F-evaluations       : 1505
-   Number of H-evaluations       : 10426
-   Number of Jacobian-evaluations: 89
-   Number of (model) time events : 2
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.07e-010
-   Maximum integration stepsize  : 0.286
-   Maximum integration order     : 5
+   CPU-time for integration                : 2.49 seconds
+   CPU-time for one grid interval          : 0.249 milliseconds
+   CPU-time for initialization             : 0.018 seconds
+   Number of result points                 : 10004
+   Number of grid points                   : 10001
+   Number of accepted steps                : 426
+   Number of f-evaluations (dynamics)      : 882
+   Number of crossing function evaluations : 10426
+   Number of Jacobian-evaluations          : 89
+   Number of model time events             : 2
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.07e-10
+   Maximum integration stepsize            : 0.286
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

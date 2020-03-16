@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 2 of 113
 Translation of ModelicaTest.MultiBody.SphericalDoublePendulum:
 The DAE has 3232 scalar unknowns and 3232 scalar equations.
  
@@ -61,5 +59,3 @@ From set 3 there are 3 states to be selected from:
 From set 4 there are 3 states to be selected from:
   boxBody6.body.Q[]
  
-Finished
-Save translation log

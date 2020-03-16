@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_102829_ModelicaTest_v3.2.3-rc.2_2019_Tables
-This is translation 122 of 129
 Translation of ModelicaTest.Tables.CombiTimeTable.Test64:
 The DAE has 4 scalar unknowns and 4 scalar equations.
  
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-16_111939_ModelicaTest_v3.2.3-rc.2_2019_MultiBody
-This is translation 59 of 113
 Translation of ModelicaTest.MultiBody.Joints.SphericalSpherical2:
 The DAE has 5662 scalar unknowns and 5662 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -69,5 +66,3 @@ From set 5 there are 5 states to be selected from:
 From set 6 there are 2 states to be selected from:
   sphericalSpherical.v_CM_0[]
  
-Finished
-Save translation log

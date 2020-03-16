@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_114252_ModelicaTest_v3.2.3-rc.2_2019_NewModels322
-This is translation 79 of 82
 Translation of ModelicaTest.Fluid.Dissipation.Verifications.PressureLoss.Bend.dp_edgedOverall_DPMFLOW:
 The DAE has 75 scalar unknowns and 75 scalar equations.
  
@@ -30,5 +28,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

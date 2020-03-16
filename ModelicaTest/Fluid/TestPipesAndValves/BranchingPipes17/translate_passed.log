@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-16_104542_ModelicaTest_v3.2.3-rc.2_2019_Fluid
-This is translation 78 of 91
 Translation of ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes17:
 The DAE has 452 scalar unknowns and 452 scalar equations.
  
@@ -51,6 +49,3 @@ Warning: Some variables are iteration variables of the initialization problem:
 but they are not given any explicit start values. Zero will be used.
 Iteration variables:
 der(junctionVolume.medium.T)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log
