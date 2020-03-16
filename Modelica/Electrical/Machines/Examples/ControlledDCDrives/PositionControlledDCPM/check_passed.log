@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 381 of 422
-Check of Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM:
 The model has the same number of unknowns and equations: 473
 The model has the same number of unknowns and equations:
   467+6*max([size(kinematicPTP.q_begin, 1); size(kinematicPTP.q_end, 1); size(  kinematicPTP.qd_max, 1); size(kinematicPTP.qdd_max, 1)])
-Check of Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM">Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM</a> successful.
+

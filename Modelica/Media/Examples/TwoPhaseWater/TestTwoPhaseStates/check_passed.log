@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 314 of 422
-Check of Modelica.Media.Examples.TwoPhaseWater.TestTwoPhaseStates:
 The model has the same number of unknowns and equations: 53
-Check of Modelica.Media.Examples.TwoPhaseWater.TestTwoPhaseStates successful.
-Save check log
+Check of <a href="Modelica://Modelica.Media.Examples.TwoPhaseWater.TestTwoPhaseStates">Modelica.Media.Examples.TwoPhaseWater.TestTwoPhaseStates</a> successful.
+

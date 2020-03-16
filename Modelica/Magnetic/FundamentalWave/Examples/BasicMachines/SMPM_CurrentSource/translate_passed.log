@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 394 of 422
 Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMPM_CurrentSource:
 The DAE has 826 scalar unknowns and 826 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   inertiaLoad.w
   speedSensor.flange.phi
  
-Finished
-Save translation log

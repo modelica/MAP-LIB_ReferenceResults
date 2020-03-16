@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 124 of 422
-Check of Modelica.Electrical.MultiPhase.Examples.TestSensors:
 The model has the same number of unknowns and equations: 578
-Check of Modelica.Electrical.MultiPhase.Examples.TestSensors successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.MultiPhase.Examples.TestSensors">Modelica.Electrical.MultiPhase.Examples.TestSensors</a> successful.
+

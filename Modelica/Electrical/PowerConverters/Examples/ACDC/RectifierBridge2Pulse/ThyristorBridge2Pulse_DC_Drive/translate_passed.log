@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 133 of 422
 Translation of Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_DC_Drive:
 The DAE has 366 scalar unknowns and 366 scalar equations.
  
@@ -16,9 +14,9 @@ Original Model
   Equations: 332
   Nontrivial: 267
 Translated Model
-  Constants: 222 scalars
+  Constants: 221 scalars
   Free parameters: 43 scalars
-  Parameter depending: 121 scalars
+  Parameter depending: 122 scalars
   Outputs: 2 scalars
   Continuous time states: 10 scalars
   Time-varying variables: 80 scalars
@@ -45,5 +43,3 @@ Statically selected continuous time states
   pulse2.twoPulse.filter[1].transferFunction[2].x_scaled[]
   rootMeanSquareVoltage.mean.x
  
-Finished
-Save translation log

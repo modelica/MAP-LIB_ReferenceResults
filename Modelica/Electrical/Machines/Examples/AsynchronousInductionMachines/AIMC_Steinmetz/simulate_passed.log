@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:18:18 2018)
+(generated: Mon Mar 16 11:20:22 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "AIMC_Steinmetz.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 1
-   CPU-time for integration      : 1.34 seconds
-   CPU-time for one GRID interval: 0.067 milliseconds
-   Number of result points       : 20005
-   Number of GRID   points       : 20001
-   Number of (successful) steps  : 8063
-   Number of F-evaluations       : 18670
-   Number of H-evaluations       : 28069
-   Number of Jacobian-evaluations: 241
-   Number of (model) time events : 1
-   Number of (U) time events     : 0
-   Number of state    events     : 1
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.88e-011
-   Maximum integration stepsize  : 0.000819
-   Maximum integration order     : 5
+   CPU-time for integration                : 0.513 seconds
+   CPU-time for one grid interval          : 0.0256 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 20005
+   Number of grid points                   : 20001
+   Number of accepted steps                : 8063
+   Number of f-evaluations (dynamics)      : 16501
+   Number of crossing function evaluations : 28069
+   Number of Jacobian-evaluations          : 241
+   Number of model time events             : 1
+   Number of input time events             : 0
+   Number of state events                  : 1
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.88e-11
+   Maximum integration stepsize            : 0.000819
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

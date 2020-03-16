@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 307 of 422
 Translation of Modelica.Fluid.Examples.Explanatory.MeasuringTemperature:
 The DAE has 462 scalar unknowns and 462 scalar equations.
  
@@ -57,6 +55,3 @@ Iteration variables:
 der(openTankCold3.m)
 der(openTankHot1.m)
 der(openTankHot2.m)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

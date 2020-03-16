@@ -1,32 +1,33 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 00:22:41 2018)
+(generated: Mon Mar 16 12:43:53 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... loading "Matrix_A" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat"
-... loading "Matrix_A" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat"
-... loading "Matrix_A" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Utilities/Test_RealMatrix_v6.mat"
-... loading "Matrix_A" from "C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Utilities/Test_RealMatrix_v7.mat"
-... Matrix Matrix_A[3,2] read from file C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat
+... loading "Matrix_A" from "C:/Projekte/MSL323/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat"
+... loading "Matrix_A" from "C:/Projekte/MSL323/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat"
+... loading "Matrix_A" from "C:/Projekte/MSL323/Modelica/Resources/Data/Utilities/Test_RealMatrix_v6.mat"
+... loading "Matrix_A" from "C:/Projekte/MSL323/Modelica/Resources/Data/Utilities/Test_RealMatrix_v7.mat"
+... Matrix Matrix_A[3,2] read from file C:/Projekte/MSL323/Modelica/Resources/Data/Utilities/Test_RealMatrix_v4.mat
 ...    Matrix_A[1,1] = 11
-... "result.mat" creating (simulation result file)
+... "ReadRealMatrixFromFile.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 0.1
-   CPU-time for integration      : 0.21 seconds
-   CPU-time for one GRID interval: 0.042 milliseconds
-   Number of result points       : 5002
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 40
-   Number of F-evaluations       : 85
-   Number of Jacobian-evaluations: 19
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 2e-008
-   Maximum integration stepsize  : 0.00849
-   Maximum integration order     : 4
+   CPU-time for integration                : 0.116 seconds
+   CPU-time for one grid interval          : 0.0232 milliseconds
+   CPU-time for initialization             : 0.003 seconds
+   Number of result points                 : 5002
+   Number of grid points                   : 5001
+   Number of accepted steps                : 40
+   Number of f-evaluations (dynamics)      : 66
+   Number of Jacobian-evaluations          : 19
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 2e-08
+   Maximum integration stepsize            : 0.00849
+   Maximum integration order               : 4
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

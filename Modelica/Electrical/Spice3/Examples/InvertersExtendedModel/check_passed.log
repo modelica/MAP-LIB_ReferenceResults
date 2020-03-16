@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 174 of 422
-Check of Modelica.Electrical.Spice3.Examples.InvertersExtendedModel:
 The model has the same number of unknowns and equations: 154
-Check of Modelica.Electrical.Spice3.Examples.InvertersExtendedModel successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Spice3.Examples.InvertersExtendedModel">Modelica.Electrical.Spice3.Examples.InvertersExtendedModel</a> successful.
+

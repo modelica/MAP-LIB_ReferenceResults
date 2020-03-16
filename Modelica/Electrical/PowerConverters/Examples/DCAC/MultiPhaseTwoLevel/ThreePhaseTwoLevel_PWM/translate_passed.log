@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 382 of 422
 Translation of Modelica.Electrical.PowerConverters.Examples.DCAC.MultiPhaseTwoLevel.ThreePhaseTwoLevel_PWM:
 The DAE has 400 scalar unknowns and 400 scalar equations.
  
@@ -43,5 +41,3 @@ Statically selected continuous time states
   harmonic.mean2.x
   integrator.y
  
-Finished
-Save translation log

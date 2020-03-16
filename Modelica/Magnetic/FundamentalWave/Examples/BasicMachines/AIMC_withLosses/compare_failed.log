@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\AIMC_withLosses\AIMC_withLosses.csv
+. Time:        2020-03-16T19:42:54.5451073+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AIMC_withLosses.aimc.stator.zeroInductor.i0=>0.000218323948016812
+. Failed values:
+AIMC_withLosses.aimc.stator.zeroInductor.i0=>0.000218323948016812

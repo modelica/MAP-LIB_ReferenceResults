@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 295 of 422
 Translation of Modelica.Fluid.Examples.AST_BatchPlant.Test.TwoTanks:
 The DAE has 120 scalar unknowns and 120 scalar equations.
  
@@ -43,5 +41,3 @@ Statically selected continuous time states
   tank2.level
   tank2.medium.T
  
-Finished
-Save translation log

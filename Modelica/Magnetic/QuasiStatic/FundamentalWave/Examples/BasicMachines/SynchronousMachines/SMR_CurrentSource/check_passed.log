@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 219 of 422
-Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_CurrentSource:
 The model has the same number of unknowns and equations: 3512
 The model has the same number of unknowns and equations:
   3506+2*currentController.m
-Check of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_CurrentSource successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_CurrentSource">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_CurrentSource</a> successful.
+

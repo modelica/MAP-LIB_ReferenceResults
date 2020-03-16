@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 336 of 422
 Translation of Modelica.Media.Examples.Tests.MediaTestModels.Incompressible.Essotherm650:
 Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Incompressible.Essotherm650 specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Incompressible.Essotherm650 instead.
 The DAE has 63 scalar unknowns and 63 scalar equations.
@@ -39,6 +37,3 @@ Warning: Some variables are iteration variables of the initialization problem:
 but they are not given any explicit start values. Zero will be used.
 Iteration variables:
 der(volume.medium.T)
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

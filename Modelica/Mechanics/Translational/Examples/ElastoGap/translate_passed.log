@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 283 of 422
 Translation of Modelica.Mechanics.Translational.Examples.ElastoGap:
 The DAE has 70 scalar unknowns and 70 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   springDamper1.v_rel
   springDamper2.s_rel
  
-Finished
-Save translation log

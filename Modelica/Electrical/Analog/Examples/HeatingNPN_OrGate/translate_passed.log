@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 39 of 422
 Translation of Modelica.Electrical.Analog.Examples.HeatingNPN_OrGate:
 The DAE has 152 scalar unknowns and 152 scalar equations.
  
@@ -34,5 +32,3 @@ Selected continuous time states
 Statically selected continuous time states
   HeatCapacitor1.T
  
-Finished
-Save translation log

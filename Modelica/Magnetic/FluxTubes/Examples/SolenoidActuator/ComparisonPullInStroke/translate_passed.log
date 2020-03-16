@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 191 of 422
 Translation of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonPullInStroke:
 The DAE has 528 scalar unknowns and 528 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -64,5 +61,3 @@ From set 2 there are 2 states to be selected from:
   advancedSolenoid.g_mLeak3.port_p.Phi
   advancedSolenoid.g_mLeakWork.port_p.Phi
  
-Finished
-Save translation log

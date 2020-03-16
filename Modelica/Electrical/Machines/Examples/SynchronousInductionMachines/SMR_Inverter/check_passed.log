@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 100 of 422
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMR_Inverter:
 The model has the same number of unknowns and equations: 553
 The model has the same number of unknowns and equations:
   550+currentQuasiRMSSensor.ToSpacePhasor1.m
-Check of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMR_Inverter successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMR_Inverter">Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMR_Inverter</a> successful.
+

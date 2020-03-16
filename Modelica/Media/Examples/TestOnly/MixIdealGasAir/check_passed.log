@@ -1,9 +1,4 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 324 of 422
-Check of Modelica.Media.Examples.TestOnly.MixIdealGasAir:
-Warning: Top class Modelica.Media.Examples.TestOnly.MixIdealGasAir specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestOnly.MixIdealGasAir instead.
 The model has the same number of unknowns and equations: 45
-Check of Modelica.Media.Examples.TestOnly.MixIdealGasAir successful.
+Check of <a href="Modelica://Modelica.Media.Examples.TestOnly.MixIdealGasAir">Modelica.Media.Examples.TestOnly.MixIdealGasAir</a> successful.
 Warning: WARNINGS have been issued.
-Save check log
+

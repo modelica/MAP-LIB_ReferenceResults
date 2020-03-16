@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 404 of 422
 Translation of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.Leakage.CylinderLeakage:
 The DAE has 249 scalar unknowns and 249 scalar equations.
 Warning: The initial conditions are not fully specified.
@@ -43,6 +41,3 @@ Selected continuous time states
 Statically selected continuous time states
   quarterCylinder1.port_p.reference.gamma
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

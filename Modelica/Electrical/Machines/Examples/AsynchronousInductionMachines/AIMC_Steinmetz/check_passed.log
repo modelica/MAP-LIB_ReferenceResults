@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 97 of 422
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Steinmetz:
 The model has the same number of unknowns and equations: 491
 The model has the same number of unknowns and equations:
   488+currentQuasiRMSSensor.ToSpacePhasor1.m
-Check of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Steinmetz successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Steinmetz">Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_Steinmetz</a> successful.
+

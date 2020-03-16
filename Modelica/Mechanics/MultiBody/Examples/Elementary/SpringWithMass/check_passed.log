@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 233 of 422
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass:
 The model has the same number of unknowns and equations: 1393
 The model could not be deduced to be symbolically well-posed.
 The model has
@@ -11,5 +7,5 @@ scalar unknowns and
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
   1393
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass">Modelica.Mechanics.MultiBody.Examples.Elementary.SpringWithMass</a> successful.
+

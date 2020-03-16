@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 21 of 422
 Translation of Modelica.Blocks.Examples.NoiseExamples.DrydenContinuousTurbulence:
 The DAE has 15 scalar unknowns and 15 scalar equations.
  
@@ -35,5 +33,3 @@ Selected continuous time states
 Statically selected continuous time states
   Hw.x_scaled[]
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 92 of 422
 Translation of Modelica.Electrical.Machines.Examples.AsynchronousInductionMachines.AIMC_YD:
 The DAE has 592 scalar unknowns and 592 scalar equations.
  
@@ -42,5 +40,3 @@ Statically selected continuous time states
   loadInertia.phi
   loadInertia.w
  
-Finished
-Save translation log

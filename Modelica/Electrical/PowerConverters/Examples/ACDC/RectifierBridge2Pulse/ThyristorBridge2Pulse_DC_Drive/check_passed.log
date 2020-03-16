@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 133 of 422
-Check of Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_DC_Drive:
 The model has the same number of unknowns and equations: 366
 The model has the same number of unknowns and equations:
   362+size(pulse2.twoPulse.filter[1].transferFunction[1].a, 1)+size(  pulse2.twoPulse.filter[1].transferFunction[2].a, 1)
-Check of Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_DC_Drive successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_DC_Drive">Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierBridge2Pulse.ThyristorBridge2Pulse_DC_Drive</a> successful.
+

@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 206 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator:
-The model has the same number of unknowns and equations: 1494
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator successful.
-Save check log
+The model has the same number of unknowns and equations: 1496
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_Generator</a> successful.
+

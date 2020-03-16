@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\SMPM_VoltageSource\SMPM_VoltageSource.csv
+. Time:        2020-03-16T19:43:50.0695631+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

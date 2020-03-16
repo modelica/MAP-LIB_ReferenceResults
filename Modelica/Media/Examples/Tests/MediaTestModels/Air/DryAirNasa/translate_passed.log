@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 329 of 422
 Translation of Modelica.Media.Examples.Tests.MediaTestModels.Air.DryAirNasa:
 Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.Air.DryAirNasa specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.Air.DryAirNasa instead.
 The DAE has 60 scalar unknowns and 60 scalar equations.
@@ -37,6 +35,3 @@ Statically selected continuous time states
   volume.medium.p
   volume.medium.T
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

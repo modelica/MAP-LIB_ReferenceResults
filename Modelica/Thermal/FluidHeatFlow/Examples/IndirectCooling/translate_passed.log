@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 351 of 422
 Translation of Modelica.Thermal.FluidHeatFlow.Examples.IndirectCooling:
 The DAE has 169 scalar unknowns and 169 scalar equations.
  
@@ -39,5 +37,3 @@ Statically selected continuous time states
   outerPipe.T
   pipe1.T
  
-Finished
-Save translation log

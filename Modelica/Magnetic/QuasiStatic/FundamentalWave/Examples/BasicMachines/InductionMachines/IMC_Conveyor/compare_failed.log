@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\QuasiStatic\FundamentalWave\Examples\BasicMachines\InductionMachines\IMC_Conveyor\IMC_Conveyor.csv
+. Time:        2020-03-16T19:44:23.5273815+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: IMC_Conveyor.imc.stator.zeroInductor.i0=>7.59180056158688E-07
+. Failed values:
+IMC_Conveyor.imc.stator.zeroInductor.i0=>7.59180056158688E-07

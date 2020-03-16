@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 355 of 422
 Translation of Modelica.Thermal.FluidHeatFlow.Examples.OneMass:
 The DAE has 79 scalar unknowns and 79 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   heatCapacitor.T
   pipe.T
  
-Finished
-Save translation log

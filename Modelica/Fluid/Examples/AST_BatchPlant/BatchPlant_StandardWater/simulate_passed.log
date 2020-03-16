@@ -1,479 +1,11 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 00:07:41 2018)
+(generated: Mon Mar 16 12:24:48 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
 Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B5.p_ambient, 
-B5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B5.p_ambient, B5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B5.p_ambient, 
-B5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B5.p_ambient, B5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B5.p_ambient, 
-B5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B5.p_ambient, B5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume5.p_start, 
-volume5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume5.p_start, volume5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume5.p_start, 
-volume5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume5.p_start, volume5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume5.p_start, 
-volume5.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume5.p_start, volume5.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P1.p_start, 
-P1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P1.p_start, P1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P1.p_start, 
-P1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P1.p_start, P1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P1.p_start, 
-P1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P1.p_start, P1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P2.p_start, 
-P2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P2.p_start, P2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P2.p_start, 
-P2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P2.p_start, P2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-P2.p_start, 
-P2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(P2.p_start, P2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B1.p_start, 
-B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B1.p_start, B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B1.p_start, 
-B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B1.p_start, B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B1.p_start, 
-B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B1.p_start, B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B2.p_start, 
-B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B2.p_start, B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B2.p_start, 
-B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B2.p_start, B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B2.p_start, 
-B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B2.p_start, B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B3.p_start, 
-B3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B3.p_start, B3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B3.p_start, 
-B3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B3.p_start, B3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B3.p_start, 
-B3.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B3.p_start, B3.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B4.p_start, 
-B4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B4.p_start, B4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B4.p_start, 
-B4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B4.p_start, B4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-B4.p_start, 
-B4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(B4.p_start, B4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), 
-pipeB1B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), pipeB1B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), 
-pipeB1B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), pipeB1B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), 
-pipeB1B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipeB1B2.p_a_start+pipeB1B2.p_b_start), pipeB1B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), 
-pipePump1B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), pipePump1B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), 
-pipePump1B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), pipePump1B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), 
-pipePump1B1.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump1B1.p_a_start+pipePump1B1.p_b_start), pipePump1B1.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), 
-pipePump2B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), pipePump2B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), 
-pipePump2B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), pipePump2B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), 
-pipePump2B2.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(0.5*(pipePump2B2.p_a_start+pipePump2B2.p_b_start), pipePump2B2.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume4.p_start, 
-volume4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume4.p_start, volume4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 86.3 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume4.p_start, 
-volume4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume4.p_start, volume4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function g1: the temperature (= 189.725 K) is lower than 273.15 K!
-  Failed condition: T >= 273.15
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.g1
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT
-Modelica.Media.Water.IF97_Utilities.h_props_pT(
-volume4.p_start, 
-volume4.T_start, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_pT(volume4.p_start, volume4.T_start, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -2.64672e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -2.64672e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -490,7 +22,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.51561e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.51561e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -558,7 +90,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -4.20213e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -4.20213e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -575,7 +107,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -2.94963e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -2.94963e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -609,7 +141,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.82465e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.82465e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -626,7 +158,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.82465e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.82465e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -643,7 +175,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.82465e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.82465e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -660,24 +192,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.50074e+006 Pa <= 611.657 Pa (triple point pressure)
-  Failed condition: p > 611.657
-
-The stack of functions is:
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.tsat
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.boilingcurve_p
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.hl_p
-Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.region_ph
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
-Modelica.Media.Water.IF97_Utilities.rho_props_ph(
-V20.port_a.p, 
-pipeB6Pump.flowModel.states[2].h, 
-Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V20.port_a.p, pipeB6Pump.flowModel.states[2].h, 0, 0))
-Non-linear solver will attempt to handle this problem.
-
-Error: The following error was detected at time: 0
-  IF97 medium function tsat called with too low pressure
-p = -142500 Pa <= 611.657 Pa (triple point pressure)
+p = -1.50074e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -711,7 +226,24 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -4.72814e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -142500 Pa <= 611.657 Pa (triple point pressure)
+  Failed condition: p > 611.657
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.BaseIF97.Basic.tsat
+Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.boilingcurve_p
+Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.hl_p
+Modelica.Media.Water.IF97_Utilities.BaseIF97.Regions.region_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.rho_props_ph(
+V20.port_a.p, 
+pipeB6Pump.flowModel.states[2].h, 
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V20.port_a.p, pipeB6Pump.flowModel.states[2].h, 0, 0))
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 0
+  IF97 medium function tsat called with too low pressure
+p = -4.72814e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -728,7 +260,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.38005e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.38005e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -796,7 +328,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -23812.7 Pa <= 611.657 Pa (triple point pressure)
+p = -23812.5 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -813,7 +345,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -15058.6 Pa <= 611.657 Pa (triple point pressure)
+p = -15058.4 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -830,7 +362,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -7767.7 Pa <= 611.657 Pa (triple point pressure)
+p = -7767.8 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -847,7 +379,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -72.0746 Pa <= 611.657 Pa (triple point pressure)
+p = -72.1626 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -864,7 +396,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -4.72814e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -4.72814e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -881,7 +413,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.38005e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.38005e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -949,7 +481,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -23812.7 Pa <= 611.657 Pa (triple point pressure)
+p = -23812.5 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -966,7 +498,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -15058.6 Pa <= 611.657 Pa (triple point pressure)
+p = -15058.4 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -983,7 +515,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -7767.7 Pa <= 611.657 Pa (triple point pressure)
+p = -7767.8 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -1000,7 +532,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -72.0746 Pa <= 611.657 Pa (triple point pressure)
+p = -72.1626 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -1017,7 +549,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -2.64057e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -2.64057e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -1034,7 +566,7 @@ Non-linear solver will attempt to handle this problem.
 
 Error: The following error was detected at time: 0
   IF97 medium function tsat called with too low pressure
-p = -1.51476e+006 Pa <= 611.657 Pa (triple point pressure)
+p = -1.51476e+06 Pa <= 611.657 Pa (triple point pressure)
   Failed condition: p > 611.657
 
 The stack of functions is:
@@ -1100,25 +632,26 @@ volume4.medium.h,
 Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V10.port_a.p, volume4.medium.h, 0, 0))
 Non-linear solver will attempt to handle this problem.
 
-... "result.mat" creating (simulation result file)
+... "BatchPlant_StandardWater.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 3600
-   CPU-time for integration      : 19.7 seconds
-   CPU-time for one GRID interval: 3.95 milliseconds
-   Number of result points       : 5082
-   Number of GRID   points       : 5001
-   Number of (successful) steps  : 1865
-   Number of F-evaluations       : 14546
-   Number of H-evaluations       : 7111
-   Number of Jacobian-evaluations: 923
-   Number of (model) time events : 7
-   Number of (U) time events     : 0
-   Number of state    events     : 33
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.24e-013
-   Maximum integration stepsize  : 271
-   Maximum integration order     : 5
+   CPU-time for integration                : 11.5 seconds
+   CPU-time for one grid interval          : 2.3 milliseconds
+   CPU-time for initialization             : 0.079 seconds
+   Number of result points                 : 5082
+   Number of grid points                   : 5001
+   Number of accepted steps                : 1894
+   Number of f-evaluations (dynamics)      : 3544
+   Number of crossing function evaluations : 7134
+   Number of Jacobian-evaluations          : 973
+   Number of model time events             : 7
+   Number of input time events             : 0
+   Number of state events                  : 33
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.24e-13
+   Maximum integration stepsize            : 271
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

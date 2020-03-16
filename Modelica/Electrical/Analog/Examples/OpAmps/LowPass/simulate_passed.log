@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:12:07 2018)
+(generated: Mon Mar 16 11:12:57 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "LowPass.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 1
-   CPU-time for integration      : 0.084 seconds
-   CPU-time for one GRID interval: 0.042 milliseconds
-   Number of result points       : 2075
-   Number of GRID   points       : 2001
-   Number of (successful) steps  : 1313
-   Number of F-evaluations       : 2810
-   Number of H-evaluations       : 3380
-   Number of Jacobian-evaluations: 735
-   Number of (model) time events : 30
-   Number of (U) time events     : 0
-   Number of state    events     : 10
-   Number of step     events     : 0
-   Minimum integration stepsize  : 1.59e-009
-   Maximum integration stepsize  : 0.00666
-   Maximum integration order     : 4
+   CPU-time for integration                : 0.038 seconds
+   CPU-time for one grid interval          : 0.019 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 2070
+   Number of grid points                   : 2001
+   Number of accepted steps                : 1313
+   Number of f-evaluations (dynamics)      : 2075
+   Number of crossing function evaluations : 3380
+   Number of Jacobian-evaluations          : 735
+   Number of model time events             : 30
+   Number of input time events             : 0
+   Number of state events                  : 10
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.59e-09
+   Maximum integration stepsize            : 0.00666
+   Maximum integration order               : 4
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

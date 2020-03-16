@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 236 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.RollingWheelSetDriving:
 The DAE has 2462 scalar unknowns and 2462 scalar equations.
  
@@ -41,5 +39,3 @@ Statically selected continuous time states
   wheelSet.x
   wheelSet.y
  
-Finished
-Save translation log

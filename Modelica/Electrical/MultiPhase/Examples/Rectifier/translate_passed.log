@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 123 of 422
 Translation of Modelica.Electrical.MultiPhase.Examples.Rectifier:
 The DAE has 531 scalar unknowns and 531 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   supplyL.inductor[2].i
   supplyL.inductor[3].i
  
-Finished
-Save translation log

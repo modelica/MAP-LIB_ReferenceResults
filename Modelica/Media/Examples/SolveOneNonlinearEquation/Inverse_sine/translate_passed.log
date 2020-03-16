@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 344 of 422
 Translation of Modelica.Media.Examples.SolveOneNonlinearEquation.Inverse_sine:
 The DAE has 1 scalar unknowns and 1 scalar equations.
  
@@ -26,5 +24,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

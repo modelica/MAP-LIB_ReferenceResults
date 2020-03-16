@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 284 of 422
 Translation of Modelica.Mechanics.Translational.Examples.Brake:
 The DAE has 69 scalar unknowns and 69 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   mass2.s
   mass2.v
  
-Finished
-Save translation log

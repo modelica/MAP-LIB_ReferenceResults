@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 121 of 422
 Translation of Modelica.Electrical.MultiPhase.Examples.TransformerYY:
 The DAE has 281 scalar unknowns and 281 scalar equations.
  
@@ -35,5 +33,3 @@ Statically selected continuous time states
   transformerL.inductor[2].i
   transformerL.inductor[3].i
  
-Finished
-Save translation log

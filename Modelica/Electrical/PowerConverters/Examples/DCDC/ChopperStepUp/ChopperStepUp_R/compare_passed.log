@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Electrical\PowerConverters\Examples\DCDC\ChopperStepUp\ChopperStepUp_R\ChopperStepUp_R.csv
+. Time:        2020-03-16T19:35:54.3984827+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

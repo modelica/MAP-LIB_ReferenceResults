@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 322 of 422
 Translation of Modelica.Media.Examples.R134a.R134a1:
 The DAE has 81 scalar unknowns and 81 scalar equations.
  
@@ -35,5 +33,3 @@ Statically selected continuous time states
   volume.medium.h
   volume.medium.p
  
-Finished
-Save translation log

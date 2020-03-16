@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 190 of 422
 Translation of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonQuasiStationary:
 The DAE has 527 scalar unknowns and 527 scalar equations.
  
@@ -63,5 +61,3 @@ From set 2 there is 1 state to be selected from:
   simpleSolenoid.g_mLeak2.port_p.Phi
   simpleSolenoid.g_mLeakWork.port_p.Phi
  
-Finished
-Save translation log

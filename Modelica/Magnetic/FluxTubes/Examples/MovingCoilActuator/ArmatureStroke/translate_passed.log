@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 189 of 422
 Translation of Modelica.Magnetic.FluxTubes.Examples.MovingCoilActuator.ArmatureStroke:
 The DAE has 245 scalar unknowns and 245 scalar equations.
  
@@ -46,5 +44,3 @@ There is one state to be selected from:
   pmActuator.g_ma.port_p.Phi
   pmActuator.g_mLeak2.port_p.Phi
  
-Finished
-Save translation log

@@ -1,20 +1,45 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 30 of 422
 Translation of Modelica.StateGraph.Examples.ControlledTanks:
-Warning: Top class Modelica.StateGraph.Examples.ControlledTanks specified an obsolete type: Obsolete package due to experimental design.
-The DAE has 304 scalar unknowns and 304 scalar equations.
+Warning: Component type specifier SetRealParameter specified an obsolete type: Obsolete type due to experimental design.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1273
+ Component context: tankController.limit
+  Component declared as SetRealParameter limit in Modelica.StateGraph.Temporary
+Warning: Component type specifier SetRealParameter specified an obsolete type: Obsolete type due to experimental design.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1275
+ Component context: tankController.waitTime
+  Component declared as SetRealParameter waitTime in Modelica.StateGraph.Temporary
+Warning: Component type specifier SetRealParameter specified an obsolete type: Obsolete type due to experimental design.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1410
+ Component context: tankController.makeProduct.limit
+  Component declared as SetRealParameter limit in Modelica.StateGraph.Temporary
+Warning: Component type specifier SetRealParameter specified an obsolete type: Obsolete type due to experimental design.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1413
+ Component context: tankController.makeProduct.waitTime
+  Component declared as SetRealParameter waitTime in Modelica.StateGraph.Temporary
+Warning: Component type specifier RadioButton specified an obsolete type: Obsolete model due to experimental design, that will be moved to Modelica.Blocks.Interaction in future.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1161
+ Component context: start
+  Component declared as RadioButton start in Modelica.StateGraph.Temporary
+Warning: Component type specifier RadioButton specified an obsolete type: Obsolete model due to experimental design, that will be moved to Modelica.Blocks.Interaction in future.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1164
+ Component context: stop
+  Component declared as RadioButton stop in Modelica.StateGraph.Temporary
+Warning: Component type specifier RadioButton specified an obsolete type: Obsolete model due to experimental design, that will be moved to Modelica.Blocks.Interaction in future.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 1167
+ Component context: shut
+  Component declared as RadioButton shut in Modelica.StateGraph.Temporary
+The DAE has 313 scalar unknowns and 313 scalar equations.
  
 Statistics
  
 Original Model
   Number of components: 57
-  Variables: 439
+  Variables: 448
   Constants: 2 (2 scalars)
   Parameters: 136 (173 scalars)
-  Unknowns: 301 (304 scalars)
+  Unknowns: 310 (313 scalars)
   Differentiated variables: 2 scalars
-  Equations: 288
+  Equations: 297
   Nontrivial: 227
 Translated Model
   Constants: 111 scalars
@@ -22,7 +47,7 @@ Translated Model
   Parameter depending: 67 scalars
   Continuous time states: 2 scalars
   Time-varying variables: 96 scalars
-  Alias variables: 157 scalars
+  Alias variables: 166 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -37,6 +62,3 @@ Statically selected continuous time states
   tank1.level
   tank2.level
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

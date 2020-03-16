@@ -1,24 +1,25 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 27 of 422
 Translation of Modelica.StateGraph.Examples.ExecutionPaths:
-Warning: Top class Modelica.StateGraph.Examples.ExecutionPaths specified an obsolete type: Obsolete package due to experimental design.
-The DAE has 233 scalar unknowns and 233 scalar equations.
+Warning: Component type specifier NumericValue specified an obsolete type: Obsolete model - use Modelica.Blocks.Interaction.Show.RealValue instead.
+  File: C:/Projekte/MSL323/Modelica/StateGraph.mo, line 955
+ Component context: NumericValue1
+  Component declared as NumericValue NumericValue1 in Modelica.StateGraph.Temporary
+The DAE has 241 scalar unknowns and 241 scalar equations.
  
 Statistics
  
 Original Model
   Number of components: 32
-  Variables: 271
+  Variables: 279
   Parameters: 38 (38 scalars)
-  Unknowns: 233 (233 scalars)
-  Equations: 215
+  Unknowns: 241 (241 scalars)
+  Equations: 223
   Nontrivial: 166
 Translated Model
   Constants: 75 scalars
   Free parameters: 11 scalars
   Time-varying variables: 83 scalars
-  Alias variables: 102 scalars
+  Alias variables: 110 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -29,6 +30,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

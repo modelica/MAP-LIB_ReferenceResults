@@ -1,10 +1,10 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\AIMC_DOL\AIMC_DOL.csv
-. Time:        2018-12-17T11:35:49.1515139+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\AIMC_DOL\AIMC_DOL.csv
+. Time:        2020-03-16T19:42:25.1528313+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      failed
-. Biggest error: AIMC_DOL.aimcE.i_0_s=>2.59384726069487E-09
+. Biggest error: AIMC_DOL.aimcM.stator.zeroInductor.i0=>5.26295275272672E-07
 . Failed values:
-AIMC_DOL.aimcE.i_0_s=>2.59384726069487E-09
-AIMC_DOL.aimcM.stator.zeroInductor.i0=>2.45341647171613E-09
+AIMC_DOL.aimcM.stator.zeroInductor.i0=>5.26295275272672E-07
+AIMC_DOL.aimcE.i_0_s=>1.04465063281856E-12

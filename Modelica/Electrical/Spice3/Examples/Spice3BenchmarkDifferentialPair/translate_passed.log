@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 182 of 422
 Translation of Modelica.Electrical.Spice3.Examples.Spice3BenchmarkDifferentialPair:
 The DAE has 157 scalar unknowns and 157 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -43,5 +40,3 @@ Statically selected continuous time states
   Q2.vbc
   Q2.vbe
  
-Finished
-Save translation log

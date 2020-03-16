@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.0.1 (Amd64)
-Comparison result file for C:\Work\2018-12-15_230315_Modelica_v3.2.3-rc.2_2019\Modelica\Mechanics\MultiBody\Examples\Rotational3DEffects\ActuatedDrive\ActuatedDrive.csv
-. Time:        2018-12-17T11:37:13.6895454+01:00
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Mechanics\MultiBody\Examples\Rotational3DEffects\ActuatedDrive\ActuatedDrive.csv
+. Time:        2020-03-16T19:47:52.3608833+01:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

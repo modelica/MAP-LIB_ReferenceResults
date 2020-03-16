@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 253 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.GearConstraint:
 The DAE has 2396 scalar unknowns and 2396 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   inertia2.phi
   inertia2.w
  
-Finished
-Save translation log

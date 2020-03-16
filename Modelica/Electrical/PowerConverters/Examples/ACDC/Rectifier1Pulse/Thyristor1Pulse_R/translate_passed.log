@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 125 of 422
 Translation of Modelica.Electrical.PowerConverters.Examples.ACDC.Rectifier1Pulse.Thyristor1Pulse_R:
 The DAE has 95 scalar unknowns and 95 scalar equations.
  
@@ -16,9 +14,9 @@ Original Model
   Equations: 96
   Nontrivial: 83
 Translated Model
-  Constants: 34 scalars
+  Constants: 33 scalars
   Free parameters: 21 scalars
-  Parameter depending: 30 scalars
+  Parameter depending: 31 scalars
   Continuous time states: 3 scalars
   Time-varying variables: 21 scalars
   Alias variables: 56 scalars
@@ -37,5 +35,3 @@ Statically selected continuous time states
   meanVoltage.x
   rootMeanSquareVoltage.mean.x
  
-Finished
-Save translation log

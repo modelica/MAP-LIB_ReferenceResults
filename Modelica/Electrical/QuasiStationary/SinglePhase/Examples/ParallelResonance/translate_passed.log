@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 166 of 422
 Translation of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.ParallelResonance:
 The DAE has 144 scalar unknowns and 144 scalar equations.
  
@@ -35,5 +33,3 @@ Selected continuous time states
 Statically selected continuous time states
   resistor.pin_p.reference.gamma
  
-Finished
-Save translation log

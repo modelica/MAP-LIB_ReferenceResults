@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 167 of 422
-Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.Rectifier:
 The model has the same number of unknowns and equations: 258
-Check of Modelica.Electrical.QuasiStationary.SinglePhase.Examples.Rectifier successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.QuasiStationary.SinglePhase.Examples.Rectifier">Modelica.Electrical.QuasiStationary.SinglePhase.Examples.Rectifier</a> successful.
+

@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Electrical\Machines\Examples\AsynchronousInductionMachines\AIMC_InverterDrive\AIMC_InverterDrive.csv
+. Time:        2020-03-16T19:31:42.5954223+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      passed

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 51 of 422
 Translation of Modelica.Electrical.Analog.Examples.ControlledSwitchWithArc:
 The DAE has 80 scalar unknowns and 80 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   inductor1.i
   inductor2.i
  
-Finished
-Save translation log

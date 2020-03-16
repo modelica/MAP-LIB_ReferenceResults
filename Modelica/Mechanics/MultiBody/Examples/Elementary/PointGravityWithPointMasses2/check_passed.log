@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 230 of 422
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.PointGravityWithPointMasses2:
 The model has the same number of unknowns and equations: 4087
 The model has the same number of unknowns and equations:
   4059+4*(size(world.x_label.lines, 1)+size(world.y_label.lines, 1)+size(  world.z_label.lines, 1))
-Check of Modelica.Mechanics.MultiBody.Examples.Elementary.PointGravityWithPointMasses2 successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Elementary.PointGravityWithPointMasses2">Modelica.Mechanics.MultiBody.Examples.Elementary.PointGravityWithPointMasses2</a> successful.
+

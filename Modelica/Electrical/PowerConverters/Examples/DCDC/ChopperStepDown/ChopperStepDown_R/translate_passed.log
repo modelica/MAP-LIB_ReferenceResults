@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 160 of 422
 Translation of Modelica.Electrical.PowerConverters.Examples.DCDC.ChopperStepDown.ChopperStepDown_R:
 The DAE has 97 scalar unknowns and 97 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   meanCurrent.x
   meanVoltage.x
  
-Finished
-Save translation log

@@ -1,7 +1,8 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 366 of 422
 Translation of Modelica.Utilities.Examples.ReadRealMatrixFromFile:
+Must translate function Modelica.Utilities.Streams.readMatrixSize.
+Compilation of function Modelica.Utilities.Streams.readMatrixSize successful.
+Finished 
 The DAE has 1 scalar unknowns and 1 scalar equations.
  
 Statistics
@@ -33,5 +34,3 @@ Selected continuous time states
 Statically selected continuous time states
   x
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 334 of 422
 Translation of Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.SimpleNaturalGasFixedComposition:
 Warning: Top class Modelica.Media.Examples.Tests.MediaTestModels.IdealGases.SimpleNaturalGasFixedComposition specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestsWithFluid.MediaTestModels.IdealGases.SimpleNaturalGasFixedComposition instead.
 The DAE has 93 scalar unknowns and 93 scalar equations.
@@ -37,6 +35,3 @@ Statically selected continuous time states
   volume.medium.p
   volume.medium.T
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

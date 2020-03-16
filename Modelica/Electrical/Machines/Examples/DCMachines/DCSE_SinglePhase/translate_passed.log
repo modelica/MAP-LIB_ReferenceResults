@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 111 of 422
 Translation of Modelica.Electrical.Machines.Examples.DCMachines.DCSE_SinglePhase:
 The DAE has 250 scalar unknowns and 250 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   loadInertia.phi
   loadInertia.w
  
-Finished
-Save translation log

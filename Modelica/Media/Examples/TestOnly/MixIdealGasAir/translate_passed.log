@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 324 of 422
 Translation of Modelica.Media.Examples.TestOnly.MixIdealGasAir:
 Warning: Top class Modelica.Media.Examples.TestOnly.MixIdealGasAir specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestOnly.MixIdealGasAir instead.
 The DAE has 45 scalar unknowns and 45 scalar equations.
@@ -38,6 +36,3 @@ Statically selected continuous time states
   medium2.T
   medium2.X[]
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

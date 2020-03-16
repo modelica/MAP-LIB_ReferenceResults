@@ -1,13 +1,6 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 195 of 422
 Translation of Modelica.Magnetic.FluxTubes.Examples.Hysteresis.SinglePhaseTransformerWithHysteresis2:
 The DAE has 138 scalar unknowns and 138 scalar equations.
-Warning: The initial conditions are not fully specified.
-Dymola has selected default initial conditions.
-Warning: Assuming fixed start value for the continuous states:
-    transformer.winding2.i(start = 0)
- 
  
 Statistics
  
@@ -27,13 +20,15 @@ Translated Model
   Continuous time states: 4 scalars
   Time-varying variables: 44 scalars
   Alias variables: 71 scalars
-  Assumed default initial conditions: 1
   Number of mixed real/discrete systems of equations: 1
   Sizes of linear systems of equations: {14}
   Sizes after manipulation of the linear systems: {2}
   Sizes of nonlinear systems of equations: {13}
   Sizes after manipulation of the nonlinear systems: {3}
   Number of numerical Jacobians: 0
+  Initialization problem
+    Sizes of linear systems of equations: {3}
+    Sizes after manipulation of the linear systems: {0}
  
 Settings
 Advanced.StoreProtectedVariables = true
@@ -49,6 +44,3 @@ There are 2 states to be selected from:
   transformer.winding1.i
   transformer.winding2.i
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 234 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.ThreeSprings:
 The DAE has 2066 scalar unknowns and 2066 scalar equations.
  
@@ -45,5 +43,3 @@ There is one set of dynamic state selection.
 There are 3 states to be selected from:
   body1.Q[]
  
-Finished
-Save translation log

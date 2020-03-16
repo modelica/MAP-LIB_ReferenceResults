@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 32 of 422
 Translation of Modelica.Electrical.Analog.Examples.CauerLowPassOPV:
 The DAE has 240 scalar unknowns and 240 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   C4.v
   C7.v
  
-Finished
-Save translation log

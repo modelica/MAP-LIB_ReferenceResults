@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 325 of 422
 Translation of Modelica.Media.Examples.TestOnly.FlueGas:
 Warning: Top class Modelica.Media.Examples.TestOnly.FlueGas specified an obsolete type: Obsolete test model - use ModelicaTest.Media.TestOnly.FlueGas instead.
 The DAE has 43 scalar unknowns and 43 scalar equations.
@@ -38,6 +36,3 @@ Statically selected continuous time states
   state.p
   state.T
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 352 of 422
 Translation of Modelica.Thermal.FluidHeatFlow.Examples.PumpAndValve:
 The DAE has 111 scalar unknowns and 111 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   pipe.T
   speed.phi
  
-Finished
-Save translation log

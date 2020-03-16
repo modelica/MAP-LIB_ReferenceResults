@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 277 of 422
 Translation of Modelica.Mechanics.Translational.Examples.Accelerate:
 The DAE has 15 scalar unknowns and 15 scalar equations.
  
@@ -35,5 +33,3 @@ Statically selected continuous time states
   accelerate.s
   accelerate.v
  
-Finished
-Save translation log

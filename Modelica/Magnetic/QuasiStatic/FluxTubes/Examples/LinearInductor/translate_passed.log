@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 400 of 422
 Translation of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor:
 The DAE has 291 scalar unknowns and 291 scalar equations.
  
@@ -47,5 +45,3 @@ There is one state to be selected from:
   coil.Phi
   r_mLeak.port_p.Phi
  
-Finished
-Save translation log

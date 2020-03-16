@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 00:37:00 2018)
+(generated: Mon Mar 16 11:54:56 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "SMPM_Braking.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 0.8
-   CPU-time for integration      : 1.19 seconds
-   CPU-time for one GRID interval: 0.0746 milliseconds
-   Number of result points       : 16288
-   Number of GRID   points       : 16001
-   Number of (successful) steps  : 4317
-   Number of F-evaluations       : 15813
-   Number of H-evaluations       : 21384
-   Number of Jacobian-evaluations: 1477
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 143
-   Number of step     events     : 0
-   Minimum integration stepsize  : 6.17e-010
-   Maximum integration stepsize  : 0.00854
-   Maximum integration order     : 5
+   CPU-time for integration                : 0.529 seconds
+   CPU-time for one grid interval          : 0.0331 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 16288
+   Number of grid points                   : 16001
+   Number of accepted steps                : 4317
+   Number of f-evaluations (dynamics)      : 8428
+   Number of crossing function evaluations : 21384
+   Number of Jacobian-evaluations          : 1477
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 143
+   Number of step events                   : 0
+   Minimum integration stepsize            : 6.17e-10
+   Maximum integration stepsize            : 0.00854
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

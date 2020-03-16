@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 175 of 422
 Translation of Modelica.Electrical.Spice3.Examples.FourInverters:
 The DAE has 288 scalar unknowns and 288 scalar equations.
  
@@ -16,8 +14,8 @@ Original Model
   Equations: 229
   Nontrivial: 206
 Translated Model
-  Constants: 2228 scalars
-  Free parameters: 32 scalars
+  Constants: 2232 scalars
+  Free parameters: 28 scalars
   Parameter depending: 8 scalars
   Continuous time states: 4 scalars
   Time-varying variables: 130 scalars
@@ -38,5 +36,3 @@ Statically selected continuous time states
   c3.vinternal
   c4.vinternal
  
-Finished
-Save translation log

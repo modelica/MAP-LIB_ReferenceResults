@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 230 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.PointGravityWithPointMasses2:
 The DAE has 4087 scalar unknowns and 4087 scalar equations.
  
@@ -55,5 +53,3 @@ From set 1 there are 3 states to be selected from:
 From set 2 there are 3 states to be selected from:
   freeMotion.Q[]
  
-Finished
-Save translation log

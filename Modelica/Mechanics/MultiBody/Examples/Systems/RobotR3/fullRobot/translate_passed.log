@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 260 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Systems.RobotR3.fullRobot:
 The DAE has 4933 scalar unknowns and 4933 scalar equations.
  
@@ -74,5 +72,3 @@ Statically selected continuous time states
   mechanics.r6.phi
   mechanics.r6.w
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 291 of 422
 Translation of Modelica.Fluid.Examples.Tanks.EmptyTanks:
 The DAE has 138 scalar unknowns and 138 scalar equations.
  
@@ -45,5 +43,3 @@ Statically selected continuous time states
   tank2.level
   tank2.medium.T
  
-Finished
-Save translation log

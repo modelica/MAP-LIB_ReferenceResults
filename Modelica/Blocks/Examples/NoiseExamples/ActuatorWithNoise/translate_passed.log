@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 20 of 422
 Translation of Modelica.Blocks.Examples.NoiseExamples.ActuatorWithNoise:
 The DAE has 814 scalar unknowns and 814 scalar equations.
  
@@ -53,5 +51,3 @@ There is one state to be selected from:
   controller.busdelay.y
   motor.smpm.idq_sr[]
  
-Finished
-Save translation log

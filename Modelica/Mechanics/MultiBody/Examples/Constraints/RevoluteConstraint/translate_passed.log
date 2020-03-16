@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 256 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Constraints.RevoluteConstraint:
 The DAE has 3040 scalar unknowns and 3040 scalar equations.
  
@@ -53,5 +51,3 @@ From set 2 there is 1 state to be selected from:
   der(freeMotionScalarInit.initAngle.angle[2])
   freeMotionScalarInit.initAngle.R_rel.w[]
  
-Finished
-Save translation log

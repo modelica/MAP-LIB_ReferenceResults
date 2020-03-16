@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 275 of 422
 Translation of Modelica.Mechanics.Translational.Examples.InitialConditions:
 The DAE has 64 scalar unknowns and 64 scalar equations.
  
@@ -40,5 +38,3 @@ Statically selected continuous time states
   sd2.s_rel
   sd2.v_rel
  
-Finished
-Save translation log

@@ -1,26 +1,27 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:12:42 2018)
+(generated: Mon Mar 16 11:13:37 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "Multivibrator.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 1
-   CPU-time for integration      : 0.163 seconds
-   CPU-time for one GRID interval: 0.0815 milliseconds
-   Number of result points       : 2002
-   Number of GRID   points       : 2001
-   Number of (successful) steps  : 1395
-   Number of F-evaluations       : 4012
-   Number of Jacobian-evaluations: 831
-   Number of (model) time events : 0
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 2.84e-010
-   Maximum integration stepsize  : 0.00339
-   Maximum integration order     : 5
+   CPU-time for integration                : 0.038 seconds
+   CPU-time for one grid interval          : 0.019 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 2002
+   Number of grid points                   : 2001
+   Number of accepted steps                : 1395
+   Number of f-evaluations (dynamics)      : 3181
+   Number of Jacobian-evaluations          : 831
+   Number of model time events             : 0
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 2.84e-10
+   Maximum integration stepsize            : 0.00339
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

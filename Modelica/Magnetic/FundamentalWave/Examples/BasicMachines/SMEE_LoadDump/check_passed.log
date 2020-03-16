@@ -1,15 +1,11 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 398 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_LoadDump:
-The model has the same number of unknowns and equations: 1074
+The model has the same number of unknowns and equations: 1076
 The model could not be deduced to be symbolically well-posed.
 The model has
-  1065+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m  +booleanReplicator.nout
+  1067+voltageQuasiRMSSensor.ToSpacePhasor1.m+currentQuasiRMSSensor.ToSpacePhasor1.m  +booleanReplicator.nout
 scalar unknowns and
-  1068+booleanReplicator.nout+currentQuasiRMSSensor.ToSpacePhasor1.m
+  1070+booleanReplicator.nout+currentQuasiRMSSensor.ToSpacePhasor1.m
 scalar equations.
 However, exploiting the given bindings parameters gives the same number of unknowns and equations:
-  1074
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_LoadDump successful.
-Save check log
+  1076
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_LoadDump">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_LoadDump</a> successful.
+

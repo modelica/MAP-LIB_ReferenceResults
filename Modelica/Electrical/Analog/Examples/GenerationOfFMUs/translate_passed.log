@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 372 of 422
 Translation of Modelica.Electrical.Analog.Examples.GenerationOfFMUs:
 The DAE has 306 scalar unknowns and 306 scalar equations.
 Redundant consistent initial conditions.
@@ -30,9 +28,9 @@ the interactive start values of
 The redundancies involve
 active start values: 
   directCapacitor1.capacitor.v = 0;
+  directInductor3.inductor.i = 0;
   inverseInductor3.inductor.i = 0;
   inverseCapacitor1.capacitor.v = 0;
-  directInductor3.inductor.i = 0;
  
  
 Statistics
@@ -70,5 +68,3 @@ Statically selected continuous time states
   inductor4a.i
   inductor4b.i
  
-Finished
-Save translation log

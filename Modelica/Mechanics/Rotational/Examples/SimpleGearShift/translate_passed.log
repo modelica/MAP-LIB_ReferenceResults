@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 272 of 422
 Translation of Modelica.Mechanics.Rotational.Examples.SimpleGearShift:
 The DAE has 84 scalar unknowns and 84 scalar equations.
  
@@ -48,5 +46,3 @@ From set 2 there are 2 states to be selected from:
   engine.w
   load.w
  
-Finished
-Save translation log

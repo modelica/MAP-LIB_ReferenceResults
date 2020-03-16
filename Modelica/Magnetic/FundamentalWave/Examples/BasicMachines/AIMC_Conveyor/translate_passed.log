@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 390 of 422
 Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMC_Conveyor:
 The DAE has 843 scalar unknowns and 843 scalar equations.
  
@@ -44,5 +42,3 @@ Statically selected continuous time states
   mass.v
   vfController.x
  
-Finished
-Save translation log

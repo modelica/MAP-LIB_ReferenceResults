@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 244 of 422
-Check of Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6:
 The model has the same number of unknowns and equations: 12488
 The model has the same number of unknowns and equations:
   12486+filter.n
-Check of Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6 successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6">Modelica.Mechanics.MultiBody.Examples.Loops.EngineV6</a> successful.
+

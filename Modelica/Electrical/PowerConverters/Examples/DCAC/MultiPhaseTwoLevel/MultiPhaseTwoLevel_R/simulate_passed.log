@@ -1,27 +1,28 @@
 Log-file of program ./dymosim
-(generated: Sat Dec 15 23:31:44 2018)
+(generated: Mon Mar 16 11:35:12 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "MultiPhaseTwoLevel_R.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 0.1
-   CPU-time for integration      : 0.891 seconds
-   CPU-time for one GRID interval: 0.0891 milliseconds
-   Number of result points       : 10664
-   Number of GRID   points       : 10001
-   Number of (successful) steps  : 6795
-   Number of F-evaluations       : 13875
-   Number of H-evaluations       : 19058
-   Number of Jacobian-evaluations: 5135
-   Number of (model) time events : 100
-   Number of (U) time events     : 0
-   Number of state    events     : 294
-   Number of step     events     : 0
-   Minimum integration stepsize  : 9.26e-010
-   Maximum integration stepsize  : 0.0002
-   Maximum integration order     : 4
+   CPU-time for integration                : 0.381 seconds
+   CPU-time for one grid interval          : 0.0381 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 10664
+   Number of grid points                   : 10001
+   Number of accepted steps                : 6795
+   Number of f-evaluations (dynamics)      : 8740
+   Number of crossing function evaluations : 19058
+   Number of Jacobian-evaluations          : 5135
+   Number of model time events             : 100
+   Number of input time events             : 0
+   Number of state events                  : 294
+   Number of step events                   : 0
+   Minimum integration stepsize            : 9.26e-10
+   Maximum integration stepsize            : 0.0002
+   Maximum integration order               : 4
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

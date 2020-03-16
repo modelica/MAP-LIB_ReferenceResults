@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 248 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Loops.Fourbar_analytic:
 The DAE has 2243 scalar unknowns and 2243 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   j1.phi
   j1.w
  
-Finished
-Save translation log

@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 116 of 422
 Translation of Modelica.Electrical.Machines.Examples.Transformers.TransformerTestbench:
 The DAE has 772 scalar unknowns and 772 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   transformer.l2sigma.inductor[1].i
   transformer.l2sigma.inductor[3].i
  
-Finished
-Save translation log

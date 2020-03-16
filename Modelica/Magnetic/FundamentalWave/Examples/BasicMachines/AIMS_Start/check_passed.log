@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 202 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start:
 The model has the same number of unknowns and equations: 1778
 The model has the same number of unknowns and equations:
   1775+currentRMSsensorE.ToSpacePhasor1.m
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start</a> successful.
+

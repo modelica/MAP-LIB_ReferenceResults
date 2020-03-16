@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 273 of 422
 Translation of Modelica.Mechanics.Rotational.Examples.GenerationOfFMUs:
 The DAE has 214 scalar unknowns and 214 scalar equations.
  
@@ -43,5 +41,3 @@ Statically selected continuous time states
   inertia3b.phi
   inertia3b.w
  
-Finished
-Save translation log

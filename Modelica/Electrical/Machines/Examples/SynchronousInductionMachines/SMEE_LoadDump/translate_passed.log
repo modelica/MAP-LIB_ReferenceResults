@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 106 of 422
 Translation of Modelica.Electrical.Machines.Examples.SynchronousInductionMachines.SMEE_LoadDump:
 The DAE has 731 scalar unknowns and 731 scalar equations.
  
@@ -46,5 +44,3 @@ Statically selected continuous time states
   speed.w
   voltageController.I.y
  
-Finished
-Save translation log

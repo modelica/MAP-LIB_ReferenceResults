@@ -1,35 +1,36 @@
 Log-file of program ./dymosim
-(generated: Sun Dec 16 00:33:35 2018)
+(generated: Mon Mar 16 11:49:50 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
-... "result.mat" creating (simulation result file)
+... "AIMC_YD.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
-(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dynasim))
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 
 ... Warning message from dymosim
-At time T = 1.036915e-001 in current integration interval
-T_interval = 1.036500e-001 ... 1.037000e-001
+At time T = 1.084137e-01 in current integration interval
+T_interval = 1.084000e-01 ... 1.084500e-01
 a large amount of work has been expended
 (about 500 steps) in the integrator. Probably the communication
 interval is too large or the system is stiff.
 
 Integration terminated successfully at T = 2.5
-   CPU-time for integration      : 10.4 seconds
-   CPU-time for one GRID interval: 0.207 milliseconds
-   Number of result points       : 50004
-   Number of GRID   points       : 50001
-   Number of (successful) steps  : 93409
-   Number of F-evaluations       : 823301
-   Number of H-evaluations       : 143553
-   Number of Jacobian-evaluations: 93690
-   Number of (model) time events : 2
-   Number of (U) time events     : 0
-   Number of state    events     : 0
-   Number of step     events     : 0
-   Minimum integration stepsize  : 2.4e-010
-   Maximum integration stepsize  : 0.0034
-   Maximum integration order     : 5
+   CPU-time for integration                : 20 seconds
+   CPU-time for one grid interval          : 0.399 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 50004
+   Number of grid points                   : 50001
+   Number of accepted steps                : 469282
+   Number of f-evaluations (dynamics)      : 1399752
+   Number of crossing function evaluations : 520142
+   Number of Jacobian-evaluations          : 493195
+   Number of model time events             : 2
+   Number of input time events             : 0
+   Number of state events                  : 0
+   Number of step events                   : 0
+   Minimum integration stepsize            : 8.51e-11
+   Maximum integration stepsize            : 0.0017
+   Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

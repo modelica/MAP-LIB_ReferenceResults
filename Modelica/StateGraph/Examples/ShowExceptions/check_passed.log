@@ -1,9 +1,4 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 29 of 422
-Check of Modelica.StateGraph.Examples.ShowExceptions:
-Warning: Top class Modelica.StateGraph.Examples.ShowExceptions specified an obsolete type: Obsolete package due to experimental design.
-The model has the same number of unknowns and equations: 288
-Check of Modelica.StateGraph.Examples.ShowExceptions successful.
+The model has the same number of unknowns and equations: 299
+Check of <a href="Modelica://Modelica.StateGraph.Examples.ShowExceptions">Modelica.StateGraph.Examples.ShowExceptions</a> successful.
 Warning: WARNINGS have been issued.
-Save check log
+

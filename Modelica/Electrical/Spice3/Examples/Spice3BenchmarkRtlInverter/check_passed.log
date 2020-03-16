@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 184 of 422
-Check of Modelica.Electrical.Spice3.Examples.Spice3BenchmarkRtlInverter:
 The model has the same number of unknowns and equations: 76
-Check of Modelica.Electrical.Spice3.Examples.Spice3BenchmarkRtlInverter successful.
-Save check log
+Check of <a href="Modelica://Modelica.Electrical.Spice3.Examples.Spice3BenchmarkRtlInverter">Modelica.Electrical.Spice3.Examples.Spice3BenchmarkRtlInverter</a> successful.
+

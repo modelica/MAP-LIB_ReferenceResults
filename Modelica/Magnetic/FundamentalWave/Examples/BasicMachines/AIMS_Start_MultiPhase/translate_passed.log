@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 203 of 422
 Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase:
 The DAE has 2681 scalar unknowns and 2681 scalar equations.
  
@@ -51,5 +49,3 @@ Statically selected continuous time states
   loadInertiaM.phi
   loadInertiaM.w
  
-Finished
-Save translation log

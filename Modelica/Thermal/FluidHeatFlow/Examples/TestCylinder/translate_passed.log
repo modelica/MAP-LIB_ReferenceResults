@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 421 of 422
 Translation of Modelica.Thermal.FluidHeatFlow.Examples.TestCylinder:
 The DAE has 61 scalar unknowns and 61 scalar equations.
  
@@ -40,5 +38,3 @@ Statically selected continuous time states
   springDamper.s_rel
   springDamper.v_rel
  
-Finished
-Save translation log

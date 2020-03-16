@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 56 of 422
 Translation of Modelica.Electrical.Analog.Examples.OpAmps.NonInvertingAmp:
 The DAE has 49 scalar unknowns and 49 scalar equations.
  
@@ -33,5 +31,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

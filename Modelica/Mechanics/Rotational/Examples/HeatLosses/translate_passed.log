@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 271 of 422
 Translation of Modelica.Mechanics.Rotational.Examples.HeatLosses:
 The DAE has 243 scalar unknowns and 243 scalar equations.
  
@@ -46,5 +44,3 @@ Statically selected continuous time states
   springDamper.phi_rel
   springDamper.w_rel
  
-Finished
-Save translation log

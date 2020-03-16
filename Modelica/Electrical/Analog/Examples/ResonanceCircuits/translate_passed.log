@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 373 of 422
 Translation of Modelica.Electrical.Analog.Examples.ResonanceCircuits:
 The DAE has 252 scalar unknowns and 252 scalar equations.
  
@@ -37,5 +35,3 @@ Statically selected continuous time states
   inductor2.i
   voltageToCurrentAdaptor1c.y
  
-Finished
-Save translation log

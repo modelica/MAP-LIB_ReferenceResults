@@ -1,28 +1,26 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 398 of 422
 Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SMEE_LoadDump:
-The DAE has 1074 scalar unknowns and 1074 scalar equations.
+The DAE has 1076 scalar unknowns and 1076 scalar equations.
  
 Statistics
  
 Original Model
   Number of components: 236
-  Variables: 1477
+  Variables: 1479
   Constants: 9 (9 scalars)
   Parameters: 454 (518 scalars)
-  Unknowns: 1014 (1074 scalars)
+  Unknowns: 1016 (1076 scalars)
   Differentiated variables: 24 scalars
-  Equations: 635
-  Nontrivial: 532
+  Equations: 637
+  Nontrivial: 534
 Translated Model
   Constants: 435 scalars
   Free parameters: 81 scalars
   Parameter depending: 204 scalars
   Outputs: 1 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 232 scalars
-  Alias variables: 649 scalars
+  Time-varying variables: 233 scalars
+  Alias variables: 650 scalars
   Number of mixed real/discrete systems of equations: 3
   Sizes of linear systems of equations: {33}
   Sizes after manipulation of the linear systems: {7}
@@ -53,5 +51,3 @@ There are 5 states to be selected from:
   smee.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
   smee.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
  
-Finished
-Save translation log

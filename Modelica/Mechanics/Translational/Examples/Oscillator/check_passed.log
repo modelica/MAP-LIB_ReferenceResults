@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 279 of 422
-Check of Modelica.Mechanics.Translational.Examples.Oscillator:
 The model has the same number of unknowns and equations: 50
-Check of Modelica.Mechanics.Translational.Examples.Oscillator successful.
-Save check log
+Check of <a href="Modelica://Modelica.Mechanics.Translational.Examples.Oscillator">Modelica.Mechanics.Translational.Examples.Oscillator</a> successful.
+

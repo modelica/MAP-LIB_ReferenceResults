@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\AIMC_YD\AIMC_YD.csv
+. Time:        2020-03-16T19:43:03.2491809+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AIMC_YD.aimc.stator.zeroInductor.i0=>4.50144187889927E-07
+. Failed values:
+AIMC_YD.aimc.stator.zeroInductor.i0=>4.50144187889927E-07

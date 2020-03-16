@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 19 of 422
 Translation of Modelica.Blocks.Examples.NoiseExamples.ImpureGenerator:
 The DAE has 2 scalar unknowns and 2 scalar equations.
  
@@ -28,5 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Save translation log

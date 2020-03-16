@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 400 of 422
-Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor:
 The model has the same number of unknowns and equations: 291
-Check of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor">Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor</a> successful.
+

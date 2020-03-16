@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 199 of 422
 Translation of Modelica.Magnetic.FundamentalWave.Examples.Components.MultiPhaseInductance:
 The DAE has 344 scalar unknowns and 344 scalar equations.
  
@@ -38,5 +36,3 @@ Statically selected continuous time states
   inductor_e.inductor[2].i
   inductor_e.inductor[3].i
  
-Finished
-Save translation log

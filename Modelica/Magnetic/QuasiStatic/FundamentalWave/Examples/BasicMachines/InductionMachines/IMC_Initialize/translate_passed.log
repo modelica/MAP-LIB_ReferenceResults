@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 410 of 422
 Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize:
 The DAE has 3009 scalar unknowns and 3009 scalar equations.
  
@@ -57,5 +55,3 @@ There are 4 states to be selected from:
   imc.stator.strayReluctance.port_p.Phi.im
   imc.stator.strayReluctance.port_p.Phi.re
  
-Finished
-Save translation log

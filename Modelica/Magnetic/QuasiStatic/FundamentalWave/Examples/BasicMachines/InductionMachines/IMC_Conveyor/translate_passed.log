@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 408 of 422
 Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor:
 The DAE has 3076 scalar unknowns and 3076 scalar equations.
  
@@ -48,5 +46,3 @@ Statically selected continuous time states
   massQS.v
   vfController.x
  
-Finished
-Save translation log

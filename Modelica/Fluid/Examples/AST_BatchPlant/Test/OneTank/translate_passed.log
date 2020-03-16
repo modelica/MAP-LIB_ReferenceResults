@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 294 of 422
 Translation of Modelica.Fluid.Examples.AST_BatchPlant.Test.OneTank:
 The DAE has 126 scalar unknowns and 126 scalar equations.
 Warning: The initial conditions are not fully specified.
@@ -48,6 +46,3 @@ Statically selected continuous time states
   tank.level
   tank.medium.T
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

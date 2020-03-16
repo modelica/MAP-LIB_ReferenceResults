@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 119 of 422
 Translation of Modelica.Electrical.Machines.Examples.Transformers.Rectifier12pulse:
 The DAE has 1046 scalar unknowns and 1046 scalar equations.
  
@@ -41,5 +39,3 @@ Statically selected continuous time states
   transformer2.l2sigma.inductor[2].i
   transformer2.l2sigma.inductor[3].i
  
-Finished
-Save translation log

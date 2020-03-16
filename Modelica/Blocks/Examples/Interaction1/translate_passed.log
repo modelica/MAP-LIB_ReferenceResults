@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 11 of 422
 Translation of Modelica.Blocks.Examples.Interaction1:
 The DAE has 50 scalar unknowns and 50 scalar equations.
 Warning: The initial conditions are not fully specified.
@@ -36,6 +34,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

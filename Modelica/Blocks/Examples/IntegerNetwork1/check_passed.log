@@ -1,7 +1,3 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 9 of 422
-Check of Modelica.Blocks.Examples.IntegerNetwork1:
 The model has the same number of unknowns and equations: 38
-Check of Modelica.Blocks.Examples.IntegerNetwork1 successful.
-Save check log
+Check of <a href="Modelica://Modelica.Blocks.Examples.IntegerNetwork1">Modelica.Blocks.Examples.IntegerNetwork1</a> successful.
+

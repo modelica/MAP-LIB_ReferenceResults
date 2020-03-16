@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 37 of 422
 Translation of Modelica.Electrical.Analog.Examples.DifferenceAmplifier:
 The DAE has 203 scalar unknowns and 203 scalar equations.
  
@@ -42,5 +40,3 @@ Statically selected continuous time states
   Transistor2.ct.v
   Transistor2.Tr.C.v
  
-Finished
-Save translation log

@@ -1,127 +1,17 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 292 of 422
 Translation of Modelica.Fluid.Examples.ControlledTankSystem.ControlledTanks:
-Warning: Component type specifier StateGraphRoot specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 282
- Component context: tankController.stateGraphRoot
-  Component declared as StateGraphRoot stateGraphRoot in Modelica.StateGraph
-Warning: Component type specifier InitialStep specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 216
- Component context: tankController.s1
-  Component declared as InitialStep s1 in Modelica.StateGraph
-Warning: Component type specifier CompositeStepState specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2574
- Component context: tankController.normal.stateGraphRoot
-  Component declared as CompositeStepState stateGraphRoot in Modelica.StateGraph.Interfaces
-Warning: Component type specifier Step_in specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2580
- Component context: tankController.normal.inPort
-  Component declared as Step_in inPort in Modelica.StateGraph.Interfaces
-Warning: Component type specifier Step_out specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2582
- Component context: tankController.normal.outPort
-  Component declared as Step_out outPort in Modelica.StateGraph.Interfaces
-Warning: Component type specifier CompositeStep_suspend specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2584
- Component context: tankController.normal.suspend
-  Component declared as CompositeStep_suspend suspend in Modelica.StateGraph.Interfaces
-Warning: Component type specifier CompositeStep_resume specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2589
- Component context: tankController.normal.resume
-  Component declared as CompositeStep_resume resume in Modelica.StateGraph.Interfaces
-Warning: Component type specifier OuterState specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2600
- Component context: tankController.normal.outerState
-  Component declared as OuterState outerState in Modelica.StateGraph.PartialCompositeStep
-Warning: Component type specifier InnerState specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2606
- Component context: tankController.normal.innerState
-  Component declared as InnerState innerState in Modelica.StateGraph.PartialCompositeStep
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 366
- Component context: tankController.normal.fillTank1
-  Component declared as Step fillTank1 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 369
- Component context: tankController.normal.T1
-  Component declared as Transition T1 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 371
- Component context: tankController.normal.fillTank2
-  Component declared as Step fillTank2 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 374
- Component context: tankController.normal.T3
-  Component declared as Transition T3 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 376
- Component context: tankController.normal.emptyTank2
-  Component declared as Step emptyTank2 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 379
- Component context: tankController.normal.wait1
-  Component declared as Step wait1 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 381
- Component context: tankController.normal.T2
-  Component declared as Transition T2 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 383
- Component context: tankController.normal.wait2
-  Component declared as Step wait2 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 385
- Component context: tankController.normal.T4
-  Component declared as Transition T4 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 225
- Component context: tankController.T1
-  Component declared as Transition T1 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 228
- Component context: tankController.T2
-  Component declared as Transition T2 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 230
- Component context: tankController.T3
-  Component declared as Transition T3 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 235
- Component context: tankController.s2
-  Component declared as Step s2 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 237
- Component context: tankController.T4
-  Component declared as Transition T4 in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 242
- Component context: tankController.T5
-  Component declared as Transition T5 in Modelica.StateGraph
-Warning: Component type specifier Step specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 245
- Component context: tankController.emptyTanks
-  Component declared as Step emptyTanks in Modelica.StateGraph
-Warning: Component type specifier Transition specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/Fluid/Examples/ControlledTankSystem.mo, line 248
- Component context: tankController.T6
-  Component declared as Transition T6 in Modelica.StateGraph
-Warning: Component type specifier CompositeStepStatePort_out specified an obsolete type: Obsolete package due to experimental design.
-  File: C:/LG/Arbeit/Modelica/MAP-LIB/MSLGithub/Modelica/StateGraph.mo, line 2089
- Component context: tankController.s1.stateGraphRoot.subgraphStatePort
-  Component declared as CompositeStepStatePort_out subgraphStatePort in Modelica.StateGraph.Interfaces
-The DAE has 512 scalar unknowns and 512 scalar equations.
+The DAE has 521 scalar unknowns and 521 scalar equations.
  
 Statistics
  
 Original Model
   Number of components: 83
-  Variables: 812
+  Variables: 821
   Constants: 2 (2 scalars)
   Parameters: 289 (302 scalars)
-  Unknowns: 521 (512 scalars)
+  Unknowns: 530 (521 scalars)
   Differentiated variables: 8 scalars
-  Equations: 488
+  Equations: 497
   Nontrivial: 396
 Translated Model
   Constants: 207 scalars
@@ -129,7 +19,7 @@ Translated Model
   Parameter depending: 114 scalars
   Continuous time states: 4 scalars
   Time-varying variables: 164 scalars
-  Alias variables: 249 scalars
+  Alias variables: 258 scalars
   Number of mixed real/discrete systems of equations: 3
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -153,6 +43,3 @@ Statically selected continuous time states
   tank2.level
   tank2.medium.T
  
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

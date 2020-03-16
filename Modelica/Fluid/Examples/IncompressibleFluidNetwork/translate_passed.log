@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 300 of 422
 Translation of Modelica.Fluid.Examples.IncompressibleFluidNetwork:
 The DAE has 1492 scalar unknowns and 1492 scalar equations.
  
@@ -60,5 +58,3 @@ Statically selected continuous time states
   pipe11.mediums[1].T
   pipe11.mediums[2].T
  
-Finished
-Save translation log

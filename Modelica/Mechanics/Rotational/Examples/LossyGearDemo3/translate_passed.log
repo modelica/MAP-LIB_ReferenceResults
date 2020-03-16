@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 267 of 422
 Translation of Modelica.Mechanics.Rotational.Examples.LossyGearDemo3:
 The DAE has 67 scalar unknowns and 67 scalar equations.
  
@@ -36,5 +34,3 @@ Statically selected continuous time states
   Inertia2.phi
   Inertia2.w
  
-Finished
-Save translation log

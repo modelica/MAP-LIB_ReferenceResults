@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 212 of 422
 Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_DOL:
 The DAE has 3978 scalar unknowns and 3978 scalar equations.
  
@@ -24,8 +22,8 @@ Translated Model
   Time-varying variables: 714 scalars
   Alias variables: 2295 scalars
   Number of mixed real/discrete systems of equations: 0
-  Sizes of linear systems of equations: {14, 8, 70, 2, 12, 5, 2}
-  Sizes after manipulation of the linear systems: {2, 2, 18, 0, 3, 2, 0}
+  Sizes of linear systems of equations: {14, 8, 70, 5, 12, 2, 2}
+  Sizes after manipulation of the linear systems: {2, 2, 18, 2, 3, 0, 0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
@@ -48,5 +46,3 @@ Statically selected continuous time states
   loadInertiaQS.phi
   loadInertiaQS.w
  
-Finished
-Save translation log

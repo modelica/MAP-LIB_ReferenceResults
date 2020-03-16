@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 188 of 422
-Check of Modelica.Magnetic.FluxTubes.Examples.MovingCoilActuator.ForceStrokeBehaviour:
 The model has the same number of unknowns and equations: 151
 The model has the same number of unknowns and equations:
   148+size(comparisonWithFEA.columns, 1)
-Check of Modelica.Magnetic.FluxTubes.Examples.MovingCoilActuator.ForceStrokeBehaviour successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.FluxTubes.Examples.MovingCoilActuator.ForceStrokeBehaviour">Modelica.Magnetic.FluxTubes.Examples.MovingCoilActuator.ForceStrokeBehaviour</a> successful.
+

@@ -1,24 +1,21 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 24 of 422
 Translation of Modelica.StateGraph.Examples.FirstExample:
-Warning: Top class Modelica.StateGraph.Examples.FirstExample specified an obsolete type: Obsolete package due to experimental design.
-The DAE has 53 scalar unknowns and 53 scalar equations.
+The DAE has 55 scalar unknowns and 55 scalar equations.
  
 Statistics
  
 Original Model
   Number of components: 8
-  Variables: 61
+  Variables: 63
   Parameters: 8 (8 scalars)
-  Unknowns: 53 (53 scalars)
-  Equations: 50
+  Unknowns: 55 (55 scalars)
+  Equations: 52
   Nontrivial: 35
 Translated Model
   Constants: 21 scalars
   Free parameters: 2 scalars
   Time-varying variables: 20 scalars
-  Alias variables: 18 scalars
+  Alias variables: 20 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: { }
   Sizes after manipulation of the linear systems: { }
@@ -29,6 +26,3 @@ Translated Model
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-Warning: WARNINGS have been issued.
-Save translation log

@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\QuasiStatic\FundamentalWave\Examples\BasicMachines\InductionMachines\IMC_YD\IMC_YD.csv
+. Time:        2020-03-16T19:47:03.4235162+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: IMC_YD.imc.stator.zeroInductor.i0=>2.02937360382185E-06
+. Failed values:
+IMC_YD.imc.stator.zeroInductor.i0=>2.02937360382185E-06

@@ -1,9 +1,5 @@
-﻿ = true
-TestID: 2018-12-15_230315
-This is check 203 of 422
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase:
 The model has the same number of unknowns and equations: 2681
 The model has the same number of unknowns and equations:
   2678+currentRMSsensor3.ToSpacePhasor1.m
-Check of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase successful.
-Save check log
+Check of <a href="Modelica://Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase">Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.AIMS_Start_MultiPhase</a> successful.
+

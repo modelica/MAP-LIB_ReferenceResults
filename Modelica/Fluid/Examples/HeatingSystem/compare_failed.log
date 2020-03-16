@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Fluid\Examples\HeatingSystem\HeatingSystem.csv
+. Time:        2020-03-16T19:41:51.7428270+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: HeatingSystem.radiator.mediums[1].h=>5.73728504171704
+. Failed values:
+HeatingSystem.radiator.mediums[1].h=>5.73728504171704
+HeatingSystem.tank.medium.h=>4.85014501640269

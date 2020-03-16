@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 67 of 422
 Translation of Modelica.Electrical.Analog.Examples.OpAmps.LCOscillator:
 The DAE has 61 scalar unknowns and 61 scalar equations.
  
@@ -39,5 +37,3 @@ Statically selected continuous time states
   c.v
   l.i
  
-Finished
-Save translation log

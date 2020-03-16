@@ -1,6 +1,4 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 309 of 422
 Translation of Modelica.Media.Examples.SimpleLiquidWater:
 The DAE has 34 scalar unknowns and 34 scalar equations.
  
@@ -34,5 +32,3 @@ Selected continuous time states
 Statically selected continuous time states
   medium.T
  
-Finished
-Save translation log

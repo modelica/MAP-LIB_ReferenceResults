@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.1.0 (MSIL)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\Modelica\Magnetic\FundamentalWave\Examples\BasicMachines\AIMC_Steinmetz\AIMC_Steinmetz.csv
+. Time:        2020-03-16T19:42:38.4806852+01:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: AIMC_Steinmetz.aimc.stator.zeroInductor.i0=>6.11077382277971E-06
+. Failed values:
+AIMC_Steinmetz.aimc.stator.zeroInductor.i0=>6.11077382277971E-06

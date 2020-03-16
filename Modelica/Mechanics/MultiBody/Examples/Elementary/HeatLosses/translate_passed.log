@@ -1,9 +1,6 @@
 ﻿ = true
-TestID: 2018-12-15_230315_Modelica_v3.2.3-rc.2_2019
-This is translation 238 of 422
 Translation of Modelica.Mechanics.MultiBody.Examples.Elementary.HeatLosses:
 The DAE has 3001 scalar unknowns and 3001 scalar equations.
-The translated model contains large nonlinear systems of equations. The simulation may run faster in DAE mode. Enable DAE mode by setting the flag Advanced.Define.DAEsolver and use one of the solvers Dassl, Radau IIa, Esdirk*, or Sdirk34hw.
  
 Statistics
  
@@ -59,5 +56,3 @@ From set 2 there are 3 states to be selected from:
 From set 3 there are 3 states to be selected from:
   body1.Q[]
  
-Finished
-Save translation log
