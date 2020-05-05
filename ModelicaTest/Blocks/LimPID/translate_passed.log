@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Blocks.LimPID:
+The DAE has 156 scalar unknowns and 156 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 61
   Variables: 372
@@ -27,7 +30,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {5, 5, 5, 5}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -40,15 +43,11 @@ Statically selected continuous time states
   PID2.I.y
   PID3.I.y
   PID4.I.y
-
+ 
 Warning: Some variables are iteration variables of the initialization problem:
 but they are not given any explicit start values. Zero will be used.
 Iteration variables:
-<a href="Modelica://ModelicaTest.Blocks.LimPID#diagram$PID1.limiter:u">PID1.limiter.u</a>
-<a href="Modelica://ModelicaTest.Blocks.LimPID#diagram$PID2.limiter:u">PID2.limiter.u</a>
-<a href="Modelica://ModelicaTest.Blocks.LimPID#diagram$PID3.limiter:u">PID3.limiter.u</a>
-<a href="Modelica://ModelicaTest.Blocks.LimPID#diagram$PID4.limiter:u">PID4.limiter.u</a>
-Finished
-Error: WARNINGS have been issued.
-Error: ERRORS have been issued.
-
+PID1.limiter.u
+PID2.limiter.u
+PID3.limiter.u
+PID4.limiter.u

@@ -1,28 +1,32 @@
-
+﻿ = true
+Translation of ModelicaTest.MultiBody.Forces.FrameForcesAndTorques3:
+The DAE has 2775 scalar unknowns and 2775 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
-  Number of components: 151
-  Variables: 972
-  Parameters: 270 (458 scalars)
-  Unknowns: 702 (2109 scalars)
+  Number of components: 155
+  Variables: 1296
+  Constants: 4 (4 scalars)
+  Parameters: 312 (520 scalars)
+  Unknowns: 980 (2775 scalars)
   Differentiated variables: 42 scalars
-  Equations: 601
-  Nontrivial: 304
+  Equations: 879
+  Nontrivial: 552
 Translated Model
-  Constants: 1508 scalars
-  Free parameters: 57 scalars
-  Parameter depending: 203 scalars
+  Constants: 1935 scalars
+  Free parameters: 89 scalars
+  Parameter depending: 265 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 178 scalars
-  Alias variables: 621 scalars
+  Time-varying variables: 206 scalars
+  Alias variables: 804 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {11, 11}
   Sizes after manipulation of the linear systems: {2, 2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -35,6 +39,4 @@ Statically selected continuous time states
   Revolute3.w
   Revolute4.phi
   Revolute4.w
-
-Finished
-
+ 

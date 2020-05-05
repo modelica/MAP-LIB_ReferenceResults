@@ -1,7 +1,9 @@
+﻿ = true
+Translation of ModelicaTest.Blocks.ResetHoldIntegrator:
 The DAE has 16 scalar unknowns and 16 scalar equations.
-
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 7
   Variables: 28
@@ -23,12 +25,10 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   integrator.y
-
-Finished
-
+ 

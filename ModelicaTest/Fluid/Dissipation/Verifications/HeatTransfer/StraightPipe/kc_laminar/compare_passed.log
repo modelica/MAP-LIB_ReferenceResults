@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (MSIL)
+CSV Compare Version 2.0.3.0 (Amd64)
 Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Fluid\Dissipation\Verifications\HeatTransfer\StraightPipe\kc_laminar\kc_laminar.csv
-. Time:        2020-03-12T06:50:45.6105850+01:00
+. Time:        2020-05-05T11:00:54.8507766+02:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.TestComponents.Machines.TestWaterPumpCharacteristics:
+The DAE has 324 scalar unknowns and 324 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 49
   Variables: 649
@@ -26,40 +29,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 8, 8, 8, 8}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 2, 2, 2, 2}
     Number of numerical Jacobians: 4
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Conflicting start values
-Warning: The iteration variable Source.ports[1].m_flow has been selected to have the guess value  -pump.m_flow_start.
--1, the negative start value of pump.port_a.m_flow given as pump.m_flow_start.
-1, the negative start value of pump.port_b.m_flow given as  -pump.m_flow_start.
-Warning: The iteration variable Source.ports[2].m_flow has been selected to have the guess value  -pumpPolynomial.m_flow_start.
--1, the negative start value of pumpPolynomial.port_a.m_flow given as pumpPolynomial.m_flow_start.
-1, the negative start value of pumpPolynomial.port_b.m_flow given as  -pumpPolynomial.m_flow_start.
-Warning: The iteration variable Source.ports[3].m_flow has been selected to have the guess value  -pumpQuadraticLinear.m_flow_start.
--1, the negative start value of pumpQuadraticLinear.port_a.m_flow given as pumpQuadraticLinear.m_flow_start.
-1, the negative start value of pumpQuadraticLinear.port_b.m_flow given as  -pumpQuadraticLinear.m_flow_start.
-Warning: The iteration variable Source.ports[4].m_flow has been selected to have the guess value  -pumpLinear.m_flow_start.
--1, the negative start value of pumpLinear.port_a.m_flow given as pumpLinear.m_flow_start.
-1, the negative start value of pumpLinear.port_b.m_flow given as  -pumpLinear.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-1, the start value of pump.port_a.m_flow given as pump.m_flow_start.
--1, the start value of pump.port_b.m_flow given as  -pump.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-1, the start value of pumpPolynomial.port_a.m_flow given as pumpPolynomial.m_flow_start.
--1, the start value of pumpPolynomial.port_b.m_flow given as  -pumpPolynomial.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-1, the start value of pumpQuadraticLinear.port_a.m_flow given as pumpQuadraticLinear.m_flow_start.
--1, the start value of pumpQuadraticLinear.port_b.m_flow given as  -pumpQuadraticLinear.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-1, the start value of pumpLinear.port_a.m_flow given as pumpLinear.m_flow_start.
--1, the start value of pumpLinear.port_b.m_flow given as  -pumpLinear.m_flow_start.
-Finished
-Error: WARNINGS have been issued.
-Error: ERRORS have been issued.
-

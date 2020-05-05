@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Electrical.MultiSensorTest:
+The DAE has 1308 scalar unknowns and 1308 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 516
   Variables: 1497
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -46,6 +49,4 @@ Statically selected continuous time states
   rmsvM[1].mean.x
   rmsvM[2].mean.x
   rmsvM[3].mean.x
-
-Finished
-
+ 

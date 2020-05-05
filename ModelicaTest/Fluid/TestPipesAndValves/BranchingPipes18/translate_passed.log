@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes18:
+The DAE has 575 scalar unknowns and 575 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 71
   Variables: 1030
@@ -27,7 +30,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -41,21 +44,8 @@ Statically selected continuous time states
   pipe2.mediums[1].p
   pipe3.mediums[1].h
   pipe3.mediums[1].p
-
+ 
 Warning: Some variables are iteration variables of the initialization problem:
 but they are not given any explicit start values. Zero will be used.
 Iteration variables:
-<a href="Modelica://ModelicaTest.Fluid.TestPipesAndValves.BranchingPipes18#diagram$der(junctionVolume.medium:h)">der(junctionVolume.medium.h)</a>
-Conflicting start values
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of pipe2.m_flows[2] given as 0.0.
-1, the start value of valve1.m_flow given as valve1.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of pipe3.m_flows[2] given as 0.0.
-1, the start value of valve2.m_flow given as valve2.m_flow_start.
-Finished
-Error: WARNINGS have been issued.
-Error: ERRORS have been issued.
-
+der(junctionVolume.medium.h)

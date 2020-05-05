@@ -1,7 +1,9 @@
+﻿ = true
+Translation of ModelicaTest.Math.TestMatrices:
 The DAE has 1 scalar unknowns and 1 scalar equations.
-
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 1
   Variables: 1
@@ -16,9 +18,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-

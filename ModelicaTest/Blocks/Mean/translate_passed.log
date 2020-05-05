@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Blocks.Mean:
+The DAE has 64 scalar unknowns and 64 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 21
   Variables: 113
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -33,6 +36,4 @@ Statically selected continuous time states
   mean.x
   rectifiedMean.mean.x
   rootMeanSquare.mean.x
-
-Finished
-
+ 

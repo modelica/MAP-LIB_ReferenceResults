@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (MSIL)
+CSV Compare Version 2.0.3.0 (Amd64)
 Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Fluid\TestComponents\Machines\TestWaterPumpNPSH\TestWaterPumpNPSH.csv
-. Time:        2020-03-12T06:52:33.6296223+01:00
+. Time:        2020-05-05T11:02:24.9413425+02:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

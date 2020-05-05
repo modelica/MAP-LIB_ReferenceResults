@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Electrical.SingularTransfomer:
+The DAE has 51 scalar unknowns and 51 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 9
   Variables: 80
@@ -25,7 +28,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {3}
     Sizes after manipulation of the linear systems: {0}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -34,6 +37,4 @@ There is one set of dynamic state selection.
 There is one state to be selected from:
   basicTransformer.i1
   basicTransformer.i2
-
-Finished
-
+ 

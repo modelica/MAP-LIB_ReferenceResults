@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.TestComponents.Fittings.TestSharpEdgedOrifice:
+The DAE has 110 scalar unknowns and 110 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 24
   Variables: 274
@@ -25,9 +28,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {1}
     Sizes after manipulation of the nonlinear systems: {1}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-

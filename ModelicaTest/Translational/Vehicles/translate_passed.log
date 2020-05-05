@@ -1,3 +1,6 @@
+﻿ = true
+Translation of ModelicaTest.Translational.Vehicles:
+The DAE has 678 scalar unknowns and 678 scalar equations.
 Warning: The initial conditions are not fully specified.
 Dymola has selected default initial conditions.
 Warning: Assuming fixed default start value for the continuous states:
@@ -10,10 +13,10 @@ Warning: Assuming fixed default start value for the continuous states:
     vehicleRoll.inertia.phi(start = 0.0)
     vehicleRollInConst.inertia.phi(start = 0.0)
     vehicleRollInVar.inertia.phi(start = 0.0)
-
-
+ 
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 156
   Variables: 1097
@@ -37,7 +40,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -78,8 +81,4 @@ Statically selected continuous time states
   vehicleRollInVar.inertia.w
   vehicleRollInVar.windSpeed.s
   vehicleRollInVar.windSpeed.v
-
-Finished
-Error: WARNINGS have been issued.
-Error: ERRORS have been issued.
-
+ 

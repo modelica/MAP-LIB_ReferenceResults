@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.Dissipation.Verifications.HeatTransfer.Plate.kc_laminar_KC:
+The DAE has 34 scalar unknowns and 34 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 8
   Variables: 34
@@ -20,9 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: {1, 1, 1, 1, 1, 1}
   Sizes after manipulation of the nonlinear systems: {1, 0, 1, 0, 1, 0}
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-

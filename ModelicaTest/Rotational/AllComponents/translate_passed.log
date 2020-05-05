@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Rotational.AllComponents:
+The DAE has 547 scalar unknowns and 547 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 74
   Variables: 800
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -59,6 +62,4 @@ Statically selected continuous time states
   speed.w
   springDamper.phi_rel
   springDamper.w_rel
-
-Finished
-
+ 

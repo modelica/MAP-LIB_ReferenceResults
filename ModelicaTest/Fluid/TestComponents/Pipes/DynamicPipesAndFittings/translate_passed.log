@@ -1,6 +1,13 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipesAndFittings:
+The DAE has 5664 scalar unknowns and 5664 scalar equations.
+Sparse solver handling possible: false.
+Due to flag Advanced.SparseActivate=false.
+Model sparse and large enough: true.
+Sparse solvers are available for dassl, lsodar, cvode, radau, esdirk*, sdirk* (using OpenMP, set number of cores with Advanced.NumberOfCores).
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 516
   Variables: 4811
@@ -29,7 +36,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {15, 15}
     Sizes after manipulation of the nonlinear systems: {2, 2}
     Number of numerical Jacobians: 2
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -158,6 +165,4 @@ Statically selected continuous time states
   pipe12.mediums[4].p
   pipe12.mediums[5].h
   pipe12.mediums[5].p
-
-Finished
-
+ 

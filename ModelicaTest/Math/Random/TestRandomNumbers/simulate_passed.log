@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Thu Mar 12 00:17:18 2020)
+(generated: Tue May  5 07:46:03 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -12,11 +12,11 @@ dymosim started
    random = 0.448066
 
 ... Demonstrate how to generate uniform random numbers with xorshift128+ (and 3 different localSeeds):
-   random = 0.461154, 0.8429, 0.58622
-   random = 0.0317015, 0.213231, 0.459122
-   random = 0.919226, 0.00198739, 0.325754
-   random = 0.544481, 0.356558, 0.838245
-   random = 0.492459, 0.535162, 0.667135
+   random = 0.461154, 0.340066, 0.850204
+   random = 0.0317015, 0.708537, 0.291911
+   random = 0.919226, 0.883382, 0.191143
+   random = 0.544481, 0.735601, 0.220053
+   random = 0.492459, 0.41285, 0.836544
 
 ... Demonstrate how to generate uniform random numbers with xorshift1024*:
    random = 0.311559
@@ -37,11 +37,11 @@ Integration started at T = 0 using integration method DASSL
    random = 0.448066
 
 ... Demonstrate how to generate uniform random numbers with xorshift128+ (and 3 different localSeeds):
-   random = 0.461154, 0.8429, 0.58622
-   random = 0.0317015, 0.213231, 0.459122
-   random = 0.919226, 0.00198739, 0.325754
-   random = 0.544481, 0.356558, 0.838245
-   random = 0.492459, 0.535162, 0.667135
+   random = 0.461154, 0.340066, 0.850204
+   random = 0.0317015, 0.708537, 0.291911
+   random = 0.919226, 0.883382, 0.191143
+   random = 0.544481, 0.735601, 0.220053
+   random = 0.492459, 0.41285, 0.836544
 
 ... Demonstrate how to generate uniform random numbers with xorshift1024*:
    random = 0.311559
@@ -50,8 +50,8 @@ Integration started at T = 0 using integration method DASSL
    random = 0.0379248
    random = 0.67468
 Integration terminated successfully at T = 1.5
-   CPU-time for integration                : 0.006 seconds
-   CPU-time for one grid interval          : 2 milliseconds
+   CPU-time for integration                : 0.005 seconds
+   CPU-time for one grid interval          : 1.67 milliseconds
    CPU-time for initialization             : 0.002 seconds
    Number of result points                 : 5
    Number of grid points                   : 4

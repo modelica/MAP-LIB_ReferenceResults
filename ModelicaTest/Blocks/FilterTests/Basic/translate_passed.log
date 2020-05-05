@@ -1,7 +1,9 @@
+﻿ = true
+Translation of ModelicaTest.Blocks.FilterTests.Basic:
 The DAE has 85 scalar unknowns and 85 scalar equations.
-
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 10
   Variables: 252
@@ -26,7 +28,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
     Sizes after manipulation of the linear systems: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -39,6 +41,4 @@ Statically selected continuous time states
   ChebyshevI_b.x[]
   CriticalDamping_a.x[]
   CriticalDamping_b.x[]
-
-Finished
-
+ 

@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Fluid.TestComponents.Pipes.DynamicPipeWithNominalLaminarFlow:
+The DAE has 3224 scalar unknowns and 3224 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 292
   Variables: 2271
@@ -28,7 +31,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {81, 161, 81}
     Sizes after manipulation of the nonlinear systems: {20, 40, 20}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -116,6 +119,4 @@ Statically selected continuous time states
   pipeN20.mediums[19].p
   pipeN20.mediums[20].h
   pipeN20.mediums[20].p
-
-Finished
-
+ 

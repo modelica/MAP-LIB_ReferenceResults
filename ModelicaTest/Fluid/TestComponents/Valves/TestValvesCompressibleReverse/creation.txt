@@ -3,23 +3,24 @@ modelName="ModelicaTest.Fluid.TestComponents.Valves.TestValvesCompressibleRevers
 
 // Test info
 generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
-generationDateAndTime="2020-03-12T06:37:42Z"
+generationDateAndTime="2020-05-05T09:27:46Z"
 gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
-gitRevision=00d6dfcf5
+gitRevision=bd753330a
 gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M ModelicaServices/package.mo"
-testPC="LAPTOP-RUH9UABA"
-testOS="Microsoft Windows [Version 10.0.18362.657]"
+testPC="LAPTOP"
+testOS="Microsoft Windows [Version 10.0.18363.815]"
 testUser="tbeu"
-testDescription="Reg test MSL v4.0.0-beta.2"
+testDescription="Reg test MSL v4.0.0-rc.1"
 
 // Experiment settings (standardized annotation)
 StartTime=0
 StopTime=4 // from model
-Interval=0.008 // (stopTime-startTime)/500
-Tolerance=1e-07 // used annotation from model, multiplied by 0.1
+Interval=0.0008 // (stopTime-startTime)/5000
+Tolerance=2e-05 // used user-defined value
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
+Advanced.PedanticModelica := false;
 SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
 Evaluate := false;
 OutputCPUtime := false;
@@ -42,7 +43,7 @@ simulateModel(
   problem="ModelicaTest.Fluid.TestComponents.Valves.TestValvesCompressibleReverse",
   startTime=0,
   stopTime=4,
-  outputInterval=0.008,
+  outputInterval=0.0008,
   method="Dassl",
-  tolerance=1e-07,
+  tolerance=2e-05,
   resultFile="TestValvesCompressibleReverse");

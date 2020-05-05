@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Thu Mar 12 06:37:54 2020)
+(generated: Tue May  5 09:27:58 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -7,21 +7,84 @@ dymosim started
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800028, h = -5.83824e+07)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800027, h = -500000)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800992, h = -8876.31)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 801024, h = -8876.27)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 801054, h = -8876.23)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800978, h = -3029.58)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
+Error: The following error was detected at time: 1.8208
+  Error in region computation of IF97 steam tables(p = 800940, h = -106.248)
+  Failed condition: false
+
+The stack of functions is:
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph
+Modelica.Media.Water.IF97_Utilities.waterBaseProp_ph(V2.port_b.p, V2.port_a.h_outflow, 0, 0)
+Non-linear solver will attempt to handle this problem.
+
 Integration terminated successfully at T = 4
-   CPU-time for integration                : 0.071 seconds
-   CPU-time for one grid interval          : 0.142 milliseconds
-   CPU-time for initialization             : 0.001 seconds
-   Number of result points                 : 504
-   Number of grid points                   : 501
-   Number of accepted steps                : 68
-   Number of f-evaluations (dynamics)      : 68
-   Number of Jacobian-evaluations          : 64
+   CPU-time for integration                : 0.645 seconds
+   CPU-time for one grid interval          : 0.129 milliseconds
+   CPU-time for initialization             : 0.002 seconds
+   Number of result points                 : 5003
+   Number of grid points                   : 5001
+   Number of accepted steps                : 84
+   Number of f-evaluations (dynamics)      : 84
+   Number of Jacobian-evaluations          : 80
    Number of model time events             : 3
    Number of input time events             : 0
    Number of state events                  : 0
    Number of step events                   : 0
-   Minimum integration stepsize            : 8e-06
-   Maximum integration stepsize            : 0.476
+   Minimum integration stepsize            : 8e-07
+   Maximum integration stepsize            : 0.419
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)

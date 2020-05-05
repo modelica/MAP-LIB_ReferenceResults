@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of ModelicaTest.Blocks.LimitersHomotopy:
+The DAE has 109 scalar unknowns and 109 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 50
   Variables: 202
@@ -25,7 +28,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {1, 6, 6, 6, 6, 6, 6}
     Sizes after manipulation of the nonlinear systems: {1, 2, 2, 2, 2, 2, 2}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -42,6 +45,4 @@ Statically selected continuous time states
   firstOrder4.y
   firstOrder5.y
   firstOrder6.y
-
-Finished
-
+ 

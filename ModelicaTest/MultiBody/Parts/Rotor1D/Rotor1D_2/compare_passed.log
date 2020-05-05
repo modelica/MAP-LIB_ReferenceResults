@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (MSIL)
+CSV Compare Version 2.0.3.0 (Amd64)
 Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\MultiBody\Parts\Rotor1D\Rotor1D_2\Rotor1D_2.csv
-. Time:        2020-03-12T06:57:02.3427674+01:00
+. Time:        2020-05-05T11:06:26.6377236+02:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

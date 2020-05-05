@@ -1,21 +1,25 @@
-
+﻿ = true
+Translation of ModelicaTest.MultiBody.Joints.GearConstraint:
+The DAE has 4182 scalar unknowns and 4182 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
-  Number of components: 184
-  Variables: 1327
-  Parameters: 318 (524 scalars)
-  Unknowns: 1009 (3028 scalars)
+  Number of components: 185
+  Variables: 1882
+  Constants: 1 (1 scalars)
+  Parameters: 368 (579 scalars)
+  Unknowns: 1513 (4182 scalars)
   Differentiated variables: 40 scalars
-  Equations: 867
-  Nontrivial: 449
+  Equations: 1371
+  Nontrivial: 906
 Translated Model
-  Constants: 2421 scalars
-  Free parameters: 68 scalars
-  Parameter depending: 227 scalars
+  Constants: 3076 scalars
+  Free parameters: 76 scalars
+  Parameter depending: 389 scalars
   Continuous time states: 4 scalars
-  Time-varying variables: 135 scalars
-  Alias variables: 701 scalars
+  Time-varying variables: 195 scalars
+  Alias variables: 1026 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {11, 6}
   Sizes after manipulation of the linear systems: {0, 2}
@@ -25,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2, 3}
     Sizes after manipulation of the linear systems: {0, 0}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -34,6 +38,4 @@ Statically selected continuous time states
   gearConstraint.actuatedRevolute_b.w
   inertia2.phi
   inertia2.w
-
-Finished
-
+ 
