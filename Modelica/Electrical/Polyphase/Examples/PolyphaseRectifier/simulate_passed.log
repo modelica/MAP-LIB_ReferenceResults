@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Wed Mar 11 18:29:05 2020)
+(generated: Tue May  5 01:09:50 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -8,8 +8,8 @@ dymosim started
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 Integration terminated successfully at T = 0.2
-   CPU-time for integration                : 0.44 seconds
-   CPU-time for one grid interval          : 0.055 milliseconds
+   CPU-time for integration                : 0.442 seconds
+   CPU-time for one grid interval          : 0.0553 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 8491
    Number of grid points                   : 8001

@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.PowerConverters.Examples.DCAC.PolyphaseTwoLevel.PolyphaseTwoLevel_RL:
+The DAE has 1268 scalar unknowns and 1268 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 229
   Variables: 1874
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -57,6 +60,4 @@ Statically selected continuous time states
   inductor.inductor[4].i
   inductor.inductor[5].i
   inductor.inductor[6].i
-
-Finished
-
+ 

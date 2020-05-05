@@ -1,0 +1,10 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Mechanics\MultiBody\Examples\Loops\Engine1b_analytic\Engine1b_analytic.csv
+. Time:        2020-05-05T10:29:36.1685611+02:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: Engine1b_analytic.inertia.w=>0.389285662940805
+. Failed values:
+Engine1b_analytic.inertia.w=>0.389285662940805
+Engine1b_analytic.inertia.phi=>0.194588399615563

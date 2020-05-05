@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Mechanics.MultiBody.Examples.Systems.RobotR3.OneAxis:
+The DAE has 389 scalar unknowns and 389 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 61
   Variables: 649
@@ -27,7 +30,7 @@ Translated Model
     Number of mixed real/discrete systems of equations: 1
     Sizes of linear systems of equations: {3, 3}
     Sizes after manipulation of the linear systems: {0, 0}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -39,6 +42,4 @@ Statically selected continuous time states
   axis.initializeFlange.w_flange
   axis.motor.C.v
   axis.motor.La.i
-
-Finished
-
+ 

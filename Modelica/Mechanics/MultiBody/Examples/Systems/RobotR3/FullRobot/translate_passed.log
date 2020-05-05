@@ -1,22 +1,25 @@
-
+﻿ = true
+Translation of Modelica.Mechanics.MultiBody.Examples.Systems.RobotR3.FullRobot:
+The DAE has 4933 scalar unknowns and 4933 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 478
-  Variables: 4238
+  Variables: 4418
   Constants: 55 (55 scalars)
-  Parameters: 1323 (1964 scalars)
-  Unknowns: 2860 (4558 scalars)
+  Parameters: 1338 (1979 scalars)
+  Unknowns: 3025 (4933 scalars)
   Differentiated variables: 254 scalars
-  Equations: 2239
-  Nontrivial: 1617
+  Equations: 2404
+  Nontrivial: 1767
 Translated Model
-  Constants: 1855 scalars
+  Constants: 2089 scalars
   Free parameters: 547 scalars
-  Parameter depending: 807 scalars
+  Parameter depending: 823 scalars
   Continuous time states: 36 scalars
-  Time-varying variables: 701 scalars
-  Alias variables: 2667 scalars
+  Time-varying variables: 743 scalars
+  Alias variables: 2765 scalars
   Number of mixed real/discrete systems of equations: 4
   Sizes of linear systems of equations: {137, 4, 3, 4, 3, 4, 3, 3, 3, 3}
   Sizes after manipulation of the linear systems: {6, 0, 0, 0, 0, 0, 0, 0, 0, 0}
@@ -27,7 +30,7 @@ Translated Model
     Number of mixed real/discrete systems of equations: 6
     Sizes of linear systems of equations: {3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3}
     Sizes after manipulation of the linear systems: {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -68,6 +71,4 @@ Statically selected continuous time states
   mechanics.r5.w
   mechanics.r6.phi
   mechanics.r6.w
-
-Finished
-
+ 

@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMPM_Braking:
+The DAE has 818 scalar unknowns and 818 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 165
   Variables: 1123
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -36,6 +39,4 @@ Statically selected continuous time states
   smpm.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
   smpm.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   smpm.stator.zeroInductor.i0
-
-Finished
-
+ 

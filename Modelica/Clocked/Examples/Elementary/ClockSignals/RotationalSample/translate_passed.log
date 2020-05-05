@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Clocked.Examples.Elementary.ClockSignals.RotationalSample:
+The DAE has 39 scalar unknowns and 39 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 16
   Variables: 60
@@ -20,9 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-

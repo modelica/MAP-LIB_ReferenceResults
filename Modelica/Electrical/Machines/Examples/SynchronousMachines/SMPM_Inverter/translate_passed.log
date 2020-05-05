@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_Inverter:
+The DAE has 581 scalar unknowns and 581 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 78
   Variables: 789
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +40,4 @@ Statically selected continuous time states
   smpm.idq_rr[2]
   smpm.idq_sr[]
   vfController.x
-
-Finished
-
+ 

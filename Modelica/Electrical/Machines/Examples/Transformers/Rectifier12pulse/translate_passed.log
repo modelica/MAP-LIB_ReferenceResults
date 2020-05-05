@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.Transformers.Rectifier12pulse:
+The DAE has 1046 scalar unknowns and 1046 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 99
   Variables: 1388
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -35,6 +38,4 @@ Statically selected continuous time states
   transformer2.l2sigma.inductor[1].i
   transformer2.l2sigma.inductor[2].i
   transformer2.l2sigma.inductor[3].i
-
-Finished
-
+ 

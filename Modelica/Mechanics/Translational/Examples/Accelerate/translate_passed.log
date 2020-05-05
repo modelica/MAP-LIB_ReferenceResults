@@ -1,8 +1,9 @@
-Translation of <a href="Modelica://Modelica.Mechanics.Translational.Examples.Accelerate">Modelica.Mechanics.Translational.Examples.Accelerate</a>:
+﻿ = true
+Translation of Modelica.Mechanics.Translational.Examples.Accelerate:
 The DAE has 15 scalar unknowns and 15 scalar equations.
-
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 4
   Variables: 20
@@ -24,13 +25,11 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   accelerate.s
   accelerate.v
-
-Finished
-
+ 

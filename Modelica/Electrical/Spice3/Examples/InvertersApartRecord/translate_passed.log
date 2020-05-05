@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Spice3.Examples.InvertersApartRecord:
+The DAE has 154 scalar unknowns and 154 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 44
   Variables: 1282
@@ -23,13 +26,11 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   c1.vinternal
   c2.vinternal
-
-Finished
-
+ 

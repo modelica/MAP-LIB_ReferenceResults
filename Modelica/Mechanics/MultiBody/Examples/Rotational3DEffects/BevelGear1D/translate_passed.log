@@ -1,28 +1,31 @@
-
+﻿ = true
+Translation of Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D:
+The DAE has 2275 scalar unknowns and 2275 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 119
-  Variables: 837
-  Parameters: 237 (378 scalars)
-  Unknowns: 600 (1750 scalars)
+  Variables: 1089
+  Parameters: 258 (399 scalars)
+  Unknowns: 831 (2275 scalars)
   Differentiated variables: 33 scalars
-  Equations: 491
-  Nontrivial: 281
+  Equations: 722
+  Nontrivial: 491
 Translated Model
-  Constants: 1309 scalars
+  Constants: 1670 scalars
   Free parameters: 60 scalars
-  Parameter depending: 115 scalars
+  Parameter depending: 160 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 109 scalars
-  Alias variables: 535 scalars
+  Time-varying variables: 126 scalars
+  Alias variables: 658 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {2, 14, 2}
   Sizes after manipulation of the linear systems: {2, 4, 2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -35,6 +38,4 @@ Statically selected continuous time states
   revolute2.w
   revolute3.phi
   revolute3.w
-
-Finished
-
+ 

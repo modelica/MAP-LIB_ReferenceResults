@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Blocks.Examples.Rectifier6pulseFFT:
+The DAE has 5386 scalar unknowns and 5386 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 60
   Variables: 791
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -32,6 +35,4 @@ Statically selected continuous time states
   cDC2.v
   transformer1.l2sigma.inductor[1].i
   transformer1.l2sigma.inductor[3].i
-
-Finished
-
+ 

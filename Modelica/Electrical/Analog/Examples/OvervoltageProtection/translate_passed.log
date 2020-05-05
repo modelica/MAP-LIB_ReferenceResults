@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Analog.Examples.OvervoltageProtection:
+The DAE has 49 scalar unknowns and 49 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 9
   Variables: 88
@@ -22,12 +25,10 @@ Translated Model
   Sizes of nonlinear systems of equations: {3}
   Sizes after manipulation of the nonlinear systems: {1}
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   CL.v
-
-Finished
-
+ 

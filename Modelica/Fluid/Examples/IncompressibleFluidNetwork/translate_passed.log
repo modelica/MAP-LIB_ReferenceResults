@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Fluid.Examples.IncompressibleFluidNetwork:
+The DAE has 1492 scalar unknowns and 1492 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 190
   Variables: 2368
@@ -27,7 +30,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 51}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 9}
     Number of numerical Jacobians: 23
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -54,31 +57,4 @@ Statically selected continuous time states
   pipe10.mediums[2].T
   pipe11.mediums[1].T
   pipe11.mediums[2].T
-
-Conflicting start values
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of pipe4.m_flows[1] given as 0.0.
-0.0, the start value of pipe3.m_flows[3] given as 0.0.
-1, the start value of valve2.m_flow given as valve2.m_flow_start.
-0.0, the negative start value of pipe4.m_flows[2] given as 0.0.
-0.0, the negative start value of pipe3.m_flows[2] given as 0.0.
-0.0, the negative start value of pipe3.m_flows[1] given as 0.0.
-0.0, the negative start value of pipe4.m_flows[3] given as 0.0.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of pipe7.m_flows[1] given as 0.0.
-0.0, the start value of pipe2.m_flows[3] given as 0.0.
-1, the start value of valve1.m_flow given as valve1.m_flow_start.
-0.0, the start value of pipe7.m_flows[2] given as 0.0.
-0.0, the start value of pipe7.m_flows[3] given as 0.0.
-0.0, the start value of pipe2.m_flows[2] given as 0.0.
-0.0, the start value of pipe2.m_flows[1] given as 0.0.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of pipe11.m_flows[3] given as 0.0.
-1, the start value of valve3.m_flow given as valve3.m_flow_start.
-0.0, the negative start value of pipe11.m_flows[2] given as 0.0.
-0.0, the negative start value of pipe11.m_flows[1] given as 0.0.
-Finished
-
+ 

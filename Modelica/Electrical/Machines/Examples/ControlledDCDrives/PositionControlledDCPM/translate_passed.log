@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.ControlledDCDrives.PositionControlledDCPM:
+The DAE has 473 scalar unknowns and 473 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 108
   Variables: 777
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -39,6 +42,4 @@ Statically selected continuous time states
   loadInertia.phi
   loadInertia.w
   speedController.integrator.y
-
-Finished
-
+ 

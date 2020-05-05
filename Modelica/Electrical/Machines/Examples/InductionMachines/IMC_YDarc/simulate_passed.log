@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Wed Mar 11 18:12:17 2020)
+(generated: Tue May  5 00:53:49 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -16,8 +16,8 @@ a large amount of work has been expended
 interval is too large or the system is stiff.
 
 Integration terminated successfully at T = 2.5
-   CPU-time for integration                : 231 seconds
-   CPU-time for one grid interval          : 4.63 milliseconds
+   CPU-time for integration                : 175 seconds
+   CPU-time for one grid interval          : 3.49 milliseconds
    CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 50011
    Number of grid points                   : 50001

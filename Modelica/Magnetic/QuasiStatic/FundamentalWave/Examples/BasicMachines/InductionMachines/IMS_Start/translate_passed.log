@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMS_Start:
+The DAE has 5030 scalar unknowns and 5030 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 2137
   Variables: 5878
@@ -27,7 +30,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -43,6 +46,4 @@ Statically selected continuous time states
   loadInertia.w
   loadInertiaQS.phi
   loadInertiaQS.w
-
-Finished
-
+ 

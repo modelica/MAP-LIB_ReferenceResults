@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.QuasiStatic.Polyphase.Examples.TestSensors:
+The DAE has 2457 scalar unknowns and 2457 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 1338
   Variables: 2699
@@ -23,12 +26,10 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   resistor.plug_p.reference.gamma
-
-Finished
-
+ 

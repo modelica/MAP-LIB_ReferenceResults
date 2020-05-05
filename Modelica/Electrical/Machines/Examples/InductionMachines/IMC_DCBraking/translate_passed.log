@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.InductionMachines.IMC_DCBraking:
+The DAE has 392 scalar unknowns and 392 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 47
   Variables: 537
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {7, 2, 12}
     Sizes after manipulation of the linear systems: {0, 2, 4}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -34,13 +37,11 @@ Statically selected continuous time states
   imc.idq_rr[]
   loadInertia.phi
   loadInertia.w
-
+ 
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There are 2 states to be selected from:
   imc.idq_sr[]
   imc.is[1]
   imc.is[2]
-
-Finished
-
+ 

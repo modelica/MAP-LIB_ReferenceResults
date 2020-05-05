@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMR_Inverter:
+The DAE has 1347 scalar unknowns and 1347 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 247
   Variables: 1728
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2, 2}
     Sizes after manipulation of the linear systems: {2, 2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -42,6 +45,4 @@ Statically selected continuous time states
   smrM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
   smrM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   vfController.x
-
-Finished
-
+ 

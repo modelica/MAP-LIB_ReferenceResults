@@ -1,0 +1,14 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Mechanics\MultiBody\Examples\Elementary\PointGravityWithPointMasses2\PointGravityWithPointMasses2.csv
+. Time:        2020-05-05T10:29:29.6069759+02:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: PointGravityWithPointMasses2.freeMotion.v_rel_a[2]=>1.38645584846389E-09
+. Failed values:
+PointGravityWithPointMasses2.freeMotion.v_rel_a[2]=>1.38645584846389E-09
+PointGravityWithPointMasses2.freeMotion.r_rel_a[2]=>4.24403651344628E-10
+PointGravityWithPointMasses2.referenceSystem.pointMass1.w_a[3]=>4.40931645433714E-11
+PointGravityWithPointMasses2.referenceSystem.pointMass6.v_0[2]=>4.07871631192411E-11
+PointGravityWithPointMasses2.referenceSystem.pointMass1.w_a[1]=>2.58787892635328E-11
+PointGravityWithPointMasses2.referenceSystem.pointMass6.frame_a.r_0[2]=>1.04148493473955E-11

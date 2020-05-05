@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.ComparisonPolyphase.IMC_DOL_Polyphase:
+The DAE has 2135 scalar unknowns and 2135 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 425
   Variables: 2705
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {18, 2, 2, 2, 2}
     Sizes after manipulation of the linear systems: {5, 0, 0, 2, 2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -43,6 +46,4 @@ Statically selected continuous time states
   loadInertia3.w
   loadInertiaM.phi
   loadInertiaM.w
-
-Finished
-
+ 

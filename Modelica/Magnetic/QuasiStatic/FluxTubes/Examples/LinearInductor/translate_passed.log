@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.QuasiStatic.FluxTubes.Examples.LinearInductor:
+The DAE has 282 scalar unknowns and 282 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 103
   Variables: 343
@@ -27,20 +30,18 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {3}
     Sizes after manipulation of the linear systems: {0}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   rootMeanSquare.mean.x
   sourceQS.pin_p.reference.gamma
-
+ 
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There is one state to be selected from:
   coil.i
   coil.Phi
   r_mLeak.port_p.Phi
-
-Finished
-
+ 

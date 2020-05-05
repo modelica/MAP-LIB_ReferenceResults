@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.SynchronousMachines.SMEE_Rectifier:
+The DAE has 617 scalar unknowns and 617 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 81
   Variables: 930
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -41,6 +44,4 @@ Statically selected continuous time states
   speed.phi
   speed.w
   voltageController.I.y
-
-Finished
-
+ 

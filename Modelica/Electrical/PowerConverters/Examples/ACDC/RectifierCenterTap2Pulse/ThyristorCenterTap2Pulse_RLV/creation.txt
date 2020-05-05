@@ -3,14 +3,14 @@ modelName="Modelica.Electrical.PowerConverters.Examples.ACDC.RectifierCenterTap2
 
 // Test info
 generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
-generationDateAndTime="2020-03-11T18:31:28Z"
+generationDateAndTime="2020-05-05T01:12:33Z"
 gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
-gitRevision=e3217bfbc
-gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M Modelica/Resources/Documentation/Version-4.0.0/DifferencesTo323.html, M ModelicaServices/package.mo"
-testPC="LAPTOP-RUH9UABA"
-testOS="Microsoft Windows [Version 10.0.18362.657]"
+gitRevision=bd753330a
+gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M ModelicaServices/package.mo"
+testPC="LAPTOP"
+testOS="Microsoft Windows [Version 10.0.18363.815]"
 testUser="tbeu"
-testDescription="Reg test MSL v4.0.0-beta.2"
+testDescription="Reg test MSL v4.0.0-rc.1"
 
 // Experiment settings (standardized annotation)
 StartTime=0
@@ -20,6 +20,7 @@ Tolerance=1e-07 // used annotation from model, multiplied by 0.1
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
+Advanced.PedanticModelica := false;
 SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
 Evaluate := false;
 OutputCPUtime := false;

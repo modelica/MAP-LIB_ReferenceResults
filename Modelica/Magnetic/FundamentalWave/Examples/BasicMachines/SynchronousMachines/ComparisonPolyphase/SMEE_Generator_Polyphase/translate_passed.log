@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.ComparisonPolyphase.SMEE_Generator_Polyphase:
+The DAE has 2293 scalar unknowns and 2293 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 478
   Variables: 2915
@@ -26,14 +29,14 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {12, 2, 2}
     Sizes after manipulation of the linear systems: {4, 2, 2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   constantSpeed3.phi
   constantSpeedM.phi
-
+ 
 Dynamically selected continuous time states
 There are 2 sets of dynamic state selection.
 From set 1 there are 4 states to be selected from:
@@ -44,7 +47,7 @@ From set 1 there are 4 states to be selected from:
   smeeM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   smeeM.stator.stray.port_p.Phi.im
   smeeM.stator.stray.port_p.Phi.re
-
+ 
 From set 2 there are 4 states to be selected from:
   smee3.excitation.electroMagneticConverter.Phi.re
   smee3.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
@@ -53,6 +56,4 @@ From set 2 there are 4 states to be selected from:
   smee3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   smee3.stator.stray.port_p.Phi.im
   smee3.stator.stray.port_p.Phi.re
-
-Finished
-
+ 

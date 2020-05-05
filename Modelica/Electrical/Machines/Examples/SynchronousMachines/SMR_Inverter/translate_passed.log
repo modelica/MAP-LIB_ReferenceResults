@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.SynchronousMachines.SMR_Inverter:
+The DAE has 553 scalar unknowns and 553 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 72
   Variables: 735
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -36,6 +39,4 @@ Statically selected continuous time states
   smr.idq_rr[]
   smr.idq_sr[]
   vfController.x
-
-Finished
-
+ 

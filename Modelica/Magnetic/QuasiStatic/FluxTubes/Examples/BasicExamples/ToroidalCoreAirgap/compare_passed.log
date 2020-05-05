@@ -1,6 +1,0 @@
-CSV Compare Version 2.0.1.0 (MSIL)
-Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Magnetic\QuasiStatic\FluxTubes\Examples\BasicExamples\ToroidalCoreAirgap\ToroidalCoreAirgap.csv
-. Time:        2020-03-11T23:41:51.9698225+01:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      passed

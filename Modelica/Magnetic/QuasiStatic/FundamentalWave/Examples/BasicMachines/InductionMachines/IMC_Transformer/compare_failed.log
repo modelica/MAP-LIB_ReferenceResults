@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Magnetic\QuasiStatic\FundamentalWave\Examples\BasicMachines\InductionMachines\IMC_Transformer\IMC_Transformer.csv
+. Time:        2020-05-05T10:28:48.2613230+02:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: IMC_Transformer.imc.stator.zeroInductor.i0=>3.37595296445258E-07
+. Failed values:
+IMC_Transformer.imc.stator.zeroInductor.i0=>3.37595296445258E-07

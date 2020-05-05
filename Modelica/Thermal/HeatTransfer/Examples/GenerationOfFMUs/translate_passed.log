@@ -1,3 +1,6 @@
+﻿ = true
+Translation of Modelica.Thermal.HeatTransfer.Examples.GenerationOfFMUs:
+The DAE has 102 scalar unknowns and 102 scalar equations.
 Redundant consistent initial conditions.
 Removed the following equations which are redundant and consistent: 
   if (inverseCapacity.temperatureToHeatFlow.use_pder and inverseCapacity.temperatureToHeatFlow.use_pder2)     then 
@@ -7,20 +10,20 @@ Removed the following equations which are redundant and consistent:
   else
     inverseCapacity.temperatureToHeatFlow.u = inverseCapacity.temperatureToHeatFlow.p;
   end if;
-
+ 
 This required evaluation of 
 the interactive start values of 
     directCapacity.heatCapacitor.T(start = 293.15)
     inverseCapacity.mass.T(start = 293.15)
-
+ 
 The redundancies involve
 active start values: 
   directCapacity.heatCapacitor.T = 293.15;
   inverseCapacity.mass.T = 293.15;
-
-
+ 
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 18
   Variables: 179
@@ -42,7 +45,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -50,6 +53,4 @@ Statically selected continuous time states
   capacitor3a.T
   capacitor3b.T
   directCapacity.heatCapacitor.T
-
-Finished
-
+ 

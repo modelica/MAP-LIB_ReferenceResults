@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FluxTubes.Examples.SolenoidActuator.ComparisonPullInStroke:
+The DAE has 528 scalar unknowns and 528 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 76
   Variables: 861
@@ -26,7 +29,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {45, 57}
     Sizes after manipulation of the nonlinear systems: {4, 7}
     Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,7 +40,7 @@ Statically selected continuous time states
   advancedSolenoid.x
   simpleSolenoid.armature.stopper_xMax.v_rel
   simpleSolenoid.x
-
+ 
 Dynamically selected continuous time states
 There are 2 sets of dynamic state selection.
 From set 1 there is 1 state to be selected from:
@@ -46,7 +49,7 @@ From set 1 there is 1 state to be selected from:
   simpleSolenoid.g_mLeak1.port_p.Phi
   simpleSolenoid.g_mLeak2.port_p.Phi
   simpleSolenoid.g_mLeakWork.port_p.Phi
-
+ 
 From set 2 there are 2 states to be selected from:
   advancedSolenoid.coil1.i
   advancedSolenoid.coil1.Phi
@@ -57,6 +60,4 @@ From set 2 there are 2 states to be selected from:
   advancedSolenoid.g_mLeak2.port_p.Phi
   advancedSolenoid.g_mLeak3.port_p.Phi
   advancedSolenoid.g_mLeakWork.port_p.Phi
-
-Finished
-
+ 

@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Magnetic\QuasiStatic\FundamentalWave\Examples\BasicMachines\InductionMachines\IMC_Initialize\IMC_Initialize.csv
+. Time:        2020-05-05T10:28:27.5577486+02:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: IMC_Initialize.imc.stator.zeroInductor.i0=>5.00738468605234E-06
+. Failed values:
+IMC_Initialize.imc.stator.zeroInductor.i0=>5.00738468605234E-06

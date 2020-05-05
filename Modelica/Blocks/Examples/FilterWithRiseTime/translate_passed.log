@@ -1,7 +1,9 @@
+﻿ = true
+Translation of Modelica.Blocks.Examples.FilterWithRiseTime:
 The DAE has 22 scalar unknowns and 22 scalar equations.
-
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 5
   Variables: 96
@@ -23,7 +25,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -31,6 +33,4 @@ Statically selected continuous time states
   filter_fac3.x[]
   filter_fac4.x[]
   filter_fac5.x[]
-
-Finished
-
+ 

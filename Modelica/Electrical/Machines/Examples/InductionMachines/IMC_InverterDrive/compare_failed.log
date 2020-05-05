@@ -1,9 +1,0 @@
-CSV Compare Version 2.0.1.0 (MSIL)
-Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\Machines\Examples\InductionMachines\IMC_InverterDrive\IMC_InverterDrive.csv
-. Time:        2020-03-11T23:24:48.2793578+01:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      failed
-. Biggest error: IMC_InverterDrive.aimc.i_0_s=>4.74048508545035E-11
-. Failed values:
-IMC_InverterDrive.aimc.i_0_s=>4.74048508545035E-11

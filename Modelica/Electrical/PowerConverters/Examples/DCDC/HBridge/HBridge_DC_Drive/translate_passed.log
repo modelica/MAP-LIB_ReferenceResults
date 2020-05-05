@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive:
+The DAE has 412 scalar unknowns and 412 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 79
   Variables: 682
@@ -23,7 +26,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -33,6 +36,4 @@ Statically selected continuous time states
   inductor.i
   meanCurrent.x
   meanVoltage.x
-
-Finished
-
+ 

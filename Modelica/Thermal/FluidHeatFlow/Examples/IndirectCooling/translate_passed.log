@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Thermal.FluidHeatFlow.Examples.IndirectCooling:
+The DAE has 169 scalar unknowns and 169 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 42
   Variables: 366
@@ -24,7 +27,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -33,6 +36,4 @@ Statically selected continuous time states
   innerPipe.T
   outerPipe.T
   pipe1.T
-
-Finished
-
+ 

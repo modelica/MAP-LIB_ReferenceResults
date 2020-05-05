@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Fluid.Examples.AST_BatchPlant.BatchPlant_StandardWater:
+The DAE has 2389 scalar unknowns and 2389 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 296
   Variables: 3921
@@ -30,7 +33,7 @@ Translated Model
     Sizes of nonlinear systems of equations: {2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 18, 9,   9, 12, 12, 7, 6}
     Sizes after manipulation of the nonlinear systems: {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2,   2, 2, 2, 1, 1}
     Number of numerical Jacobians: 7
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -69,25 +72,4 @@ Statically selected continuous time states
   volume4.medium.p
   volume5.medium.h
   volume5.medium.p
-
-Conflicting start values
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of V22.m_flow given as V22.m_flow_start.
-0.1, the negative start value of P1.port_b.m_flow given as  -P1.m_flow_start.
-0.0, the start value of pipePump1B1.m_flows[1] given as 0.0.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.0, the start value of V25.m_flow given as V25.m_flow_start.
-0.1, the negative start value of P2.port_b.m_flow given as  -P2.m_flow_start.
-0.0, the start value of pipePump2B2.m_flows[1] given as 0.0.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.1, the start value of P2.port_a.m_flow given as P2.m_flow_start.
-0.0, the start value of V24.m_flow given as V24.m_flow_start.
-A set of alias variables having conflicting start values of the same precedence
-This specific message is only added for completeness, and does not indicate that the choice influences the simulation in this model configuration
-0.1, the start value of P1.port_a.m_flow given as P1.m_flow_start.
-0.0, the start value of V23.m_flow given as V23.m_flow_start.
-Finished
-
+ 

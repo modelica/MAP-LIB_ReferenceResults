@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Analog.Examples.ControlledSwitchWithArc:
+The DAE has 80 scalar unknowns and 80 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 14
   Variables: 119
@@ -23,13 +26,11 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
   inductor1.i
   inductor2.i
-
-Finished
-
+ 

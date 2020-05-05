@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Analog.Examples.Rectifier:
+The DAE has 128 scalar unknowns and 128 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 21
   Variables: 210
@@ -24,7 +27,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -33,6 +36,4 @@ Statically selected continuous time states
   Capacitor2.v
   Inductor2.i
   Inductor3.i
-
-Finished
-
+ 

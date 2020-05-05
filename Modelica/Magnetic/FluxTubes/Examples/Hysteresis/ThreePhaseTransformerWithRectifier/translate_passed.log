@@ -1,8 +1,11 @@
+﻿ = true
+Translation of Modelica.Magnetic.FluxTubes.Examples.Hysteresis.ThreePhaseTransformerWithRectifier:
+The DAE has 490 scalar unknowns and 490 scalar equations.
 Redundant consistent initial conditions.
 Removed the following equations which are redundant and consistent: 
   transformer.winding11.V_m = transformer.winding11.port_p.V_m-transformer.winding11.port_n.V_m;
   transformer.winding13.V_m = transformer.winding13.port_p.V_m-transformer.winding13.port_n.V_m;
-
+ 
 This required evaluation of 
 the interactive parameters 
     transformer.HStart[](each start = 0)
@@ -12,22 +15,22 @@ the interactive parameters
     transformer.l2(start = 0.15)
     transformer.N1(start = 200)
     transformer.N2(start = 10)
-
+ 
 The redundancies involve
 active start values: 
   transformer.winding22.i = transformer.I2Start[1];
-  transformer.winding21.i = transformer.I2Start[1];
-  transformer.winding12.i = transformer.I1Start[2];
-  transformer.core3.H = transformer.HStart[3];
-  transformer.core1.H = transformer.HStart[1];
-  transformer.winding13.i = transformer.I1Start[3];
+  transformer.core2.H = transformer.HStart[2];
   transformer.winding11.i = transformer.I1Start[1];
   transformer.winding23.i = transformer.I2Start[1];
-  transformer.core2.H = transformer.HStart[2];
-
-
+  transformer.core3.H = transformer.HStart[3];
+  transformer.winding21.i = transformer.I2Start[1];
+  transformer.winding13.i = transformer.I1Start[3];
+  transformer.winding12.i = transformer.I1Start[2];
+  transformer.core1.H = transformer.HStart[1];
+ 
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 54
   Variables: 824
@@ -50,7 +53,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -75,6 +78,4 @@ Statically selected continuous time states
   transformer.winding21.i
   transformer.winding22.i
   transformer.winding23.i
-
-Finished
-
+ 

@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize:
+The DAE has 819 scalar unknowns and 819 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 185
   Variables: 1095
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {32}
     Sizes after manipulation of the linear systems: {8}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -34,7 +37,7 @@ Statically selected continuous time states
   aimc.stator.zeroInductor.i0
   loadInertia.phi
   loadInertia.w
-
+ 
 Dynamically selected continuous time states
 There is one set of dynamic state selection.
 There are 4 states to be selected from:
@@ -48,6 +51,4 @@ There are 4 states to be selected from:
   aimc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
   aimc.stator.port_p.V_m.im
   aimc.stator.port_p.V_m.re
-
-Finished
-
+ 

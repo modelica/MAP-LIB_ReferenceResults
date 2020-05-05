@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Machines.Examples.InductionMachines.IMS_Start:
+The DAE has 798 scalar unknowns and 798 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 93
   Variables: 1117
@@ -26,7 +29,7 @@ Translated Model
   Initialization problem
     Sizes of linear systems of equations: {2}
     Sizes after manipulation of the linear systems: {2}
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -37,6 +40,4 @@ Statically selected continuous time states
   aims.idq_sr[]
   loadInertia.phi
   loadInertia.w
-
-Finished
-
+ 

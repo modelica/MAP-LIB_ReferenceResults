@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Clocked.Examples.Systems.Utilities.ComponentsMixingUnit.MixingUnitWithContinuousControl:
+The DAE has 26 scalar unknowns and 26 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 9
   Variables: 96
@@ -22,7 +25,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -32,6 +35,4 @@ Statically selected continuous time states
   invMixingUnit.T
   mixingUnit.c
   mixingUnit.T
-
-Finished
-
+ 

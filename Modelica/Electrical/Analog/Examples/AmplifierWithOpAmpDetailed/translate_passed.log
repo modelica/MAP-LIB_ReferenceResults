@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.Electrical.Analog.Examples.AmplifierWithOpAmpDetailed:
+The DAE has 79 scalar unknowns and 79 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 10
   Variables: 137
@@ -22,7 +25,7 @@ Translated Model
   Sizes of nonlinear systems of equations: {5}
   Sizes after manipulation of the nonlinear systems: {1}
   Number of numerical Jacobians: 1
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
@@ -34,6 +37,4 @@ Statically selected continuous time states
   opAmp.v_in
   opAmp.v_source
   opAmp.x
-
-Finished
-
+ 

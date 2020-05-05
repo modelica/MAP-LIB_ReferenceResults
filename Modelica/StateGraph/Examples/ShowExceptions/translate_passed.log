@@ -1,6 +1,9 @@
-
+﻿ = true
+Translation of Modelica.StateGraph.Examples.ShowExceptions:
+The DAE has 299 scalar unknowns and 299 scalar equations.
+ 
 Statistics
-
+ 
 Original Model
   Number of components: 41
   Variables: 344
@@ -20,9 +23,7 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
-
+ 
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
-Finished
-

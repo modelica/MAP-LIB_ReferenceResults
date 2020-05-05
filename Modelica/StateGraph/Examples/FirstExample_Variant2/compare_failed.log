@@ -1,0 +1,9 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\StateGraph\Examples\FirstExample_Variant2\FirstExample_Variant2.csv
+. Time:        2020-05-05T10:30:18.1306996+02:00
+. Operation:   CsvTreeCompare
+. Tolerance:   2e-3
+. Result:      failed
+. Biggest error: FirstExample_Variant2.transition1.enableFire=>0.00987032967032969
+. Failed values:
+FirstExample_Variant2.transition1.enableFire=>0.00987032967032969

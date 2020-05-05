@@ -1,6 +1,6 @@
-CSV Compare Version 2.0.1.0 (MSIL)
+CSV Compare Version 2.0.3.0 (Amd64)
 Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\Machines\Examples\DCMachines\DCSE_SinglePhase\DCSE_SinglePhase.csv
-. Time:        2020-03-11T23:24:06.3695933+01:00
+. Time:        2020-05-05T10:17:21.3519364+02:00
 . Operation:   CsvTreeCompare
 . Tolerance:   2e-3
 . Result:      passed

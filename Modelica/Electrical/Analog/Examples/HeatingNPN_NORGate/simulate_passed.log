@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Wed Mar 11 17:58:58 2020)
+(generated: Tue May  5 00:42:45 2020)
 
 dymosim started
 ... "dsin.txt" loading (dymosim input file)
@@ -480,8 +480,8 @@ ERROR: Failed to solve nonlinear system using Newton solver.
 Solver will attempt to handle this problem.
 
 Integration terminated successfully at T = 200
-   CPU-time for integration                : 0.502 seconds
-   CPU-time for one grid interval          : 0.1 milliseconds
+   CPU-time for integration                : 0.318 seconds
+   CPU-time for one grid interval          : 0.0636 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 5041
    Number of grid points                   : 5001
