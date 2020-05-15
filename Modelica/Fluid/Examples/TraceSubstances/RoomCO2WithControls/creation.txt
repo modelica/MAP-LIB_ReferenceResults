@@ -3,14 +3,14 @@ modelName="Modelica.Fluid.Examples.TraceSubstances.RoomCO2WithControls"
 
 // Test info
 generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
-generationDateAndTime="2020-05-05T02:18:59Z"
+generationDateAndTime="2020-05-15T18:15:46Z"
 gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
-gitRevision=bd753330a
+gitRevision=03837ce66
 gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M ModelicaServices/package.mo"
 testPC="LAPTOP"
-testOS="Microsoft Windows [Version 10.0.18363.815]"
+testOS="Microsoft Windows [Version 10.0.18363.836]"
 testUser="tbeu"
-testDescription="Reg test MSL v4.0.0-rc.1"
+testDescription="Reg test MSL v4.0.0-rc.2"
 
 // Experiment settings (standardized annotation)
 StartTime=0
