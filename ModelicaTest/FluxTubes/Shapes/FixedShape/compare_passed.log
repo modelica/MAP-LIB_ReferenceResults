@@ -1,0 +1,6 @@
+CSV Compare Version 2.0.3.0 (Amd64)
+Comparison result file for c:\Projekte\MAP-LIB_ReferenceResults\ModelicaTest\FluxTubes\Shapes\FixedShape\FixedShape.csv
+. Time:        2020-06-23T18:15:30.6987736+02:00
+. Operation:   CsvFileCompare
+. Tolerance:   2e-3
+. Result:      passed
