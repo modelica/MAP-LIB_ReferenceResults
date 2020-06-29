@@ -1,3 +1,5 @@
 time
 inertiaLoad.w
 speedSensor.flange.phi
+smpm.is[1]
+smpm.is[2]
