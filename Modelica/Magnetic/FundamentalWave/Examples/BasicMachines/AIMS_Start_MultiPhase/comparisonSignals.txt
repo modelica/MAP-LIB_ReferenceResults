@@ -1,12 +1,18 @@
 time
+aimc3.is[1]
+aimc3.is[2]
 aims3.rotor.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aims3.rotor.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
-aims3.rotor.zeroInductor.i0
+// aims3.rotor.zeroInductor.i0
 aims3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aims3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
+aimcM.is[1]
+aimcM.is[2]
+aimcM.is[3]
+aimcM.is[4]
 aimsM.rotor.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aimsM.rotor.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
-aimsM.rotor.zeroInductor.i0
+// aimsM.rotor.zeroInductor.i0
 aimsM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aimsM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
 loadInertia3.phi
