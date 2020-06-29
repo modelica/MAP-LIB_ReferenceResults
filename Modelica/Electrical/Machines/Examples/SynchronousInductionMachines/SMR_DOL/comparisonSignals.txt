@@ -1,6 +1,8 @@
 time
 loadInertia.phi
 loadInertia.w
+smee.is[1]
+smee.is[2]
 smr.idq_rr[1]
 smr.idq_rr[2]
 smr.idq_sr[1]
