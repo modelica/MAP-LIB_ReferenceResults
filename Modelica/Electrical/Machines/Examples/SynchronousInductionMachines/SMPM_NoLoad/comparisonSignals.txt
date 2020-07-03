@@ -1,2 +1,4 @@
 time
+smee.is[1]
+smee.is[2]
 constantSpeed.phi

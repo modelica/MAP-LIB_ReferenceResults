@@ -1,7 +1,11 @@
 time
-aims.i_0_r
+// aims.i_0_r
+aimc.ir[1]
+aimc.ir[2]
 aims.idq_rr[1]
 aims.idq_rr[2]
+aimc.is[1]
+aimc.is[2]
 aims.idq_sr[1]
 aims.idq_sr[2]
 loadInertia.phi

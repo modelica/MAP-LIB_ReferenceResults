@@ -1,8 +1,14 @@
 time
+aimc3.is[1]
+aimc3.is[2]
 aimc3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aimc3.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
 aimc3.stator.strayReluctance.port_p.Phi.im
 aimc3.stator.strayReluctance.port_p.Phi.re
+aimcM.is[1]
+aimcM.is[2]
+aimcM.is[3]
+aimcM.is[4]
 aimcM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re
 aimcM.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im
 aimcM.stator.strayReluctance.port_p.Phi.im
