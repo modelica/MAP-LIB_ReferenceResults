@@ -1,3 +1,11 @@
-The model has the same number of unknowns and equations: 412
+Check of <a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive">Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive</a>
+The model has the same number of unknowns and equations: 421
+The model could not be deduced to be symbolically well-posed.
+The model has
+  421
+scalar unknowns and
+  406+14*(if  not hbridge.useHeatPort then 1 else 0)+(if  not torque.useSupport   then 1 else 0)
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  421
 Check of <a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive">Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive</a> successful.
-

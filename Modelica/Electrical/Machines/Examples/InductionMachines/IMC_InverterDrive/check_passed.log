@@ -1,11 +1,11 @@
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive">Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive</a>
 The model has the same number of unknowns and equations: 1064
 The model could not be deduced to be symbolically well-posed.
 The model has
-  1055+gridCurrent.ToSpacePhasor1.m+machineCurrent.ToSpacePhasor1.m+  toSpacePhasor.m
+  977+7*rectifier.m+17*inverter.m+gridCurrent.ToSpacePhasor1.m+2*inductor.m+  machineCurrent.ToSpacePhasor1.m+toSpacePhasor.m
 scalar unknowns and
-  1058+gridCurrent.ToSpacePhasor1.m+machineCurrent.ToSpacePhasor1.m
+  966+3*(if  not resistor.useHeatPort then 1 else 0)+2*inductor.m+8*(if  not   rectifier.useHeatPort then 1 else 0)+7*rectifier.m+13*inverter.m+14*(if  not   inverter.useHeatPort then 1 else 0)+(if  not loadTorque.useSupport then 1   else 0)+gridCurrent.ToSpacePhasor1.m+machineCurrent.ToSpacePhasor1.m
 scalar equations.
 However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
   1064
 Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive">Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive</a> successful.
-

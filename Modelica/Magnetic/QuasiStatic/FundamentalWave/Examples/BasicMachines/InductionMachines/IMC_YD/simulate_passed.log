@@ -1,28 +1,65 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:48:14 2020)
+(generated: Tue Mar 19 00:01:11 2024)
 
 dymosim started
+... "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "IMC_YD.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
-Integration terminated successfully at T = 2.5
-   CPU-time for integration                : 6.69 seconds
-   CPU-time for one grid interval          : 0.134 milliseconds
+
+... Warning message from dymosim
+At time T = 1.025090e-01 in current integration interval
+T_interval = 1.025000e-01 ... 1.025500e-01
+a large amount of work has been expended
+(about 500 steps) in the integrator. Probably the communication
+interval is too large or the system is stiff.
+
+
+... Error message from dymosim
+Stopping simulation after reaching max run time.
+(Stop requested by Dymola.)
+
+Integration terminated before reaching "StopTime" at T = 0.125
+
+Final values of states and state derivatives:
+State                                                                               ,      State value, Derivative value
+imcQS.rotorCage.port_p.reference.gamma                                              ,          40.7174,          309.595
+loadInertiaQS.phi                                                                   ,        -0.757173,          2.28206
+loadInertiaQS.w                                                                     ,          2.28206,          92.6187
+imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re   ,         -0.16743,         -77.4887
+imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im   ,         0.244901,         -5.69023
+imc.stator.zeroInductor.i0                                                          ,     -8.50258e-12,       0.00262316
+imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re,       -0.0850726,         -3.69944
+imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im,        0.0149257,          14.6251
+loadInertia.phi                                                                     ,        0.0366673,          2.61492
+loadInertia.w                                                                       ,          2.61492,         -153.831
+
+   CPU-time for integration                : 901 seconds
+   CPU-time for one grid interval          : 361 milliseconds
    CPU-time for initialization             : 0.001 seconds
-   Number of result points                 : 50004
-   Number of grid points                   : 50001
-   Number of accepted steps                : 8062
-   Number of f-evaluations (dynamics)      : 16090
-   Number of crossing function evaluations : 58062
-   Number of Jacobian-evaluations          : 59
-   Number of model time events             : 2
+   Number of result points                 : 2498
+   Number of grid points                   : 2497
+   Number of accepted steps                : 3862190
+   Number of f-evaluations (dynamics)      : 9943930
+   Number of crossing function evaluations : 3872197
+   Number of Jacobian-evaluations          : 2933558
+   Number of model time events             : 1
    Number of input time events             : 0
    Number of state events                  : 0
    Number of step events                   : 0
-   Minimum integration stepsize            : 1.21e-09
+   Minimum integration stepsize            : 1.11e-09
    Maximum integration stepsize            : 0.00257
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+... Error message from dymosim
+
+ERROR: The simulation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD FAILED
+
+
+... Error message from dymosim
+The simulation was stopped after reaching max run time
+

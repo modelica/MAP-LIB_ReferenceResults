@@ -1,49 +1,65 @@
 [ResultCreationLog]
-modelName="Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor"
+modelName = "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor"
 
 // Test info
-generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
-generationDateAndTime="2020-05-05T01:49:10Z"
-gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
-gitRevision=bd753330a
-gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M ModelicaServices/package.mo"
-testPC="LAPTOP"
-testOS="Microsoft Windows [Version 10.0.18363.815]"
-testUser="tbeu"
-testDescription="Reg test MSL v4.0.0-rc.1"
+generationTool = Dymola Version 2023x Refresh 1, 2023-04-12
+gitURL = https://github.com/modelica/ModelicaStandardLibrary
+gitRevision = 677bec0b
+gitStatus = M Resources/Library/win32/ModelicaIO.lib
+ M Resources/Library/win32/ModelicaMatIO.lib
+ M Resources/Library/win32/ModelicaStandardTables.lib
+ M Resources/Library/win32/gcctdm510/libModelicaIO.a
+ M Resources/Library/win32/gcctdm510/libModelicaMatIO.a
+ M Resources/Library/win32/gcctdm510/libModelicaStandardTables.a
+ M Resources/Library/win32/gcctdm510/libzlib.a
+ M Resources/Library/win32/zlib.lib
+ M Resources/Library/win64/ModelicaIO.lib
+ M Resources/Library/win64/ModelicaMatIO.lib
+ M Resources/Library/win64/ModelicaStandardTables.lib
+ M Resources/Library/win64/gcctdm510/libModelicaIO.a
+ M Resources/Library/win64/gcctdm510/libModelicaMatIO.a
+ M Resources/Library/win64/gcctdm510/libModelicaStandardTables.a
+ M Resources/Library/win64/gcctdm510/libzlib.a
+ M Resources/Library/win64/zlib.lib
+testPC = LTXA320
+testOS = Windows [Version 10.0.19041]
+testUser = Matthias Schaefer
+testDescription = 
+compiler = Microsoft Visual Studio 2022
+generationDateAndTime = 2024-03-19 00:01:13
 
 // Experiment settings (standardized annotation)
-StartTime=0
-StopTime=20 // from model
-Interval=5e-05 // used annotation from model, multiplied by 0.5
-Tolerance=1e-07 // used annotation from model, multiplied by 0.1
+StartTime = 0.0    // set by user
+StopTime = 20.0    // from model. experiment annotation or dymola default
+Interval = 400000    // from model. experiment annotation or dymola default
+Tolerance = 1e-07    // set by user
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
-Advanced.PedanticModelica := false;
-SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
-Evaluate := false;
-OutputCPUtime := false;
-translateModel("Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor");
-Advanced.StoreProtectedVariables := true;
-Advanced.EfficientMinorEvents := false;
+clearFlags();
+Advanced.PlaceDymolaSourceFirst=2;Advanced.StoreProtectedVariables = true;
+Advanced.HideDymosim := true;
 Advanced.PlaceDymolaSourceFirst := 2;
+Advanced.StoreProtectedVariables := true;
+SetDymolaCompiler("vs", {"CCompiler=MSVC","MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 2022/Vc});
 experimentSetupOutput(
-  textual=false,
-  doublePrecision=true,
-  states=true,
-  derivatives=true,
-  inputs=true,
-  outputs=true,
-  auxiliaries=true,
-  equidistant=true,
-  events=true,
-  debug=false);
+    textual=false,
+    doublePrecision=false,
+    states=true,
+    derivatives=true,
+    inputs=true,
+    outputs=true,
+    auxiliaries=true,
+    equidistant=true,
+    events=true,
+    onlyStopTime=false,
+    debug=false);
 simulateModel(
-  problem="Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor",
-  startTime=0,
-  stopTime=20,
-  outputInterval=5e-05,
-  method="Dassl",
-  tolerance=1e-07,
-  resultFile="IMC_Conveyor");
+    problem="Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor",
+    startTime=0.0,
+    stopTime=20,
+    numberOfIntervals=400000,
+    method="Dassl",
+    tolerance=1e-07,
+    outputInterval=0.0,
+    resultFile="result");

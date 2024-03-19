@@ -1,22 +1,24 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:48:51 2020)
+(generated: Tue Mar 19 00:01:12 2024)
 
 dymosim started
+... "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "IMC_Transformer.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 2.5
-   CPU-time for integration                : 10.7 seconds
-   CPU-time for one grid interval          : 0.214 milliseconds
+   CPU-time for integration                : 6.63 seconds
+   CPU-time for one grid interval          : 0.133 milliseconds
    CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 50004
    Number of grid points                   : 50001
-   Number of accepted steps                : 13368
-   Number of f-evaluations (dynamics)      : 26825
-   Number of crossing function evaluations : 63368
-   Number of Jacobian-evaluations          : 116
+   Number of accepted steps                : 12985
+   Number of f-evaluations (dynamics)      : 26222
+   Number of crossing function evaluations : 62985
+   Number of Jacobian-evaluations          : 235
    Number of model time events             : 2
    Number of input time events             : 0
    Number of state events                  : 0
@@ -26,3 +28,5 @@ Integration terminated successfully at T = 2.5
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer

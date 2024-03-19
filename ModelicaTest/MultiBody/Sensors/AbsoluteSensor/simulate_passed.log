@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 08:07:52 2020)
+(generated: Tue Mar 19 01:28:32 2024)
 
 dymosim started
+... "ModelicaTest.MultiBody.Sensors.AbsoluteSensor" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "AbsoluteSensor.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 5
-   CPU-time for integration                : 0.143 seconds
-   CPU-time for one grid interval          : 0.0286 milliseconds
+   CPU-time for integration                : 0.072 seconds
+   CPU-time for one grid interval          : 0.0144 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 5002
    Number of grid points                   : 5001
-   Number of accepted steps                : 302
-   Number of f-evaluations (dynamics)      : 587
-   Number of crossing function evaluations : 5302
-   Number of Jacobian-evaluations          : 21
+   Number of accepted steps                : 520
+   Number of f-evaluations (dynamics)      : 1054
+   Number of crossing function evaluations : 5520
+   Number of Jacobian-evaluations          : 40
    Number of model time events             : 0
    Number of input time events             : 0
    Number of state events                  : 0
    Number of step events                   : 0
-   Minimum integration stepsize            : 4.81e-08
-   Maximum integration stepsize            : 0.0289
+   Minimum integration stepsize            : 9.62e-08
+   Maximum integration stepsize            : 0.031
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of ModelicaTest.MultiBody.Sensors.AbsoluteSensor
