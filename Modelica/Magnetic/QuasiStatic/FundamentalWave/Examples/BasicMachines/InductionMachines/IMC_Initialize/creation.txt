@@ -4,35 +4,20 @@ modelName = "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachine
 // Test info
 generationTool = Dymola Version 2023x Refresh 1, 2023-04-12
 gitURL = https://github.com/modelica/ModelicaStandardLibrary
-gitRevision = 677bec0b
-gitStatus = M Resources/Library/win32/ModelicaIO.lib
- M Resources/Library/win32/ModelicaMatIO.lib
- M Resources/Library/win32/ModelicaStandardTables.lib
- M Resources/Library/win32/gcctdm510/libModelicaIO.a
- M Resources/Library/win32/gcctdm510/libModelicaMatIO.a
- M Resources/Library/win32/gcctdm510/libModelicaStandardTables.a
- M Resources/Library/win32/gcctdm510/libzlib.a
- M Resources/Library/win32/zlib.lib
- M Resources/Library/win64/ModelicaIO.lib
- M Resources/Library/win64/ModelicaMatIO.lib
- M Resources/Library/win64/ModelicaStandardTables.lib
- M Resources/Library/win64/gcctdm510/libModelicaIO.a
- M Resources/Library/win64/gcctdm510/libModelicaMatIO.a
- M Resources/Library/win64/gcctdm510/libModelicaStandardTables.a
- M Resources/Library/win64/gcctdm510/libzlib.a
- M Resources/Library/win64/zlib.lib
+gitRevision = 90d43f3c
+gitStatus = 
 testPC = LTXA320
 testOS = Windows [Version 10.0.19041]
 testUser = Matthias Schaefer
 testDescription = 
 compiler = Microsoft Visual Studio 2022
-generationDateAndTime = 2024-03-19 00:01:16
+generationDateAndTime = 2024-03-22 08:45:29
 
 // Experiment settings (standardized annotation)
-StartTime = 0.0    // set by user
-StopTime = 1.5    // from model. experiment annotation or dymola default
-Interval = 300000    // from model. experiment annotation or dymola default
-Tolerance = 1e-07    // set by user
+StartTime = 0.0    // set by user or program default value
+StopTime = 1.5    // from experiment annotation
+Interval = 5e-06    // set by user or program default value
+Tolerance = 1e-07    // set by user or program default value
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
@@ -41,7 +26,7 @@ Advanced.PlaceDymolaSourceFirst=2;Advanced.StoreProtectedVariables = true;
 Advanced.HideDymosim := true;
 Advanced.PlaceDymolaSourceFirst := 2;
 Advanced.StoreProtectedVariables := true;
-SetDymolaCompiler("vs", {"CCompiler=MSVC","MSVCDir=C:/Program Files (x86)/Microsoft Visual Studio 2022/Vc});
+SetDymolaCompiler("vs", {"CCompiler=MSVC","MSVCDir="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build});
 experimentSetupOutput(
     textual=false,
     doublePrecision=false,
@@ -58,8 +43,7 @@ simulateModel(
     problem="Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize",
     startTime=0.0,
     stopTime=1.5,
-    numberOfIntervals=300000,
     method="Dassl",
     tolerance=1e-07,
-    outputInterval=0.0,
-    resultFile="result");
+    resultFile="result",
+    outputInterval=5e-06);

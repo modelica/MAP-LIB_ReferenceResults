@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Tue Mar 19 00:00:19 2024)
+(generated: Fri Mar 22 08:44:32 2024)
 
 dymosim started
 ... "Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive" simulating
@@ -10,8 +10,8 @@ Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 
 Integration terminated successfully at T = 24
-   CPU-time for integration                : 23.5 seconds
-   CPU-time for one grid interval          : 0.098 milliseconds
+   CPU-time for integration                : 23.3 seconds
+   CPU-time for one grid interval          : 0.0973 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 483047
    Number of grid points                   : 240001

@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Tue Mar 19 00:01:12 2024)
+(generated: Fri Mar 22 08:45:26 2024)
 
 dymosim started
 ... "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer" simulating
@@ -10,8 +10,8 @@ Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 
 Integration terminated successfully at T = 2.5
-   CPU-time for integration                : 6.63 seconds
-   CPU-time for one grid interval          : 0.133 milliseconds
+   CPU-time for integration                : 6.69 seconds
+   CPU-time for one grid interval          : 0.134 milliseconds
    CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 50004
    Number of grid points                   : 50001

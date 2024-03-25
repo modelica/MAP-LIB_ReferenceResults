@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Tue Mar 19 00:01:11 2024)
+(generated: Fri Mar 22 08:45:25 2024)
 
 dymosim started
 ... "Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD" simulating
@@ -25,26 +25,26 @@ Integration terminated before reaching "StopTime" at T = 0.125
 
 Final values of states and state derivatives:
 State                                                                               ,      State value, Derivative value
-imcQS.rotorCage.port_p.reference.gamma                                              ,          40.7174,          309.595
-loadInertiaQS.phi                                                                   ,        -0.757173,          2.28206
-loadInertiaQS.w                                                                     ,          2.28206,          92.6187
-imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re   ,         -0.16743,         -77.4887
-imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im   ,         0.244901,         -5.69023
-imc.stator.zeroInductor.i0                                                          ,     -8.50258e-12,       0.00262316
-imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re,       -0.0850726,         -3.69944
-imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im,        0.0149257,          14.6251
-loadInertia.phi                                                                     ,        0.0366673,          2.61492
-loadInertia.w                                                                       ,          2.61492,         -153.831
+imcQS.rotorCage.port_p.reference.gamma                                              ,          40.6851,          309.614
+loadInertiaQS.phi                                                                   ,         -0.75741,          2.27241
+loadInertiaQS.w                                                                     ,          2.27241,          92.6142
+imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re   ,        -0.159348,         -77.6256
+imc.stator.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im   ,         0.245359,         -3.11441
+imc.stator.zeroInductor.i0                                                          ,      1.81609e-10,       -0.0179491
+imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[1].Phi.re,       -0.0847111,         -3.23957
+imc.rotorCage.electroMagneticConverter.singlePhaseElectroMagneticConverter[2].Phi.im,        0.0133973,          14.7082
+loadInertia.phi                                                                     ,         0.036394,          2.63105
+loadInertia.w                                                                       ,          2.63105,         -155.587
 
-   CPU-time for integration                : 901 seconds
-   CPU-time for one grid interval          : 361 milliseconds
+   CPU-time for integration                : 902 seconds
+   CPU-time for one grid interval          : 362 milliseconds
    CPU-time for initialization             : 0.001 seconds
-   Number of result points                 : 2498
-   Number of grid points                   : 2497
-   Number of accepted steps                : 3862190
-   Number of f-evaluations (dynamics)      : 9943930
-   Number of crossing function evaluations : 3872197
-   Number of Jacobian-evaluations          : 2933558
+   Number of result points                 : 2496
+   Number of grid points                   : 2495
+   Number of accepted steps                : 3838297
+   Number of f-evaluations (dynamics)      : 9884718
+   Number of crossing function evaluations : 3848255
+   Number of Jacobian-evaluations          : 2917217
    Number of model time events             : 1
    Number of input time events             : 0
    Number of state events                  : 0

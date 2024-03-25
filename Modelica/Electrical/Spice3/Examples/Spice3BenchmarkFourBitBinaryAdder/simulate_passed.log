@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Tue Mar 19 00:00:49 2024)
+(generated: Fri Mar 22 08:45:03 2024)
 
 dymosim started
 ... "Modelica.Electrical.Spice3.Examples.Spice3BenchmarkFourBitBinaryAdder" simulating
@@ -12,7 +12,7 @@ Integration started at T = 0 using integration method DASSL
 Integration terminated successfully at T = 1e-06
    CPU-time for integration                : 180 seconds
    CPU-time for one grid interval          : 89.9 milliseconds
-   CPU-time for initialization             : 0.011 seconds
+   CPU-time for initialization             : 0.008 seconds
    Number of result points                 : 2185
    Number of grid points                   : 2000
    Number of accepted steps                : 23041

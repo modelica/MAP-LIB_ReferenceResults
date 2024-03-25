@@ -1,5 +1,5 @@
 Log-file of program ./dymosim
-(generated: Tue Mar 19 00:00:12 2024)
+(generated: Fri Mar 22 08:44:26 2024)
 
 dymosim started
 ... "Modelica.Electrical.PowerConverters.Examples.DCAC.SinglePhaseTwoLevel.SinglePhaseTwoLevel_R" simulating
@@ -10,8 +10,8 @@ Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
 
 Integration terminated successfully at T = 0.1
-   CPU-time for integration                : 0.043 seconds
-   CPU-time for one grid interval          : 0.043 milliseconds
+   CPU-time for integration                : 0.038 seconds
+   CPU-time for one grid interval          : 0.038 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 1284
    Number of grid points                   : 1001
