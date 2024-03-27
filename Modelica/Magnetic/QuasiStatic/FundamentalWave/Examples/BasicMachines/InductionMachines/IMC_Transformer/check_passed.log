@@ -1,3 +1,11 @@
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer</a>
 The model has the same number of unknowns and equations: 5818
+The model could not be deduced to be symbolically well-posed.
+The model has
+  5578+58*imcQS.m+16*imc.m+2*imc.stator.electroMagneticConverter.m+4*iSensor.m
+scalar unknowns and
+  5375+96*imcQS.m+(if Connections.isRoot(imcQS.groundS.port_p.reference) then 1   else 0)+(if Connections.isRoot(imcQS.airGap.port_sp.reference) then 1 else 0)  +(if Connections.isRoot(imcQS.groundR.port_p.reference) then 1 else 0)+(if   Connections.isRoot(imcQS.rotorCage.ground.pin.reference) then 1 else 0)+12*  iSensorQS.m+(if Connections.isRoot(groundQS.pin.reference) then 1 else 0)+3*(  if  not idealCloserQS.useHeatPort then 1 else 0)+(if Connections.isRoot(  ground2QS.pin.reference) then 1 else 0)+3*(if  not idealCommutingSwitchQS.useHeatPort   then 1 else 0)+(if  not quadraticLoadTorqueQS.useSupport then 1 else 0)+12*  terminalBoxQS.m+18*imc.m+3*iSensor.m+3*(if  not idealCloser.useHeatPort then 1   else 0)+3*(if  not idealCommutingSwitch.useHeatPort then 1 else 0)+(if  not   quadraticLoadTorque.useSupport then 1 else 0)+2*imc.stator.electroMagneticConverter.m
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  5818
 Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Transformer</a> successful.
-

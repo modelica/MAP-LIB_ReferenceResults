@@ -1,39 +1,38 @@
-﻿ = true
-Translation of Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive:
-The DAE has 412 scalar unknowns and 412 scalar equations.
- 
+Translation of <a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive">Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive</a>
+The DAE has 421 scalar unknowns and 421 scalar equations.
+
 Statistics
- 
+
 Original Model
-  Number of components: 79
-  Variables: 682
+  Number of components: 83
+  Variables: 704
   Constants: 21 (21 scalars)
-  Parameters: 249 (283 scalars)
-  Unknowns: 412 (412 scalars)
+  Parameters: 262 (296 scalars)
+  Unknowns: 421 (421 scalars)
   Differentiated variables: 14 scalars
-  Equations: 379
-  Nontrivial: 307
+  Equations: 392
+  Nontrivial: 319
 Translated Model
-  Constants: 225 scalars
-  Free parameters: 43 scalars
-  Parameter depending: 140 scalars
+  Constants: 232 scalars
+  Free parameters: 46 scalars
+  Parameter depending: 145 scalars
   Continuous time states: 5 scalars
-  Time-varying variables: 112 scalars
-  Alias variables: 196 scalars
+  Time-varying variables: 115 scalars
+  Alias variables: 200 scalars
   Number of mixed real/discrete systems of equations: 2
   Sizes of linear systems of equations: {11, 11, 3}
   Sizes after manipulation of the linear systems: {4, 4, 0}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
-  dcpm.inertiaRotor.phi
-  dcpm.inertiaRotor.w
-  inductor.i
-  meanCurrent.x
-  meanVoltage.x
- 
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive#text$dcpm.inertiaRotor:phi">dcpm.inertiaRotor.phi</a>
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive#text$dcpm.inertiaRotor:w">dcpm.inertiaRotor.w</a>
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive#text$inductor:i">inductor.i</a>
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive#text$meanCurrent:x">meanCurrent.x</a>
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive#text$meanVoltage:x">meanVoltage.x</a>
+Finished

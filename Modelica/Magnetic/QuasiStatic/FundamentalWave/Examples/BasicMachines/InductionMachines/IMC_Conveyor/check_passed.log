@@ -1,5 +1,11 @@
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor</a>
 The model has the same number of unknowns and equations: 3019
-The model has the same number of unknowns and equations:
-  3018+max([size(dutyCycle.columns, 1); size(dutyCycle.offset, 1)])
+The model could not be deduced to be symbolically well-posed.
+The model has
+  2745+58*imcQS.m+11*m+16*imc.m+2*imc.stator.electroMagneticConverter.m+max([size(  dutyCycle.columns, 1); size(dutyCycle.offset, 1)])+4*currentQuasiRMSSensor.m
+scalar unknowns and
+  2552+96*imcQS.m+(if Connections.isRoot(imcQS.groundS.port_p.reference) then 1   else 0)+(if Connections.isRoot(imcQS.airGap.port_sp.reference) then 1 else 0)  +(if Connections.isRoot(imcQS.groundR.port_p.reference) then 1 else 0)+(if   Connections.isRoot(imcQS.rotorCage.ground.pin.reference) then 1 else 0)+12*  currentQuasiRMSSensorQS.m+max([size(dutyCycle.columns, 1); size(  dutyCycle.offset, 1)])+17*m+(if Connections.isRoot(groundQS.pin.reference)   then 1 else 0)+6*terminalBoxQS.m+(if  not signForceQS.useSupport then 1 else 0)  +(if Connections.isRoot(groundMachineQS.pin.reference) then 1 else 0)+2*  starMachineQS.m+18*imc.m+3*currentQuasiRMSSensor.m+(if  not signForce.useSupport   then 1 else 0)+2*imc.stator.electroMagneticConverter.m
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  3019
 Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Conveyor</a> successful.
-

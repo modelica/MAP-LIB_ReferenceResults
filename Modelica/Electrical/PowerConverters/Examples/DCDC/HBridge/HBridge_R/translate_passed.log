@@ -1,36 +1,35 @@
-﻿ = true
-Translation of Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_R:
-The DAE has 218 scalar unknowns and 218 scalar equations.
- 
+Translation of <a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_R">Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_R</a>
+The DAE has 222 scalar unknowns and 222 scalar equations.
+
 Statistics
- 
+
 Original Model
-  Number of components: 41
-  Variables: 354
+  Number of components: 43
+  Variables: 362
   Constants: 16 (16 scalars)
-  Parameters: 120 (120 scalars)
-  Unknowns: 218 (218 scalars)
+  Parameters: 124 (124 scalars)
+  Unknowns: 222 (222 scalars)
   Differentiated variables: 2 scalars
-  Equations: 224
-  Nontrivial: 194
+  Equations: 235
+  Nontrivial: 205
 Translated Model
-  Constants: 68 scalars
-  Free parameters: 28 scalars
+  Constants: 70 scalars
+  Free parameters: 30 scalars
   Parameter depending: 56 scalars
   Continuous time states: 2 scalars
-  Time-varying variables: 76 scalars
-  Alias variables: 126 scalars
+  Time-varying variables: 78 scalars
+  Alias variables: 128 scalars
   Number of mixed real/discrete systems of equations: 1
   Sizes of linear systems of equations: {24}
   Sizes after manipulation of the linear systems: {8}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
-  meanCurrent.x
-  meanVoltage.x
- 
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_R#text$meanCurrent:x">meanCurrent.x</a>
+<a href="Modelica://Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_R#text$meanVoltage:x">meanVoltage.x</a>
+Finished

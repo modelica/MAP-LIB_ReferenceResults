@@ -1,6 +1,0 @@
-CSV Compare Version 2.0.3.0 (Amd64)
-Comparison result file for c:\Projekte\MSL\Modelica\Resources\Reference\Modelica\Electrical\Machines\Examples\ControlledDCDrives\PositionControlledDCPM\PositionControlledDCPM.csv
-. Time:        2020-05-05T10:16:54.5015603+02:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      passed

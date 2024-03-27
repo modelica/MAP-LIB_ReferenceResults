@@ -1,3 +1,11 @@
+Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize</a>
 The model has the same number of unknowns and equations: 2952
+The model could not be deduced to be symbolically well-posed.
+The model has
+  2682+58*imcQS.m+10*m+16*imc.m+2*imc.stator.electroMagneticConverter.m+4*  currentQuasiRMSSensor.m
+scalar unknowns and
+  2489+96*imcQS.m+(if Connections.isRoot(imcQS.groundS.port_p.reference) then 1   else 0)+(if Connections.isRoot(imcQS.airGap.port_sp.reference) then 1 else 0)  +(if Connections.isRoot(imcQS.groundR.port_p.reference) then 1 else 0)+(if   Connections.isRoot(imcQS.rotorCage.ground.pin.reference) then 1 else 0)+12*  currentQuasiRMSSensorQS.m+16*m+(if Connections.isRoot(groundQS.pin.reference)   then 1 else 0)+(if  not torqueStepQS.useSupport then 1 else 0)+6*  terminalBoxQS.m+18*imc.m+3*currentQuasiRMSSensor.m+(if  not torqueStep.useSupport   then 1 else 0)+2*Modelica.Electrical.Polyphase.Functions.numberOfSymmetricBaseSystems  (m)+2*imc.stator.electroMagneticConverter.m
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  2952
 Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_Initialize</a> successful.
-
