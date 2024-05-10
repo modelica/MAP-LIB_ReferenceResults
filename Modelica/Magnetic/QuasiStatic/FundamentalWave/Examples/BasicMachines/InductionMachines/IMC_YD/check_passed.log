@@ -1,11 +1,5 @@
-Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD</a>
 The model has the same number of unknowns and equations: 4252
-The model could not be deduced to be symbolically well-posed.
-The model has
-  4000+58*imcQS.m+16*imc.m+2*imc.stator.electroMagneticConverter.m+  currentQuasiRMSSensor.ToSpacePhasor1.m+7*switchYD.m
-scalar unknowns and
-  3833+96*imcQS.m+(if Connections.isRoot(imcQS.groundS.port_p.reference) then 1   else 0)+(if Connections.isRoot(imcQS.airGap.port_sp.reference) then 1 else 0)  +(if Connections.isRoot(imcQS.groundR.port_p.reference) then 1 else 0)+(if   Connections.isRoot(imcQS.rotorCage.ground.pin.reference) then 1 else 0)+12*  currentQuasiRMSSensorQS.m+(if Connections.isRoot(groundQS.pin.reference) then 1   else 0)+3*(if  not idealCloserQS.useHeatPort then 1 else 0)+3*(if  not   switchYDQS.idealCloser.useHeatPort then 1 else 0)+3*(if  not switchYDQS.idealOpener.useHeatPort   then 1 else 0)+(if  not quadraticLoadTorqueQS.useSupport then 1 else 0)+18*  imc.m+3*(if  not idealCloser.useHeatPort then 1 else 0)+4*switchYD.m+3*(if    not switchYD.idealCloser.useHeatPort then 1 else 0)+3*(if  not   switchYD.idealOpener.useHeatPort then 1 else 0)+(if  not quadraticLoadTorque.useSupport   then 1 else 0)+currentQuasiRMSSensor.ToSpacePhasor1.m+2*imc.stator.electroMagneticConverter.m
-scalar equations.
-However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
-  4252
+The model has the same number of unknowns and equations:
+  4249+currentQuasiRMSSensor.ToSpacePhasor1.m
 Check of <a href="Modelica://Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD">Modelica.Magnetic.QuasiStatic.FundamentalWave.Examples.BasicMachines.InductionMachines.IMC_YD</a> successful.
+
