@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 00:58:44 2020)
+(generated: Fri Sep 27 08:37:50 2024)
 
 dymosim started
+... "Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "IMC_InverterDrive.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1.5
-   CPU-time for integration                : 50.9 seconds
-   CPU-time for one grid interval          : 0.848 milliseconds
+   CPU-time for integration                : 23.3 seconds
+   CPU-time for one grid interval          : 0.389 milliseconds
    CPU-time for initialization             : 0.001 seconds
-   Number of result points                 : 100157
+   Number of result points                 : 101629
    Number of grid points                   : 60001
-   Number of accepted steps                : 531151
-   Number of f-evaluations (dynamics)      : 749754
-   Number of crossing function evaluations : 728491
-   Number of Jacobian-evaluations          : 376758
-   Number of model time events             : 3000
+   Number of accepted steps                : 530512
+   Number of f-evaluations (dynamics)      : 744301
+   Number of crossing function evaluations : 618057
+   Number of Jacobian-evaluations          : 378310
+   Number of model time events             : 20903
    Number of input time events             : 0
-   Number of state events                  : 19417
+   Number of state events                  : 1443
    Number of step events                   : 0
-   Minimum integration stepsize            : 1.92e-18
+   Minimum integration stepsize            : 2.23e-18
    Maximum integration stepsize            : 0.000102
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Electrical.Machines.Examples.InductionMachines.IMC_InverterDrive

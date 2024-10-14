@@ -1,16 +1,18 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 00:31:48 2020)
+(generated: Tue Sep 17 23:23:03 2024)
 
 dymosim started
+... "Modelica.ComplexBlocks.Examples.ShowTransferFunction" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "ShowTransferFunction.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1
-   CPU-time for integration                : 0.034 seconds
-   CPU-time for one grid interval          : 0.017 milliseconds
-   CPU-time for initialization             : 0 seconds
+   CPU-time for integration                : 0.002 seconds
+   CPU-time for one grid interval          : 0.001 milliseconds
+   CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 2002
    Number of grid points                   : 2001
    Number of accepted steps                : 21
@@ -25,3 +27,5 @@ Integration terminated successfully at T = 1
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.ComplexBlocks.Examples.ShowTransferFunction

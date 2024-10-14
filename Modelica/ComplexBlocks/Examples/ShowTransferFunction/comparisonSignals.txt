@@ -1,6 +1,0 @@
-time
-logFrequencySweep.y
-const.y.re
-const.y.im
-transferFunction.y.re
-transferFunction.y.im

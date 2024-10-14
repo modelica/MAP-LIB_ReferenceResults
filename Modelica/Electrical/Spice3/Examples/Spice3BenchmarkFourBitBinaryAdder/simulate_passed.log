@@ -1,21 +1,23 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:27:58 2020)
+(generated: Fri Sep 27 08:39:09 2024)
 
 dymosim started
+... "Modelica.Electrical.Spice3.Examples.Spice3BenchmarkFourBitBinaryAdder" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "Spice3BenchmarkFourBitBinaryAdder.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1e-06
-   CPU-time for integration                : 292 seconds
-   CPU-time for one grid interval          : 146 milliseconds
-   CPU-time for initialization             : 0.011 seconds
-   Number of result points                 : 2094
-   Number of grid points                   : 2001
-   Number of accepted steps                : 23071
-   Number of f-evaluations (dynamics)      : 52115
-   Number of Jacobian-evaluations          : 2401
+   CPU-time for integration                : 180 seconds
+   CPU-time for one grid interval          : 90.2 milliseconds
+   CPU-time for initialization             : 0.009 seconds
+   Number of result points                 : 2185
+   Number of grid points                   : 2000
+   Number of accepted steps                : 23041
+   Number of f-evaluations (dynamics)      : 52037
+   Number of Jacobian-evaluations          : 2409
    Number of model time events             : 93
    Number of input time events             : 0
    Number of state events                  : 0
@@ -25,3 +27,5 @@ Integration terminated successfully at T = 1e-06
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Electrical.Spice3.Examples.Spice3BenchmarkFourBitBinaryAdder

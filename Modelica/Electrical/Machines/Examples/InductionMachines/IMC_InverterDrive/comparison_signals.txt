@@ -1,0 +1,13 @@
+time
+inductor.inductor[2].i
+inductor.inductor[3].i
+capacitor.v
+aimc.is[1]
+aimc.is[2]
+aimc.idq_sr[1]
+aimc.idq_sr[2]
+aimc.idq_rr[1]
+aimc.idq_rr[2]
+loadInertia.phi
+loadInertia.w
+vfController.x

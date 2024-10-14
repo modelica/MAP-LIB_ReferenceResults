@@ -1,0 +1,10 @@
+time
+hbridge.vDC1
+hbridge.iDC1
+hbridge.vDC2
+hbridge.iDC2
+meanCurrent.y
+meanVoltage.y
+dcpm.inertiaRotor.phi
+dcpm.inertiaRotor.w
+inductor.i

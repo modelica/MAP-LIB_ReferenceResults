@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:19:39 2020)
+(generated: Fri Sep 27 08:38:37 2024)
 
 dymosim started
+... "Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "HBridge_DC_Drive.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 24
-   CPU-time for integration                : 23.6 seconds
-   CPU-time for one grid interval          : 0.0983 milliseconds
-   CPU-time for initialization             : 0 seconds
-   Number of result points                 : 343355
+   CPU-time for integration                : 23.8 seconds
+   CPU-time for one grid interval          : 0.0994 milliseconds
+   CPU-time for initialization             : 0.001 seconds
+   Number of result points                 : 483047
    Number of grid points                   : 240001
-   Number of accepted steps                : 1605625
-   Number of f-evaluations (dynamics)      : 2020951
-   Number of crossing function evaluations : 2154732
-   Number of Jacobian-evaluations          : 1316861
-   Number of model time events             : 24000
+   Number of accepted steps                : 2923815
+   Number of f-evaluations (dynamics)      : 3333174
+   Number of crossing function evaluations : 3991749
+   Number of Jacobian-evaluations          : 2663546
+   Number of model time events             : 48000
    Number of input time events             : 0
-   Number of state events                  : 41111
+   Number of state events                  : 107061
    Number of step events                   : 0
-   Minimum integration stepsize            : 1.12e-12
-   Maximum integration stepsize            : 0.000295
+   Minimum integration stepsize            : 7.77e-14
+   Maximum integration stepsize            : 0.00025
    Maximum integration order               : 3
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Electrical.PowerConverters.Examples.DCDC.HBridge.HBridge_DC_Drive
