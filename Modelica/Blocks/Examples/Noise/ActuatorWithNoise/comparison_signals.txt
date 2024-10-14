@@ -1,12 +1,12 @@
 time
-controller.busdelay.y
+controller.speed_PI.x
 controller.positionToSpeed.x
 controller.position_PI.x
-controller.speed_PI.x
-elastoGap.s_rel
-elastoGap.v_rel
+controller.busdelay.y
 gearbox.phi_rel
 gearbox.w_rel
+slewRateLimiter.y
 rodMass.s
 rodMass.v
-slewRateLimiter.y
+elastoGap.s_rel
+elastoGap.v_rel

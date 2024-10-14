@@ -1,21 +1,23 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 00:30:56 2020)
+(generated: Tue Sep 17 23:22:57 2024)
 
 dymosim started
+... "Modelica.Blocks.Examples.Noise.NormalNoiseProperties" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "NormalNoiseProperties.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 20
-   CPU-time for integration                : 1.22 seconds
-   CPU-time for one grid interval          : 0.122 milliseconds
+   CPU-time for integration                : 0.572 seconds
+   CPU-time for one grid interval          : 0.0572 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 40001
    Number of grid points                   : 10001
-   Number of accepted steps                : 407829
-   Number of f-evaluations (dynamics)      : 424573
-   Number of Jacobian-evaluations          : 372416
+   Number of accepted steps                : 424128
+   Number of f-evaluations (dynamics)      : 442732
+   Number of Jacobian-evaluations          : 388303
    Number of model time events             : 20000
    Number of input time events             : 0
    Number of state events                  : 0
@@ -25,3 +27,5 @@ Integration terminated successfully at T = 20
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Blocks.Examples.Noise.NormalNoiseProperties

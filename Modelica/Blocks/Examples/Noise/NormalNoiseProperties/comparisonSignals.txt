@@ -1,8 +1,0 @@
-time
-mean.mu
-standardDeviation.variance.mu
-standardDeviation.variance.var
-variance.mu
-variance.var
-meanError_y
-sigmaError_y
