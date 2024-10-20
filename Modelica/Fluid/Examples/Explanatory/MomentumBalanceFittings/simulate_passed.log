@@ -1,15 +1,17 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 02:20:28 2020)
+(generated: Fri Sep 27 08:41:23 2024)
 
 dymosim started
+... "Modelica.Fluid.Examples.Explanatory.MomentumBalanceFittings" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "MomentumBalanceFittings.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1.1
-   CPU-time for integration                : 0.064 seconds
-   CPU-time for one grid interval          : 0.0128 milliseconds
+   CPU-time for integration                : 0.003 seconds
+   CPU-time for one grid interval          : 0.0006 milliseconds
    CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 5002
    Number of grid points                   : 5001
@@ -25,3 +27,5 @@ Integration terminated successfully at T = 1.1
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Fluid.Examples.Explanatory.MomentumBalanceFittings
