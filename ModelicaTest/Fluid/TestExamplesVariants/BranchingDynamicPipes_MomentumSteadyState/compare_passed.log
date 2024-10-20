@@ -1,6 +1,0 @@
-CSV Compare Version 2.0.3.0 (Amd64)
-Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Fluid\TestExamplesVariants\BranchingDynamicPipes_MomentumSteadyState\BranchingDynamicPipes_MomentumSteadyState.csv
-. Time:        2020-05-05T11:03:27.1669917+02:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      passed
