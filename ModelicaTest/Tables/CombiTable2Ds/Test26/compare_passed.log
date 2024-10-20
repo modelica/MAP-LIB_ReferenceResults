@@ -1,6 +1,0 @@
-CSV Compare Version 2.0.3.0 (Amd64)
-Comparison result file for c:\Projekte\MSL\ModelicaTest\Resources\Reference\ModelicaTest\Tables\CombiTable2Ds\Test26\Test26.csv
-. Time:        2020-05-05T11:07:31.2646335+02:00
-. Operation:   CsvTreeCompare
-. Tolerance:   2e-3
-. Result:      passed

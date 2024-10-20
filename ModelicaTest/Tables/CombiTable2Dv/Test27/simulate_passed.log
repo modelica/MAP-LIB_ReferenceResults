@@ -1,15 +1,17 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 02:47:41 2020)
+(generated: Tue Oct 15 00:35:43 2024)
 
 dymosim started
+... "ModelicaTest.Tables.CombiTable2Dv.Test27" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "Test27.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1
-   CPU-time for integration                : 0.067 seconds
-   CPU-time for one grid interval          : 0.0134 milliseconds
+   CPU-time for integration                : 0.003 seconds
+   CPU-time for one grid interval          : 0.0006 milliseconds
    CPU-time for initialization             : 0 seconds
    Number of result points                 : 5002
    Number of grid points                   : 5001
@@ -25,3 +27,5 @@ Integration terminated successfully at T = 1
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of ModelicaTest.Tables.CombiTable2Dv.Test27
