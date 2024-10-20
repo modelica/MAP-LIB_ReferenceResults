@@ -1,49 +1,48 @@
 [ResultCreationLog]
-modelName="ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_pT"
+modelName = "ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_pT"
 
 // Test info
-generationTool="Dymola Version 2020x (64-bit), 2019-10-10"
-generationDateAndTime="2020-05-05T07:42:12Z"
-gitURL="https://github.com/modelica/ModelicaStandardLibrary.git"
-gitRevision=bd753330a
-gitStatus="D Modelica/Resources/C-Sources/ModelicaInternal.c, M ModelicaServices/package.mo"
-testPC="LAPTOP"
-testOS="Microsoft Windows [Version 10.0.18363.815]"
-testUser="tbeu"
-testDescription="Reg test MSL v4.0.0-rc.1"
+generationTool = Dymola Version 2023x Refresh 1, 2023-04-12
+generationDateAndTime = 2024-10-15 00:38:29
+gitURL = https://github.com/modelica/ModelicaStandardLibrary
+gitRevision = 4f119bb3
+gitStatus = 
+testPC = LTXA320
+testOS = Windows [Version 10.0.19041]
+testUser = Matthias Schaefer
+testDescription = 
+compiler = Microsoft Visual Studio 2022
 
 // Experiment settings (standardized annotation)
-StartTime=0
-StopTime=1.01 // from model
-Interval=0.000202 // (stopTime-startTime)/5000
-Tolerance=1e-06 // used default, because no tolerance annotation in model
+StartTime = 0.0    // set by user or program default value
+StopTime = 1.01    // from experiment annotation
+Interval = 0.000202    // from experiment annotation
+Tolerance = 1e-06    // set by user or program default value
 
 // Experiment settings (tool specific)
 // The following lines can be used as mos-script in Dymola
-Advanced.PedanticModelica := false;
-SetDymolaCompiler("vs", {"MSVCDir=c:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/Build"});
-Evaluate := false;
-OutputCPUtime := false;
-translateModel("ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_pT");
-Advanced.StoreProtectedVariables := true;
-Advanced.EfficientMinorEvents := false;
+clearFlags();
+Advanced.HideDymosim := true;
 Advanced.PlaceDymolaSourceFirst := 2;
+Advanced.StoreProtectedVariables := true;
+SetDymolaCompiler("vs", {"CCompiler=MSVC","MSVCDir=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Auxiliary/Build"});
 experimentSetupOutput(
-  textual=false,
-  doublePrecision=true,
-  states=true,
-  derivatives=true,
-  inputs=true,
-  outputs=true,
-  auxiliaries=true,
-  equidistant=true,
-  events=true,
-  debug=false);
+    textual=false,
+    doublePrecision=false,
+    states=true,
+    derivatives=true,
+    inputs=true,
+    outputs=true,
+    auxiliaries=true,
+    equidistant=true,
+    events=true,
+    onlyStopTime=false,
+    debug=false);
 simulateModel(
-  problem="ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_pT",
-  startTime=0,
-  stopTime=1.01,
-  outputInterval=0.000202,
-  method="Dassl",
-  tolerance=1e-06,
-  resultFile="WaterIF97_pT");
+    problem="ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_pT",
+    startTime=0.0,
+    stopTime=1.01,
+    method="Dassl",
+    tolerance=1e-06,
+    resultFile="result",
+    outputInterval=0.000202);

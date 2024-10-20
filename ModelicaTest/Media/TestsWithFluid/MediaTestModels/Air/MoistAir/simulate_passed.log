@@ -1,15 +1,17 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 07:39:20 2020)
+(generated: Tue Oct 15 00:38:21 2024)
 
 dymosim started
+... "ModelicaTest.Media.TestsWithFluid.MediaTestModels.Air.MoistAir" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "MoistAir.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1.01
-   CPU-time for integration                : 0.43 seconds
-   CPU-time for one grid interval          : 0.086 milliseconds
+   CPU-time for integration                : 0.248 seconds
+   CPU-time for one grid interval          : 0.0496 milliseconds
    CPU-time for initialization             : 0.001 seconds
    Number of result points                 : 5002
    Number of grid points                   : 5001
@@ -26,3 +28,5 @@ Integration terminated successfully at T = 1.01
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.Air.MoistAir

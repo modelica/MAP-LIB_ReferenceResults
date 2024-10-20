@@ -1,16 +1,18 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 07:44:15 2020)
+(generated: Tue Oct 15 00:38:30 2024)
 
 dymosim started
+... "ModelicaTest.Media.TestsWithFluid.MediaTestModels.LinearFluid.LinearWater_pT" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "LinearWater_pT.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1.01
-   CPU-time for integration                : 0.089 seconds
-   CPU-time for one grid interval          : 0.0178 milliseconds
-   CPU-time for initialization             : 0.001 seconds
+   CPU-time for integration                : 0.007 seconds
+   CPU-time for one grid interval          : 0.0014 milliseconds
+   CPU-time for initialization             : 0 seconds
    Number of result points                 : 5002
    Number of grid points                   : 5001
    Number of accepted steps                : 23
@@ -26,3 +28,5 @@ Integration terminated successfully at T = 1.01
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.LinearFluid.LinearWater_pT

@@ -1,9 +1,8 @@
-﻿ = true
-Translation of ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph:
+Translation of <a href="Modelica://ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph">ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph</a>
 The DAE has 160 scalar unknowns and 160 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 24
   Variables: 328
@@ -15,8 +14,8 @@ Original Model
   Nontrivial: 108
 Translated Model
   Constants: 148 scalars
-  Free parameters: 26 scalars
-  Parameter depending: 45 scalars
+  Free parameters: 28 scalars
+  Parameter depending: 43 scalars
   Continuous time states: 2 scalars
   Time-varying variables: 34 scalars
   Alias variables: 67 scalars
@@ -26,11 +25,11 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
-  volume.medium.h
-  volume.medium.p
- 
+<a href="Modelica://ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph#diagram$volume:medium.h">volume.medium.h</a>
+<a href="Modelica://ModelicaTest.Media.TestsWithFluid.MediaTestModels.Water.WaterIF97_ph#diagram$volume:medium.p">volume.medium.p</a>
+Finished
