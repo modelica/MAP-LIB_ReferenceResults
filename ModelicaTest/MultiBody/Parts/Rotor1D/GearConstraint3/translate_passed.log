@@ -1,42 +1,40 @@
-﻿ = true
-Translation of ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3:
-The DAE has 2730 scalar unknowns and 2730 scalar equations.
- 
+Translation of <a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3">ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3</a>
+The DAE has 2685 scalar unknowns and 2685 scalar equations.
+
 Statistics
- 
+
 Original Model
-  Number of components: 147
-  Variables: 1366
-  Constants: 1 (1 scalars)
-  Parameters: 395 (693 scalars)
-  Unknowns: 970 (2730 scalars)
+  Number of components: 144
+  Variables: 1351
+  Parameters: 394 (687 scalars)
+  Unknowns: 957 (2685 scalars)
   Differentiated variables: 66 scalars
-  Equations: 833
-  Nontrivial: 554
+  Equations: 821
+  Nontrivial: 550
 Translated Model
-  Constants: 1883 scalars
-  Free parameters: 101 scalars
-  Parameter depending: 306 scalars
+  Constants: 1877 scalars
+  Free parameters: 94 scalars
+  Parameter depending: 304 scalars
   Continuous time states: 8 scalars
-  Time-varying variables: 305 scalars
-  Alias variables: 829 scalars
+  Time-varying variables: 302 scalars
+  Alias variables: 795 scalars
   Number of mixed real/discrete systems of equations: 0
   Sizes of linear systems of equations: {2, 45, 2}
   Sizes after manipulation of the linear systems: {2, 4, 2}
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
-  gearConstraint.actuatedRevolute_b.phi
-  gearConstraint.actuatedRevolute_b.w
-  revolute1.phi
-  revolute1.w
-  revolute2.phi
-  revolute2.w
-  revolute3.phi
-  revolute3.w
- 
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$gearConstraint.actuatedRevolute_b:phi">gearConstraint.actuatedRevolute_b.phi</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$gearConstraint.actuatedRevolute_b:w">gearConstraint.actuatedRevolute_b.w</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute1:phi">revolute1.phi</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute1:w">revolute1.w</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute2:phi">revolute2.phi</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute2:w">revolute2.w</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute3:phi">revolute3.phi</a>
+<a href="Modelica://ModelicaTest.MultiBody.Parts.Rotor1D.GearConstraint3#text$revolute3:w">revolute3.w</a>
+Finished

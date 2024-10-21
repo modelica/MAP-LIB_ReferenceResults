@@ -1,19 +1,18 @@
-﻿ = true
-Translation of Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D:
+Translation of <a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D">Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D</a>
 The DAE has 2275 scalar unknowns and 2275 scalar equations.
- 
+
 Statistics
- 
+
 Original Model
   Number of components: 119
-  Variables: 1089
-  Parameters: 258 (399 scalars)
+  Variables: 1090
+  Parameters: 259 (400 scalars)
   Unknowns: 831 (2275 scalars)
   Differentiated variables: 33 scalars
   Equations: 722
   Nontrivial: 491
 Translated Model
-  Constants: 1670 scalars
+  Constants: 1671 scalars
   Free parameters: 60 scalars
   Parameter depending: 160 scalars
   Continuous time states: 8 scalars
@@ -25,17 +24,17 @@ Translated Model
   Sizes of nonlinear systems of equations: { }
   Sizes after manipulation of the nonlinear systems: { }
   Number of numerical Jacobians: 0
- 
+
 Settings
 Advanced.StoreProtectedVariables = true
 Selected continuous time states
 Statically selected continuous time states
-  inertia2.phi
-  inertia2.w
-  revolute1.phi
-  revolute1.w
-  revolute2.phi
-  revolute2.w
-  revolute3.phi
-  revolute3.w
- 
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$inertia2:phi">inertia2.phi</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$inertia2:w">inertia2.w</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute1:phi">revolute1.phi</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute1:w">revolute1.w</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute2:phi">revolute2.phi</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute2:w">revolute2.w</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute3:phi">revolute3.phi</a>
+<a href="Modelica://Modelica.Mechanics.MultiBody.Examples.Rotational3DEffects.BevelGear1D#text$revolute3:w">revolute3.w</a>
+Finished
