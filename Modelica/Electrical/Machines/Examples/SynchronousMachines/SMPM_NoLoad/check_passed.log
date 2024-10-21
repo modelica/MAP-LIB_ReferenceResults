@@ -1,5 +1,11 @@
-The model has the same number of unknowns and equations: 401
-The model has the same number of unknowns and equations:
-  398+toSpacePhasor.m
+Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad">Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad</a>
+The model has the same number of unknowns and equations: 404
+The model could not be deduced to be symbolically well-posed.
+The model has
+  398+potentialSensor.m+toSpacePhasor.m
+scalar unknowns and
+  398+(if  not smpm.useDamperCage then 1 else 0)+(if  not hallSensor.useSupport   then 1 else 0)+(if  not speed.useSupport then 1 else 0)+toSpacePhasor.m
+scalar equations.
+However, exploiting the given numerical settings of parameters gives the same number of unknowns and equations:
+  404
 Check of <a href="Modelica://Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad">Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad</a> successful.
-

@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:01:45 2020)
+(generated: Fri Sep 27 08:37:54 2024)
 
 dymosim started
+... "Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "SMPM_NoLoad.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 0.04
-   CPU-time for integration                : 0.013 seconds
-   CPU-time for one grid interval          : 0.0163 milliseconds
-   CPU-time for initialization             : 0.001 seconds
-   Number of result points                 : 804
+   CPU-time for integration                : 0.003 seconds
+   CPU-time for one grid interval          : 0.00375 milliseconds
+   CPU-time for initialization             : 0 seconds
+   Number of result points                 : 806
    Number of grid points                   : 801
-   Number of accepted steps                : 43
-   Number of f-evaluations (dynamics)      : 43
-   Number of crossing function evaluations : 845
-   Number of Jacobian-evaluations          : 41
+   Number of accepted steps                : 45
+   Number of f-evaluations (dynamics)      : 45
+   Number of crossing function evaluations : 873
+   Number of Jacobian-evaluations          : 43
    Number of model time events             : 0
    Number of input time events             : 0
-   Number of state events                  : 1
+   Number of state events                  : 2
    Number of step events                   : 0
    Minimum integration stepsize            : 8.18e-09
    Maximum integration stepsize            : 0.0172
    Maximum integration order               : 1
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Electrical.Machines.Examples.SynchronousMachines.SMPM_NoLoad
