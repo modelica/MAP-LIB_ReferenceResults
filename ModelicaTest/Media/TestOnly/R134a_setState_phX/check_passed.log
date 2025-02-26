@@ -1,0 +1,16 @@
+Check of <a href="Modelica://ModelicaTest.Media.TestOnly.R134a_setState_phX">ModelicaTest.Media.TestOnly.R134a_setState_phX</a>
+Warning: Incompatible units.
+Warning: Incompatible units in
+  h = _GlobalScope.Modelica.Media.R134a.R134a_ph.h_default;
+The part
+  h
+has unit K
+The part
+  _GlobalScope.Modelica.Media.R134a.R134a_ph.h_default
+has unit J/kg
+Warning: The unit issue reported appeared in the binding equation of the variable
+  h
+Variable <a href="Modelica://ModelicaTest.Media.TestOnly.R134a_setState_phX#text:h">h</a> was declared in class <a href="Modelica://Modelica.Units.SI">Modelica.Units.SI</a>, D:/MSL_Nightly/Repos/ModelicaStandardLibrary/ModelicaTest/Media.mo at line 956.
+The model has the same number of unknowns and equations: 12
+Check of <a href="Modelica://ModelicaTest.Media.TestOnly.R134a_setState_phX">ModelicaTest.Media.TestOnly.R134a_setState_phX</a> successful.
+Warning: WARNINGS have been issued.
