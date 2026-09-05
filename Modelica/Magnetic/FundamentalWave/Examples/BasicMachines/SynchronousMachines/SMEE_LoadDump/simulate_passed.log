@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:44:09 2020)
+(generated: Tue Jun  2 12:07:50 2026)
 
 dymosim started
+... "Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMEE_LoadDump" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "SMEE_LoadDump.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 10
-   CPU-time for integration                : 12 seconds
-   CPU-time for one grid interval          : 0.06 milliseconds
+   CPU-time for integration                : 2.51 seconds
+   CPU-time for one grid interval          : 0.0251 milliseconds
    CPU-time for initialization             : 0 seconds
-   Number of result points                 : 200024
-   Number of grid points                   : 200001
-   Number of accepted steps                : 42241
-   Number of f-evaluations (dynamics)      : 84482
-   Number of crossing function evaluations : 242268
-   Number of Jacobian-evaluations          : 430
+   Number of result points                 : 100019
+   Number of grid points                   : 100001
+   Number of accepted steps                : 33265
+   Number of f-evaluations (dynamics)      : 66665
+   Number of crossing function evaluations : 133297
+   Number of Jacobian-evaluations          : 311
    Number of model time events             : 6
    Number of input time events             : 0
    Number of state events                  : 6
-   Number of step events                   : 5
-   Minimum integration stepsize            : 2.67e-12
-   Maximum integration stepsize            : 0.00429
+   Number of step events                   : 2
+   Minimum integration stepsize            : 2.67e-11
+   Maximum integration stepsize            : 0.00478
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.SynchronousMachines.SMEE_LoadDump

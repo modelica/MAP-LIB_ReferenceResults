@@ -1,28 +1,32 @@
 Log-file of program ./dymosim
-(generated: Tue May  5 01:36:32 2020)
+(generated: Tue Jun  2 12:07:44 2026)
 
 dymosim started
+... "Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.ComparisonPolyphase.IMS_Start_Polyphase" simulating
 ... "dsin.txt" loading (dymosim input file)
-... "IMS_Start_Polyphase.mat" creating (simulation result file)
+... "result.mat" creating (simulation result file)
 
 Integration started at T = 0 using integration method DASSL
 (DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+
 Integration terminated successfully at T = 1.5
-   CPU-time for integration                : 1.53 seconds
-   CPU-time for one grid interval          : 0.0509 milliseconds
+   CPU-time for integration                : 0.232 seconds
+   CPU-time for one grid interval          : 0.0155 milliseconds
    CPU-time for initialization             : 0 seconds
-   Number of result points                 : 30004
-   Number of grid points                   : 30001
-   Number of accepted steps                : 6010
-   Number of f-evaluations (dynamics)      : 11988
-   Number of crossing function evaluations : 36010
-   Number of Jacobian-evaluations          : 56
+   Number of result points                 : 15004
+   Number of grid points                   : 15001
+   Number of accepted steps                : 3594
+   Number of f-evaluations (dynamics)      : 7158
+   Number of crossing function evaluations : 18594
+   Number of Jacobian-evaluations          : 47
    Number of model time events             : 2
    Number of input time events             : 0
    Number of state events                  : 0
    Number of step events                   : 0
-   Minimum integration stepsize            : 9.35e-10
-   Maximum integration stepsize            : 0.00151
+   Minimum integration stepsize            : 9.35e-09
+   Maximum integration stepsize            : 0.00245
    Maximum integration order               : 5
 Calling terminal section
 ... "dsfinal.txt" creating (final states)
+
+SUCCESSFUL simulation of Modelica.Magnetic.FundamentalWave.Examples.BasicMachines.InductionMachines.ComparisonPolyphase.IMS_Start_Polyphase
