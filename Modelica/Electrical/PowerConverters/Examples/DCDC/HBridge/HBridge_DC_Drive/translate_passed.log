@@ -10,8 +10,8 @@ Original Model
   Parameters: 262 (296 scalars)
   Unknowns: 421 (421 scalars)
   Differentiated variables: 14 scalars
-  Equations: 392
-  Nontrivial: 319
+  Equations: 389
+  Nontrivial: 316
 Translated Model
   Constants: 232 scalars
   Free parameters: 46 scalars
